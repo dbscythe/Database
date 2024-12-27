@@ -1,0 +1,380 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Displays the characters in your current deck.",
+        "id": 0,
+        "name": "Original Setting",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the introduction of\nthe Wallpaper feature.",
+        "id": 1,
+        "name": "Super Warriors",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of \n\"Hercule's Worldwide Tile Breaking Contest\".",
+        "id": 2,
+        "name": "Declaration of the Cell Games",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Clash! Dokkan Supreme Challenge Battle\".",
+        "id": 3,
+        "name": "Let's Go, Gohan!",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of \nthe \"Merry Christmas Campaign\".",
+        "id": 4,
+        "name": "Christmas Presents from Goku's Family",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of the \n\"SDBH World Mission Crossover Special Campaign\".",
+        "id": 5,
+        "name": "Key Visual of SDBHWM",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of the \n\"Vote for Your Favorite Wallpaper Campaign\".",
+        "id": 6,
+        "name": "Summer 2016 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Keep It a Secret! Dragon Ball Hunt Campaign\".",
+        "id": 7,
+        "name": "Incandescent Clash",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Ray of Hope! You Can Do It, Trunks! Campaign\".",
+        "id": 8,
+        "name": "Cataclysmic Showdown",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Escape From the Innards of Buu! Worldwide Co-Op Campaign\".",
+        "id": 9,
+        "name": "Worldwide Celebration! Explosive Fighting Spirit Campaign Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Let's Make a Huge Spirit Bomb! Worldwide Co-Op Campaign\".",
+        "id": 10,
+        "name": "Worldwide Celebration! Millions of Miracles Campaign Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Thank-you present for the Worldwide Celebration Campaign",
+        "id": 11,
+        "name": "Goku and Friends",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of \nthe \"Snowy Miracle! Merry Christmas Campaign\".",
+        "id": 12,
+        "name": "Vegeta and Family's Christmas Party",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Get the Wallpapers! Special Campaign\".",
+        "id": 13,
+        "name": "250 Million DLs (Part 1) Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Get the Wallpapers! Special Campaign\".",
+        "id": 14,
+        "name": "200 Million DLs Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of \"Clash x Unite! \nTranscendent Dokkan 6th Anniv. Celebration\".",
+        "id": 15,
+        "name": "6th Anniversary Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"The Approaching Wall! Desperate Survival! \nAll-User Co-Op Campaign\".",
+        "id": 16,
+        "name": "Limit-Breaking Last Survival",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Lend Your Power to Goku! Saiyan Day Co-Op Campaign\".",
+        "id": 17,
+        "name": "The Legendary Super Saiyan",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating April Fools' Day 2021.",
+        "id": 18,
+        "name": "DOKKAN OF THE DEAD",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Break Through Enemy Lines! \nWorldwide Showdown Campaign\".",
+        "id": 19,
+        "name": "Bardock's Rage",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Malevolent Frieza! Final Showdown on Planet Namek \nWorldwide Co-Op Campaign\".",
+        "id": 20,
+        "name": "Showdown on Planet Namek",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the \"Vote for Your Favorite Wallpaper Campaign\".",
+        "id": 21,
+        "name": "Super Gogeta vs. Super Janemba",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the \"Vote for Your Favorite Wallpaper Campaign\".",
+        "id": 22,
+        "name": "Key Visual of the Movie \"Dragon Ball Super: Broly\"",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the \"Vote for Your Favorite Wallpaper Campaign\".",
+        "id": 23,
+        "name": "A Challenge for Goku and Vegeta",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from the Story Event \n\"All Fired Up! Marriage, Showdown, Grand Finale\".",
+        "id": 24,
+        "name": "Goku and Chi-Chi's Wedding",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of \"Infinite Ultimate Battle! \nDokkan 7th Anniv. Grand Celebration\".",
+        "id": 25,
+        "name": "7th Anniversary Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating April Fools' Day 2022.",
+        "id": 26,
+        "name": "DOKKAN EXERCISE",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Login bonus for Saiyan Day 2022.",
+        "id": 27,
+        "name": "Majin Vegeta Illustration by Toyotarou Sensei",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating Gohan, Goku and Goten Day 2022.",
+        "id": 28,
+        "name": "Training of Goku and Sons",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Protect the Earth from Cooler! Worldwide Co-Op Campaign\".",
+        "id": 29,
+        "name": "Worldwide Celebration! The Strongest in the Universe Campaign Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Destroy the Big Gete Star! Worldwide Co-Op Campaign\".",
+        "id": 30,
+        "name": "Worldwide Celebration! The Strongest in the Universe Campaign Part 2 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of the \n\"Starry Winter Night! Frosty Dokkan Campaign\".",
+        "id": 31,
+        "name": "Trunks and Goten's Snowman",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from \nthe Special Event \"Dragon Ball Opening Medley\".",
+        "id": 32,
+        "name": "The Super Warriors Gather",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "8th Anniversary Celebration Part 3 Thank-You Gift",
+        "id": 33,
+        "name": "8th Anniversary Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for clearing all the stages of the Challenge Event \n\"Ultimate Red Zone [Red Ribbon Army Edition]\".",
+        "id": 34,
+        "name": "2nd Key Visual of the Movie \"Dragon Ball Super: Super Hero\"",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating April Fools' Day 2023.",
+        "id": 35,
+        "name": "DOKKAN FISHING",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of the \n\"Aim for the Top! Dokkan Campaign\".",
+        "id": 36,
+        "name": "Battle between Dragon and Tiger!",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from Part 1 of the \n\"Rise Up, Resistance Force! All-User Co-Op Campaign\".",
+        "id": 37,
+        "name": "Worldwide Celebration! Beyond Space and Time Campaign Part 1 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from Part 3 of the \n\"Rise Up, Resistance Force! All-User Co-Op Campaign\".",
+        "id": 38,
+        "name": "Worldwide Celebration! Beyond Space and Time Campaign Part 3 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from the \n\"'SAND LAND' Movie Release in Japan Crossover Missions\".",
+        "id": 39,
+        "name": "\"SAND LAND\" Movie Release in Japan: V Jump Collaboration Wallpaper",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of the \n\"Frosty Miracle! Wintertime Dokkan Campaign\".",
+        "id": 40,
+        "name": "Adventure in the Northern Lands",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the 1st anniversary of \n\"DRAGON BALL: THE BREAKERS\".",
+        "id": 41,
+        "name": "\"DRAGON BALL: THE BREAKERS\" 1st Anniversary!",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of \"Beyond the Ultimate! \nDokkan 9th Anniv. Maximum Celebration\".",
+        "id": 42,
+        "name": "9th Anniversary Part 1 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from the \nChallenge Event \"Fearsome Activation! Cell Max\".",
+        "id": 43,
+        "name": "9th Anniversary Part 2 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating April Fools' Day 2024.",
+        "id": 44,
+        "name": "DOKKAN CITY",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from the \n\"'SAND LAND' Game Crossover Special Missions\".",
+        "id": 45,
+        "name": "\"SAND LAND\" Game Crossover Special Wallpaper",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for clearing all the stages of the Challenge Event \n\"Heart-Pounding Heroine Battle\".",
+        "id": 47,
+        "name": "Midsummer Motorcycle Touring",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Awaken the Battle Instinct! All-User Co-Op Campaign\".",
+        "id": 48,
+        "name": "Worldwide Celebration! Heated Showdown Campaign Part 1 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing the missions from \n\"Hunt for the Dragon Balls! All-User Co-Op Campaign\".",
+        "id": 49,
+        "name": "Worldwide Celebration! Heated Showdown Campaign Part 2 Title Screen",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from \nthe event \"Rampaging Power! Destructive Instinct\".",
+        "id": 50,
+        "name": "10 Million Damage Dealt in \"Rampaging Power! Destructive Instinct\"",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from \nthe event \"Rampaging Power! Destructive Instinct\".",
+        "id": 51,
+        "name": "50 Million Damage Dealt in \"Rampaging Power! Destructive Instinct\"",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for completing a certain mission from \nthe event \"Rampaging Power! Destructive Instinct\".",
+        "id": 52,
+        "name": "99.99 Million Damage Dealt in \"Rampaging Power! Destructive Instinct\"",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Celebrating the opening of the \n\"'Dragon Ball DAIMA' Anime Release Celebration\".",
+        "id": 54,
+        "name": "\"Dragon Ball DAIMA\" Anime Release Celebration Wallpaper",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.135203",
+        "description": "Reward for clearing all the stages of the Challenge Event \n\"Super Dragon Ball Heroes: Special Battle\".",
+        "id": 55,
+        "name": "Key Visual of SDBH UGM",
+        "updated_at": "2024-11-14 09:19:25.135203"
+    }
+]

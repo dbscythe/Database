@@ -1,0 +1,2729 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket rewarded at the World Tournament. \n5 tickets are required to perform one \nWorld Tournament Ticket Summon.",
+        "id": 1,
+        "name": "World Tournament Ticket",
+        "rarity": 2,
+        "selling_exchange_point": 2,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket earned as a reward at the World Tournament. \n1 ticket is required to perform a Single-Summon \nin the \"World Tournament Ticket Summon\".",
+        "id": 2,
+        "name": "World Tournament Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "An SSR Guaranteed Ticket. \nCollect 5 to claim one SSR 100% Summon.",
+        "id": 3,
+        "name": "SSR Guaranteed Ticket",
+        "rarity": 2,
+        "selling_exchange_point": 200,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "An SSR Guaranteed Ticket.\nUse 1 to perform an SSR-guaranteed summon.",
+        "id": 4,
+        "name": "SSR Guaranteed Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 1000,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "An SR or higher guaranteed Summon Ticket.\nUse one to claim one SR or higher guaranteed Summon.",
+        "id": 5,
+        "name": "SR or Higher Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "\"Returning Exclusive\" SSR Guaranteed Ticket.\nOne SSR character guaranteed for a Single-Summon.",
+        "id": 6,
+        "name": "SSR Guaranteed Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 10000,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "\"Ranking No.1 Celebration\" SSR Guaranteed Ticket.\nOne SSR character guaranteed for a Single-Summon.",
+        "id": 7,
+        "name": "SSR Guaranteed Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 10000,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "7777フィギュアプレゼントキャンペーンに↵応募していることを証明するもの。↵30thコインと交換で入手することが可能。",
+        "id": 8,
+        "name": "応募証明書",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "第13回天下一武道会100位入賞の報酬↵コラボプレミアムver.",
+        "id": 9,
+        "name": "フィギュア獲得権",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"150M Global DLs Celebration.\" \nIt allows you to perform a single Special Summon. \nValid until 5/22 21:59 PST.",
+        "id": 10,
+        "name": "Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/07 (16:00) to 7/08 (15:59).\"",
+        "id": 11,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 1)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/08 (16:00) to 7/09 (15:59).\"",
+        "id": 12,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 2)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/09 (16:00) to 7/10 (15:59).\"",
+        "id": 13,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 3)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/10 (16:00) to 7/11 (15:59).\"",
+        "id": 14,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 4)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/11 (16:00) to 7/12 (15:59).\"",
+        "id": 15,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 5)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/12 (16:00) to 7/13 (15:59).\"",
+        "id": 16,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 6)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/13 (16:00) to 7/14 (15:59).\"",
+        "id": 17,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 7)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/14 (16:00) to 7/15 (15:59).\"",
+        "id": 18,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 8)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/15 (16:00) to 7/16 (15:59).\"",
+        "id": 19,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 9)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/16 (16:00) to 7/17 (15:59).\"",
+        "id": 20,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 10)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/17 (16:00) to 7/18 (15:59).\"",
+        "id": 21,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 11)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/18 (16:00) to 7/19 (15:59).\"",
+        "id": 22,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 12)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/19 (16:00) to 7/20 (15:59).\"",
+        "id": 23,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 13)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/20 (16:00) to 7/21 (15:59).\"",
+        "id": 24,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 14)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/21 (16:00) to 7/22 (15:59).\"",
+        "id": 25,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 15)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/22 (16:00) to 7/23 (15:59).\"",
+        "id": 26,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 16)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/23 (16:00) to 7/24 (15:59).\"",
+        "id": 27,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 17)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/24 (16:00) to 7/25 (15:59).\"",
+        "id": 28,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 18)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/25 (16:00) to 7/26 (15:59).\"",
+        "id": 29,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 19)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/26 (16:00) to 7/27 (15:59).\"",
+        "id": 30,
+        "name": "2nd Anniversary Daily Summon Ticket (Day 20)",
+        "rarity": 2,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"200M Global DLs Celebration.\" \n1 ticket is required to perform one Single Summon. \nValid until 8/31 23:59 PST.",
+        "id": 43,
+        "name": "Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"1000 Days Celebration.\" \n1 ticket is required to perform one Single Summon. \nValid until 4/27 21:59 PST.",
+        "id": 44,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for our 3rd Anniversary Celebration!\nOne ticket allows you to perform a Single Summon\nin the \"3rd Anniversary Ticket Summon\".\nValid until 8/16 15:59 PST.",
+        "id": 45,
+        "name": "3rd Anniversary Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"New Summon Animation Celebration.\"\n1 ticket is required to perform a summon\nin the \"Celebration Ticket Summon.\"\nValid until 9/3 (Mon) 21:59 PST.",
+        "id": 46,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"New Summon Animation Celebration.\"\n1 ticket is required to perform a summon\nin the \"SSR Guaranteed Celebration Ticket Summon.\"\nValid until 9/3 (Mon) 21:59 PST.",
+        "id": 47,
+        "name": "SSR Guaranteed Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 10000,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"250 Million Global DLs Reached Celebration.\"\n1 ticket is required to perform one Single Summon \nin the \"Dokkan Festival Ticket Summon.\"\nValid until 10/3 (Wed) 23:59 PST.",
+        "id": 48,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for \"Weekend Summon\".\n1 ticket is required to perform one summon\nin the \"Weekend Summon\".\nValid until 4/29/2024 15:59 PST.",
+        "id": 49,
+        "name": "Weekend Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"4th Anniversary! Ticket Summon\". \nValid until 2019/8/16 21:59 PST.",
+        "id": 51,
+        "name": "4th Anniversary Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 500,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Fighting Legend: Goku\". \nOne ticket is required to perform one summon \nin the \"Fighting Legend: Goku Ticket Summon\".",
+        "id": 52,
+        "name": "Fighting Legend: Goku Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"300 Million Global DLs Reached \nCelebration Dokkan Festival Ticket Summon\".\nValid until 2019/10/2 23:59 PST.",
+        "id": 53,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "An item to verify one's achievement in the \n\"Tricks Won't Work! Tile Breaking Challenge\".",
+        "id": 54,
+        "name": "Broken Tile",
+        "rarity": 3,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for our 5th Anniversary Celebration! \nOne ticket allows you to perform a Single Summon \nin the \"5th Anniversary! Ticket Summon\". \nValid until 2020/8/12 15:59 PST.",
+        "id": 55,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for the \"5th Anniversary! '55' Special Summon\".\n55 tickets are required to perform a Multi-Summon that grants\nyou 55 characters. Valid until 2020/8/12 15:59 PST.\nUpdate: Can use 5 tickets to perform a Single-Summon\nfrom 2020/8/12 16:00 ~ 2020/8/17 15:59 PST.",
+        "id": 56,
+        "name": "\"55\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for \"Worldwide Campaign Celebration!\nDokkan Festival\". One ticket allows you to perform\na Single-Summon in the \"Worldwide Campaign\nCelebration! Dokkan Festival [Ticket]\".\nValid until 10/7 (Wed) 23:59 PST.",
+        "id": 76,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for our 6th Anniversary Celebration! \nOne ticket allows you to perform a Single-Summon \nin the \"6th Anniversary! Ticket Summon\". \nValid until 8/15/2021 15:59 PST.",
+        "id": 86,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"6th Anniversary! '66' Special Summon \n[Ticket]\". 66 tickets are required to perform a Multi-Summon \nthat allows you to recruit 66 characters. Valid until 8/15/2021 \n15:59 PST. Update: Can use 5 tickets to perform a \nSingle-Summon from 8/15/2021 16:00 ~ 8/19/2021 15:59 PST.",
+        "id": 87,
+        "name": "\"66\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"6th Anniversary! Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin Summons where you can use this ticket.\nValid until 8/15/2021 15:59 PST.",
+        "id": 88,
+        "name": "Tons of Thanks Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Fighting Legend: Goku [GT Edition]\". \nOne ticket is required to perform one summon in the \n\"Fighting Legend: Goku [GT Edition] Ticket Summon\".",
+        "id": 101,
+        "name": "Fighting Legend: Goku Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"Glittering Winter Night Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin the Summon where you can use this ticket. \nValid until 1/11/2022 04:00 PST.",
+        "id": 102,
+        "name": "Winter Night Tons of Thanks Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Fighting Legend: Vegeta\". \nOne ticket is required to perform one summon \nin the \"Fighting Legend: Vegeta Ticket Summon\".",
+        "id": 103,
+        "name": "Fighting Legend: Vegeta Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for the 350 Million Global DLs \nReached Celebration. One ticket allows you to \nperform a Single-Summon in Summon Events where \nthis ticket can be used. Valid until 10/7/2021 23:59 PST.",
+        "id": 104,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A special item you can acquire from \n\"Countdown to the 7th Anniversary! \nSuper Missions from the 7 Masters\". \nCan be exchanged for Dragon Stones \nduring the 7th Anniversary Celebration.",
+        "id": 106,
+        "name": "Dragon Ore",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for our 7th Anniversary Celebration. \nOne ticket allows you to perform a Single-Summon \nin the \"7th Anniversary! Ticket Summon\". \nValid until 8/20/2022 21:59 PST.",
+        "id": 107,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"7th Anniversary! \n'77' Special Summon [Ticket]\". \nValid until 8/20/2022 21:59 PST.",
+        "id": 108,
+        "name": "\"77\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"7th Anniversary! Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin Summons where you can use this ticket. \nValid until 8/14/2022 22:29 PST.",
+        "id": 109,
+        "name": "Tons of Thanks Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Ultimate Red Zone [Movie Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 110,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Ultimate Red Zone [GT Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 111,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for the \"Movie Collaboration Ticket Summon\".\nOne ticket is required to perform a summon in the\n\"Movie Collaboration Ticket Summon\".\nValid until 9/2/2022 15:59 PST.",
+        "id": 112,
+        "name": "Collaboration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"Starry Winter Night Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin the Summon where you can use this ticket. \nValid until 1/5/2023 21:59 PST.",
+        "id": 113,
+        "name": "Starry Winter Night Tons of Thanks Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for \"Worldwide Campaign Celebration!\".\nOne ticket allows you to perform a Single-Summon\nin Summon Events where this ticket can be used.\nValid until 10/9/2022 15:59 PST.",
+        "id": 114,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Ultimate Red Zone [GT Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 115,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"'50' Special Summon\".\nValid until 10/9/2022 15:59 PST.",
+        "id": 116,
+        "name": "\"50\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from\nthe event \"Ultimate Red Zone [Movie Edition]\".\nOne ticket allows you to perform a Single-Summon\nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 117,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from \nthe event \"Ultimate Red Zone [Wicked Bloodline Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 118,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from\nthe event \"Ultimate Red Zone [Wicked Bloodline Edition]\".\nOne ticket allows you to perform a Single-Summon\nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 119,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for our 8th Anniversary Celebration. \nOne ticket allows you to perform a Single-Summon \nin the \"8th Anniversary! Ticket Summon\". \nValid until 8/18/2023 21:59 PST.",
+        "id": 126,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"8th Anniversary! \n'77' Special Summon [Ticket]\". \nValid until 8/18/2023 21:59 PST.",
+        "id": 127,
+        "name": "\"77\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"8th Anniversary! Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin Summons where you can use this ticket. \nValid until 8/18/2023 21:59 PST.",
+        "id": 130,
+        "name": "Tons of Thanks Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"'30' Special Summon\". \nValid until 6/6/2023 21:59 PST.",
+        "id": 136,
+        "name": "\"30\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"Frosty Miracle Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin the Summon where you can use this ticket. \nValid until 1/6/2024 21:59 PST.",
+        "id": 137,
+        "name": "Frosty Miracle Tons of Thanks Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from\nthe event \"Ultimate Red Zone [Dismal Future Edition]\".\nOne ticket allows you to perform a Single-Summon\nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 138,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for \"Worldwide Campaign Celebration!\". \nOne ticket allows you to perform a Single-Summon \nin Summon Events where this ticket can be used. \nValid until 10/10/2023 15:59 PST.",
+        "id": 139,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"'50' Special Summon\". \nValid until 10/10/2023 21:59 PST.",
+        "id": 140,
+        "name": "\"50\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"Worldwide Campaign Celebration! \nTons of Thanks\". One ticket allows you to perform a \nSingle-Summon in Summons where you can use this ticket. \nValid until 10/10/2023 15:59 PST.",
+        "id": 141,
+        "name": "Tons of Thanks Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for our 9th Anniversary Celebration. \nOne ticket allows you to perform a Single-Summon \nin the \"9th Anniversary! Ticket Summon\". \nValid until 8/19/2024 21:59 PST.",
+        "id": 150,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event \n\"Ultimate Red Zone [Movie Edition 2]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 151,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event \n\"Ultimate Red Zone [Movie Edition 2]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 152,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"9th Anniversary! Tons of Thanks\". \nOne ticket allows you to perform a Single-Summon \nin Summons where you can use this ticket. \nValid until 8/19/2024 21:59 PST.",
+        "id": 153,
+        "name": "Tons of Thanks Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event \n\"Supreme Magnificent Battle [Dragon Ball Super Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Supreme Magnificent Battle Ticket Summon\".",
+        "id": 160,
+        "name": "Magnificent Battle Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event \n\"Supreme Magnificent Battle [Dragon Ball Super Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Supreme Magnificent Battle Ticket Summon\".",
+        "id": 161,
+        "name": "Magnificent Battle Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"'30' Special Summon\". \nValid until 6/5/2024 21:59 PST.",
+        "id": 162,
+        "name": "\"30\" Special Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event \n\"Ultimate Red Zone [Majin Buu Saga]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Ultimate Red Zone Ticket Summon\".",
+        "id": 163,
+        "name": "Red Zone Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for \"Worldwide Campaign Celebration!\".\nOne ticket allows you to perform a Single-Summon\nin Summon Events where this ticket can be used.\nValid until 10/8/2024 23:59 PST.",
+        "id": 166,
+        "name": "Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket for \"Worldwide Campaign Celebration!\nStep-Up\". Valid until 10/8/2024 23:59 PST.",
+        "id": 167,
+        "name": "Step-Up Celebration Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event\n\"Supreme Magnificent Battle [Movie Edition]\".\nOne ticket allows you to perform a Single-Summon\nin the \"Supreme Magnificent Battle Ticket Summon\".",
+        "id": 168,
+        "name": "Magnificent Battle Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon Ticket obtainable from the event \n\"Supreme Magnificent Battle [Movie Edition]\". \nOne ticket allows you to perform a Single-Summon \nin the \"Supreme Magnificent Battle Ticket Summon\".",
+        "id": 169,
+        "name": "Magnificent Battle Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for \"Worldwide Campaign Celebration! \nTons of Thanks\". One ticket allows you to perform a \nSingle-Summon in Summon Events where this ticket \ncan be used. Valid until 10/8/2024 23:59 PST.",
+        "id": 170,
+        "name": "Tons of Thanks Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Hercule's Fortune Summon.\" \n1 ticket is required to perform one Single Summon.",
+        "id": 701,
+        "name": "Hercule's Fortune Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "\"Returning Exclusive\" SSR Guaranteed Ticket.\nA ticket for a Multi-Summon in the \nReturning Exclusive Summon Event.",
+        "id": 901,
+        "name": "Returning Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon Ticket for the \"Returning Exclusive Summon\". \n10 tickets are required to perform a Multi-Summon \nthat allows you to recruit 10 characters.",
+        "id": 902,
+        "name": "Returning Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "A Summon ticket for “2nd Anniversary Legendary Summon.” \n10 tickets are required to perform one Single Summon. \nValid until 7/15 06:59 PST.",
+        "id": 911,
+        "name": "2nd Anniversary Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Festival-Exclusive Character \nGuaranteed Ticket Summon A\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
+        "id": 921,
+        "name": "Festival-Exclusive Character Guaranteed Ticket A",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Festival-Exclusive Character \nGuaranteed Ticket Summon B\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
+        "id": 922,
+        "name": "Festival-Exclusive Character Guaranteed Ticket B",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Thank-You Ticket Summon A\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
+        "id": 931,
+        "name": "Thank-You Summon Ticket A",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Thank-You Ticket Summon B\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
+        "id": 932,
+        "name": "Thank-You Summon Ticket B",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Christmas Ticket Summon\". \n1 ticket is required to perform one Single Summon. \nValid until 2018/1/13 21:59 PST.",
+        "id": 941,
+        "name": "Christmas Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"\"Combat Power Reinforcement\" \nSummon\". \nValid until 2018/5/6 21:59 PST.",
+        "id": 951,
+        "name": "\"Combat Power\" Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/3/27 21:59 PST.",
+        "id": 961,
+        "name": "Extreme Z Dokkan Fes Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Super Dokkan Festival \nTicket Summon\". \nValid until 2018/5/10 21:59 PST.",
+        "id": 971,
+        "name": "Super Dokkan Fes. Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.829482",
+        "description": "Summon ticket for \"Extreme Dokkan Festival \nTicket Summon\". \nValid until 2018/5/10 21:59 PST.",
+        "id": 972,
+        "name": "Extreme Dokkan Fes. Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.829482"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2018/8/12 21:59 PST.",
+        "id": 981,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2018/8/12 21:59 PST.",
+        "id": 982,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Super Dokkan Festival \nTicket Summon\". \nValid until 2019/12/8 21:59 PST.",
+        "id": 991,
+        "name": "Super Dokkan Fes. Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Extreme Dokkan Festival \nTicket Summon\". \nValid until 2019/12/8 21:59 PST.",
+        "id": 992,
+        "name": "Extreme Dokkan Fes. Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Thank-You Dokkan Festival  \nTicket Summon\". \nValid until 2018/12/21 21:59 PST.",
+        "id": 9001,
+        "name": "Thank-You Dokkan Fest Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "A Summon Ticket for \"Weekend Summon.\"\n1 ticket is required to perform one summon\nin the \"Weekend Summon\".",
+        "id": 9002,
+        "name": "Weekend Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2019/10/28 21:59 PST.",
+        "id": 9003,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the \"Legendary Summon\" released \nduring the Halloween Campaign. \nValid until 2019/11/18 21:59 PST.",
+        "id": 9004,
+        "name": "Halloween Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Merry Christmas! \nDokkan Festival Ticket Summon\". \nValid until 2020/1/5 21:59 PST.",
+        "id": 9005,
+        "name": "Christmas Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Merry Christmas! \nPremium Dokkan Festival Ticket Summon\". \nValid until 2020/1/5 21:59 PST.",
+        "id": 9006,
+        "name": "Premium Christmas Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2020/2/27 21:59 PST.",
+        "id": 9007,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2020/3/24 21:59 PST.",
+        "id": 9008,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2020/4/26 21:59 PST.",
+        "id": 9009,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2020/6/14 21:59 PST.",
+        "id": 9010,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2020/6/14 21:59 PST.",
+        "id": 9011,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (A)\".\nValid until 2020/6/14 21:59 PST.",
+        "id": 9012,
+        "name": "Premium Summon Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (B)\".\nValid until 2020/6/14 21:59 PST.",
+        "id": 9013,
+        "name": "Premium Summon Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2020/8/10 15:59 PST.",
+        "id": 9014,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2020/8/10 15:59 PST.",
+        "id": 9015,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "SSR guaranteed summon ticket for \n\"Power UP! SSR Force Summon\". \n1 ticket is required to perform one Single Summon in \nthe \"Power UP! SSR Force Summon\".",
+        "id": 9016,
+        "name": "SSR Force Summon Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2020/10/28 21:59 PST.",
+        "id": 9017,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Halloween Dokkan Festival\".\nValid until 2020/11/12 15:59 PST.",
+        "id": 9018,
+        "name": "Halloween Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2020/12/3 21:59 PST.",
+        "id": 9019,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (A)\".\nValid until 2020/12/3 21:59 PST.",
+        "id": 9020,
+        "name": "Premium Summon Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2020/12/3 21:59 PST.",
+        "id": 9021,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (B)\".\nValid until 2020/12/3 21:59 PST.",
+        "id": 9022,
+        "name": "Premium Summon Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Merry Christmas! Dokkan Festival \nTicket Summon\". \nValid until 1/10/2021 21:59 PST.",
+        "id": 9023,
+        "name": "Christmas Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Merry Christmas! Premium Dokkan Festival \nTicket Summon\". \nValid until 1/10/2021 21:59 PST.",
+        "id": 9024,
+        "name": "Premium Christmas Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 1/24/2021 21:59 PST.",
+        "id": 9025,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2/28/2021 21:59 PST.",
+        "id": 9026,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\nValid until 3/4/2021 21:59 PST.",
+        "id": 9027,
+        "name": "Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 3/17/2021 21:59 PST.",
+        "id": 9028,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 4/27/2021 21:59 PST.",
+        "id": 9029,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (A)\".\nValid until 4/27/2021 21:59 PST.",
+        "id": 9030,
+        "name": "Premium Summon Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 4/27/2021 21:59 PST.",
+        "id": 9031,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (B)\".\nValid until 4/27/2021 21:59 PST.",
+        "id": 9032,
+        "name": "Premium Summon Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 8/09/2021 15:59 PST.",
+        "id": 9033,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 8/09/2021 15:59 PST.",
+        "id": 9034,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 10/27/2021 21:59 PST.",
+        "id": 9035,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon. \nValid until 11/10/2021 15:59 PST.",
+        "id": 9036,
+        "name": "Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon. \n20 tickets are required to perform a Multi-Summon \nthat allows you to recruit 20 characters. \nValid until 11/10/2021 15:59 PST.",
+        "id": 9037,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 12/2/2021 15:59 PST.",
+        "id": 9038,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Divine Dragon Carnival\". \nValid until 1/4/2022 04:00 PST.",
+        "id": 9039,
+        "name": "Divine Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Glittering Winter Night \nDokkan Festival Ticket Summon\". \nValid until 1/11/2022 04:00 PST.",
+        "id": 9040,
+        "name": "Winter Night Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2/7/2022 22:29 PST.",
+        "id": 9041,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\n20 tickets are required to perform a Multi-Summon\nthat allows you to recruit 20 characters.\nValid until 2/7/2022 21:59 PST.",
+        "id": 9042,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2/28/2022 21:59 PST.",
+        "id": 9043,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Rising Dragon Carnival\". \nValid until 3/7/2022 21:59 PST.",
+        "id": 9044,
+        "name": "Rising Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 3/24/2022 21:59 PST.",
+        "id": 9045,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 4/1/2022 21:59 PST.",
+        "id": 9046,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 4/27/2022 21:59 PST.",
+        "id": 9047,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (A)\".\nValid until 4/27/2022 21:59 PST.",
+        "id": 9048,
+        "name": "Premium Summon Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 4/27/2022 21:59 PST.",
+        "id": 9049,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium\nDokkan Festival Ticket Summon (B)\".\nValid until 4/27/2022 21:59 PST.",
+        "id": 9050,
+        "name": "Premium Summon Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\n20 tickets are required to perform a Multi-Summon\nthat allows you to recruit 20 characters.\nValid until 6/6/2022 21:59 PST.",
+        "id": 9051,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 6/26/2022 21:59 PST.",
+        "id": 9052,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\nValid until 7/13/2022 21:59 PST.",
+        "id": 9053,
+        "name": "Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 8/14/2022 22:29 PST.",
+        "id": 9054,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 8/14/2022 22:29 PST.",
+        "id": 9055,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Top Legendary Summon. \nValid until 8/14/2022 22:29 PST.",
+        "id": 9056,
+        "name": "Top Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 8/25/2022 21:59 PST.",
+        "id": 9057,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival x\nLegendary Summon Carnival Ticket Summon (A)\".\nValid until 10/3/2022 21:59 PST.",
+        "id": 9058,
+        "name": "Epic Confrontation Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival x\nLegendary Summon Carnival Ticket Summon (B)\".\nValid until 10/3/2022 21:59 PST.",
+        "id": 9059,
+        "name": "Cosmic Battle Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 10/26/2022 15:59 PST.",
+        "id": 9060,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Fantastically Spooky Dokkan Festival\".\nValid until 11/3/2022 21:59 PST.",
+        "id": 9061,
+        "name": "Fantastically Spooky Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\".\nValid until 11/11/2022 21:59 PST.",
+        "id": 9062,
+        "name": "Justice Incarnate Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 12/1/2022 21:59 PST.",
+        "id": 9063,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium Dokkan Festival Ticket Summon\". \nValid until 12/1/2022 21:59 PST.",
+        "id": 9064,
+        "name": "Premium Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 12/23/2022 21:59 PST.",
+        "id": 9065,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Starry Winter Night\nDokkan Festival Ticket Summon\".\nValid until 12/23/2022 21:59 PST.",
+        "id": 9066,
+        "name": "Starry Winter Night Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Starry Winter Night\nPremium Dokkan Festival Ticket Summon\".\nValid until 12/23/2022 21:59 PST.",
+        "id": 9067,
+        "name": "Premium Starry Winter Night Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Divine Dragon Carnival\".\nValid until 12/31/2022 21:59 PST.",
+        "id": 9068,
+        "name": "Divine Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 1/21/2023 21:59 PST.",
+        "id": 9069,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 1/21/2023 21:59 PST.",
+        "id": 9070,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\n20 tickets are required to perform a Multi-Summon\nthat allows you to recruit 20 characters.\nValid until 2/7/2023 21:59 PST.",
+        "id": 9071,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2/22/2023 21:59 PST.",
+        "id": 9072,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Rising Dragon Carnival\". \nValid until 3/7/2023 21:59 PST.",
+        "id": 9073,
+        "name": "Rising Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 3/24/2023 21:59 PST.",
+        "id": 9074,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 4/9/2023 21:59 PST.",
+        "id": 9075,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 4/26/2023 21:59 PST.",
+        "id": 9076,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "A Summon Ticket for \"Supreme Weekend Summon\". \n1 ticket is required to perform one summon in the \n\"Supreme Weekend Summon\".",
+        "id": 9077,
+        "name": "Supreme Weekend Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 6/6/2023 21:59 PST.",
+        "id": 9078,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 6/6/2023 21:59 PST.",
+        "id": 9079,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\n20 tickets are required to perform a Multi-Summon\nthat allows you to recruit 20 characters.\nValid until 6/6/2023 21:59 PST.",
+        "id": 9080,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 6/26/2023 21:59 PST.",
+        "id": 9081,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for the Legendary Summon.\nValid until 7/13/2023 21:59 PST.",
+        "id": 9082,
+        "name": "Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 8/18/2023 21:59 PST.",
+        "id": 9083,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 8/18/2023 21:59 PST.",
+        "id": 9084,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon (A)\". Valid until 8/18/2023 21:59 PST.",
+        "id": 9085,
+        "name": "Legendary Summon Carnival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon (B)\". Valid until 8/18/2023 21:59 PST.",
+        "id": 9086,
+        "name": "Legendary Summon Carnival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 8/31/2023 21:59 PST.",
+        "id": 9087,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium Dokkan Festival\nTicket Summon\". Valid until 8/31/2023 21:59 PST.",
+        "id": 9088,
+        "name": "Premium Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 10/11/2023 21:59 PST.",
+        "id": 9089,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 10/11/2023 21:59 PST.",
+        "id": 9090,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon (A)\".\nValid until 10/11/2023 21:59 PST.",
+        "id": 9091,
+        "name": "Legendary Summon Carnival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon (B)\".\nValid until 10/11/2023 21:59 PST.",
+        "id": 9092,
+        "name": "Legendary Summon Carnival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 10/26/2023 21:59 PST.",
+        "id": 9093,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Premium Dokkan Festival\nTicket Summon\". Valid until 10/26/2023 21:59 PST.",
+        "id": 9094,
+        "name": "Premium Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Fantastical Parade Dokkan Festival\".\nValid until 11/9/2023 21:59 PST.",
+        "id": 9095,
+        "name": "Fantastical Parade Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.836787",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Super Saiyan 4 Goku]\". Valid until 12/6/2023 15:59 PST.",
+        "id": 9096,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.836787"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Overflowing Gratitude\nDokkan Festival Ticket Summon\".\nValid until 11/29/2023 15:59 PST.",
+        "id": 9097,
+        "name": "Overflowing Gratitude Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Android #21 (Normal)]\". Valid until 12/25/2023 21:59 PST.",
+        "id": 9098,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Divine Dragon Carnival\".\nValid until 1/7/2024 21:59 PST.",
+        "id": 9099,
+        "name": "Divine Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Frosty Miracle\nDokkan Festival Ticket Summon\".\nValid until 1/11/2024 21:59 PST.",
+        "id": 9100,
+        "name": "Frosty Miracle Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 1/23/2024 21:59 PST.",
+        "id": 9101,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Rising Dragon Carnival\".\nValid until 2/7/2024 21:59 PST.",
+        "id": 9102,
+        "name": "Rising Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Premium Rising Dragon Carnival\nTicket Summon\". Valid until 2/7/2024 21:59 PST.",
+        "id": 9103,
+        "name": "Premium Rising Dragon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2/21/2024 21:59 PST.",
+        "id": 9104,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Super Dokkan Ticket Summon\".\nValid until 3/11/2024 21:59 PST.",
+        "id": 9105,
+        "name": "Super Dokkan Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Sweets of Magnificent Love\nTicket Summon\". Valid until 3/7/2024 21:59 PST.",
+        "id": 9106,
+        "name": "Magnificent Love Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\". \nValid until 3/11/2024 21:59 PST.",
+        "id": 9107,
+        "name": "Dokkan Festival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Piccolo & Gohan (Kid)]\". Valid until 3/24/2024 21:59 PST.",
+        "id": 9108,
+        "name": "Join Forces Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Vegeta]\". Valid until 4/8/2024 21:59 PST.",
+        "id": 9109,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 4/25/2024 15:59 PST.",
+        "id": 9110,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 4/25/2024 15:59 PST.",
+        "id": 9111,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for the Legendary Summon.\n20 tickets are required to perform a Multi-Summon\nthat allows you to recruit 20 characters.\nValid until 5/5/2024 21:59 PST.",
+        "id": 9112,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 5/30/2024 21:59 PST.",
+        "id": 9113,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 5/30/2024 21:59 PST.",
+        "id": 9114,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for the Legendary Summon.\n30 tickets are required to perform a Multi-Summon\nthat allows you to recruit 30 characters.\nValid until 6/12/2024 21:59 PST.",
+        "id": 9115,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon \n[Frieza (1st Form)]\". Valid until 6/26/2024 21:59 PST.",
+        "id": 9116,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon \n[Super Saiyan Broly]\". Valid until 8/19/2024 21:59 PST.",
+        "id": 9117,
+        "name": "Dokkan Festival Ticket 1",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival \nTicket Summon [Super Saiyan Gogeta]\". \nValid until 8/19/2024 21:59 PST.",
+        "id": 9118,
+        "name": "Legendary Summon Carnival Ticket 1",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for the Legendary Summon.\n30 tickets are required to perform a Multi-Summon\nthat allows you to recruit 30 characters.\nValid until 7/13/2024 21:59 PST.",
+        "id": 9119,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival \nTicket Summon [Super Saiyan Broly] [Premium]\". \nValid until 8/19/2024 21:59 PST.",
+        "id": 9120,
+        "name": "Premium Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival \nTicket Summon [Super Saiyan Gogeta] [Premium]\". \nValid until 8/19/2024 21:59 PST.",
+        "id": 9121,
+        "name": "Premium Legendary Summon Carnival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Gohan (Beast)]\". Valid until 8/19/2024 21:59 PST.",
+        "id": 9122,
+        "name": "Dokkan Festival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon [Gamma 1 & Gamma 2]\".\nValid until 8/19/2024 21:59 PST.",
+        "id": 9123,
+        "name": "Legendary Summon Carnival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Goku (Ultra Instinct -Sign-)]\". \nValid until 8/25/2024 21:59 PST.",
+        "id": 9124,
+        "name": "Power of Ultra Instinct Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "A Summon Ticket for \"Weekend Dokkan Festival\".\nOne ticket allows you to perform a Single-Summon\nin the \"Weekend Dokkan Festival\".\nValid until 9/1/2024 15:59 PST.",
+        "id": 9125,
+        "name": "Weekend Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Toppo]\". Valid until 9/3/2024 21:59 PST.",
+        "id": 9126,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for the Legendary Summon.\n30 tickets are required to perform a Multi-Summon\nthat allows you to recruit 30 characters.\nValid until 9/10/2024 21:59 PST.",
+        "id": 9127,
+        "name": "Premium Legendary Summon Ticket ",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon \n[Super Saiyan Goku & Super Saiyan Gohan (Youth) & \nSuper Saiyan Trunks (Teen)]\". Valid until 10/9/2024 23:59 PST.",
+        "id": 9129,
+        "name": "Dokkan Festival Ticket 1",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival \nTicket Summon [Broly]\". Valid until 10/9/2024 23:59 PST.",
+        "id": 9130,
+        "name": "Legendary Summon Carnival Ticket 1",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon \n[Super Saiyan Goku & Super Saiyan Gohan (Youth) & \nSuper Saiyan Trunks (Teen)] [Premium]\". \nValid until 10/9/2024 23:59 PST.",
+        "id": 9131,
+        "name": "Premium Dokkan Festival Ticket 1",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon [Broly] [Premium]\".\nValid until 10/9/2024 23:59 PST.",
+        "id": 9132,
+        "name": "Premium Legendary Summon Carnival Ticket 1",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon \n[Legendary Super Saiyan Broly]\". \nValid until 10/9/2024 23:59 PST.",
+        "id": 9133,
+        "name": "Dokkan Festival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival \nTicket Summon [Super Saiyan Gohan (Teen)]\".\nValid until 10/9/2024 23:59 PST.",
+        "id": 9134,
+        "name": "Legendary Summon Carnival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon \n[Legendary Super Saiyan Broly] [Premium]\". \nValid until 10/9/2024 23:59 PST.",
+        "id": 9135,
+        "name": "Premium Dokkan Festival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Legendary Summon Carnival\nTicket Summon [Super Saiyan Gohan (Teen)]\n[Premium]\". Valid until 10/9/2024 23:59 PST.",
+        "id": 9136,
+        "name": "Premium Legendary Summon Carnival Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Vegeta]\". Valid until 10/31/2024 23:59 PST.",
+        "id": 9137,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for the Legendary Summon.\n30 tickets are required to perform a Multi-Summon\nthat allows you to recruit 30 characters.\nValid until 11/6/2024 23:59 PST.",
+        "id": 9138,
+        "name": "Premium Legendary Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Master Roshi]\". Valid until 11/10/2024 23:59 PST.",
+        "id": 9139,
+        "name": "Bright and Joyful Life Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Dokkan Festival Ticket Summon\n[Lord Slug]\". Valid until 11/27/2024 23:59 PST.",
+        "id": 9140,
+        "name": "Dokkan Festival Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/5/2 21:59 PST.",
+        "id": 9602,
+        "name": "Extreme Z Dokkan Fes Ticket 2",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/10/25 21:59 PST.",
+        "id": 9603,
+        "name": "Extreme Z Dokkan Fes Ticket 3",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/11/15 21:59 PST.",
+        "id": 9604,
+        "name": "Extreme Z Dokkan Fes Ticket 4",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/12/19 21:59 PST.",
+        "id": 9605,
+        "name": "Extreme Z Dokkan Fes Ticket 5",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/01/07 21:59 PST.",
+        "id": 9606,
+        "name": "Extreme Z Dokkan Fes Ticket 6",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/02/05 21:59 PST.",
+        "id": 9607,
+        "name": "Extreme Z Dokkan Fes Ticket 7",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/03/13 21:59 PST.",
+        "id": 9608,
+        "name": "Extreme Z Dokkan Fes Ticket 8",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/04/25 21:59 PST.",
+        "id": 9609,
+        "name": "Extreme Z Dokkan Fes Ticket 9",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/05/14 21:59 PST.",
+        "id": 9610,
+        "name": "Extreme Z Dokkan Fes Ticket 10",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/06/30 21:59 PST.",
+        "id": 9611,
+        "name": "Extreme Z Dokkan Fes Ticket 11",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/08/29 21:59 PST.",
+        "id": 9612,
+        "name": "Extreme Z Dokkan Fes Ticket 12",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/10/30 21:59 PST.",
+        "id": 9613,
+        "name": "Extreme Z Dokkan Fes Ticket 13",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/11/14 21:59 PST.",
+        "id": 9614,
+        "name": "Extreme Z Dokkan Fes Ticket 14",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/12/09 21:59 PST.",
+        "id": 9615,
+        "name": "Extreme Z Dokkan Fes Ticket 15",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/01/05 21:59 PST.",
+        "id": 9616,
+        "name": "Extreme Z Dokkan Fes Ticket 16",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/01/29 21:59 PST.",
+        "id": 9617,
+        "name": "Extreme Z Dokkan Fes Ticket 17",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/02/25 21:59 PST.",
+        "id": 9618,
+        "name": "Extreme Z Dokkan Fes Ticket 18",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/03/10 21:59 PST.",
+        "id": 9619,
+        "name": "Extreme Z Dokkan Fes Ticket 19",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/03/25 21:59 PST.",
+        "id": 9620,
+        "name": "Extreme Z Dokkan Fes Ticket 20",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/04/30 21:59 PST.",
+        "id": 9621,
+        "name": "Extreme Z Dokkan Fes Ticket 21",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/05/14 21:59 PST.",
+        "id": 9622,
+        "name": "Extreme Z Dokkan Fes Ticket 22",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/06/14 21:59 PST.",
+        "id": 9623,
+        "name": "Extreme Z Dokkan Fes Ticket 23",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/06/28 21:59 PST.",
+        "id": 9624,
+        "name": "Extreme Z Dokkan Fes Ticket 24",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/07/08 21:59 PST.",
+        "id": 9625,
+        "name": "Extreme Z Dokkan Fes Ticket 25",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/11/12 21:59 PST.",
+        "id": 9626,
+        "name": "Extreme Z Dokkan Fes Ticket 26",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/12/10 21:59 PST.",
+        "id": 9627,
+        "name": "Extreme Z Dokkan Fes Ticket 27",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2021/01/24 21:59 PST.",
+        "id": 9628,
+        "name": "Extreme Z Dokkan Fes Ticket 28",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2021/03/22 21:59 PST.",
+        "id": 9629,
+        "name": "Extreme Z Dokkan Fes Ticket 29",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2021/04/27 21:59 PST.",
+        "id": 9630,
+        "name": "Extreme Z Dokkan Fes Ticket 30",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2021/05/31 21:59 PST.",
+        "id": 9631,
+        "name": "Extreme Z Dokkan Fes Ticket 31",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2021/05/31 21:59 PST.",
+        "id": 9632,
+        "name": "Extreme Z Dokkan Fes Ticket 32",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2021/06/27 21:59 PST.",
+        "id": 9633,
+        "name": "Extreme Z Dokkan Fes Ticket 33",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 10/27/2021 21:59 PST.",
+        "id": 9634,
+        "name": "Extreme Z Dokkan Fes Ticket 34",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 12/2/2021 15:59 PST.",
+        "id": 9635,
+        "name": "Extreme Z Dokkan Fes Ticket 35",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 5/23/2022 21:59 PST.",
+        "id": 9636,
+        "name": "Extreme Z Dokkan Fes Ticket 36",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 8/14/2022 22:29 PST.",
+        "id": 9637,
+        "name": "Extreme Z Dokkan Fes Ticket 37",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 8/14/2022 22:29 PST.",
+        "id": 9638,
+        "name": "Extreme Z Dokkan Fes Ticket 38",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 8/28/2022 21:59 PST.",
+        "id": 9639,
+        "name": "Extreme Z Dokkan Fes Ticket 39",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 11/24/2022 21:59 PST.",
+        "id": 9640,
+        "name": "Extreme Z Dokkan Fes Ticket 40",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 12/20/2022 21:59 PST.",
+        "id": 9641,
+        "name": "Extreme Z Dokkan Fes Ticket 41",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 1/21/2023 21:59 PST.",
+        "id": 9642,
+        "name": "Extreme Z Dokkan Fes Ticket 42",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 2/23/2023 21:59 PST.",
+        "id": 9643,
+        "name": "Extreme Z Dokkan Fes Ticket 43",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 3/23/2023 21:59 PST.",
+        "id": 9644,
+        "name": "Extreme Z Dokkan Fes Ticket 44",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 5/17/2023 21:59 PST.",
+        "id": 9645,
+        "name": "Extreme Z Dokkan Fes Ticket 45",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 6/19/2023 21:59 PST.",
+        "id": 9646,
+        "name": "Extreme Z Dokkan Fes Ticket 46",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 8/11/2023 21:59 PST.",
+        "id": 9647,
+        "name": "Extreme Z Dokkan Fes Ticket 47",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 8/11/2023 21:59 PST.",
+        "id": 9648,
+        "name": "Extreme Z Dokkan Fes Ticket 48",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 10/26/2023 21:59 PST.",
+        "id": 9649,
+        "name": "Extreme Z Dokkan Fes Ticket 49",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 11/23/2023 21:59 PST.",
+        "id": 9650,
+        "name": "Extreme Z Dokkan Fes Ticket 50",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 12/31/2023 21:59 PST.",
+        "id": 9651,
+        "name": "Extreme Z Dokkan Fes Ticket 51",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 1/23/2024 21:59 PST.",
+        "id": 9652,
+        "name": "Extreme Z Dokkan Fes Ticket 52",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 2/20/2024 21:59 PST.",
+        "id": 9653,
+        "name": "Extreme Z Dokkan Fes Ticket 53",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 3/6/2024 21:59 PST.",
+        "id": 9654,
+        "name": "Extreme Z Dokkan Fes Ticket 54",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 4/8/2024 21:59 PST.",
+        "id": 9655,
+        "name": "Extreme Z Dokkan Fes Ticket 55",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 5/30/2024 21:59 PST.",
+        "id": 9656,
+        "name": "Extreme Z Dokkan Fes Ticket 56",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 7/6/2024 21:59 PST.",
+        "id": 9657,
+        "name": "Extreme Z Dokkan Fes Ticket 57",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.844038",
+        "description": "Summon Ticket for \"Extreme Z Dokkan Festival\nTicket Summon\".\nValid until 10/17/2024 23:59 PST.",
+        "id": 9658,
+        "name": "Extreme Z Dokkan Fes Ticket 58",
+        "rarity": 3,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:29.844038"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.847742",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2019/8/12 21:59 PST.",
+        "id": 9701,
+        "name": "Dokkan Festival Ticket (A)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.847742"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.847742",
+        "description": "Summon ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2019/8/12 21:59 PST.",
+        "id": 9702,
+        "name": "Dokkan Festival Ticket (B)",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.847742"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.847742",
+        "description": "SSR guaranteed summon ticket for \"Power UP! \nSSR Force Summon\". 1 ticket is required to perform \none Single-Summon in the \"Power UP! SSR Force Summon\". \nValid until 2020/08/02 15:59 PST.",
+        "id": 9999,
+        "name": "SSR Force Summon Ticket",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2024-11-14 09:19:29.847742"
+    }
+]

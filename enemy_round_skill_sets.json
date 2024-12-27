@@ -1,0 +1,86 @@
+[
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Damage Reduction \n  Reduces damage received \nDisable Super Attack Sealing \n  Nullifies Super Attack sealing effect \nATK & DEF Boost \n  Greatly increases ATK & DEF",
+        "id": 1,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Change Ki Spheres (Random) \n  Randomly changes all Ki Spheres \nATK Boost \n  Greatly increases ATK",
+        "id": 10,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Disable ATK & DEF Reduction \n  Disables ATK & DEF Reduction",
+        "id": 20,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "ATK & DEF Boost \n  Greatly increases ATK & DEF",
+        "id": 30,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Damage Reduction \n  Reduces damage received \nDisable ATK & DEF Reduction \n  Disables ATK & DEF Reduction \nStun Immunity \n  Grants immunity to being stunned \nDisable Super Attack Sealing \n  Nullifies Super Attack sealing effect",
+        "id": 40,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Disable ATK & DEF Reduction \n  Disables ATK & DEF Reduction \nStun Immunity \n  Grants immunity to being stunned \nDisable Super Attack Sealing \n  Nullifies Super Attack sealing effect",
+        "id": 41,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "DEF Boost \n  Greatly increases DEF",
+        "id": 50,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Disable ATK Reduction \n  Disables ATK Reduction \nDamage Reduction \n  Reduces damage received",
+        "id": 66,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Ki Reduction \n  Enemies' Ki -6 \n  (will not become lower than 0) \nStun Immunity \n Grants immunity to being stunned",
+        "id": 70,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Damage Reduction \n Reduces damage received \nChange Ki Spheres \n Changes STR Ki Spheres to PHY Ki Spheres",
+        "id": 80,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Damage Reduction \n Reduces damage received \nDisable ATK & DEF Reduction \n Disables ATK & DEF Reduction",
+        "id": 90,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    },
+    {
+        "cancel_description": "Create a Domain",
+        "created_at": "2024-11-14 09:20:01.925101",
+        "effect_description": "Unarmed Super Attack Nullification \n  Nullifies Unarmed Super Attacks",
+        "id": 94,
+        "updated_at": "2024-11-14 09:20:01.925101"
+    }
+]

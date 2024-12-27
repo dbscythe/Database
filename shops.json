@@ -1,0 +1,62 @@
+[
+    {
+        "close_at": "2038-01-01 00:00:00",
+        "created_at": "2024-11-14 09:19:27.575866",
+        "end_at": "2038-01-01 00:00:00",
+        "id": 1,
+        "item_change_interval_sec": 1800,
+        "open_at": "2000-01-02 00:00:00",
+        "required_stone_to_change_item": 1,
+        "start_at": "2016-05-31 20:00:00",
+        "type": "Shop::ExchangePointShop",
+        "updated_at": "2024-11-14 09:19:27.575866"
+    },
+    {
+        "close_at": "2038-01-01 00:00:00",
+        "created_at": "2024-11-14 09:19:27.575866",
+        "end_at": "2038-01-01 00:00:00",
+        "id": 2,
+        "item_change_interval_sec": 86400,
+        "open_at": "2000-01-02 00:00:00",
+        "required_stone_to_change_item": 0,
+        "start_at": "2016-05-31 20:00:00",
+        "type": "Shop::ZeniShop",
+        "updated_at": "2024-11-14 09:19:27.575866"
+    },
+    {
+        "close_at": "2038-01-01 00:00:00",
+        "created_at": "2024-11-14 09:19:27.575866",
+        "end_at": "2038-01-01 00:00:00",
+        "id": 3,
+        "item_change_interval_sec": null,
+        "open_at": "2000-01-02 00:00:00",
+        "required_stone_to_change_item": 0,
+        "start_at": "2016-05-31 20:00:00",
+        "type": "Shop::TreasureShop",
+        "updated_at": "2024-11-14 09:19:27.575866"
+    },
+    {
+        "close_at": "2016-12-13 07:59:59",
+        "created_at": "2024-11-14 09:19:27.575866",
+        "end_at": "2016-12-13 07:59:59",
+        "id": 4,
+        "item_change_interval_sec": 1800,
+        "open_at": "2016-10-25 05:00:00",
+        "required_stone_to_change_item": 1,
+        "start_at": "2016-10-25 08:00:00",
+        "type": "Shop::ExchangePointShop",
+        "updated_at": "2024-11-14 09:19:27.575866"
+    },
+    {
+        "close_at": "2038-01-01 00:00:00",
+        "created_at": "2024-11-14 09:19:27.575866",
+        "end_at": "2038-01-01 00:00:00",
+        "id": 5,
+        "item_change_interval_sec": null,
+        "open_at": "2021-01-01 00:00:00",
+        "required_stone_to_change_item": 0,
+        "start_at": "2021-01-01 00:00:00",
+        "type": "Shop::StoneShop",
+        "updated_at": "2024-11-14 09:19:27.575866"
+    }
+]

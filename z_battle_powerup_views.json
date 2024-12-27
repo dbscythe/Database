@@ -1,0 +1,58 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 7,
+        "id": 1,
+        "texture_name": "def_up_2",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 1,
+        "id": 2,
+        "texture_name": "atk_up_2",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 15,
+        "id": 3,
+        "texture_name": "efficacy_15_",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 10,
+        "id": 4,
+        "texture_name": "efficacy_10",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 14,
+        "id": 5,
+        "texture_name": "efficacy_14",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 13,
+        "id": 6,
+        "texture_name": "efficacy_13_",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 16,
+        "id": 7,
+        "texture_name": "efficacy_16",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.476917",
+        "enemy_skill_efficacy_type": 18,
+        "id": 8,
+        "texture_name": "efficacy_18",
+        "updated_at": "2024-11-14 09:19:27.476917"
+    }
+]

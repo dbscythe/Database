@@ -1,0 +1,522 @@
+[
+    {
+        "bgm_id": 172,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 1,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0001",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 175,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 2,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0002",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 171,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 3,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0005",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 181,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 4,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0003",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 183,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 5,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0004",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 186,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 6,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0006",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 193,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 7,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0007",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 195,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 8,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0008",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 200,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 9,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0009",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 197,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 10,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0010",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 203,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 11,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0011",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 215,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 12,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0015",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 216,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 13,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0014",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 217,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 14,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0013",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 221,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 15,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0017",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 226,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 16,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0016",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 228,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 17,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0018",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 239,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 18,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0019",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 237,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 19,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0020",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 258,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 20,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0022",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": null,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 21,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0021",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 263,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 22,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0023",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 268,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 23,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0024",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 265,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 24,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0027",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 270,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 25,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0025",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 274,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 26,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0028",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 272,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 27,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0026",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 280,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 28,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0029",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 285,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 29,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0031",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 288,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 30,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0030",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 290,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 31,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0032",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 292,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 32,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0033",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 295,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 33,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0034",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 307,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 34,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0035",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 314,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 35,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0037",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 312,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 36,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0036",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 316,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 37,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0038",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 320,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 38,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0040",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 329,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 39,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0039",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 322,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 40,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0041",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 327,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 41,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0042",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 333,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 42,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0043",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": null,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 43,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0048",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 335,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 44,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0044",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 342,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 45,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0045",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 346,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 46,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0046",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 349,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 47,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0047",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 361,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 48,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0055",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 354,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 49,
+        "lite_flicker_rate": 70,
+        "script_name": "pse0050",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 356,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 50,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0049",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 359,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 51,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0051",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": null,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 52,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0054",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 363,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 53,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0052",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 364,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 54,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0053",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 366,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 55,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0056",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 371,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 56,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0058",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 376,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 57,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0057",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": null,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 58,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0061",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 380,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 59,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0060",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 388,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 60,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0059",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 398,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 61,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0076",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 389,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 62,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0062",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 392,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 63,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0064",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 400,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 64,
+        "lite_flicker_rate": 50,
+        "script_name": "pse0065",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    },
+    {
+        "bgm_id": 403,
+        "created_at": "2024-11-14 09:18:37.160526",
+        "id": 65,
+        "lite_flicker_rate": 30,
+        "script_name": "pse0066",
+        "updated_at": "2024-11-14 09:18:37.160526"
+    }
+]

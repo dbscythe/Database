@@ -1,0 +1,1794 @@
+[
+    {
+        "budokai_id": 1,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 1,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 1,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 2,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 1,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 3,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 1,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 4,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 2,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 5,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 2,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 6,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 2,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 7,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 2,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 8,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 3,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 9,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 3,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 10,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 3,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 11,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 3,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 12,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 4,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 13,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 4,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 14,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 4,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 15,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 4,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 16,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 5,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 17,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 5,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 18,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 5,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 19,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 5,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 20,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 6,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 21,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 6,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 22,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 6,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 23,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 6,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 24,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 7,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 25,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 7,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 26,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 7,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 27,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 7,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 28,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 8,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 29,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 8,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 30,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 8,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 31,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 8,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 32,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 9,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 33,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 9,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 34,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 9,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 35,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 9,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 36,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 10,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 37,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 10,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 38,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 10,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 39,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 10,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 40,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 11,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 41,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 11,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 42,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 11,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 43,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 11,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 44,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 12,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 45,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 12,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 46,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 12,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 47,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 12,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 48,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 13,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 49,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 13,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 50,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 13,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 51,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 13,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 52,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 14,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 53,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 14,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 54,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 14,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 55,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 14,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 56,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 15,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 57,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 15,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 58,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 15,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 59,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 15,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 60,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 16,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 61,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 16,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 62,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 16,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 63,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 16,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 64,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 17,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 170,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 17,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 171,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 17,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 172,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 17,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 173,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 18,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 180,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 18,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 181,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 18,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 182,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 18,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 183,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 19,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 190,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 19,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 191,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 19,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 192,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 19,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 193,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 20,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 200,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 20,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 201,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 20,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 202,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 20,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 203,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 21,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 210,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 21,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 211,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 21,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 212,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 21,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 213,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 22,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 220,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 22,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 221,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 22,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 222,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 22,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 223,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 23,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 230,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 23,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 231,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 23,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 232,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 23,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 233,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 24,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 240,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 24,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 241,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 24,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 242,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 24,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 243,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 25,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 250,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 25,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 251,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 25,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 252,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 25,
+        "created_at": "2024-11-14 09:19:49.762788",
+        "id": 253,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.762788"
+    },
+    {
+        "budokai_id": 26,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 260,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 26,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 261,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 26,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 262,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 26,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 263,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 27,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 270,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 27,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 271,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 27,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 272,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 27,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 273,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 28,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 280,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 28,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 281,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 28,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 282,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 28,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 283,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 29,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 290,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 29,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 291,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 29,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 292,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 29,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 293,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 30,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 300,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 30,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 301,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 30,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 302,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 30,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 303,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 31,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 310,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 31,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 311,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 31,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 312,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 31,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 313,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 32,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 320,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 32,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 321,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 32,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 322,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 32,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 323,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 33,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 330,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 33,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 331,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 33,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 332,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 33,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 333,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 34,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 340,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 34,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 341,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 34,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 342,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 34,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 343,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 35,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 350,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 35,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 351,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 35,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 352,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 35,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 353,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 36,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 360,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 36,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 361,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 36,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 362,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 36,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 363,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 37,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 370,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 37,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 371,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 37,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 372,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 37,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 373,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 40,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 400,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 40,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 401,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 40,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 402,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 40,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 403,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 41,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 410,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 41,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 411,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 41,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 412,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 41,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 413,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 42,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 420,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 42,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 421,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 42,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 422,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 42,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 423,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 43,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 430,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 43,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 431,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 43,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 432,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 43,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 433,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 44,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 440,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 44,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 441,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 44,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 442,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 44,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 443,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 45,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 450,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 45,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 451,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 45,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 452,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 45,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 453,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 46,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 460,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 46,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 461,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 46,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 462,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 46,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 463,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 47,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 470,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 47,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 471,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 47,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 472,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 47,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 473,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 48,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 480,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 48,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 481,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 48,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 482,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 48,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 483,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 49,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 490,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 49,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 491,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 49,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 492,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 49,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 493,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 50,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 500,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 50,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 501,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 50,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 502,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 50,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 503,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 51,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 510,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 51,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 511,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 51,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 512,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 51,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 513,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 52,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 520,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 52,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 521,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 52,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 522,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 52,
+        "created_at": "2024-11-14 09:19:49.782917",
+        "id": 523,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.782917"
+    },
+    {
+        "budokai_id": 53,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 530,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 53,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 531,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 53,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 532,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 53,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 533,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 54,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 540,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 54,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 541,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 54,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 542,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 54,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 543,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 55,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 550,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 55,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 551,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 55,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 552,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 55,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 553,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 921,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9210,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 921,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9211,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 921,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9212,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 921,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9213,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 922,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9220,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 922,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9221,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 922,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9222,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 922,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9223,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 923,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9230,
+        "league": 0,
+        "name": "League B",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 923,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9231,
+        "league": 1,
+        "name": "League A",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 923,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9232,
+        "league": 2,
+        "name": "League S",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    },
+    {
+        "budokai_id": 923,
+        "created_at": "2024-11-14 09:19:49.788350",
+        "id": 9233,
+        "league": 3,
+        "name": "League G",
+        "updated_at": "2024-11-14 09:19:49.788350"
+    }
+]

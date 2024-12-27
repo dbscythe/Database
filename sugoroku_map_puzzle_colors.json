@@ -1,0 +1,200 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 1,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 2,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 0,
+        "weight_purple": 0,
+        "weight_rainbow": 100,
+        "weight_red": 0,
+        "weight_yellow": 0
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 3,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 0,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 0,
+        "weight_yellow": 0
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 4,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 0,
+        "weight_green": 0,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 5,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 0,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 6,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 0,
+        "weight_purple": 100,
+        "weight_rainbow": 0,
+        "weight_red": 0,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 7,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 500,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 8,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 0,
+        "weight_green": 0,
+        "weight_purple": 0,
+        "weight_rainbow": 100,
+        "weight_red": 0,
+        "weight_yellow": 0
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 9,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 0,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 10,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 0,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 11,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 0,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 12,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 0,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 13,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 0
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 14,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 0,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 15,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 50
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 16,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 50,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 17,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 50,
+        "weight_green": 100,
+        "weight_purple": 100,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:32.254807",
+        "id": 18,
+        "updated_at": "2024-11-14 09:19:32.254807",
+        "weight_blue": 100,
+        "weight_green": 100,
+        "weight_purple": 50,
+        "weight_rainbow": 100,
+        "weight_red": 100,
+        "weight_yellow": 100
+    }
+]

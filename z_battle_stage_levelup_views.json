@@ -1,0 +1,47 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:27.482247",
+        "id": 1,
+        "scene_name": "ef_001",
+        "stage_level": 1,
+        "to_normal_stage_scene_name": "ef_301",
+        "to_super_stage_scene_name": "ef_201",
+        "updated_at": "2024-11-14 09:19:27.482247"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.482247",
+        "id": 2,
+        "scene_name": "ef_002",
+        "stage_level": 5,
+        "to_normal_stage_scene_name": "ef_302",
+        "to_super_stage_scene_name": "ef_202",
+        "updated_at": "2024-11-14 09:19:27.482247"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.482247",
+        "id": 3,
+        "scene_name": "ef_003",
+        "stage_level": 10,
+        "to_normal_stage_scene_name": "ef_303",
+        "to_super_stage_scene_name": "ef_203",
+        "updated_at": "2024-11-14 09:19:27.482247"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.482247",
+        "id": 4,
+        "scene_name": "ef_004",
+        "stage_level": 20,
+        "to_normal_stage_scene_name": "ef_304",
+        "to_super_stage_scene_name": "ef_204",
+        "updated_at": "2024-11-14 09:19:27.482247"
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.482247",
+        "id": 5,
+        "scene_name": "ef_005",
+        "stage_level": 30,
+        "to_normal_stage_scene_name": "ef_305",
+        "to_super_stage_scene_name": "ef_205",
+        "updated_at": "2024-11-14 09:19:27.482247"
+    }
+]

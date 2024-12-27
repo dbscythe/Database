@@ -1,0 +1,380 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 21,
+        "id": 1,
+        "selection_table_id": 1,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 22,
+        "id": 2,
+        "selection_table_id": 1,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 22,
+        "id": 3,
+        "selection_table_id": 2,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 24,
+        "id": 4,
+        "selection_table_id": 2,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 21,
+        "id": 5,
+        "selection_table_id": 3,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 24,
+        "id": 6,
+        "selection_table_id": 3,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 30,
+        "id": 7,
+        "selection_table_id": 4,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 31,
+        "id": 8,
+        "selection_table_id": 4,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 35,
+        "id": 9,
+        "selection_table_id": 5,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 36,
+        "id": 10,
+        "selection_table_id": 5,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 21,
+        "id": 11,
+        "selection_table_id": 6,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 22,
+        "id": 12,
+        "selection_table_id": 6,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 24,
+        "id": 13,
+        "selection_table_id": 6,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 39,
+        "id": 14,
+        "selection_table_id": 7,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 41,
+        "id": 15,
+        "selection_table_id": 7,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 15,
+        "id": 16,
+        "selection_table_id": 7,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 100,
+        "id": 17,
+        "selection_table_id": 8,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 101,
+        "id": 18,
+        "selection_table_id": 8,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 103,
+        "id": 19,
+        "selection_table_id": 9,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 104,
+        "id": 20,
+        "selection_table_id": 9,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 105,
+        "id": 21,
+        "selection_table_id": 9,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 101,
+        "id": 22,
+        "selection_table_id": 10,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 107,
+        "id": 23,
+        "selection_table_id": 10,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 109,
+        "id": 24,
+        "selection_table_id": 11,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 110,
+        "id": 25,
+        "selection_table_id": 11,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 112,
+        "id": 26,
+        "selection_table_id": 12,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 110,
+        "id": 27,
+        "selection_table_id": 12,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 30,
+        "id": 28,
+        "selection_table_id": 13,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 35,
+        "id": 29,
+        "selection_table_id": 13,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 100,
+        "id": 30,
+        "selection_table_id": 14,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 107,
+        "id": 31,
+        "selection_table_id": 14,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 103,
+        "id": 32,
+        "selection_table_id": 15,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 105,
+        "id": 33,
+        "selection_table_id": 15,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 103,
+        "id": 34,
+        "selection_table_id": 16,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 104,
+        "id": 35,
+        "selection_table_id": 16,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 30,
+        "id": 36,
+        "selection_table_id": 17,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 36,
+        "id": 37,
+        "selection_table_id": 17,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 100,
+        "id": 38,
+        "selection_table_id": 18,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 101,
+        "id": 39,
+        "selection_table_id": 18,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 107,
+        "id": 40,
+        "selection_table_id": 18,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 109,
+        "id": 41,
+        "selection_table_id": 19,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 112,
+        "id": 42,
+        "selection_table_id": 19,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 123,
+        "id": 43,
+        "selection_table_id": 20,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 124,
+        "id": 44,
+        "selection_table_id": 20,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 126,
+        "id": 45,
+        "selection_table_id": 21,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 127,
+        "id": 46,
+        "selection_table_id": 21,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 31,
+        "id": 47,
+        "selection_table_id": 22,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 36,
+        "id": 48,
+        "selection_table_id": 22,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 39,
+        "id": 49,
+        "selection_table_id": 23,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 41,
+        "id": 50,
+        "selection_table_id": 23,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 39,
+        "id": 51,
+        "selection_table_id": 24,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 15,
+        "id": 52,
+        "selection_table_id": 24,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 35,
+        "id": 53,
+        "selection_table_id": 25,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.509610",
+        "event_id": 31,
+        "id": 54,
+        "selection_table_id": 25,
+        "updated_at": "2024-11-14 09:18:42.509610"
+    }
+]

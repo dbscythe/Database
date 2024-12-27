@@ -1,0 +1,848 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 1,
+        "kana": null,
+        "name": "Fusion",
+        "open_at": "2017-11-06 04:00:00",
+        "priority": 69700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 2,
+        "kana": null,
+        "name": "Shadow Dragon Saga",
+        "open_at": "2017-11-06 04:00:00",
+        "priority": 89400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 3,
+        "kana": null,
+        "name": "World Tournament",
+        "open_at": "2017-11-06 04:00:00",
+        "priority": 39000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 4,
+        "kana": null,
+        "name": "Peppy Gals",
+        "open_at": "2017-11-06 04:00:00",
+        "priority": 79000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 5,
+        "kana": null,
+        "name": "Hybrid Saiyans",
+        "open_at": "2017-12-28 02:00:00",
+        "priority": 79900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 6,
+        "kana": null,
+        "name": "Universe Survival Saga",
+        "open_at": "2018-02-17 06:30:00",
+        "priority": 89500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 7,
+        "kana": null,
+        "name": "Resurrected Warriors",
+        "open_at": "2018-03-15 06:30:00",
+        "priority": 29700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 8,
+        "kana": null,
+        "name": "Realm of Gods",
+        "open_at": "2017-12-21 04:00:00",
+        "priority": 60000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 9,
+        "kana": null,
+        "name": "Majin Buu Saga",
+        "open_at": "2018-01-22 06:30:00",
+        "priority": 89700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 10,
+        "kana": null,
+        "name": "Potara",
+        "open_at": "2018-03-02 06:30:00",
+        "priority": 69600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 11,
+        "kana": null,
+        "name": "Low-Class Warrior",
+        "open_at": "2018-04-05 06:30:00",
+        "priority": 29950,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 12,
+        "kana": null,
+        "name": "Super Saiyan 3",
+        "open_at": "2018-05-25 06:30:00",
+        "priority": 69800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 13,
+        "kana": null,
+        "name": "Giant Form",
+        "open_at": "2018-05-25 06:30:00",
+        "priority": 69500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 14,
+        "kana": null,
+        "name": "Planet Namek Saga",
+        "open_at": "2018-07-07 00:00:00",
+        "priority": 89900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 15,
+        "kana": null,
+        "name": "Ginyu Force",
+        "open_at": "2018-07-30 06:30:00",
+        "priority": 40000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 16,
+        "kana": null,
+        "name": "Movie Bosses",
+        "open_at": "2018-08-13 06:30:00",
+        "priority": 39200,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 17,
+        "kana": null,
+        "name": "Pure Saiyans",
+        "open_at": "2018-10-26 06:30:00",
+        "priority": 80000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 18,
+        "kana": null,
+        "name": "Namekians",
+        "open_at": "2018-08-28 05:00:00",
+        "priority": 79700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 19,
+        "kana": null,
+        "name": "Future Saga",
+        "open_at": "2018-12-12 00:00:00",
+        "priority": 89600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 20,
+        "kana": null,
+        "name": "Full Power",
+        "open_at": "2018-11-21 05:00:00",
+        "priority": 59900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 21,
+        "kana": null,
+        "name": "Androids",
+        "open_at": "2018-10-04 06:30:00",
+        "priority": 79600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 22,
+        "kana": null,
+        "name": "Representatives of Universe 7",
+        "open_at": "2018-09-13 05:00:00",
+        "priority": 39700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 23,
+        "kana": null,
+        "name": "Transformation Boost",
+        "open_at": "2019-01-16 06:30:00",
+        "priority": 69400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 24,
+        "kana": null,
+        "name": "Wicked Bloodline",
+        "open_at": "2019-04-03 06:30:00",
+        "priority": 79200,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 25,
+        "kana": null,
+        "name": "Dragon Ball Seekers",
+        "open_at": "2019-02-26 06:30:00",
+        "priority": 29400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 26,
+        "kana": null,
+        "name": "Time Travelers",
+        "open_at": "2019-02-01 06:30:00",
+        "priority": 29500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 27,
+        "kana": null,
+        "name": "Universe 6",
+        "open_at": "2018-12-24 06:30:00",
+        "priority": 39800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 28,
+        "kana": null,
+        "name": "Joined Forces",
+        "open_at": "2019-02-13 05:30:00",
+        "priority": 49800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 29,
+        "kana": null,
+        "name": "Movie Heroes",
+        "open_at": "2019-02-01 06:30:00",
+        "priority": 39300,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 30,
+        "kana": null,
+        "name": "Goku's Family",
+        "open_at": "2019-04-02 08:00:00",
+        "priority": 79400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 31,
+        "kana": null,
+        "name": "Vegeta's Family",
+        "open_at": "2019-03-18 06:30:00",
+        "priority": 79300,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 32,
+        "kana": null,
+        "name": "Artificial Life Forms",
+        "open_at": "2019-07-26 06:30:00",
+        "priority": 79500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 33,
+        "kana": null,
+        "name": "Youth",
+        "open_at": "2019-05-21 06:30:00",
+        "priority": 79100,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 34,
+        "kana": null,
+        "name": "DB Saga",
+        "open_at": "2019-05-21 06:30:00",
+        "priority": 90000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 35,
+        "kana": null,
+        "name": "Siblings' Bond",
+        "open_at": "2019-05-08 06:30:00",
+        "priority": 49700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 36,
+        "kana": null,
+        "name": "Super Saiyans",
+        "open_at": "2019-10-03 06:30:00",
+        "priority": 70000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 37,
+        "kana": null,
+        "name": "Worthy Rivals",
+        "open_at": "2019-12-09 06:30:00",
+        "priority": 50000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 38,
+        "kana": null,
+        "name": "Androids/Cell Saga",
+        "open_at": "2019-08-27 05:00:00",
+        "priority": 89800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 39,
+        "kana": null,
+        "name": "Kamehameha",
+        "open_at": "2019-08-29 20:35:00",
+        "priority": 69200,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 40,
+        "kana": null,
+        "name": "Bond of Master and Disciple",
+        "open_at": "2019-12-09 06:30:00",
+        "priority": 49500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 41,
+        "kana": null,
+        "name": "Terrifying Conquerors",
+        "open_at": "2020-03-02 06:30:00",
+        "priority": 19800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 42,
+        "kana": null,
+        "name": "Dragon Ball Heroes",
+        "open_at": "2020-01-17 06:30:00",
+        "priority": 9900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 43,
+        "kana": null,
+        "name": "Target: Goku",
+        "open_at": "2020-04-02 06:30:00",
+        "priority": 19900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 44,
+        "kana": null,
+        "name": "Otherworld Warriors",
+        "open_at": "2020-05-08 06:30:00",
+        "priority": 29800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 45,
+        "kana": null,
+        "name": "Super Saiyan 2",
+        "open_at": "2020-05-08 06:30:00",
+        "priority": 69900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 46,
+        "kana": null,
+        "name": "Final Trump Card",
+        "open_at": "2020-07-09 06:00:00",
+        "priority": 59000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 47,
+        "kana": null,
+        "name": "Exploding Rage",
+        "open_at": "2020-06-08 06:30:00",
+        "priority": 19500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 48,
+        "kana": null,
+        "name": "Revenge",
+        "open_at": "2020-03-18 06:18:00",
+        "priority": 20000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 49,
+        "kana": null,
+        "name": "Team Bardock",
+        "open_at": "2020-03-18 00:00:00",
+        "priority": 39900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 50,
+        "kana": null,
+        "name": "Inhuman Deeds",
+        "open_at": "2020-06-22 06:30:00",
+        "priority": 19700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 51,
+        "kana": null,
+        "name": "Earthlings",
+        "open_at": "2020-06-08 06:30:00",
+        "priority": 79800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 52,
+        "kana": null,
+        "name": "Special Pose",
+        "open_at": "2020-11-06 06:30:00",
+        "priority": 18800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 53,
+        "kana": null,
+        "name": "Majin Power",
+        "open_at": "2020-08-29 06:27:00",
+        "priority": 59700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 54,
+        "kana": null,
+        "name": "Rapid Growth",
+        "open_at": "2020-08-11 00:00:00",
+        "priority": 59300,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 55,
+        "kana": null,
+        "name": "All-Out Struggle",
+        "open_at": "2020-12-04 06:30:00",
+        "priority": 19200,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 56,
+        "kana": null,
+        "name": "Universe 11",
+        "open_at": "2021-01-18 06:30:00",
+        "priority": 39600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 57,
+        "kana": null,
+        "name": "Saviors",
+        "open_at": "2020-10-05 06:30:00",
+        "priority": 29100,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 58,
+        "kana": null,
+        "name": "Battle of Wits",
+        "open_at": "2020-08-29 06:27:00",
+        "priority": 19100,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 59,
+        "kana": null,
+        "name": "Power Absorption",
+        "open_at": "2020-08-29 06:27:00",
+        "priority": 69300,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 60,
+        "kana": null,
+        "name": "Giant Ape Power",
+        "open_at": "2020-11-19 08:00:00",
+        "priority": 59800,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 61,
+        "kana": null,
+        "name": "Crossover",
+        "open_at": "2020-11-19 08:00:00",
+        "priority": 10000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 62,
+        "kana": null,
+        "name": "Space-Traveling Warriors",
+        "open_at": "2021-03-01 06:30:00",
+        "priority": 29600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 63,
+        "kana": null,
+        "name": "Connected Hope",
+        "open_at": "2021-04-02 06:30:00",
+        "priority": 19400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 64,
+        "kana": null,
+        "name": "Corroded Body and Mind",
+        "open_at": "2021-04-02 06:30:00",
+        "priority": 59400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 65,
+        "kana": null,
+        "name": "Turtle School",
+        "open_at": "2021-07-07 00:00:00",
+        "priority": 39100,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 66,
+        "kana": null,
+        "name": "Miraculous Awakening",
+        "open_at": "2021-07-09 03:00:00",
+        "priority": 59500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 67,
+        "kana": null,
+        "name": "Powerful Comeback",
+        "open_at": "2021-07-09 03:00:00",
+        "priority": 59600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 68,
+        "kana": null,
+        "name": "Gifted Warriors",
+        "open_at": "2021-06-01 06:30:00",
+        "priority": 29900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 69,
+        "kana": null,
+        "name": "Planetary Destruction",
+        "open_at": "2021-03-18 06:18:00",
+        "priority": 19600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 70,
+        "kana": null,
+        "name": "Defenders of Justice",
+        "open_at": "2021-04-09 06:00:00",
+        "priority": 29000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 71,
+        "kana": null,
+        "name": "Storied Figures",
+        "open_at": "2021-06-21 06:30:00",
+        "priority": 29300,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 72,
+        "kana": null,
+        "name": "GT Heroes",
+        "open_at": "2021-04-28 00:00:00",
+        "priority": 39500,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 73,
+        "kana": null,
+        "name": "GT Bosses",
+        "open_at": "2021-04-28 00:00:00",
+        "priority": 39400,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 74,
+        "kana": null,
+        "name": "Heavenly Events",
+        "open_at": "2021-10-06 00:00:00",
+        "priority": 18900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 75,
+        "kana": null,
+        "name": "Time Limit",
+        "open_at": "2021-11-04 06:30:00",
+        "priority": 59100,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 76,
+        "kana": null,
+        "name": "Mastered Evolution",
+        "open_at": "2022-01-03 06:30:00",
+        "priority": 59200,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 77,
+        "kana": null,
+        "name": "Legendary Existence",
+        "open_at": "2021-08-28 06:30:00",
+        "priority": 29200,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 78,
+        "kana": null,
+        "name": "Sworn Enemies",
+        "open_at": "2021-08-28 06:30:00",
+        "priority": 49900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 79,
+        "kana": null,
+        "name": "Bond of Friendship",
+        "open_at": "2021-12-03 06:30:00",
+        "priority": 49600,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 80,
+        "kana": null,
+        "name": "Accelerated Battle",
+        "open_at": "2021-12-15 06:30:00",
+        "priority": 19000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 81,
+        "kana": null,
+        "name": "Entrusted Will",
+        "open_at": "2022-03-01 06:30:00",
+        "priority": 19300,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 82,
+        "kana": null,
+        "name": "Worldwide Chaos",
+        "open_at": "2022-02-01 06:30:00",
+        "priority": 18700,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 83,
+        "kana": null,
+        "name": "Battle of Fate",
+        "open_at": "2022-04-01 06:30:00",
+        "priority": 18950,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 84,
+        "kana": null,
+        "name": "Power Beyond Super Saiyan",
+        "open_at": "2022-07-08 05:00:00",
+        "priority": 69750,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 85,
+        "kana": null,
+        "name": "Fused Fighters",
+        "open_at": "2022-07-08 05:00:00",
+        "priority": 69550,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 86,
+        "kana": null,
+        "name": "Saiyan Saga",
+        "open_at": "2022-06-20 06:30:00",
+        "priority": 89950,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 87,
+        "kana": null,
+        "name": "Bond of Parent and Child",
+        "open_at": "2022-08-26 06:00:00",
+        "priority": 49750,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 88,
+        "kana": null,
+        "name": "Super Heroes",
+        "open_at": "2022-12-28 02:00:00",
+        "priority": 39350,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 89,
+        "kana": null,
+        "name": "Earth-Bred Fighters",
+        "open_at": "2023-02-16 06:30:00",
+        "priority": 30000,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 90,
+        "kana": null,
+        "name": "Power of Wishes",
+        "open_at": "2023-03-18 06:18:00",
+        "priority": 59550,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 91,
+        "kana": null,
+        "name": "Tournament Participants",
+        "open_at": "2024-02-01 06:30:00",
+        "priority": 38900,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 92,
+        "kana": null,
+        "name": "Super Bosses",
+        "open_at": "2024-02-21 06:30:00",
+        "priority": 39330,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 93,
+        "kana": null,
+        "name": "Demonic Power",
+        "open_at": "2024-10-31 05:00:00",
+        "priority": 59525,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    },
+    {
+        "created_at": "2024-11-14 09:19:44.715045",
+        "id": 94,
+        "kana": null,
+        "name": "Uncontrollable Power",
+        "open_at": "2024-08-28 06:00:00",
+        "priority": 59650,
+        "updated_at": "2024-11-14 09:19:44.715045"
+    }
+]

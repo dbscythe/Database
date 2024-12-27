@@ -1,0 +1,112 @@
+[
+    {
+        "card_costume_id": 1,
+        "card_id": 1020340,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 1,
+        "revive_effect_pack_id": 156609,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 1,
+        "card_id": 1020341,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 2,
+        "revive_effect_pack_id": 156609,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 2,
+        "card_id": 1021810,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 3,
+        "revive_effect_pack_id": null,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 2,
+        "card_id": 1021811,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 4,
+        "revive_effect_pack_id": null,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 3,
+        "card_id": 1022120,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 5,
+        "revive_effect_pack_id": null,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 3,
+        "card_id": 1022121,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 6,
+        "revive_effect_pack_id": null,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 4,
+        "card_id": 9520340,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 7,
+        "revive_effect_pack_id": 156609,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 4,
+        "card_id": 9520341,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 8,
+        "revive_effect_pack_id": 156609,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 5,
+        "card_id": 9521810,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 9,
+        "revive_effect_pack_id": null,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    },
+    {
+        "card_costume_id": 5,
+        "card_id": 9521811,
+        "conditions": "{\"change_timing\":1}",
+        "counter_script_no": null,
+        "created_at": "2024-11-14 09:19:44.724596",
+        "description": "Changes appearance after performing the Active Skill",
+        "id": 10,
+        "revive_effect_pack_id": null,
+        "updated_at": "2024-11-14 09:19:44.724596"
+    }
+]

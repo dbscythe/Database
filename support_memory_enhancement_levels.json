@@ -1,0 +1,632 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100012,
+        "id": 1,
+        "level": 2,
+        "root_support_memory_id": 10001,
+        "support_memory_id": 10001,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100013,
+        "id": 2,
+        "level": 3,
+        "root_support_memory_id": 10001,
+        "support_memory_id": 100012,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200012,
+        "id": 3,
+        "level": 2,
+        "root_support_memory_id": 20001,
+        "support_memory_id": 20001,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200013,
+        "id": 4,
+        "level": 3,
+        "root_support_memory_id": 20001,
+        "support_memory_id": 200012,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 300012,
+        "id": 5,
+        "level": 2,
+        "root_support_memory_id": 30001,
+        "support_memory_id": 30001,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 300013,
+        "id": 6,
+        "level": 3,
+        "root_support_memory_id": 30001,
+        "support_memory_id": 300012,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400012,
+        "id": 7,
+        "level": 2,
+        "root_support_memory_id": 40001,
+        "support_memory_id": 40001,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400013,
+        "id": 8,
+        "level": 3,
+        "root_support_memory_id": 40001,
+        "support_memory_id": 400012,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500012,
+        "id": 9,
+        "level": 2,
+        "root_support_memory_id": 50001,
+        "support_memory_id": 50001,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500013,
+        "id": 10,
+        "level": 3,
+        "root_support_memory_id": 50001,
+        "support_memory_id": 500012,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200082,
+        "id": 11,
+        "level": 2,
+        "root_support_memory_id": 20008,
+        "support_memory_id": 20008,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200083,
+        "id": 12,
+        "level": 3,
+        "root_support_memory_id": 20008,
+        "support_memory_id": 200082,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200084,
+        "id": 13,
+        "level": 4,
+        "root_support_memory_id": 20008,
+        "support_memory_id": 200083,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200085,
+        "id": 14,
+        "level": 5,
+        "root_support_memory_id": 20008,
+        "support_memory_id": 200084,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 300052,
+        "id": 15,
+        "level": 2,
+        "root_support_memory_id": 30005,
+        "support_memory_id": 30005,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 300053,
+        "id": 16,
+        "level": 3,
+        "root_support_memory_id": 30005,
+        "support_memory_id": 300052,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 300054,
+        "id": 17,
+        "level": 4,
+        "root_support_memory_id": 30005,
+        "support_memory_id": 300053,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 300055,
+        "id": 18,
+        "level": 5,
+        "root_support_memory_id": 30005,
+        "support_memory_id": 300054,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200112,
+        "id": 19,
+        "level": 2,
+        "root_support_memory_id": 20011,
+        "support_memory_id": 20011,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200113,
+        "id": 20,
+        "level": 3,
+        "root_support_memory_id": 20011,
+        "support_memory_id": 200112,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200114,
+        "id": 21,
+        "level": 4,
+        "root_support_memory_id": 20011,
+        "support_memory_id": 200113,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200115,
+        "id": 22,
+        "level": 5,
+        "root_support_memory_id": 20011,
+        "support_memory_id": 200114,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400052,
+        "id": 23,
+        "level": 2,
+        "root_support_memory_id": 40005,
+        "support_memory_id": 40005,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400053,
+        "id": 24,
+        "level": 3,
+        "root_support_memory_id": 40005,
+        "support_memory_id": 400052,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400054,
+        "id": 25,
+        "level": 4,
+        "root_support_memory_id": 40005,
+        "support_memory_id": 400053,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400055,
+        "id": 26,
+        "level": 5,
+        "root_support_memory_id": 40005,
+        "support_memory_id": 400054,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400042,
+        "id": 27,
+        "level": 2,
+        "root_support_memory_id": 40004,
+        "support_memory_id": 40004,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400043,
+        "id": 28,
+        "level": 3,
+        "root_support_memory_id": 40004,
+        "support_memory_id": 400042,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400044,
+        "id": 29,
+        "level": 4,
+        "root_support_memory_id": 40004,
+        "support_memory_id": 400043,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400045,
+        "id": 30,
+        "level": 5,
+        "root_support_memory_id": 40004,
+        "support_memory_id": 400044,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100022,
+        "id": 31,
+        "level": 2,
+        "root_support_memory_id": 10002,
+        "support_memory_id": 10002,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100023,
+        "id": 32,
+        "level": 3,
+        "root_support_memory_id": 10002,
+        "support_memory_id": 100022,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500072,
+        "id": 33,
+        "level": 2,
+        "root_support_memory_id": 50007,
+        "support_memory_id": 50007,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500073,
+        "id": 34,
+        "level": 3,
+        "root_support_memory_id": 50007,
+        "support_memory_id": 500072,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500074,
+        "id": 35,
+        "level": 4,
+        "root_support_memory_id": 50007,
+        "support_memory_id": 500073,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500075,
+        "id": 36,
+        "level": 5,
+        "root_support_memory_id": 50007,
+        "support_memory_id": 500074,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200042,
+        "id": 37,
+        "level": 2,
+        "root_support_memory_id": 20004,
+        "support_memory_id": 20004,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200043,
+        "id": 38,
+        "level": 3,
+        "root_support_memory_id": 20004,
+        "support_memory_id": 200042,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200044,
+        "id": 39,
+        "level": 4,
+        "root_support_memory_id": 20004,
+        "support_memory_id": 200043,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200045,
+        "id": 40,
+        "level": 5,
+        "root_support_memory_id": 20004,
+        "support_memory_id": 200044,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500042,
+        "id": 41,
+        "level": 2,
+        "root_support_memory_id": 50004,
+        "support_memory_id": 50004,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500043,
+        "id": 42,
+        "level": 3,
+        "root_support_memory_id": 50004,
+        "support_memory_id": 500042,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500044,
+        "id": 43,
+        "level": 4,
+        "root_support_memory_id": 50004,
+        "support_memory_id": 500043,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500045,
+        "id": 44,
+        "level": 5,
+        "root_support_memory_id": 50004,
+        "support_memory_id": 500044,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500032,
+        "id": 45,
+        "level": 2,
+        "root_support_memory_id": 50003,
+        "support_memory_id": 50003,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500033,
+        "id": 46,
+        "level": 3,
+        "root_support_memory_id": 50003,
+        "support_memory_id": 500032,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400022,
+        "id": 47,
+        "level": 2,
+        "root_support_memory_id": 40002,
+        "support_memory_id": 40002,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400023,
+        "id": 48,
+        "level": 3,
+        "root_support_memory_id": 40002,
+        "support_memory_id": 400022,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400024,
+        "id": 49,
+        "level": 4,
+        "root_support_memory_id": 40002,
+        "support_memory_id": 400023,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400025,
+        "id": 50,
+        "level": 5,
+        "root_support_memory_id": 40002,
+        "support_memory_id": 400024,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500052,
+        "id": 51,
+        "level": 2,
+        "root_support_memory_id": 50005,
+        "support_memory_id": 50005,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500053,
+        "id": 52,
+        "level": 3,
+        "root_support_memory_id": 50005,
+        "support_memory_id": 500052,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500054,
+        "id": 53,
+        "level": 4,
+        "root_support_memory_id": 50005,
+        "support_memory_id": 500053,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500055,
+        "id": 54,
+        "level": 5,
+        "root_support_memory_id": 50005,
+        "support_memory_id": 500054,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400082,
+        "id": 55,
+        "level": 2,
+        "root_support_memory_id": 40008,
+        "support_memory_id": 40008,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400083,
+        "id": 56,
+        "level": 3,
+        "root_support_memory_id": 40008,
+        "support_memory_id": 400082,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400084,
+        "id": 57,
+        "level": 4,
+        "root_support_memory_id": 40008,
+        "support_memory_id": 400083,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 400085,
+        "id": 58,
+        "level": 5,
+        "root_support_memory_id": 40008,
+        "support_memory_id": 400084,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100052,
+        "id": 61,
+        "level": 2,
+        "root_support_memory_id": 10005,
+        "support_memory_id": 10005,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100053,
+        "id": 62,
+        "level": 3,
+        "root_support_memory_id": 10005,
+        "support_memory_id": 100052,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100054,
+        "id": 63,
+        "level": 4,
+        "root_support_memory_id": 10005,
+        "support_memory_id": 100053,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 100055,
+        "id": 64,
+        "level": 5,
+        "root_support_memory_id": 10005,
+        "support_memory_id": 100054,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500022,
+        "id": 67,
+        "level": 2,
+        "root_support_memory_id": 50002,
+        "support_memory_id": 50002,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500023,
+        "id": 68,
+        "level": 3,
+        "root_support_memory_id": 50002,
+        "support_memory_id": 500022,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500024,
+        "id": 69,
+        "level": 4,
+        "root_support_memory_id": 50002,
+        "support_memory_id": 500023,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 500025,
+        "id": 70,
+        "level": 5,
+        "root_support_memory_id": 50002,
+        "support_memory_id": 500024,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200022,
+        "id": 71,
+        "level": 2,
+        "root_support_memory_id": 20002,
+        "support_memory_id": 20002,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200023,
+        "id": 72,
+        "level": 3,
+        "root_support_memory_id": 20002,
+        "support_memory_id": 200022,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200024,
+        "id": 73,
+        "level": 4,
+        "root_support_memory_id": 20002,
+        "support_memory_id": 200023,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.072527",
+        "enhanced_support_memory_id": 200025,
+        "id": 74,
+        "level": 5,
+        "root_support_memory_id": 20002,
+        "support_memory_id": 200024,
+        "updated_at": "2024-11-14 09:19:33.072527"
+    }
+]

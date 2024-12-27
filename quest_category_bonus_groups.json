@@ -1,0 +1,10 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:46.069375",
+        "description": "- There is a chance of obtaining additional rewards when you \nwin a battle.\n- The chance of obtaining a bonus reward varies according \nto the number of characters belonging to the specified \nCategory on your team. The more characters of that Category \non your team, the higher the probability of obtaining a bonus. \n- When the drop rate reaches each 100%, a bonus reward is \nguaranteed. If the drop rate is less than 100%, the odds of \nobtaining a bonus will be calculated accordingly.\n- Not all enemies drop bonus rewards.",
+        "id": 1,
+        "name": "Bonus Reward Drop Rate Increased!",
+        "quest_category_bonus_type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2024-11-14 09:18:46.069375"
+    }
+]

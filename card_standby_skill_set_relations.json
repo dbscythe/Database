@@ -1,0 +1,156 @@
+[
+    {
+        "card_id": 1026390,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 1,
+        "standby_skill_set_id": 1,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1026391,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 2,
+        "standby_skill_set_id": 2,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1025730,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 3,
+        "standby_skill_set_id": 3,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1025731,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 4,
+        "standby_skill_set_id": 4,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1025770,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 5,
+        "standby_skill_set_id": 5,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1025771,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 6,
+        "standby_skill_set_id": 6,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1026530,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 7,
+        "standby_skill_set_id": 7,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1026531,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 8,
+        "standby_skill_set_id": 8,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1026900,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 9,
+        "standby_skill_set_id": 9,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1026901,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 10,
+        "standby_skill_set_id": 10,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1027290,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 11,
+        "standby_skill_set_id": 11,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1027291,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 12,
+        "standby_skill_set_id": 12,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 9526390,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 13,
+        "standby_skill_set_id": 13,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 9526391,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 14,
+        "standby_skill_set_id": 14,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1027620,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 15,
+        "standby_skill_set_id": 15,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1027621,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 16,
+        "standby_skill_set_id": 16,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1028370,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 17,
+        "standby_skill_set_id": 17,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1028371,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 18,
+        "standby_skill_set_id": 18,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1029360,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 21,
+        "standby_skill_set_id": 21,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1029361,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 22,
+        "standby_skill_set_id": 22,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1029470,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 23,
+        "standby_skill_set_id": 23,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    },
+    {
+        "card_id": 1029471,
+        "created_at": "2024-11-14 09:19:47.460119",
+        "id": 24,
+        "standby_skill_set_id": 24,
+        "updated_at": "2024-11-14 09:19:47.460119"
+    }
+]

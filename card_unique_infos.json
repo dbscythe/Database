@@ -1,0 +1,6449 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 1,
+        "kana": null,
+        "name": "Super Saiyan Goku",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 2,
+        "kana": null,
+        "name": "Super Saiyan Vegeta",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 3,
+        "kana": null,
+        "name": "Goku",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 4,
+        "kana": null,
+        "name": "Vegeta",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 5,
+        "kana": null,
+        "name": "Frieza (1st Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 6,
+        "kana": null,
+        "name": "Cell (1st Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 7,
+        "kana": null,
+        "name": "Gohan (Kid)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 8,
+        "kana": null,
+        "name": "Trunks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 9,
+        "kana": null,
+        "name": "Krillin",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 10,
+        "kana": null,
+        "name": "Piccolo",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 11,
+        "kana": null,
+        "name": "Tien",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 12,
+        "kana": null,
+        "name": "Chiaotzu",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 13,
+        "kana": null,
+        "name": "Yamcha",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 14,
+        "kana": null,
+        "name": "Raditz",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 15,
+        "kana": null,
+        "name": "Nappa",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 16,
+        "kana": null,
+        "name": "Zarbon",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 17,
+        "kana": null,
+        "name": "Captain Ginyu",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 18,
+        "kana": null,
+        "name": "Android #19",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 19,
+        "kana": null,
+        "name": "Dr. Gero",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 20,
+        "kana": null,
+        "name": "Android #17",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 21,
+        "kana": null,
+        "name": "Android #18",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 22,
+        "kana": null,
+        "name": "Android #16",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 23,
+        "kana": null,
+        "name": "Master Roshi",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 24,
+        "kana": null,
+        "name": "Mercenary Tao",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 25,
+        "kana": null,
+        "name": "Fusion Machine Pilaf",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 26,
+        "kana": null,
+        "name": "Shen",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 27,
+        "kana": null,
+        "name": "Tambourine",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 28,
+        "kana": null,
+        "name": "Cymbal",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 29,
+        "kana": null,
+        "name": "Drum",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 30,
+        "kana": null,
+        "name": "Chi-Chi",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 31,
+        "kana": null,
+        "name": "Dodoria",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 32,
+        "kana": null,
+        "name": "Recoome",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 33,
+        "kana": null,
+        "name": "Guldo",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 34,
+        "kana": null,
+        "name": "Burter",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 35,
+        "kana": null,
+        "name": "Jeice",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 36,
+        "kana": null,
+        "name": "Yajirobe",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 37,
+        "kana": null,
+        "name": "Nail",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 38,
+        "kana": null,
+        "name": "Hercule",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 39,
+        "kana": null,
+        "name": "Videl",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 40,
+        "kana": null,
+        "name": "Cell Jr.",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 41,
+        "kana": null,
+        "name": "Spopovich",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 42,
+        "kana": null,
+        "name": "Yamu",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 43,
+        "kana": null,
+        "name": "Yakon",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 44,
+        "kana": null,
+        "name": "Pui Pui",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 45,
+        "kana": null,
+        "name": "Appule",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 46,
+        "kana": null,
+        "name": "Cui",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 47,
+        "kana": null,
+        "name": "Babidi's Minion",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 48,
+        "kana": null,
+        "name": "Pintar",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 49,
+        "kana": null,
+        "name": "Jewel",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 50,
+        "kana": null,
+        "name": "Killa",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 51,
+        "kana": null,
+        "name": "Pirate Robot",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 52,
+        "kana": null,
+        "name": "Saibaiman",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 53,
+        "kana": null,
+        "name": "Frieza Soldier",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 54,
+        "kana": null,
+        "name": "Red Ribbon Soldier",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 55,
+        "kana": null,
+        "name": "Master Shen",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 56,
+        "kana": null,
+        "name": "Trunks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 57,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Youth)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 58,
+        "kana": null,
+        "name": "Cyborg Tao",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 59,
+        "kana": null,
+        "name": "Gohan (Kid) (Costume)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 60,
+        "kana": null,
+        "name": "Frieza (1st Form/Pod)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 61,
+        "kana": null,
+        "name": "Frieza (2nd Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 62,
+        "kana": null,
+        "name": "Frieza (3rd Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 63,
+        "kana": null,
+        "name": "Frieza (Final Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 64,
+        "kana": null,
+        "name": "Gohan (Battle Suit)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 65,
+        "kana": null,
+        "name": "Krillin (Battle Suit)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 66,
+        "kana": null,
+        "name": "Super Saiyan 2 Goku",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 67,
+        "kana": null,
+        "name": "Super Saiyan Bardock",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 68,
+        "kana": null,
+        "name": "Fasha",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 69,
+        "kana": null,
+        "name": "Tora",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 70,
+        "kana": null,
+        "name": "Borgos",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 71,
+        "kana": null,
+        "name": "Shugesh",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 72,
+        "kana": null,
+        "name": "Jackie Chun",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 73,
+        "kana": null,
+        "name": "Mecha Frieza",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 74,
+        "kana": null,
+        "name": "Bardock",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 75,
+        "kana": null,
+        "name": "Vegeta (Kid)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 76,
+        "kana": null,
+        "name": "Goku (Movie Version)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 77,
+        "kana": null,
+        "name": "Grandpa Gohan",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 78,
+        "kana": null,
+        "name": "Perfect Cell",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 79,
+        "kana": null,
+        "name": "Super Saiyan 2 Gohan (Youth)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 80,
+        "kana": null,
+        "name": "Cell (2nd Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 81,
+        "kana": null,
+        "name": "Cell (Perfect Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 82,
+        "kana": null,
+        "name": "Android #17 (Future)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 83,
+        "kana": null,
+        "name": "Android #18 (Future)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 84,
+        "kana": null,
+        "name": "Goku (Youth)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 85,
+        "kana": null,
+        "name": "Gohan (Grandpa)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 86,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 87,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegeta",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 88,
+        "kana": null,
+        "name": "Golden Frieza",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 89,
+        "kana": null,
+        "name": "Beerus",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 90,
+        "kana": null,
+        "name": "Whis",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 91,
+        "kana": null,
+        "name": "Vegeta",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 92,
+        "kana": null,
+        "name": "Frieza (Final Form)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 93,
+        "kana": null,
+        "name": "Sorbet",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 94,
+        "kana": null,
+        "name": "Tagoma",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 95,
+        "kana": null,
+        "name": "Krillin (Police Officer)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 96,
+        "kana": null,
+        "name": "Gohan (Teen)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 97,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Teen)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 98,
+        "kana": null,
+        "name": "Jaco",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 99,
+        "kana": null,
+        "name": "Master Roshi (Max Power)",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.174702",
+        "id": 100,
+        "kana": null,
+        "name": "Shisami",
+        "updated_at": "2024-11-14 09:19:54.174702"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 101,
+        "kana": null,
+        "name": "Tien",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 102,
+        "kana": null,
+        "name": "Piccolo",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 103,
+        "kana": null,
+        "name": "King Cold",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 104,
+        "kana": null,
+        "name": "Majin Buu (Good)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 105,
+        "kana": null,
+        "name": "Dabura",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 106,
+        "kana": null,
+        "name": "Babidi",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 107,
+        "kana": null,
+        "name": "Trunks (Kid)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 108,
+        "kana": null,
+        "name": "Goku (Kaioken)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 109,
+        "kana": null,
+        "name": "Goten (Kid)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 110,
+        "kana": null,
+        "name": "Murasaki",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 111,
+        "kana": null,
+        "name": "General Blue",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 112,
+        "kana": null,
+        "name": "Cell (Perfect Form)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 113,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 114,
+        "kana": null,
+        "name": "King Vegeta",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 115,
+        "kana": null,
+        "name": "Majin Vegeta",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 116,
+        "kana": null,
+        "name": "Majin Buu (Pure Evil)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 117,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Kid)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 118,
+        "kana": null,
+        "name": "Super Saiyan Goten (Kid)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 119,
+        "kana": null,
+        "name": "Piccolo Jr.",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 120,
+        "kana": null,
+        "name": "Mighty Mask",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 121,
+        "kana": null,
+        "name": "Chilled",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 122,
+        "kana": null,
+        "name": "Boujack",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 123,
+        "kana": null,
+        "name": "Full Power Boujack",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 124,
+        "kana": null,
+        "name": "Zangya",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 125,
+        "kana": null,
+        "name": "Gokua",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 126,
+        "kana": null,
+        "name": "Bido",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 127,
+        "kana": null,
+        "name": "Bujin",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 128,
+        "kana": null,
+        "name": "Gohan (Youth)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 129,
+        "kana": null,
+        "name": "Super Trunks",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 130,
+        "kana": null,
+        "name": "Yamcha (Short Hair)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 131,
+        "kana": null,
+        "name": "Super Saiyan 2 Vegeta",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 132,
+        "kana": null,
+        "name": "Chi-Chi (Youth)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 133,
+        "kana": null,
+        "name": "Pan (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 134,
+        "kana": null,
+        "name": "Android #13",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 135,
+        "kana": null,
+        "name": "Fusion Android #13",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 136,
+        "kana": null,
+        "name": "Paikuhan",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 137,
+        "kana": null,
+        "name": "Android #14",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 138,
+        "kana": null,
+        "name": "Android #15",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 139,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 140,
+        "kana": null,
+        "name": "Buu (Super)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 141,
+        "kana": null,
+        "name": "Cooler",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 142,
+        "kana": null,
+        "name": "Cooler (Final Form)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 143,
+        "kana": null,
+        "name": "Thouser",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 144,
+        "kana": null,
+        "name": "Doure",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 145,
+        "kana": null,
+        "name": "Naise",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 146,
+        "kana": null,
+        "name": "Uub (Youth)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 147,
+        "kana": null,
+        "name": "Great Saiyaman",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 148,
+        "kana": null,
+        "name": "Great Saiyaman 2",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 149,
+        "kana": null,
+        "name": "Ultimate Gohan",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 150,
+        "kana": null,
+        "name": "Buu (Kid)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 151,
+        "kana": null,
+        "name": "Bulma",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 152,
+        "kana": null,
+        "name": "Krillin (Youth)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 153,
+        "kana": null,
+        "name": "Goku (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 154,
+        "kana": null,
+        "name": "Super Saiyan God Goku",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 155,
+        "kana": null,
+        "name": "Mr. Buu",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 156,
+        "kana": null,
+        "name": "Turles",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 157,
+        "kana": null,
+        "name": "Cacao",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 158,
+        "kana": null,
+        "name": "Daiz",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 159,
+        "kana": null,
+        "name": "Amond",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 160,
+        "kana": null,
+        "name": "Rasin",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 161,
+        "kana": null,
+        "name": "Lakasei",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 162,
+        "kana": null,
+        "name": "Mr. Popo",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 163,
+        "kana": null,
+        "name": "0",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 164,
+        "kana": null,
+        "name": "Goku (Angel)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 165,
+        "kana": null,
+        "name": "Demon King Piccolo (Elder)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 166,
+        "kana": null,
+        "name": "Demon King Piccolo",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 167,
+        "kana": null,
+        "name": "Devilman",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 168,
+        "kana": null,
+        "name": "Bulma (Youth)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 169,
+        "kana": null,
+        "name": "Tien",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 170,
+        "kana": null,
+        "name": "Yamcha",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 171,
+        "kana": null,
+        "name": "Oolong",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 172,
+        "kana": null,
+        "name": "King Chappa",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 173,
+        "kana": null,
+        "name": "Dracula Man",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 174,
+        "kana": null,
+        "name": "Bandages",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 175,
+        "kana": null,
+        "name": "Super Saiyan Goku (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 176,
+        "kana": null,
+        "name": "Super Saiyan Trunks (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 177,
+        "kana": null,
+        "name": "Majuub",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 178,
+        "kana": null,
+        "name": "Vegeta (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 179,
+        "kana": null,
+        "name": "Super Saiyan Gohan (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 180,
+        "kana": null,
+        "name": "Hercule (GT)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 181,
+        "kana": null,
+        "name": "Elder Kai",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 182,
+        "kana": null,
+        "name": "Vegito",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 183,
+        "kana": null,
+        "name": "Pan (Kid)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 184,
+        "kana": null,
+        "name": "Majin Buu (Piccolo)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 185,
+        "kana": null,
+        "name": "Supreme Kai",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 186,
+        "kana": null,
+        "name": "Legendary Super Saiyan Broly",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 187,
+        "kana": null,
+        "name": "Paragus",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 188,
+        "kana": null,
+        "name": "Broly",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 189,
+        "kana": null,
+        "name": "Super Saiyan Broly",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 190,
+        "kana": null,
+        "name": "Metal Cooler [AGL]",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 191,
+        "kana": null,
+        "name": "Metal Cooler [TEQ]",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 192,
+        "kana": null,
+        "name": "Metal Cooler [INT]",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 193,
+        "kana": null,
+        "name": "Metal Cooler [STR]",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 194,
+        "kana": null,
+        "name": "Metal Cooler [PHY]",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 195,
+        "kana": null,
+        "name": "Metal Cooler",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 196,
+        "kana": null,
+        "name": "Cyclopian Guards",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 197,
+        "kana": null,
+        "name": "Super Vegeta",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 198,
+        "kana": null,
+        "name": "Gotenks",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 199,
+        "kana": null,
+        "name": "Bulma (Bunny)",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.180480",
+        "id": 200,
+        "kana": null,
+        "name": "Launch",
+        "updated_at": "2024-11-14 09:19:54.180480"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 201,
+        "kana": null,
+        "name": "Staff Officer Black",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 202,
+        "kana": null,
+        "name": "Giran",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 203,
+        "kana": null,
+        "name": "Hatchiyack",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 204,
+        "kana": null,
+        "name": "Gotenks (Failure) A",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 205,
+        "kana": null,
+        "name": "Gotenks (Failure) B",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 206,
+        "kana": null,
+        "name": "Uub (Teen)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 207,
+        "kana": null,
+        "name": "Kibito",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 208,
+        "kana": null,
+        "name": "Super Janemba",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 209,
+        "kana": null,
+        "name": "Super Saiyan 2 Gohan (Teen)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 210,
+        "kana": null,
+        "name": "Super Saiyan 3 Vegeta",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 211,
+        "kana": null,
+        "name": "Super Saiyan Goku (Angel)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 212,
+        "kana": null,
+        "name": "Kibito Kai",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 213,
+        "kana": null,
+        "name": "Super Gogeta",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 214,
+        "kana": null,
+        "name": "Veku",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 215,
+        "kana": null,
+        "name": "Janemba",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 216,
+        "kana": null,
+        "name": "Super Saiyan Vegeta (Angel)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 217,
+        "kana": null,
+        "name": "Super Saiyan Gotenks",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 218,
+        "kana": null,
+        "name": "Giant Ape Goku (Youth)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 219,
+        "kana": null,
+        "name": "Kami",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 220,
+        "kana": null,
+        "name": "Mutaito",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 221,
+        "kana": null,
+        "name": "Namu",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 222,
+        "kana": null,
+        "name": "Bacterian",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 223,
+        "kana": null,
+        "name": "Super Saiyan Vegeta (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 224,
+        "kana": null,
+        "name": "Towa",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 225,
+        "kana": null,
+        "name": "Mira",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 226,
+        "kana": null,
+        "name": "Demigra",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 227,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 228,
+        "kana": null,
+        "name": "Supreme Kai of Time",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 229,
+        "kana": null,
+        "name": "Trunks (Youth) (Future)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 230,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Future)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 231,
+        "kana": null,
+        "name": "Gohan (Future)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 232,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Future)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 233,
+        "kana": null,
+        "name": "Frieza (Full Power)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 234,
+        "kana": null,
+        "name": "Super Zarbon",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 235,
+        "kana": null,
+        "name": "Ginyu (Goku)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 236,
+        "kana": null,
+        "name": "Super Saiyan 2 Goku (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 237,
+        "kana": null,
+        "name": "Meta-Rilldo",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 238,
+        "kana": null,
+        "name": "Baby (Youth Form)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 239,
+        "kana": null,
+        "name": "General Rilldo",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 240,
+        "kana": null,
+        "name": "Hyper Meta-Rilldo",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 241,
+        "kana": null,
+        "name": "Super Saiyan 2 Goku (Angel)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 242,
+        "kana": null,
+        "name": "Majin Buu (Gotenks)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 243,
+        "kana": null,
+        "name": "Great Saiyaman (SS2)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 244,
+        "kana": null,
+        "name": "Super Saiyan 2 Trunks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 245,
+        "kana": null,
+        "name": "Nappa (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 246,
+        "kana": null,
+        "name": "Goku (Youth) (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 247,
+        "kana": null,
+        "name": "Vegeta (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 248,
+        "kana": null,
+        "name": "Raditz (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 249,
+        "kana": null,
+        "name": "Gohan (Youth) (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 250,
+        "kana": null,
+        "name": "Tarble",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 251,
+        "kana": null,
+        "name": "Grand Supreme Kai",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 252,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 253,
+        "kana": null,
+        "name": "Super Baby 2",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 254,
+        "kana": null,
+        "name": "Goten Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 255,
+        "kana": null,
+        "name": "SS Goten Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 256,
+        "kana": null,
+        "name": "Baby Vegeta",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 257,
+        "kana": null,
+        "name": "Gohan (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 258,
+        "kana": null,
+        "name": "Goten (GT)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 259,
+        "kana": null,
+        "name": "Bardock (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 260,
+        "kana": null,
+        "name": "Fasha (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 261,
+        "kana": null,
+        "name": "Tora (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 262,
+        "kana": null,
+        "name": "Shugesh (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 263,
+        "kana": null,
+        "name": "Borgos (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 264,
+        "kana": null,
+        "name": "Super Vegito",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 265,
+        "kana": null,
+        "name": "Piccolo Jr. (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 266,
+        "kana": null,
+        "name": "Pan (GT) (Honey)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 267,
+        "kana": null,
+        "name": "Hit",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 268,
+        "kana": null,
+        "name": "Botamo",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 269,
+        "kana": null,
+        "name": "Frost (Final Form)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 270,
+        "kana": null,
+        "name": "Magetta",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 271,
+        "kana": null,
+        "name": "Cabba",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 272,
+        "kana": null,
+        "name": "Super Saiyan Cabba",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 273,
+        "kana": null,
+        "name": "Super Saiyan 3 Gotenks",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 274,
+        "kana": null,
+        "name": "Yamhan",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 275,
+        "kana": null,
+        "name": "Champa",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 276,
+        "kana": null,
+        "name": "Frost",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 277,
+        "kana": null,
+        "name": "Frost (Assault Form)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 278,
+        "kana": null,
+        "name": "Karoly",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 279,
+        "kana": null,
+        "name": "Coolieza",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 280,
+        "kana": null,
+        "name": "Pandel",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 281,
+        "kana": null,
+        "name": "Barlot",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 282,
+        "kana": null,
+        "name": "Chiaoman",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 283,
+        "kana": null,
+        "name": "Bulpan",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 284,
+        "kana": null,
+        "name": "Janembu",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 285,
+        "kana": null,
+        "name": "Majin Buu (Ultimate Gohan)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 286,
+        "kana": null,
+        "name": "Majin Buu (South Supreme Kai)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 287,
+        "kana": null,
+        "name": "Turles (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 288,
+        "kana": null,
+        "name": "Androids #17 & #18",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 289,
+        "kana": null,
+        "name": "Gotenks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 290,
+        "kana": null,
+        "name": "Super Saiyan Gotenks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 291,
+        "kana": null,
+        "name": "Super Paikuhan",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 292,
+        "kana": null,
+        "name": "Baby Janemba",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 293,
+        "kana": null,
+        "name": "Buu (Kid) (Babidi)",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 294,
+        "kana": null,
+        "name": "Omega Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 295,
+        "kana": null,
+        "name": "Syn Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 296,
+        "kana": null,
+        "name": "Haze Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 297,
+        "kana": null,
+        "name": "Eis Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 298,
+        "kana": null,
+        "name": "Nuova Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 299,
+        "kana": null,
+        "name": "Rage Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.186008",
+        "id": 300,
+        "kana": null,
+        "name": "Oceanus Shenron",
+        "updated_at": "2024-11-14 09:19:54.186008"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 301,
+        "kana": null,
+        "name": "Naturon Shenron",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 302,
+        "kana": null,
+        "name": "Super Saiyan 3 Vegeta (GT)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 303,
+        "kana": null,
+        "name": "Tekka",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 304,
+        "kana": null,
+        "name": "Pinich",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 305,
+        "kana": null,
+        "name": "Goku Black",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 306,
+        "kana": null,
+        "name": "Arale Norimaki",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 307,
+        "kana": null,
+        "name": "Obotchaman",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 308,
+        "kana": null,
+        "name": "Sourman",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 309,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegito",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 310,
+        "kana": null,
+        "name": "Goku Black (Super Saiyan Rosé)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 311,
+        "kana": null,
+        "name": "Trunks (Teen) (Future)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 312,
+        "kana": null,
+        "name": "Mai (Future)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 313,
+        "kana": null,
+        "name": "Zamasu",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 314,
+        "kana": null,
+        "name": "Master Roshi (Santa)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 315,
+        "kana": null,
+        "name": "Fusion Zamasu",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 316,
+        "kana": null,
+        "name": "Super Saiyan 4 Goku",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 317,
+        "kana": null,
+        "name": "Super Saiyan 4 Vegeta",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 318,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (GT) (Golden Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 319,
+        "kana": null,
+        "name": "Super Baby 2 (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 320,
+        "kana": null,
+        "name": "Super Baby 1",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 321,
+        "kana": null,
+        "name": "Gohan Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 322,
+        "kana": null,
+        "name": "SS Gohan Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 323,
+        "kana": null,
+        "name": "Trunks Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 324,
+        "kana": null,
+        "name": "SS Trunks Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 325,
+        "kana": null,
+        "name": "Captain Ginyu (Ginyu Force)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 326,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 327,
+        "kana": null,
+        "name": "Masked Saiyan",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 328,
+        "kana": null,
+        "name": "Super Saiyan 2 Bardock",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 329,
+        "kana": null,
+        "name": "Monster Carrot",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 330,
+        "kana": null,
+        "name": "Hell Fighter #17",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 331,
+        "kana": null,
+        "name": "Super #17",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 332,
+        "kana": null,
+        "name": "Goku Jr.",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 333,
+        "kana": null,
+        "name": "Super Saiyan Goku Jr.",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 334,
+        "kana": null,
+        "name": "Super Saiyan 3 Gotenks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 335,
+        "kana": null,
+        "name": "Bio-Broly",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 336,
+        "kana": null,
+        "name": "Goku Black & Zamasu",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 337,
+        "kana": null,
+        "name": "Goku Black (Super Saiyan Rosé) & Zamasu",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 338,
+        "kana": null,
+        "name": "Super Saiyan 3 Broly",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 339,
+        "kana": null,
+        "name": "Super Saiyan 4 Gogeta",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 340,
+        "kana": null,
+        "name": "Super Saiyan Goku (Angel) (Super Kaioken)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 341,
+        "kana": null,
+        "name": "Perfect Cell (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 342,
+        "kana": null,
+        "name": "Frieza (Final Form) (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 343,
+        "kana": null,
+        "name": "King Cold (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 344,
+        "kana": null,
+        "name": "Kale (Berserk)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 345,
+        "kana": null,
+        "name": "Super Saiyan 2 Caulifla",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 346,
+        "kana": null,
+        "name": "Whirus",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 347,
+        "kana": null,
+        "name": "Cellza",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 348,
+        "kana": null,
+        "name": "Trunks (Kid) & Goten (Kid)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 349,
+        "kana": null,
+        "name": "Ranfan",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 350,
+        "kana": null,
+        "name": "Bergamo (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 351,
+        "kana": null,
+        "name": "Majin Buu (Shape-Up)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 352,
+        "kana": null,
+        "name": "Toppo",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 353,
+        "kana": null,
+        "name": "Dr. Lychee",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 354,
+        "kana": null,
+        "name": "Golden Frieza (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 355,
+        "kana": null,
+        "name": "Yurin",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 356,
+        "kana": null,
+        "name": "Goku (Ultra Instinct -Sign-)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 357,
+        "kana": null,
+        "name": "Full Power Boujack (Galactic Warrior)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 358,
+        "kana": null,
+        "name": "Grand Kai",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 359,
+        "kana": null,
+        "name": "Vegito (Candy)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 360,
+        "kana": null,
+        "name": "Super Saiyan Kefla",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 361,
+        "kana": null,
+        "name": "Tien & Chiaotzu",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 362,
+        "kana": null,
+        "name": "Man-Wolf",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 363,
+        "kana": null,
+        "name": "Pamput",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 364,
+        "kana": null,
+        "name": "Super Saiyan 2 Vegeta & Bulma",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 365,
+        "kana": null,
+        "name": "Darkness Towa",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 366,
+        "kana": null,
+        "name": "Super Saiyan 3 Trunks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 367,
+        "kana": null,
+        "name": "Super Saiyan 3 Gohan (Teen)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 368,
+        "kana": null,
+        "name": "Super Saiyan 3 Bardock",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 369,
+        "kana": null,
+        "name": "Tapion (Hirudegarn)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 370,
+        "kana": null,
+        "name": "Tapion",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 371,
+        "kana": null,
+        "name": "Hoi",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 372,
+        "kana": null,
+        "name": "Minotia",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 373,
+        "kana": null,
+        "name": "Goku & Vegeta",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 374,
+        "kana": null,
+        "name": "Super Saiyan Goku & Super Saiyan Vegeta",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 375,
+        "kana": null,
+        "name": "Super Vegito",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 376,
+        "kana": null,
+        "name": "Goku (Angel) & Vegeta (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 377,
+        "kana": null,
+        "name": "Super Saiyan Goku (Angel) & Super Saiyan Vegeta (Angel)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 378,
+        "kana": null,
+        "name": "Super Gogeta",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 379,
+        "kana": null,
+        "name": "Ginyu (Goku) (Ginyu Force)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 380,
+        "kana": null,
+        "name": "Jiren",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 381,
+        "kana": null,
+        "name": "Goku (Ultra Instinct)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 382,
+        "kana": null,
+        "name": "Super Saiyan 2 Kefla",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 383,
+        "kana": null,
+        "name": "Caulifla",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 384,
+        "kana": null,
+        "name": "Kale",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 385,
+        "kana": null,
+        "name": "Super Saiyan 2 Kale",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 386,
+        "kana": null,
+        "name": "Super Saiyan 2 Cabba",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 387,
+        "kana": null,
+        "name": "Super Ribrianne",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 388,
+        "kana": null,
+        "name": "Turles",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 389,
+        "kana": null,
+        "name": "Dragon Ball Heroines",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 390,
+        "kana": null,
+        "name": "Beerus & Whis",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 391,
+        "kana": null,
+        "name": "Super Saiyan God SS Evolved Vegeta",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 392,
+        "kana": null,
+        "name": "Toppo (God of Destruction Mode)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 393,
+        "kana": null,
+        "name": "Dyspo",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 394,
+        "kana": null,
+        "name": "Dyspo (Super Speed Mode)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 395,
+        "kana": null,
+        "name": "Ribrianne",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 396,
+        "kana": null,
+        "name": "Ribrianne (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 397,
+        "kana": null,
+        "name": "Elder Kai (Dozing)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 398,
+        "kana": null,
+        "name": "Lord Slug",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 399,
+        "kana": null,
+        "name": "Lord Slug (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.191434",
+        "id": 400,
+        "kana": null,
+        "name": "Super Full Power Saiyan 4 Goku",
+        "updated_at": "2024-11-14 09:19:54.191434"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 401,
+        "kana": null,
+        "name": "Frieza (Final Form) (GT)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 402,
+        "kana": null,
+        "name": "Cell (Perfect Form) (GT)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 403,
+        "kana": null,
+        "name": "Android #18 (GT)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 404,
+        "kana": null,
+        "name": "Metal Cooler Army",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 405,
+        "kana": null,
+        "name": "Bulla",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 406,
+        "kana": null,
+        "name": "Android #21 (Normal)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 407,
+        "kana": null,
+        "name": "Android #21 (Transformed, Good)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 408,
+        "kana": null,
+        "name": "Android #21 (Transformed)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 409,
+        "kana": null,
+        "name": "Android #21 (Transformed, Evil)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 410,
+        "kana": null,
+        "name": "Great Saiyaman 1 & 2",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 411,
+        "kana": null,
+        "name": "Cell (Perfect Form) & Cell Jr.",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 412,
+        "kana": null,
+        "name": "Goku & Frieza (Final Form) (Angel)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 413,
+        "kana": null,
+        "name": "Trunks (Kid) & Goten (Kid) & Marron",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 414,
+        "kana": null,
+        "name": "Piccolo",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 415,
+        "kana": null,
+        "name": "Super Saiyan 2 Goku",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 416,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 417,
+        "kana": null,
+        "name": "Super Saiyan God Goku",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 418,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 419,
+        "kana": null,
+        "name": "Frieza (2nd Form)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 420,
+        "kana": null,
+        "name": "Frieza (3rd Form)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 421,
+        "kana": null,
+        "name": "Frieza (Final Form)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 422,
+        "kana": null,
+        "name": "Golden Frieza",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 423,
+        "kana": null,
+        "name": "Majin Buu (Ultimate Gohan) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 424,
+        "kana": null,
+        "name": "Majin Buu (Gotenks) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 425,
+        "kana": null,
+        "name": "Majin Buu (Piccolo) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 426,
+        "kana": null,
+        "name": "West Supreme Kai",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 427,
+        "kana": null,
+        "name": "Super Saiyan Gotenks & Ghost",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 428,
+        "kana": null,
+        "name": "Pasta",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 430,
+        "kana": null,
+        "name": "Beerus (Monaka Costume)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 431,
+        "kana": null,
+        "name": "Brianne de Chateau",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 432,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 433,
+        "kana": null,
+        "name": "Super Saiyan 3 Vegeta (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 434,
+        "kana": null,
+        "name": "Supreme Kai of Time (Power of Time Unleashed)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 435,
+        "kana": null,
+        "name": "Super Mira",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 436,
+        "kana": null,
+        "name": "Demigra (Makyouka Form)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 437,
+        "kana": null,
+        "name": "Dark Masked King",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 438,
+        "kana": null,
+        "name": "Black Masked Saiyan",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 439,
+        "kana": null,
+        "name": "Gohan (Teen) & Videl",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 440,
+        "kana": null,
+        "name": "Yamcha & Puar",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 441,
+        "kana": null,
+        "name": "Goku Black (Super Saiyan Rosé) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 442,
+        "kana": null,
+        "name": "Bota Magetta",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 443,
+        "kana": null,
+        "name": "Frost (Full Power)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 444,
+        "kana": null,
+        "name": "Trunks (Teen) (Future) & Mai (Future)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 445,
+        "kana": null,
+        "name": "Trunks (Kid) & Mai",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 446,
+        "kana": null,
+        "name": "Super Saiyan Gogeta",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 447,
+        "kana": null,
+        "name": "Super Saiyan God SS Gogeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 448,
+        "kana": null,
+        "name": "Super Saiyan God Vegeta",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 449,
+        "kana": null,
+        "name": "Super Saiyan Broly (Full Power) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 450,
+        "kana": null,
+        "name": "Broly (Wrathful)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 451,
+        "kana": null,
+        "name": "Paragus & Broly",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 452,
+        "kana": null,
+        "name": "Giru",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 453,
+        "kana": null,
+        "name": "Vegeta Jr.",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 454,
+        "kana": null,
+        "name": "Super Saiyan Vegeta Jr.",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 455,
+        "kana": null,
+        "name": "Goku (GT) & Pan (GT) & Trunks (GT)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 456,
+        "kana": null,
+        "name": "Majuub (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 457,
+        "kana": null,
+        "name": "Goku (Youth) & Arale Norimaki",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 458,
+        "kana": null,
+        "name": "Super Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 459,
+        "kana": null,
+        "name": "Super Saiyan 2 Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 460,
+        "kana": null,
+        "name": "Super Saiyan God Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 461,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 462,
+        "kana": null,
+        "name": "Duplicate Vegeta",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 463,
+        "kana": null,
+        "name": "Duplicate Vegeta (Super Saiyan God SS)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 464,
+        "kana": null,
+        "name": "Goku (Dokkan Butoden)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 465,
+        "kana": null,
+        "name": "Vegeta (Dokkan Butoden)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 466,
+        "kana": null,
+        "name": "Saonel & Pirina",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 467,
+        "kana": null,
+        "name": "Vados",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 468,
+        "kana": null,
+        "name": "Gohan (Teen) & Goten (Kid)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 469,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 470,
+        "kana": null,
+        "name": "Legendary Super Saiyan Broly (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 471,
+        "kana": null,
+        "name": "Caulifla & Kale",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 472,
+        "kana": null,
+        "name": "Super Saiyan Caulifla & Super Saiyan Kale",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 473,
+        "kana": null,
+        "name": "Super Saiyan 2 Caulifla & Super Saiyan 2 Kale",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 474,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Future) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 475,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Future) (Boost)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 476,
+        "kana": null,
+        "name": "Fusion Zamasu (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 477,
+        "kana": null,
+        "name": "Fusion Zamasu (Mutation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 478,
+        "kana": null,
+        "name": "Gowasu",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 479,
+        "kana": null,
+        "name": "Gowasu & Zamasu",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 480,
+        "kana": null,
+        "name": "Gogeta",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 481,
+        "kana": null,
+        "name": "Hacchan",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 482,
+        "kana": null,
+        "name": "Ox King",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 483,
+        "kana": null,
+        "name": "Super Saiyan Goku (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 484,
+        "kana": null,
+        "name": "Sealas",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 485,
+        "kana": null,
+        "name": "Sealas (Fused)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 486,
+        "kana": null,
+        "name": "Great Saiyaman 3",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 487,
+        "kana": null,
+        "name": "Goku (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 488,
+        "kana": null,
+        "name": "Vegeta (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 489,
+        "kana": null,
+        "name": "Beat",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 490,
+        "kana": null,
+        "name": "Great Saiyaman 4",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 491,
+        "kana": null,
+        "name": "Ahms (2nd Form)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 492,
+        "kana": null,
+        "name": "Ahms (3rd Form)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 493,
+        "kana": null,
+        "name": "Mecha Frieza & King Cold",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 494,
+        "kana": null,
+        "name": "Super Saiyan 2 Gohan (Youth) (Awakening)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 495,
+        "kana": null,
+        "name": "Perfect Cell (Evolution)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 496,
+        "kana": null,
+        "name": "Goku (Youth) & Bulma (Youth)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 497,
+        "kana": null,
+        "name": "Super Vegeta/Super Trunks",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 498,
+        "kana": null,
+        "name": "Super Trunks (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 499,
+        "kana": null,
+        "name": "Piccolo (Fused with Kami)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 500,
+        "kana": null,
+        "name": "Ribrianne (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.197359",
+        "id": 501,
+        "kana": null,
+        "name": "Super Saiyan Goku/Super Saiyan Gohan (Youth)",
+        "updated_at": "2024-11-14 09:19:54.197359"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 502,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Youth) (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 503,
+        "kana": null,
+        "name": "Androids #17 & #18/Android #16",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 504,
+        "kana": null,
+        "name": "Android #16 (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 505,
+        "kana": null,
+        "name": "Trunks (Kid) (Great Saiyaman)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 506,
+        "kana": null,
+        "name": "Invisible Man",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 507,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Future) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 508,
+        "kana": null,
+        "name": "Cooler (Final Form) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 509,
+        "kana": null,
+        "name": "Thouser (Cooler's Armored Squad)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 510,
+        "kana": null,
+        "name": "Cumber",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 511,
+        "kana": null,
+        "name": "Super Saiyan Cumber (Giant Ape Cumber)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 512,
+        "kana": null,
+        "name": "Golden Cooler",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 513,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku (Kaioken)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 514,
+        "kana": null,
+        "name": "Fu",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 515,
+        "kana": null,
+        "name": "Super Fu",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 516,
+        "kana": null,
+        "name": "Gotenks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 517,
+        "kana": null,
+        "name": "Vegeks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 518,
+        "kana": null,
+        "name": "Gohanks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 519,
+        "kana": null,
+        "name": "Evil Saiyan",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 520,
+        "kana": null,
+        "name": "Fusion Android #13 (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 521,
+        "kana": null,
+        "name": "Androids #14 & #15",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 522,
+        "kana": null,
+        "name": "Babidi & Dabura",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 523,
+        "kana": null,
+        "name": "Goku (Santa)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 524,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (Angel) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 525,
+        "kana": null,
+        "name": "Majin Vegeta (Boost)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 526,
+        "kana": null,
+        "name": "Great Saiyaman (SS)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 527,
+        "kana": null,
+        "name": "Great Saiyaman (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 528,
+        "kana": null,
+        "name": "Yamu & Spopovich",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 529,
+        "kana": null,
+        "name": "Babarian",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 530,
+        "kana": null,
+        "name": "Broly (Kid)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 531,
+        "kana": null,
+        "name": "Raditz (Kid)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 532,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegito (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 533,
+        "kana": null,
+        "name": "Super Saiyan God SS Gogeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 534,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Future) & Mai (Future)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 535,
+        "kana": null,
+        "name": "Bardock & Gine",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 536,
+        "kana": null,
+        "name": "Vegeta (Kid) & Raditz (Kid)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 537,
+        "kana": null,
+        "name": "Zamasu (Goku)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 538,
+        "kana": null,
+        "name": "Jackie Chun (Max Power)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 539,
+        "kana": null,
+        "name": "Broly & Cheelai & Lemo",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 540,
+        "kana": null,
+        "name": "Team Bardock",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 541,
+        "kana": null,
+        "name": "Super Saiyan Bardock (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 542,
+        "kana": null,
+        "name": "Demon King Piccolo (Rejuvenated)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 543,
+        "kana": null,
+        "name": "Nappa/Vegeta",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 544,
+        "kana": null,
+        "name": "Vegeta (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 545,
+        "kana": null,
+        "name": "Super Saiyan Gotenks (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 546,
+        "kana": null,
+        "name": "Super Saiyan 3 Gotenks (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 547,
+        "kana": null,
+        "name": "Majin Buu (Pure Evil) (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 548,
+        "kana": null,
+        "name": "Buu (Super) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 549,
+        "kana": null,
+        "name": "Majin Buu (Good)/Majin Buu (Pure Evil)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 550,
+        "kana": null,
+        "name": "Kefla",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 551,
+        "kana": null,
+        "name": "Super Saiyan Kefla (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 552,
+        "kana": null,
+        "name": "Super Saiyan 2 Kefla (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 553,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku & Super Saiyan God SS Vegeta",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 554,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku (Kaioken) & Super Saiyan God SS Evolved Vegeta",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 555,
+        "kana": null,
+        "name": "Jiren (Full Power)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 556,
+        "kana": null,
+        "name": "Toppo (Pride Troopers)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 557,
+        "kana": null,
+        "name": "Goku & Gohan (Kid)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 558,
+        "kana": null,
+        "name": "Kahseral (Pride Troopers)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 559,
+        "kana": null,
+        "name": "Supreme Kai & Kibito",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 560,
+        "kana": null,
+        "name": "Great Saiyaman 2/1",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 561,
+        "kana": null,
+        "name": "Goku & Vegeta (Angel)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 562,
+        "kana": null,
+        "name": "Great Saiyaman 1 (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 563,
+        "kana": null,
+        "name": "Super Vegito (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 564,
+        "kana": null,
+        "name": "Majin Buu (Ultimate Gohan) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 565,
+        "kana": null,
+        "name": "Goku (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 566,
+        "kana": null,
+        "name": "Hercule/Majin Buu (Good)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 567,
+        "kana": null,
+        "name": "Majin Buu (Good) (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 568,
+        "kana": null,
+        "name": "Ultimate Gohan (Boost)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 569,
+        "kana": null,
+        "name": "Kibito Kai (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 570,
+        "kana": null,
+        "name": "Vegeta (Angel)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 571,
+        "kana": null,
+        "name": "Super Saiyan 2 Vegeta (Angel)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 572,
+        "kana": null,
+        "name": "Launch (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 573,
+        "kana": null,
+        "name": "Mo Kekko",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 574,
+        "kana": null,
+        "name": "Golden Frieza & Sorbet",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 575,
+        "kana": null,
+        "name": "Golden Frieza (Angel) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 576,
+        "kana": null,
+        "name": "Grandpa Gohan & Pan (GT)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 577,
+        "kana": null,
+        "name": "Mira (Final Form) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 578,
+        "kana": null,
+        "name": "Team Turles",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 579,
+        "kana": null,
+        "name": "Vegeta (GT) (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 580,
+        "kana": null,
+        "name": "Super Saiyan 4 Vegito (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 581,
+        "kana": null,
+        "name": "Super Saiyan 4 Broly",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 582,
+        "kana": null,
+        "name": "Super Saiyan 4 Bardock",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 583,
+        "kana": null,
+        "name": "Super Saiyan 4 Gohan",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 584,
+        "kana": null,
+        "name": "Demon Goddess Towa",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 585,
+        "kana": null,
+        "name": "Demon God Dabura (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 586,
+        "kana": null,
+        "name": "Demon God Salsa",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 587,
+        "kana": null,
+        "name": "Babidi & Majin Buu (Good)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 588,
+        "kana": null,
+        "name": "Full Power Boujack (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 589,
+        "kana": null,
+        "name": "Gohan (Kid) (Santa)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 590,
+        "kana": null,
+        "name": "Annin",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 591,
+        "kana": null,
+        "name": "Super Janemba (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 592,
+        "kana": null,
+        "name": "Ultimate Gohan & Piccolo",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 593,
+        "kana": null,
+        "name": "Golden Frieza (Angel) & Ultimate Gohan",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 594,
+        "kana": null,
+        "name": "Goku (Ultra Instinct)",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 595,
+        "kana": null,
+        "name": "Super Saiyan God SS Evolved Vegeta",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 596,
+        "kana": null,
+        "name": "Darcoli",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 597,
+        "kana": null,
+        "name": "Iwne",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 598,
+        "kana": null,
+        "name": "Heles",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 599,
+        "kana": null,
+        "name": "Mosco",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 600,
+        "kana": null,
+        "name": "Quitela",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.202719",
+        "id": 601,
+        "kana": null,
+        "name": "Arack",
+        "updated_at": "2024-11-14 09:19:54.202719"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 602,
+        "kana": null,
+        "name": "Liquiir",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 603,
+        "kana": null,
+        "name": "Sidra",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 604,
+        "kana": null,
+        "name": "Rumsshi",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 605,
+        "kana": null,
+        "name": "Belmod",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 606,
+        "kana": null,
+        "name": "Geene",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 607,
+        "kana": null,
+        "name": "Krillin & Android #18",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 608,
+        "kana": null,
+        "name": "Master Roshi & Tien",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 609,
+        "kana": null,
+        "name": "Ganos (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 610,
+        "kana": null,
+        "name": "The Preecho",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 611,
+        "kana": null,
+        "name": "Golden Frieza (Angel) & Android #17",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 612,
+        "kana": null,
+        "name": "Android #17 (Team Universe 7)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 613,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Kid) & Super Saiyan Goten (Kid)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 614,
+        "kana": null,
+        "name": "Great Saiyaman & Videl",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 615,
+        "kana": null,
+        "name": "Tapion & Minotia",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 616,
+        "kana": null,
+        "name": "Gohan (GT) & Goten (GT)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 617,
+        "kana": null,
+        "name": "Trunks (GT) & Goten (GT)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 618,
+        "kana": null,
+        "name": "Legion of Shadow Dragons",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 619,
+        "kana": null,
+        "name": "Baby",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 620,
+        "kana": null,
+        "name": "Ginger",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 621,
+        "kana": null,
+        "name": "Sansyo",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 622,
+        "kana": null,
+        "name": "Nikky",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 623,
+        "kana": null,
+        "name": "Garlic Jr.",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 624,
+        "kana": null,
+        "name": "Super Garlic Jr.",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 625,
+        "kana": null,
+        "name": "Goku & Piccolo",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 626,
+        "kana": null,
+        "name": "Frieza (Final Form) & Army of the Dead",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 627,
+        "kana": null,
+        "name": "Piccolo & Krillin",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 628,
+        "kana": null,
+        "name": "Super Gogeta (Fusion)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 629,
+        "kana": null,
+        "name": "Kyawei",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 630,
+        "kana": null,
+        "name": "Marcarita",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 631,
+        "kana": null,
+        "name": "Zarbon & Dodoria",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 632,
+        "kana": null,
+        "name": "Krillin/Vegeta",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 633,
+        "kana": null,
+        "name": "Vegeta (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 634,
+        "kana": null,
+        "name": "Krillin & Gohan (Kid)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 635,
+        "kana": null,
+        "name": "Vegeta/Goku",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 636,
+        "kana": null,
+        "name": "Krillin & Gohan (Kid) (Outfit Change)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 637,
+        "kana": null,
+        "name": "Super Saiyan 2 Kefla (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 638,
+        "kana": null,
+        "name": "Nappa (Teen)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 639,
+        "kana": null,
+        "name": "Hit & Super Saiyan God Goku",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 640,
+        "kana": null,
+        "name": "Goku (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 641,
+        "kana": null,
+        "name": "Hacchan (Berserk)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 642,
+        "kana": null,
+        "name": "Hacchan & Android #17",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 643,
+        "kana": null,
+        "name": "Konkon",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 644,
+        "kana": null,
+        "name": "Chacha",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 645,
+        "kana": null,
+        "name": "Akkah",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 646,
+        "kana": null,
+        "name": "Aoh",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 647,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Teen) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 648,
+        "kana": null,
+        "name": "Supreme Kai of Time (Brainwashed)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 649,
+        "kana": null,
+        "name": "Dark King Mechikabura (Power of Time Unleashed)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 650,
+        "kana": null,
+        "name": "Super Saiyan God Trunks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 651,
+        "kana": null,
+        "name": "Demon Goddess Putine",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 652,
+        "kana": null,
+        "name": "Pan (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 653,
+        "kana": null,
+        "name": "Robelu",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 654,
+        "kana": null,
+        "name": "Super Saiyan Goku (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 655,
+        "kana": null,
+        "name": "Super Saiyan Vegeta (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 656,
+        "kana": null,
+        "name": "Super Saiyan Vegeks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 657,
+        "kana": null,
+        "name": "Super Saiyan 3 Gohanks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 658,
+        "kana": null,
+        "name": "Super Saiyan 3 Gotenks (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 659,
+        "kana": null,
+        "name": "Androids #17 (Future) & #18 (Future)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 660,
+        "kana": null,
+        "name": "Dr. Gero & Android #19",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 661,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Future) & Trunks (Youth) (Future)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 662,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Future) & Trunks (Youth) (Future)/Super Saiyan Gohan (Future)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 663,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Future) (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 664,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 665,
+        "kana": null,
+        "name": "Super Saiyan God Goku & Super Saiyan God Vegeta",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 666,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku & Super Saiyan God SS Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 667,
+        "kana": null,
+        "name": "Super Saiyan 4 Goku & Super Saiyan 4 Vegeta",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 668,
+        "kana": null,
+        "name": "Super Saiyan 4 Gogeta (Fusion)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 669,
+        "kana": null,
+        "name": "Gohan (Teen) & Goten (Kid) & Trunks (Kid)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 670,
+        "kana": null,
+        "name": "Goku & Chi-Chi",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 671,
+        "kana": null,
+        "name": "Vegeta & Bulma",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 672,
+        "kana": null,
+        "name": "Vegeta & Bulma (Outfit Change)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 673,
+        "kana": null,
+        "name": "Goku Jr. & Vegeta Jr.",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 674,
+        "kana": null,
+        "name": "Super Saiyan Goku Jr. & Super Saiyan Vegeta Jr.",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 675,
+        "kana": null,
+        "name": "Ginyu (Goku) (Body Change)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 676,
+        "kana": null,
+        "name": "Jeice & Burter",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 677,
+        "kana": null,
+        "name": "Recoome & Guldo",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 678,
+        "kana": null,
+        "name": "Para Para Brothers",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 679,
+        "kana": null,
+        "name": "Goten (Teen)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 680,
+        "kana": null,
+        "name": "Annin (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 681,
+        "kana": null,
+        "name": "Goku & Piccolo/Piccolo",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 682,
+        "kana": null,
+        "name": "Piccolo (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 683,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Youth) (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 684,
+        "kana": null,
+        "name": "Cell (2nd Form) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 685,
+        "kana": null,
+        "name": "Cell (Perfect Form) (Absorption)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 686,
+        "kana": null,
+        "name": "Androids #16 & #18",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 687,
+        "kana": null,
+        "name": "Super Saiyan Goku & Super Saiyan Gohan (Youth)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 688,
+        "kana": null,
+        "name": "Baby (Larval Form)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 689,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku/Super Saiyan God SS Vegeta",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 690,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegeta (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 691,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegeta & Super Saiyan Trunks (Future)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 692,
+        "kana": null,
+        "name": "Gohan (Kid)/Goku",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 693,
+        "kana": null,
+        "name": "Goku (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 694,
+        "kana": null,
+        "name": "Cell Max",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 695,
+        "kana": null,
+        "name": "Trunks (GT) & Giru",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 696,
+        "kana": null,
+        "name": "Cheelai",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 697,
+        "kana": null,
+        "name": "Krillin & Gohan (Youth)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 698,
+        "kana": null,
+        "name": "Super Saiyan Goku & Super Saiyan Vegeta (Morale Boost)",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 699,
+        "kana": null,
+        "name": "Colonel Blue",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 700,
+        "kana": null,
+        "name": "Gamma 1",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.208547",
+        "id": 701,
+        "kana": null,
+        "name": "Gamma 2",
+        "updated_at": "2024-11-14 09:19:54.208547"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 702,
+        "kana": null,
+        "name": "Dabura (Angel)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 703,
+        "kana": null,
+        "name": "Krillin (Angel)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 704,
+        "kana": null,
+        "name": "Yamcha (Angel)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 705,
+        "kana": null,
+        "name": "Super Full Power Saiyan 4 Limit Breaker Goku (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 706,
+        "kana": null,
+        "name": "Super Full Power Saiyan 4 Limit Breaker Vegeta (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 707,
+        "kana": null,
+        "name": "Super Hearts",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 708,
+        "kana": null,
+        "name": "Ultimate Hearts (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 709,
+        "kana": null,
+        "name": "Golden Metal Cooler",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 710,
+        "kana": null,
+        "name": "Janemba (Modified)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 711,
+        "kana": null,
+        "name": "Lagss",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 712,
+        "kana": null,
+        "name": "Hatchiyack (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 713,
+        "kana": null,
+        "name": "Trunks (Teen) & Goten (Teen)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 714,
+        "kana": null,
+        "name": "Piccolo (Power Awakening)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 715,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku & Super Saiyan 2 Vegeta",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 716,
+        "kana": null,
+        "name": "Goku & Vegeta",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 717,
+        "kana": null,
+        "name": "Goku (GT) & Super Saiyan 4 Vegeta",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 718,
+        "kana": null,
+        "name": "Super Saiyan Vegeta (GT)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 719,
+        "kana": null,
+        "name": "Super Saiyan 3 Gotenks & Piccolo",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 720,
+        "kana": null,
+        "name": "Eis Shenron & Nuova Shenron",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 721,
+        "kana": null,
+        "name": "Majin Vegeta",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 722,
+        "kana": null,
+        "name": "Super Saiyan Goku (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 723,
+        "kana": null,
+        "name": "Super Saiyan 2 Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 724,
+        "kana": null,
+        "name": "Vegeta & Nappa",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 725,
+        "kana": null,
+        "name": "Android #17 & Hell Fighter #17",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 726,
+        "kana": null,
+        "name": "Super #17 (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 727,
+        "kana": null,
+        "name": "Dr. Myuu & Dr. Gero",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 728,
+        "kana": null,
+        "name": "Super Saiyan 2 Kale (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 729,
+        "kana": null,
+        "name": "Goku (Standby Mode)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 730,
+        "kana": null,
+        "name": "Bear Thief",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 731,
+        "kana": null,
+        "name": "Dr. Wheelo",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 732,
+        "kana": null,
+        "name": "Amond & Rasin",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 733,
+        "kana": null,
+        "name": "Daiz & Cacao",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 734,
+        "kana": null,
+        "name": "Super Saiyan 4 Goku & Majuub",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 735,
+        "kana": null,
+        "name": "Super Full Power Saiyan 4 Goku",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 736,
+        "kana": null,
+        "name": "Gohan (Kid) (Giant Ape)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 737,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegito (Special Fusion)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 738,
+        "kana": null,
+        "name": "Infinite Zamasu (Omnipresence)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 739,
+        "kana": null,
+        "name": "Super Trunks",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 740,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Teen) & Super Saiyan Broly",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 741,
+        "kana": null,
+        "name": "Super Saiyan Trunks (Future) (Standby Mode)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 742,
+        "kana": null,
+        "name": "Giant Ape Baby",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 743,
+        "kana": null,
+        "name": "Arbee",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 744,
+        "kana": null,
+        "name": "Kinkarn",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 745,
+        "kana": null,
+        "name": "Skud",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 746,
+        "kana": null,
+        "name": "Zirloin & Rabanra & Zarbuto",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 747,
+        "kana": null,
+        "name": "Police",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 748,
+        "kana": null,
+        "name": "Pilaf",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 749,
+        "kana": null,
+        "name": "Pilaf & Shu & Mai",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 750,
+        "kana": null,
+        "name": "Ribrianne & Kakunsa & Rozie",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 752,
+        "kana": null,
+        "name": "Oolong & Launch",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 753,
+        "kana": null,
+        "name": "Super Full Power Saiyan 4 Limit Breaker Vegito (Xeno)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 754,
+        "kana": null,
+        "name": "Super Full Power Saiyan 4 Limit Breaker Broly",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 755,
+        "kana": null,
+        "name": "Crimson Masked Saiyan (Super Saiyan Rosé 3)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 756,
+        "kana": null,
+        "name": "Crimson Masked Saiyan (Super Saiyan Rosé Full Power) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 757,
+        "kana": null,
+        "name": "Super Saiyan God SS Vegeta (Berserk Controlled)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 758,
+        "kana": null,
+        "name": "Dark King Fu",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 759,
+        "kana": null,
+        "name": "Piccolo & Gohan (Kid)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 760,
+        "kana": null,
+        "name": "Gohan (Kid) (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 761,
+        "kana": null,
+        "name": "Colonel Violet",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 762,
+        "kana": null,
+        "name": "Android #21 (Transformed, Good) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 763,
+        "kana": null,
+        "name": "Android #21 (Transformed, Evil)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 764,
+        "kana": null,
+        "name": "Android #18 (Linked State)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 765,
+        "kana": null,
+        "name": "Cell (Perfect Form) (GT) & Frieza (Final Form) (GT)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 766,
+        "kana": null,
+        "name": "Super Saiyan Goku & Super Saiyan Vegeta & Super Saiyan Trunks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 767,
+        "kana": null,
+        "name": "Super Saiyan 3 Goku (Standby Mode)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 768,
+        "kana": null,
+        "name": "Hirudegarn",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 769,
+        "kana": null,
+        "name": "Hirudegarn (Perfect Form) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 770,
+        "kana": null,
+        "name": "Piccolo & Gohan (Kid)/Gohan (Kid)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 771,
+        "kana": null,
+        "name": "Super Saiyan God SS Gogeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 772,
+        "kana": null,
+        "name": "Super Saiyan Broly (Full Power) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 773,
+        "kana": null,
+        "name": "Beerus (Pajamas)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 774,
+        "kana": null,
+        "name": "Beerus (Pajamas) (Awake)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 775,
+        "kana": null,
+        "name": "Goku Black (Super Saiyan Rosé) (Cloning)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 776,
+        "kana": null,
+        "name": "Gohan (Beast)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 777,
+        "kana": null,
+        "name": "Gamma 1 & Gamma 2",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 778,
+        "kana": null,
+        "name": "Gamma 1 & Gamma 2/Gamma 1",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 779,
+        "kana": null,
+        "name": "Gamma 1 & Gamma 2/Gamma 1 (Standby Mode)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 780,
+        "kana": null,
+        "name": "Gamma 1 (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 781,
+        "kana": null,
+        "name": "Buyon",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 782,
+        "kana": null,
+        "name": "Toppo (God of Destruction Mode) (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 783,
+        "kana": null,
+        "name": "Catopesra",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 784,
+        "kana": null,
+        "name": "Super Saiyan Vegeta (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 785,
+        "kana": null,
+        "name": "Colonel Silver",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 786,
+        "kana": null,
+        "name": "General White",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 787,
+        "kana": null,
+        "name": "Goku (Youth) & Krillin (Youth) & Bulma (Youth)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 788,
+        "kana": null,
+        "name": "Korin",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 789,
+        "kana": null,
+        "name": "Super Saiyan 2 Trunks (Future)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 790,
+        "kana": null,
+        "name": "Goku (Ultra Instinct) (Awakening)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 791,
+        "kana": null,
+        "name": "Resistance Force",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 794,
+        "kana": null,
+        "name": "Legendary Super Saiyan Broly (Transformation)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 795,
+        "kana": null,
+        "name": "Super Saiyan Goku & Super Saiyan Gohan (Youth) & Super Saiyan Trunks (Teen)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 796,
+        "kana": null,
+        "name": "Super Saiyan Goku (Standby Mode)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 797,
+        "kana": null,
+        "name": "Super Saiyan Vegeta (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 798,
+        "kana": null,
+        "name": "Cocotte",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 799,
+        "kana": null,
+        "name": "Mai",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 800,
+        "kana": null,
+        "name": "Piccolo/Super Saiyan Vegeta",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 801,
+        "kana": null,
+        "name": "Super Saiyan Gohan (Teen) (Standby Mode)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 802,
+        "kana": null,
+        "name": "Gohan (Kid)/Piccolo",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 803,
+        "kana": null,
+        "name": "Piccolo (Exchange)",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.213957",
+        "id": 804,
+        "kana": null,
+        "name": "Female Warrior in Black",
+        "updated_at": "2024-11-14 09:19:54.213957"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 805,
+        "kana": null,
+        "name": "Goku (DAIMA)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 806,
+        "kana": null,
+        "name": "Vegeta (DAIMA)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 807,
+        "kana": null,
+        "name": "Goku (Mini) (DAIMA)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 808,
+        "kana": null,
+        "name": "Vegeta (Mini) (DAIMA)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 809,
+        "kana": null,
+        "name": "Goten (Kid) & Icarus Jr.",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 810,
+        "kana": null,
+        "name": "Super Saiyan God SS Goku (Universe Tree Power)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 811,
+        "kana": null,
+        "name": "Fu (Youth) (Dogidogi Fully Absorbed)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 812,
+        "kana": null,
+        "name": "Aeos",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 813,
+        "kana": null,
+        "name": "Dark King Demigra (Power of Time Unleashed)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 814,
+        "kana": null,
+        "name": "Warrior in Black (Super Saiyan) (Dark Dragon Ball Boost)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 815,
+        "kana": null,
+        "name": "Angila & Medamatcha",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 9001,
+        "kana": null,
+        "name": "Doflamingo",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 9998,
+        "kana": null,
+        "name": "Hercule Statue",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 9999,
+        "kana": null,
+        "name": "No Card",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10001,
+        "kana": null,
+        "name": "RR Robot",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10002,
+        "kana": null,
+        "name": "RR Robot",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10003,
+        "kana": null,
+        "name": "Anilaza",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10004,
+        "kana": null,
+        "name": "Abo",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10005,
+        "kana": null,
+        "name": "Scorpulon",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10006,
+        "kana": null,
+        "name": "Angila",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10007,
+        "kana": null,
+        "name": "Angol",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10008,
+        "kana": null,
+        "name": "Imeckan Soldier",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10009,
+        "kana": null,
+        "name": "Rabbit Mobster",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10010,
+        "kana": null,
+        "name": "Rabbit Mobster",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10011,
+        "kana": null,
+        "name": "Onion",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10012,
+        "kana": null,
+        "name": "Ghastel",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10013,
+        "kana": null,
+        "name": "Kakunsa",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10014,
+        "kana": null,
+        "name": "Kado",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10015,
+        "kana": null,
+        "name": "Kahseral",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10016,
+        "kana": null,
+        "name": "Cabira",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10017,
+        "kana": null,
+        "name": "Kyukonman",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10018,
+        "kana": null,
+        "name": "Gryll",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10019,
+        "kana": null,
+        "name": "Gryll (Duplicate)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10020,
+        "kana": null,
+        "name": "Gurumes",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10021,
+        "kana": null,
+        "name": "Krillin Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10022,
+        "kana": null,
+        "name": "Trunks Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10023,
+        "kana": null,
+        "name": "Piccolo Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10024,
+        "kana": null,
+        "name": "Vegeta Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10025,
+        "kana": null,
+        "name": "Yamcha Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10026,
+        "kana": null,
+        "name": "Tien Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10027,
+        "kana": null,
+        "name": "Goku Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10028,
+        "kana": null,
+        "name": "Gohan Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10029,
+        "kana": null,
+        "name": "Majin Buu Clone",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10030,
+        "kana": null,
+        "name": "Susha",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10031,
+        "kana": null,
+        "name": "Goz",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10032,
+        "kana": null,
+        "name": "Gola",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10033,
+        "kana": null,
+        "name": "0",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10034,
+        "kana": null,
+        "name": "Saonel",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10035,
+        "kana": null,
+        "name": "Shula",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10036,
+        "kana": null,
+        "name": "Zoonama",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10037,
+        "kana": null,
+        "name": "Slug Soldier",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10038,
+        "kana": null,
+        "name": "Super Sigma",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10039,
+        "kana": null,
+        "name": "Super Sigma 2",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10040,
+        "kana": null,
+        "name": "Super Sigma 3",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10041,
+        "kana": null,
+        "name": "Super Hatchiyack",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10042,
+        "kana": null,
+        "name": "Dr. Kochin",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10043,
+        "kana": null,
+        "name": "Dr. Myuu",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10044,
+        "kana": null,
+        "name": "Wings",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10045,
+        "kana": null,
+        "name": "Toolo",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10046,
+        "kana": null,
+        "name": "Trunks (GT)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10047,
+        "kana": null,
+        "name": "Tobi",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10048,
+        "kana": null,
+        "name": "Natt",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10049,
+        "kana": null,
+        "name": "Nezi",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10050,
+        "kana": null,
+        "name": "Bio-Man",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10051,
+        "kana": null,
+        "name": "Bio-Warrior",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10052,
+        "kana": null,
+        "name": "Basil",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10053,
+        "kana": null,
+        "name": "Punch Machine",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10054,
+        "kana": null,
+        "name": "Bizu",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10055,
+        "kana": null,
+        "name": "Videl Possessed (GT)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10056,
+        "kana": null,
+        "name": "Piccolo (Brainwashed)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10057,
+        "kana": null,
+        "name": "Reich Pilaf",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10058,
+        "kana": null,
+        "name": "Pirina",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10059,
+        "kana": null,
+        "name": "Hirudegarn (Upper Body)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10060,
+        "kana": null,
+        "name": "Hirudegarn (Lower Body)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10061,
+        "kana": null,
+        "name": "Shorty",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10062,
+        "kana": null,
+        "name": "Frieza Soldier",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10063,
+        "kana": null,
+        "name": "Frieza Soldier",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10064,
+        "kana": null,
+        "name": "Frieza Soldier",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10065,
+        "kana": null,
+        "name": "Frieza Soldier",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10066,
+        "kana": null,
+        "name": "Bongo",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10067,
+        "kana": null,
+        "name": "Bon Para",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10068,
+        "kana": null,
+        "name": "Mamba",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10069,
+        "kana": null,
+        "name": "Mutchy",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10070,
+        "kana": null,
+        "name": "Mutchy Mutchy",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10071,
+        "kana": null,
+        "name": "Mez",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10072,
+        "kana": null,
+        "name": "Medamatcha",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10073,
+        "kana": null,
+        "name": "Major Metallitron",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10074,
+        "kana": null,
+        "name": "Melee",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10075,
+        "kana": null,
+        "name": "Moah",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10076,
+        "kana": null,
+        "name": "Monna (Giant Form)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10077,
+        "kana": null,
+        "name": "Torga",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10078,
+        "kana": null,
+        "name": "Lavender",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10079,
+        "kana": null,
+        "name": "Ribet",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10080,
+        "kana": null,
+        "name": "Lucifer",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10081,
+        "kana": null,
+        "name": "Luud",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10082,
+        "kana": null,
+        "name": "Luud (Pan)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10083,
+        "kana": null,
+        "name": "Ledgic",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10084,
+        "kana": null,
+        "name": "Rozie",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10085,
+        "kana": null,
+        "name": "Master Roshi (Cursed)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.219380",
+        "id": 10086,
+        "kana": null,
+        "name": "Jinkouman (Training)",
+        "updated_at": "2024-11-14 09:19:54.219380"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10087,
+        "kana": null,
+        "name": "Oceanus Shenron (Princess Oto)",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10088,
+        "kana": null,
+        "name": "North Supreme Kai",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10089,
+        "kana": null,
+        "name": "South Supreme Kai",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10090,
+        "kana": null,
+        "name": "Aka",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10091,
+        "kana": null,
+        "name": "Goliamite",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10092,
+        "kana": null,
+        "name": "Lord Yao",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10093,
+        "kana": null,
+        "name": "Poacher",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10094,
+        "kana": null,
+        "name": "Poacher",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10095,
+        "kana": null,
+        "name": "Giant Bio-Broly",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10096,
+        "kana": null,
+        "name": "Kai",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10097,
+        "kana": null,
+        "name": "Assassin from Universe 9",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10098,
+        "kana": null,
+        "name": "Super Saiyan Goten (GT)",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10099,
+        "kana": null,
+        "name": "Super Naturon Shenron",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10100,
+        "kana": null,
+        "name": "Salt",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10101,
+        "kana": null,
+        "name": "Mustard",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10102,
+        "kana": null,
+        "name": "Spice",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10103,
+        "kana": null,
+        "name": "Vinegar",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10104,
+        "kana": null,
+        "name": "Jackie Chun Statue",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10105,
+        "kana": null,
+        "name": "Beelzebub",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10106,
+        "kana": null,
+        "name": "Icarus",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.223313",
+        "id": 10107,
+        "kana": null,
+        "name": "Super Hercule Statue (Diamond)",
+        "updated_at": "2024-11-14 09:19:54.223313"
+    }
+]

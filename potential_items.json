@@ -1,0 +1,842 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 1,
+        "is_exclusive": 0,
+        "name": "AGL Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 2,
+        "is_exclusive": 0,
+        "name": "TEQ Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 3,
+        "is_exclusive": 0,
+        "name": "INT Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 4,
+        "is_exclusive": 0,
+        "name": "STR Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 5,
+        "is_exclusive": 0,
+        "name": "PHY Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 6,
+        "is_exclusive": 0,
+        "name": "AGL Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 2,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 7,
+        "is_exclusive": 0,
+        "name": "TEQ Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 2,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 8,
+        "is_exclusive": 0,
+        "name": "INT Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 2,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 9,
+        "is_exclusive": 0,
+        "name": "STR Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 2,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 10,
+        "is_exclusive": 0,
+        "name": "PHY Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 2,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 11,
+        "is_exclusive": 0,
+        "name": "AGL Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 20,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 12,
+        "is_exclusive": 0,
+        "name": "TEQ Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 20,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 13,
+        "is_exclusive": 0,
+        "name": "INT Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 20,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 14,
+        "is_exclusive": 0,
+        "name": "STR Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 20,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the hidden potential of certain characters.",
+        "id": 15,
+        "is_exclusive": 0,
+        "name": "PHY Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 20,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to activate\nthe Hidden Potential of Goku Jr. and Super Saiyan Goku Jr.\nBoth these characters can be obtained from the event \n\"Dragon Ball GT: A Hero's Legacy\".",
+        "id": 16,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to activate\nthe Hidden Potential of Goku Jr. and Super Saiyan Goku Jr.\nBoth these characters can be obtained from the event \n\"Dragon Ball GT: A Hero's Legacy\".",
+        "id": 17,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to activate\nthe Hidden Potential of Goku Jr. and Super Saiyan Goku Jr.\nBoth these characters can be obtained from the event \n\"Dragon Ball GT: A Hero's Legacy\".",
+        "id": 18,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of Bulma (Youth). \nThis character can be recruited from the event \n\"Looking For Mr. Right!\".",
+        "id": 19,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of Bulma (Youth). \nThis character can be recruited from the event \n\"Looking For Mr. Right!\".",
+        "id": 20,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of Bulma (Youth). \nThis character can be recruited from the event \n\"Looking For Mr. Right!\".",
+        "id": 21,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Gohan (Kid).\nThis character can be obtained from the event \n\"Fierce Battle for Planet Namek!\".",
+        "id": 22,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Gohan (Kid).\nThis character can be obtained from the event \n\"Fierce Battle for Planet Namek!\".",
+        "id": 23,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Gohan (Kid).\nThis character can be obtained from the event \n\"Fierce Battle for Planet Namek!\".",
+        "id": 24,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Burter. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 25,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Burter. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 26,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Burter. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 27,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Guldo. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 28,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Guldo. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 29,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Guldo. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 30,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Captain Ginyu. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 31,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Captain Ginyu. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 32,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Captain Ginyu. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 33,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Jeice. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 34,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Jeice. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 35,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Jeice. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 36,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Recoome. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 37,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Recoome. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 38,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Recoome. \nThis character can be obtained from \n\"Ginyu Force Special Training\" Special Event.",
+        "id": 39,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Piccolo. \nThis character can be obtained from \n\"Face-off with the Fearsome Ginyu Force\" Special Event.",
+        "id": 40,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Piccolo. \nThis character can be obtained from \n\"Face-off with the Fearsome Ginyu Force\" Special Event.",
+        "id": 41,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous \npower to activate the Hidden Potential of Piccolo. \nThis character can be obtained from \n\"Face-off with the Fearsome Ginyu Force\" Special Event.",
+        "id": 42,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to activate the \nHidden Potential of Trunks (Kid) & Goten (Kid) & Marron.\nThis character can be obtained from the event \n\"Leave It to Us! Little Rangers!\".",
+        "id": 43,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to activate the \nHidden Potential of Trunks (Kid) & Goten (Kid) & Marron.\nThis character can be obtained from the event \n\"Leave It to Us! Little Rangers!\".",
+        "id": 44,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to activate the \nHidden Potential of Trunks (Kid) & Goten (Kid) & Marron.\nThis character can be obtained from the event \n\"Leave It to Us! Little Rangers!\".",
+        "id": 45,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Giru. \nThis character can be obtained from the event \n\"Desert Rescue! Giru Saves the Day!\"",
+        "id": 46,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Giru. \nThis character can be obtained from the event \n\"Desert Rescue! Giru Saves the Day!\"",
+        "id": 47,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Giru. \nThis character can be obtained from the event \n\"Desert Rescue! Giru Saves the Day!\"",
+        "id": 48,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of Vegeta Jr. and \nSuper Saiyan Vegeta Jr. \nBoth characters can be obtained from the event \n\"Dragon Ball GT: 7 Shadow Dragons Saga\".",
+        "id": 49,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of Vegeta Jr. and \nSuper Saiyan Vegeta Jr. \nBoth characters can be obtained from the event \n\"Dragon Ball GT: 7 Shadow Dragons Saga\".",
+        "id": 50,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of Vegeta Jr. and \nSuper Saiyan Vegeta Jr. \nBoth characters can be obtained from the event \n\"Dragon Ball GT: 7 Shadow Dragons Saga\".",
+        "id": 51,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Goku (Dokkan Butoden) \nand Vegeta (Dokkan Butoden). Both characters can be \nobtained from the event \"Clash! Dokkan Butoden\".",
+        "id": 52,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Goku (Dokkan Butoden) \nand Vegeta (Dokkan Butoden). Both characters can be \nobtained from the event \"Clash! Dokkan Butoden\".",
+        "id": 53,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Goku (Dokkan Butoden) \nand Vegeta (Dokkan Butoden). Both characters can be \nobtained from the event \"Clash! Dokkan Butoden\".",
+        "id": 54,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Frieza (2nd Form). \nThis character can be obtained from the event \n\"Cataclysmic Clash! Final Showdown with Frieza\".",
+        "id": 55,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Frieza (2nd Form). \nThis character can be obtained from the event \n\"Cataclysmic Clash! Final Showdown with Frieza\".",
+        "id": 56,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Frieza (2nd Form). \nThis character can be obtained from the event \n\"Cataclysmic Clash! Final Showdown with Frieza\".",
+        "id": 57,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of \nthe character obtained from the event \n\"Emerge! Mysterious Monster Cell\".",
+        "id": 58,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of \nthe character obtained from the event \n\"Emerge! Mysterious Monster Cell\".",
+        "id": 59,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of \nthe character obtained from the event \n\"Emerge! Mysterious Monster Cell\".",
+        "id": 60,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of \nthe character obtained from the event \n\"Ultimate Confrontation! The Cell Games\".",
+        "id": 61,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of \nthe character obtained from the event \n\"Ultimate Confrontation! The Cell Games\".",
+        "id": 62,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of \nthe character obtained from the event \n\"Ultimate Confrontation! The Cell Games\".",
+        "id": 63,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of the characters \nobtained from the event \"Saiyan Trio Led by Fate\".",
+        "id": 64,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of the characters \nobtained from the event \"Saiyan Trio Led by Fate\".",
+        "id": 65,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power to \nactivate the Hidden Potential of the characters \nobtained from the event \"Saiyan Trio Led by Fate\".",
+        "id": 66,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Borgos. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 67,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Borgos. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 68,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Borgos. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 69,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Tora. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 70,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Tora. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 71,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Tora. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 72,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Fasha. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 73,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Fasha. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 74,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Fasha. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 75,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Bardock. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 76,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Bardock. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 77,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Bardock. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 78,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Shugesh. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 79,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Shugesh. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 80,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Shugesh. \nThis character can be obtained from the event \n\"Battle-Smart Brawlers! Team Bardock\".",
+        "id": 81,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Bulma (Youth). \nThis character can be obtained from the event \n\"Accelerate! Bulma's Wild Chase!\".",
+        "id": 82,
+        "is_exclusive": 1,
+        "name": "Potential Orb (S)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Bulma (Youth). \nThis character can be obtained from the event \n\"Accelerate! Bulma's Wild Chase!\".",
+        "id": 83,
+        "is_exclusive": 1,
+        "name": "Potential Orb (M)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    },
+    {
+        "created_at": "2024-11-14 09:18:42.549017",
+        "description": "A sphere of pure Ki with the miraculous power \nto activate the Hidden Potential of Bulma (Youth). \nThis character can be obtained from the event \n\"Accelerate! Bulma's Wild Chase!\".",
+        "id": 84,
+        "is_exclusive": 1,
+        "name": "Potential Orb (L)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:18:42.549017"
+    }
+]

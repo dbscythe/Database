@@ -1,0 +1,30 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:49.751849",
+        "id": 1,
+        "num": 1,
+        "title": "How to Play",
+        "updated_at": "2024-11-14 09:19:49.751849"
+    },
+    {
+        "created_at": "2024-11-14 09:19:49.751849",
+        "id": 2,
+        "num": 2,
+        "title": "The Tournament Board",
+        "updated_at": "2024-11-14 09:19:49.751849"
+    },
+    {
+        "created_at": "2024-11-14 09:19:49.751849",
+        "id": 3,
+        "num": 3,
+        "title": "Tournament Battles",
+        "updated_at": "2024-11-14 09:19:49.751849"
+    },
+    {
+        "created_at": "2024-11-14 09:19:49.751849",
+        "id": 4,
+        "num": 4,
+        "title": "Tournament Rewards",
+        "updated_at": "2024-11-14 09:19:49.751849"
+    }
+]

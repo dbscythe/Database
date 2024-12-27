@@ -1,0 +1,602 @@
+[
+    {
+        "conditions": "{\"genkai_point\":300,\"genkai_battle_id\":1}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 300 or higher and clear the stage.",
+        "id": 1,
+        "jukebox_track_id": 2,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":300,\"genkai_battle_id\":1}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 300 or higher and clear the stage.",
+        "id": 2,
+        "jukebox_track_id": 101,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":2}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 3,
+        "jukebox_track_id": 102,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":2}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 4,
+        "jukebox_track_id": 103,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":2}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 5,
+        "jukebox_track_id": 3,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 6,
+        "jukebox_track_id": 901,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 7,
+        "jukebox_track_id": 902,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 8,
+        "jukebox_track_id": 903,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 9,
+        "jukebox_track_id": 904,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 10,
+        "jukebox_track_id": 905,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 11,
+        "jukebox_track_id": 906,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 12,
+        "jukebox_track_id": 907,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":70,\"genkai_battle_id\":3}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 70 or higher and clear the stage.",
+        "id": 13,
+        "jukebox_track_id": 908,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":4}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 14,
+        "jukebox_track_id": 104,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":4}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 15,
+        "jukebox_track_id": 105,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":4}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 16,
+        "jukebox_track_id": 4,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":5}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 17,
+        "jukebox_track_id": 106,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":5}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 18,
+        "jukebox_track_id": 107,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":5}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 19,
+        "jukebox_track_id": 5,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":6}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 20,
+        "jukebox_track_id": 108,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":6}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 21,
+        "jukebox_track_id": 109,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":6}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 22,
+        "jukebox_track_id": 6,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":8}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 23,
+        "jukebox_track_id": 112,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":8}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 24,
+        "jukebox_track_id": 113,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":8}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 25,
+        "jukebox_track_id": 8,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":7}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 26,
+        "jukebox_track_id": 110,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":7}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 27,
+        "jukebox_track_id": 111,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":7}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 28,
+        "jukebox_track_id": 7,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":9}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 29,
+        "jukebox_track_id": 114,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":9}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 30,
+        "jukebox_track_id": 115,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":9}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 31,
+        "jukebox_track_id": 9,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":10}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 32,
+        "jukebox_track_id": 116,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":10}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 33,
+        "jukebox_track_id": 117,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":10}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 34,
+        "jukebox_track_id": 10,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":11}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 35,
+        "jukebox_track_id": 118,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":11}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 36,
+        "jukebox_track_id": 119,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":11}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 37,
+        "jukebox_track_id": 11,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":12}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 38,
+        "jukebox_track_id": 120,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":12}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 39,
+        "jukebox_track_id": 121,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":12}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 40,
+        "jukebox_track_id": 12,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":13}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 41,
+        "jukebox_track_id": 122,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":13}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 42,
+        "jukebox_track_id": 123,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":14}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 43,
+        "jukebox_track_id": 124,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":14}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 44,
+        "jukebox_track_id": 125,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":14}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 45,
+        "jukebox_track_id": 13,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":20}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 46,
+        "jukebox_track_id": 126,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":20}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 47,
+        "jukebox_track_id": 127,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":20}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 48,
+        "jukebox_track_id": 20,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":15}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 49,
+        "jukebox_track_id": 128,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":15}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 50,
+        "jukebox_track_id": 129,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":15}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 51,
+        "jukebox_track_id": 14,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":17}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 52,
+        "jukebox_track_id": 132,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":17}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 53,
+        "jukebox_track_id": 133,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":17}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 54,
+        "jukebox_track_id": 16,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":16}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 55,
+        "jukebox_track_id": 130,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":16}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 56,
+        "jukebox_track_id": 131,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":16}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 57,
+        "jukebox_track_id": 15,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":18}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 58,
+        "jukebox_track_id": 134,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":18}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 59,
+        "jukebox_track_id": 135,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":18}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 60,
+        "jukebox_track_id": 17,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":21}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 61,
+        "jukebox_track_id": 136,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":21}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 62,
+        "jukebox_track_id": 137,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":21}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 63,
+        "jukebox_track_id": 18,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":22}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 64,
+        "jukebox_track_id": 138,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":22}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 65,
+        "jukebox_track_id": 139,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":22}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 66,
+        "jukebox_track_id": 19,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":23}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 67,
+        "jukebox_track_id": 140,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":23}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 68,
+        "jukebox_track_id": 141,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":23}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 69,
+        "jukebox_track_id": 142,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":24}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 70,
+        "jukebox_track_id": 143,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":24}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 71,
+        "jukebox_track_id": 144,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":24}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 72,
+        "jukebox_track_id": 21,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":25}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 73,
+        "jukebox_track_id": 145,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":4000,\"genkai_battle_id\":25}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 4000 or higher and clear the stage.",
+        "id": 74,
+        "jukebox_track_id": 146,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    },
+    {
+        "conditions": "{\"genkai_point\":500,\"genkai_battle_id\":25}",
+        "created_at": "2024-11-14 09:19:51.893126",
+        "description": "Set the Burst Mode conditions to reach \na score of 500 or higher and clear the stage.",
+        "id": 75,
+        "jukebox_track_id": 22,
+        "updated_at": "2024-11-14 09:19:51.893126"
+    }
+]

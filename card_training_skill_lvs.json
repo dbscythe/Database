@@ -1,0 +1,101 @@
+[
+    {
+        "card_id": 1003970,
+        "condition": 0,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 6,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1009850,
+        "condition": 0,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 7,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1012230,
+        "condition": 1,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 8,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1012240,
+        "condition": 1,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 9,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1012250,
+        "condition": 1,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 10,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1012260,
+        "condition": 1,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 11,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1012270,
+        "condition": 1,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 12,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1013400,
+        "condition": 0,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 13,
+        "probability": 30,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1015860,
+        "condition": 0,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 14,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1018550,
+        "condition": 0,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 15,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    },
+    {
+        "card_id": 1021510,
+        "condition": 0,
+        "created_at": "2024-11-14 09:19:47.536805",
+        "id": 16,
+        "probability": 100,
+        "skill_lv": 1,
+        "updated_at": "2024-11-14 09:19:47.536805"
+    }
+]

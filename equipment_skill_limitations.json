@@ -1,0 +1,1338 @@
+[
+    {
+        "conditions": "{\"element_bitpattern\":1}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 1,
+        "id": 1,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":2}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 2,
+        "id": 2,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":4}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 3,
+        "id": 3,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":8}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 4,
+        "id": 4,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":16}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 5,
+        "id": 5,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":31}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 6,
+        "id": 6,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":4096}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 7,
+        "id": 7,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":8192}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 8,
+        "id": 8,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":16384}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 9,
+        "id": 9,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":32768}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 10,
+        "id": 10,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":65536}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 11,
+        "id": 11,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":126976}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 12,
+        "id": 12,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":131072}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 13,
+        "id": 13,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":262144}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 14,
+        "id": 14,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":524288}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 15,
+        "id": 15,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":1048576}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 16,
+        "id": 16,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":2097152}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 17,
+        "id": 17,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":4063232}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 18,
+        "id": 18,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[38]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 19,
+        "id": 19,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[39]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 20,
+        "id": 20,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[40]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 21,
+        "id": 21,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[27]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 22,
+        "id": 22,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019161,1019170,1019171]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 23,
+        "id": 23,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019191,1019200,1019201]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 24,
+        "id": 24,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019081,1019090,1019091]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 25,
+        "id": 25,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019231,1019240,1019241]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 26,
+        "id": 26,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019211,1019220,1019221]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 27,
+        "id": 27,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[1]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 28,
+        "id": 28,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[2]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 29,
+        "id": 29,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[4]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 30,
+        "id": 30,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[5]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 31,
+        "id": 31,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[7]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 32,
+        "id": 32,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[8]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 33,
+        "id": 33,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[9]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 34,
+        "id": 34,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[10]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 35,
+        "id": 35,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[22]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 36,
+        "id": 36,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[6]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 37,
+        "id": 37,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[12]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 38,
+        "id": 38,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[13]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 39,
+        "id": 39,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[23]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 40,
+        "id": 40,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[15]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 41,
+        "id": 41,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[16]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 42,
+        "id": 42,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[19]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 43,
+        "id": 43,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[20]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 44,
+        "id": 44,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[21]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 45,
+        "id": 45,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[17]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 46,
+        "id": 46,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[14]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 47,
+        "id": 47,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013041,1013050,1013051]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 48,
+        "id": 48,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013061,1013070,1013071]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 49,
+        "id": 49,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013081,1013090,1013091]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 50,
+        "id": 50,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013021,1013030,1013031]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 51,
+        "id": 51,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013001,1013010,1013011]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 52,
+        "id": 52,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[17,30]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 53,
+        "id": 53,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[22]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 54,
+        "id": 54,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[24]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 55,
+        "id": 55,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[26]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 56,
+        "id": 56,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[29]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 57,
+        "id": 57,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[30]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 58,
+        "id": 58,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1011661,1012390,1012391,1011680,1011681]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 59,
+        "id": 59,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[31]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 60,
+        "id": 60,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[29]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 61,
+        "id": 61,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[16]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 62,
+        "id": 62,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[33]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 63,
+        "id": 63,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019161,1019170,1019171,1019191,1019200,1019201,1019081,1019090,1019091,1019231,1019240,1019241,1019211,1019220,1019221]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 64,
+        "id": 64,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013041,1013050,1013051,1013061,1013070,1013071,1013081,1013090,1013091,1013021,1013030,1013031,1013001,1013010,1013011]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 65,
+        "id": 65,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[36]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 66,
+        "id": 66,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1005181,1010250,1010251]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 67,
+        "id": 67,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[46]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 68,
+        "id": 68,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[47]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 69,
+        "id": 69,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[88]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 70,
+        "id": 70,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[48]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 71,
+        "id": 71,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[90]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 72,
+        "id": 72,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[2,9]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 73,
+        "id": 73,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1005271,1005280,1005281]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 74,
+        "id": 74,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1002801,1005050,1005051]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 75,
+        "id": 75,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1009421,1009430,1009431]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 76,
+        "id": 76,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1009821,1009830,1009831]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 77,
+        "id": 77,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1012881,1012890,1012891,1012900,1012901]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 78,
+        "id": 78,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1012911,1012920,1012921,1012930,1012931]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 79,
+        "id": 79,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1015741,1015750,1015751,1014210,1014211]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 80,
+        "id": 80,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1015761,1015770,1015771,1014220,1014221]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 81,
+        "id": 81,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1018631,1018640,1018641,1018650,1018651]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 82,
+        "id": 82,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1018601,1018610,1018611,1018620,1018621]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 83,
+        "id": 83,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1020321,1020330,1020331,1020340,1020341]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 84,
+        "id": 84,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1020291,1020300,1020301,1020310,1020311]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 85,
+        "id": 85,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1022361,1022370,1022371,1022380,1022381]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 86,
+        "id": 86,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1022401,1022410,1022411,1022420,1022421]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 87,
+        "id": 87,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1025711,1025720,1025721,1025730,1025731]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 88,
+        "id": 88,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1025751,1025760,1025761,1025770,1025771]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 89,
+        "id": 89,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[49]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 90,
+        "id": 90,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1012360,1012361]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 91,
+        "id": 91,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[50]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 92,
+        "id": 92,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[51]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 93,
+        "id": 93,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[52]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 94,
+        "id": 94,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[53]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 95,
+        "id": 95,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[54]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 96,
+        "id": 96,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[38]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 97,
+        "id": 97,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[55]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 98,
+        "id": 98,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1027241,1027250,1027251]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 99,
+        "id": 99,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_ids\":[1027401,1027410,1027411,1027600,1027601]}",
+        "created_at": "2024-11-14 09:19:50.767499",
+        "equipment_skill_limitation_set_id": 100,
+        "id": 100,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.767499"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[74]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 101,
+        "id": 101,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[57]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 102,
+        "id": 102,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[42]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 103,
+        "id": 103,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[61]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 104,
+        "id": 104,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[28]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 105,
+        "id": 105,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[43]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 106,
+        "id": 106,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[35]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 108,
+        "id": 107,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[92]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 109,
+        "id": 109,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1027961,1027970,1027971,1027980,1027981]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 110,
+        "id": 110,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1028351,1028360,1028361,1028370,1028371]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 111,
+        "id": 111,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[80]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 112,
+        "id": 112,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[40]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 113,
+        "id": 113,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1028001,1028010,1028011,1028020,1028021]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 114,
+        "id": 114,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1028301,1028310,1028311,1028320,1028321]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 115,
+        "id": 115,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1025541,1025550,1025551,1025560,1025561]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 116,
+        "id": 116,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1025571,1025580,1025581,1025590,1025591]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 117,
+        "id": 117,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1026081,1026090,1026091]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 118,
+        "id": 118,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1025501,1025510,1025511]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 119,
+        "id": 119,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1025521,1025530,1025531]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 120,
+        "id": 120,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1028531,1028540,1028541,1028550,1028551]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 121,
+        "id": 121,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1018971,1028600,1028601]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 122,
+        "id": 122,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1026061,1026070,1026071]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 123,
+        "id": 123,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[37]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 124,
+        "id": 124,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[31]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 125,
+        "id": 125,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[75]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 126,
+        "id": 126,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[39]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 127,
+        "id": 127,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[32]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 129,
+        "id": 129,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[41]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 130,
+        "id": 130,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[45]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 131,
+        "id": 131,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[59]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 132,
+        "id": 132,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[44]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 133,
+        "id": 133,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[34]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 134,
+        "id": 134,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[11]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 135,
+        "id": 135,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1024841,1024850,1024851,1024860,1024861]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 136,
+        "id": 136,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1024811,1024820,1024821,1024830,1024831]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 137,
+        "id": 137,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1024871,1024880,1024881,1024890,1024891]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 138,
+        "id": 138,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1024911,1024920,1024921,1024930,1024931]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 139,
+        "id": 139,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029341,1029350,1029351,1029360,1029361]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 140,
+        "id": 140,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029381,1029390,1029391,1029400,1029401]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 141,
+        "id": 141,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[94]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 142,
+        "id": 142,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[69]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 143,
+        "id": 143,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029451,1029460,1029461,1029470,1029471]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 144,
+        "id": 144,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029421,1029430,1029431,1029440,1029441]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 145,
+        "id": 145,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[85]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 146,
+        "id": 146,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1016851,1016860,1016861,1016870,1016871]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 147,
+        "id": 147,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1016791,1016800,1016801,1016810,1016811]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 148,
+        "id": 148,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1010421,1010430,1010431,1010440,1010441]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 149,
+        "id": 149,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1021661,1021670,1021671]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 150,
+        "id": 150,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1021681,1021690,1021691]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 151,
+        "id": 151,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1007891,1019470,1019471]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 152,
+        "id": 152,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1007881,1019460,1019461]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 153,
+        "id": 153,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[2000641,1003800,1003801]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 154,
+        "id": 154,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029631,1029640,1029641]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 155,
+        "id": 155,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029661,1029670,1029671]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 156,
+        "id": 156,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1022761,1022770,1022771,1022780,1022781]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 157,
+        "id": 157,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1030031,1030040,1030041]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 158,
+        "id": 158,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1030051,1030060,1030061]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 159,
+        "id": 159,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1030071,1030080,1030081]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 160,
+        "id": 160,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1030091,1030100,1030101]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 161,
+        "id": 161,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1030111,1030120,1030121]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 162,
+        "id": 162,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1022181,1022190,1022191]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 163,
+        "id": 163,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1022581,1022590,1022591]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 164,
+        "id": 164,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_ids\":[1029811,1029820,1029821]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 165,
+        "id": 165,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[62]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 166,
+        "id": 166,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[58]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 167,
+        "id": 167,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[25]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 168,
+        "id": 168,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[67]}",
+        "created_at": "2024-11-14 09:19:50.775476",
+        "equipment_skill_limitation_set_id": 169,
+        "id": 169,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2024-11-14 09:19:50.775476"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:27.553105",
+        "description": null,
+        "id": 1,
+        "num": 1,
+        "sd_help_category_id": 1,
+        "title": "Sticker Cards",
+        "updated_at": "2024-11-14 09:18:27.553105"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.553105",
+        "description": null,
+        "id": 2,
+        "num": 1,
+        "sd_help_category_id": 1,
+        "title": "Sticker Card Packs",
+        "updated_at": "2024-11-14 09:18:27.553105"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.553105",
+        "description": null,
+        "id": 3,
+        "num": 1,
+        "sd_help_category_id": 1,
+        "title": "Collection",
+        "updated_at": "2024-11-14 09:18:27.553105"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.553105",
+        "description": null,
+        "id": 4,
+        "num": 1,
+        "sd_help_category_id": 1,
+        "title": "Battles",
+        "updated_at": "2024-11-14 09:18:27.553105"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.553105",
+        "description": null,
+        "id": 5,
+        "num": 1,
+        "sd_help_category_id": 1,
+        "title": "Ending Battles & Obtaining Rewards",
+        "updated_at": "2024-11-14 09:18:27.553105"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.553105",
+        "description": null,
+        "id": 6,
+        "num": 1,
+        "sd_help_category_id": 1,
+        "title": "Types & Damage Dealt",
+        "updated_at": "2024-11-14 09:18:27.553105"
+    }
+]

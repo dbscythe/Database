@@ -1,0 +1,6362 @@
+[
+    {
+        "background_id": 1,
+        "card_id": 1000710,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 1,
+        "name": "Appule",
+        "priority": 99900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002670,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 2,
+        "name": "Whis",
+        "priority": 99300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002030,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 3,
+        "name": "Uub \n(Youth)",
+        "priority": 99100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1000770,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 4,
+        "name": "Pirate Robot",
+        "priority": 98500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002530,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 5,
+        "name": "Fusion Android #13",
+        "priority": 98200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1000450,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 6,
+        "name": "Machine Pilaf",
+        "priority": 98100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001020,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 7,
+        "name": "Master Roshi",
+        "priority": 97900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003530,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 8,
+        "name": "Master Roshi \n(Max Power)",
+        "priority": 97700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000760,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 9,
+        "name": "Killa",
+        "priority": 97300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1000950,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 10,
+        "name": "Captain Ginyu",
+        "priority": 97200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001110,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 12,
+        "name": "Cui",
+        "priority": 96500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1000890,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 13,
+        "name": "Krillin",
+        "priority": 96100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002180,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 14,
+        "name": "Krillin \n(Police Officer)",
+        "priority": 96000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1001070,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 15,
+        "name": "Guldo",
+        "priority": 95800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000850,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 16,
+        "name": "Golden Frieza",
+        "priority": 95000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000720,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 17,
+        "name": "Gokua",
+        "priority": 94800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000190,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 18,
+        "name": "King Cold",
+        "priority": 93900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000940,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 19,
+        "name": "Zarbon",
+        "priority": 93700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1000780,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 20,
+        "name": "Saibaiman",
+        "priority": 93600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 2000070,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 21,
+        "name": "Cyborg Tao",
+        "priority": 93500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 2000710,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 22,
+        "name": "Zangya",
+        "priority": 93200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001090,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 23,
+        "name": "Jeice",
+        "priority": 93000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000460,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 24,
+        "name": "Shen",
+        "priority": 92900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002590,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 25,
+        "name": "Shisami",
+        "priority": 92800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002210,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 26,
+        "name": "Jaco",
+        "priority": 92700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000210,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 27,
+        "name": "Jackie Chun",
+        "priority": 92600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000750,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 28,
+        "name": "Jewel",
+        "priority": 92100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002520,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 29,
+        "name": "Android #13",
+        "priority": 91900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1001010,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 32,
+        "name": "Android #16",
+        "priority": 91800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1000990,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 33,
+        "name": "Android #17",
+        "priority": 91700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001730,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 34,
+        "name": "Android #17 \n(Future)",
+        "priority": 91600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001000,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 35,
+        "name": "Android #18",
+        "priority": 91400,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001740,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 36,
+        "name": "Android #18 \n(Future)",
+        "priority": 91200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001230,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 37,
+        "name": "Android #19",
+        "priority": 91100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000480,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 38,
+        "name": "Cymbal",
+        "priority": 90700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1000010,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 39,
+        "name": "Super Saiyan Goku",
+        "priority": 89400,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003180,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 40,
+        "name": "Super Saiyan 2 \nGoku",
+        "priority": 89100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001920,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 41,
+        "name": "Super Saiyan 3 Goku",
+        "priority": 88900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002080,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 42,
+        "name": "Super Saiyan God \nSS Goku",
+        "priority": 88500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002580,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 43,
+        "name": "Super Saiyan Goten \n(Kid)",
+        "priority": 87600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001390,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 44,
+        "name": "Super Saiyan Gohan \n(Youth)",
+        "priority": 86900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002700,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 45,
+        "name": "Super Saiyan 2 \nGohan (Youth)",
+        "priority": 86800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002200,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 46,
+        "name": "Super Saiyan Gohan \n(Teen)",
+        "priority": 86700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002570,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 47,
+        "name": "Super Saiyan Trunks \n(Kid)",
+        "priority": 86100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001590,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 48,
+        "name": "Super Saiyan Trunks \n(Teen)",
+        "priority": 86000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001800,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 49,
+        "name": "Super Trunks",
+        "priority": 85300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001490,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 50,
+        "name": "Super Saiyan Bardock",
+        "priority": 85200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1000840,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 51,
+        "name": "Super Saiyan Vegeta",
+        "priority": 84700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001790,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 52,
+        "name": "Super Saiyan 2 Vegeta",
+        "priority": 84500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002090,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 53,
+        "name": "Super Saiyan God \nSS Vegeta",
+        "priority": 84100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000610,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 54,
+        "name": "Spopovich",
+        "priority": 82500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001500,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 55,
+        "name": "Fasha",
+        "priority": 82200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000080,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 56,
+        "name": "Cell \n(1st Form)",
+        "priority": 82000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001710,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 57,
+        "name": "Cell \n(2nd Form)",
+        "priority": 81900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001720,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 58,
+        "name": "Cell \n(Perfect Form)",
+        "priority": 81800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002160,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 59,
+        "name": "Sorbet",
+        "priority": 81300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003140,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 60,
+        "name": "Goku",
+        "priority": 81200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001400,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 61,
+        "name": "Goku \n(Kaioken)",
+        "priority": 81100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002240,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 62,
+        "name": "Goku \n(Youth)",
+        "priority": 80900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002000,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 63,
+        "name": "Goten \n(Kid)",
+        "priority": 80100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001620,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 65,
+        "name": "Gohan \n(Kid)",
+        "priority": 79800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002190,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 66,
+        "name": "Gohan \n(Teen)",
+        "priority": 79600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002680,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 67,
+        "name": "Gohan \n(Youth)",
+        "priority": 79700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001980,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 68,
+        "name": "Dabura",
+        "priority": 79100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000260,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 69,
+        "name": "Mercenary Tao",
+        "priority": 78300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002170,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 70,
+        "name": "Tagoma",
+        "priority": 78200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1000470,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 71,
+        "name": "Tambourine",
+        "priority": 77900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001040,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 72,
+        "name": "Chi-Chi",
+        "priority": 77700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1003540,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 73,
+        "name": "Chi-Chi \n(Youth)",
+        "priority": 77600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000920,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 74,
+        "name": "Chiaotzu",
+        "priority": 77500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000180,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 75,
+        "name": "Chilled",
+        "priority": 77100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001380,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 76,
+        "name": "Master Shen",
+        "priority": 77000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002600,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 77,
+        "name": "Tien",
+        "priority": 76600,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001540,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 78,
+        "name": "Tora",
+        "priority": 76300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001840,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 79,
+        "name": "Dr. Gero",
+        "priority": 75800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001550,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 80,
+        "name": "Borgos",
+        "priority": 75400,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001050,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 81,
+        "name": "Dodoria",
+        "priority": 75200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000490,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 82,
+        "name": "Drum",
+        "priority": 74800,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001860,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 83,
+        "name": "Trunks \n(Teen)",
+        "priority": 74400,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 2000170,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 84,
+        "name": "Trunks \n(Xeno)",
+        "priority": 74300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001760,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 85,
+        "name": "Trunks \n(Kid)",
+        "priority": 74700,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001420,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 86,
+        "name": "Nappa",
+        "priority": 74000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001100,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 87,
+        "name": "Nail",
+        "priority": 73400,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001080,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 88,
+        "name": "Burter",
+        "priority": 73200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 2000140,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 89,
+        "name": "Bardock",
+        "priority": 73100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1001690,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 90,
+        "name": "Perfect Cell",
+        "priority": 72900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 2000130,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 91,
+        "name": "Paikuhan",
+        "priority": 72500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002050,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 92,
+        "name": "Babidi",
+        "priority": 72000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000730,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 93,
+        "name": "Babidi's Minion",
+        "priority": 71900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1001560,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 94,
+        "name": "Shugesh",
+        "priority": 71300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001990,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 95,
+        "name": "Videl",
+        "priority": 71000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001630,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 96,
+        "name": "Piccolo",
+        "priority": 70900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 4,
+        "card_id": 2000730,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 97,
+        "name": "Bido",
+        "priority": 70500,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002660,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 98,
+        "name": "Beerus",
+        "priority": 70300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002070,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 99,
+        "name": "Pui Pui",
+        "priority": 70000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000740,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 100,
+        "name": "Bujin",
+        "priority": 69900,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000040,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 101,
+        "name": "Frieza \n(1st Form)",
+        "priority": 69300,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001520,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 102,
+        "name": "Frieza \n(2nd Form)",
+        "priority": 69200,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1001600,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 103,
+        "name": "Frieza \n(3rd Form)",
+        "priority": 69100,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001580,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.908118",
+        "id": 104,
+        "name": "Frieza \n(Final Form)",
+        "priority": 69000,
+        "updated_at": "2024-11-14 09:19:59.908118"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000790,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 105,
+        "name": "Frieza Soldier",
+        "priority": 68600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002560,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 107,
+        "name": "Full Power Boujack",
+        "priority": 68400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1000740,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 108,
+        "name": "Pintar",
+        "priority": 67500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 2000060,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 109,
+        "name": "Vegeta",
+        "priority": 67300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 2000050,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 110,
+        "name": "Vegeta \n(Kid)",
+        "priority": 67000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000120,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 111,
+        "name": "King Vegeta",
+        "priority": 66800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 2000700,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 112,
+        "name": "Boujack",
+        "priority": 66200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000200,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 113,
+        "name": "Mighty Mask",
+        "priority": 65800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002280,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 114,
+        "name": "Piccolo Jr.",
+        "priority": 65600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1000600,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 115,
+        "name": "Cell Jr.",
+        "priority": 81400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1001960,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 116,
+        "name": "Buu \n(Super)",
+        "priority": 65200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001950,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 117,
+        "name": "Majin Buu \n(Pure Evil)",
+        "priority": 64600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001940,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 118,
+        "name": "Majin Buu \n(Good)",
+        "priority": 64500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1001930,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 119,
+        "name": "Majin Vegeta",
+        "priority": 64200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1000820,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 120,
+        "name": "Hercule",
+        "priority": 64000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000280,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 122,
+        "name": "Mecha Frieza",
+        "priority": 63200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002060,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 123,
+        "name": "Yakon",
+        "priority": 62800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001340,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 124,
+        "name": "Yajirobe",
+        "priority": 62700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000620,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 125,
+        "name": "Yamu",
+        "priority": 62600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001890,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 126,
+        "name": "Yamcha",
+        "priority": 62500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1001430,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 127,
+        "name": "Raditz",
+        "priority": 62100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001060,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 128,
+        "name": "Recoome",
+        "priority": 61700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1000800,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 129,
+        "name": "Red Ribbon Soldier",
+        "priority": 61000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002470,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 130,
+        "name": "Cooler",
+        "priority": 96300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003610,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 131,
+        "name": "Cooler \n(Final Form)",
+        "priority": 96200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002490,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 132,
+        "name": "Thouser",
+        "priority": 93400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002500,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 133,
+        "name": "Doure",
+        "priority": 76100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002510,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 134,
+        "name": "Naise",
+        "priority": 73500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002940,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 135,
+        "name": "Great Saiyaman",
+        "priority": 95700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002950,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 136,
+        "name": "Great Saiyaman 2",
+        "priority": 95400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002020,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 137,
+        "name": "Ultimate Gohan",
+        "priority": 99700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1001970,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 138,
+        "name": "Buu \n(Kid)",
+        "priority": 64800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003880,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 139,
+        "name": "Bulma",
+        "priority": 68200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002340,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 140,
+        "name": "Krillin \n(Youth)",
+        "priority": 95900,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002630,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 141,
+        "name": "Hercule Statue",
+        "priority": 63800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003330,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 142,
+        "name": "Mr. Buu",
+        "priority": 63700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003690,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 143,
+        "name": "Super Saiyan \nGod Goku",
+        "priority": 88600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002960,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 144,
+        "name": "Goku \n(GT)  ",
+        "priority": 81000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003660,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 145,
+        "name": "Turles",
+        "priority": 78800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1003920,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 146,
+        "name": "Cacao",
+        "priority": 98400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003930,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 147,
+        "name": "Daiz",
+        "priority": 78600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003940,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 148,
+        "name": "Amond",
+        "priority": 99800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1003950,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 149,
+        "name": "Rasin",
+        "priority": 61100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1003960,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 150,
+        "name": "Lakasei",
+        "priority": 62200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002860,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 151,
+        "name": "Goku \n(Angel)",
+        "priority": 80700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002980,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 152,
+        "name": "Pan \n(GT)",
+        "priority": 71600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003020,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 153,
+        "name": "Super Saiyan \nGoku (GT)",
+        "priority": 88400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002990,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 154,
+        "name": "Super Saiyan \nTrunks (GT)",
+        "priority": 85700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1004000,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 155,
+        "name": "Majuub",
+        "priority": 90400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003000,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 156,
+        "name": "Vegeta \n(GT)",
+        "priority": 67100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003130,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 157,
+        "name": "Super Saiyan \nGohan (GT)",
+        "priority": 86300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003060,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 158,
+        "name": "Hercule \n(GT)",
+        "priority": 63900,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000090,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 159,
+        "name": "Grandpa \nGohan",
+        "priority": 79000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002260,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 160,
+        "name": "Demon King Piccolo \n(Elder)",
+        "priority": 70700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1002270,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 161,
+        "name": "Demon King Piccolo",
+        "priority": 70800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002360,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 162,
+        "name": "Devilman",
+        "priority": 100000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1003160,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 163,
+        "name": "Oolong",
+        "priority": 98900,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003150,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 164,
+        "name": "King Chappa",
+        "priority": 77300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002380,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 165,
+        "name": "Dracula Man",
+        "priority": 75000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002370,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 166,
+        "name": "Bandages",
+        "priority": 64100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002300,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 167,
+        "name": "Murasaki",
+        "priority": 63300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002310,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 168,
+        "name": "General Blue",
+        "priority": 68500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003980,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 169,
+        "name": "Bulma \n(Youth)",
+        "priority": 68100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1003970,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 170,
+        "name": "Elder Kai",
+        "priority": 60900,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002390,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 171,
+        "name": "Vegito",
+        "priority": 66700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002040,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 172,
+        "name": "Pan (Kid)",
+        "priority": 71700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003550,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 173,
+        "name": "Majin Buu \n(Piccolo)",
+        "priority": 64400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000620,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 174,
+        "name": "Broly",
+        "priority": 67600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 2000630,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 175,
+        "name": "Super Saiyan Broly",
+        "priority": 84900,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 2000640,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 176,
+        "name": "Legendary \nSuper Saiyan Broly ",
+        "priority": 76400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000760,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 177,
+        "name": "Paragus",
+        "priority": 71800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003480,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 178,
+        "name": "Supreme Kai",
+        "priority": 98600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1004600,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 179,
+        "name": "Metal Cooler",
+        "priority": 63100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003650,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 180,
+        "name": "Cyclopian Guards",
+        "priority": 60700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1004370,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 181,
+        "name": "Super Vegeta",
+        "priority": 83700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002400,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 182,
+        "name": "Gotenks",
+        "priority": 94300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1004180,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 183,
+        "name": "Bulma (Bunny)",
+        "priority": 68000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1004190,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 184,
+        "name": "Launch",
+        "priority": 61900,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1004670,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 185,
+        "name": "Staff Officer \nBlack",
+        "priority": 69600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1004660,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 186,
+        "name": "Giran",
+        "priority": 96400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1004800,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 187,
+        "name": "Gotenks \n(Failure) A",
+        "priority": 94200,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1004810,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 188,
+        "name": "Gotenks \n(Failure) B",
+        "priority": 94100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005250,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 189,
+        "name": "Uub \n(Teen)",
+        "priority": 99000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003460,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 190,
+        "name": "Kibito",
+        "priority": 96800,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003270,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 191,
+        "name": "Super Saiyan 2 \nGohan (Teen)",
+        "priority": 86600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003400,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 192,
+        "name": "Dr. Lychee",
+        "priority": 75700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1003380,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 193,
+        "name": "Hatchiyack",
+        "priority": 72100,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1005070,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 194,
+        "name": "Super Saiyan \nGoku (Angel)",
+        "priority": 89300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1003240,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 195,
+        "name": "Super Saiyan 3 \nVegeta",
+        "priority": 84300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003470,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 196,
+        "name": "Kibito Kai",
+        "priority": 96700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002410,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 197,
+        "name": "Veku",
+        "priority": 67400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005270,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 198,
+        "name": "Super Gogeta",
+        "priority": 90300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1002800,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 199,
+        "name": "Super Janemba",
+        "priority": 83500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1004720,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 200,
+        "name": "Super Saiyan \nGotenks",
+        "priority": 87400,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1004950,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 201,
+        "name": "Kami",
+        "priority": 98000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1005590,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 202,
+        "name": "Namu",
+        "priority": 73700,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1005600,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 203,
+        "name": "Bacterian",
+        "priority": 72300,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1004040,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 204,
+        "name": "Super Saiyan \nVegeta (GT)",
+        "priority": 84000,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1004960,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 205,
+        "name": "Towa",
+        "priority": 60600,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1004970,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.915624",
+        "id": 206,
+        "name": "Mira",
+        "priority": 63500,
+        "updated_at": "2024-11-14 09:19:59.915624"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1004980,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 207,
+        "name": "Demigra",
+        "priority": 65400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1004990,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 208,
+        "name": "Super Saiyan \nTrunks (Xeno)",
+        "priority": 85900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1005510,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 209,
+        "name": "Supreme Kai \nof Time",
+        "priority": 76000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 2000220,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 210,
+        "name": "Trunks \n(Youth) (Future)",
+        "priority": 74200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 2000230,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 211,
+        "name": "Super Saiyan \nGohan (Future)",
+        "priority": 86400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1005610,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 212,
+        "name": "Gohan \n(Future)",
+        "priority": 79400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1005620,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 213,
+        "name": "Super Saiyan \nTrunks (Future)",
+        "priority": 85800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003320,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 214,
+        "name": "Frieza \n(Full Power)",
+        "priority": 68700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001530,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 215,
+        "name": "Super Zarbon",
+        "priority": 83600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1003450,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 216,
+        "name": "Mutaito",
+        "priority": 63400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1001610,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 217,
+        "name": "Ginyu \n(Goku)",
+        "priority": 97100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1003030,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 218,
+        "name": "Super Saiyan 2 \nGoku (GT)",
+        "priority": 88300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005940,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 219,
+        "name": "Meta-Rilldo",
+        "priority": 62900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1006000,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 220,
+        "name": "Baby \n(Youth Form)",
+        "priority": 66500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005920,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 221,
+        "name": "General Rilldo",
+        "priority": 61200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005930,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 222,
+        "name": "Hyper Meta-Rilldo",
+        "priority": 72400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1004210,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 223,
+        "name": "Super Saiyan 2 \nGoku (Angel)",
+        "priority": 89000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1003570,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 224,
+        "name": "Majin Buu \n(Gotenks)",
+        "priority": 65000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1005210,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 225,
+        "name": "Great Saiyaman \n(SS2)",
+        "priority": 95600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005190,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 226,
+        "name": "Super Saiyan 2 \nTrunks (Teen)",
+        "priority": 85500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1005130,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 227,
+        "name": "Nappa \n(Giant Ape)",
+        "priority": 73800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1002820,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 228,
+        "name": "Goku \n(Youth) (Giant Ape)",
+        "priority": 80800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002830,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 229,
+        "name": "Vegeta \n(Giant Ape)",
+        "priority": 67200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005140,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 230,
+        "name": "Raditz \n(Giant Ape)",
+        "priority": 62000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1005420,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 231,
+        "name": "Tarble",
+        "priority": 78900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1005080,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 232,
+        "name": "Super Saiyan \nVegeta (Angel)",
+        "priority": 84600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1004470,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 233,
+        "name": "Grand Supreme \nKai",
+        "priority": 78400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1006030,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 234,
+        "name": "Super Baby 2",
+        "priority": 83000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1006750,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 235,
+        "name": "Super Saiyan 3 \nGoku (GT)",
+        "priority": 88200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1006250,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 236,
+        "name": "Gohan (GT)",
+        "priority": 79300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1004020,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 237,
+        "name": "Goten \n(GT)",
+        "priority": 80000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1006280,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 238,
+        "name": "Goten \nPossessed (GT)",
+        "priority": 79900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1006310,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 239,
+        "name": "SS Goten \nPossessed (GT)",
+        "priority": 87500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1006010,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 240,
+        "name": "Baby Vegeta",
+        "priority": 66900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1002810,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 241,
+        "name": "Bardock \n(Giant Ape)",
+        "priority": 73000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1006480,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 242,
+        "name": "Fasha \n(Giant Ape)",
+        "priority": 82100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1006490,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 243,
+        "name": "Shugesh \n(Giant Ape)",
+        "priority": 71200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1006500,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 244,
+        "name": "Borgos \n(Giant Ape)",
+        "priority": 75300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1006510,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 245,
+        "name": "Tora \n(Giant Ape)",
+        "priority": 76200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1008410,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 246,
+        "name": "Super Vegito",
+        "priority": 83200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005170,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 247,
+        "name": "Piccolo Jr. \n(Giant Form)",
+        "priority": 65500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1007360,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 248,
+        "name": "Pan \n(GT) (Honey)",
+        "priority": 71500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1007090,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 249,
+        "name": "Hit",
+        "priority": 70600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1007020,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 250,
+        "name": "Botamo",
+        "priority": 66000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1007080,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 251,
+        "name": "Magetta",
+        "priority": 65700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1007050,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 252,
+        "name": "Frost \n(Final Form)",
+        "priority": 67700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1007060,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 253,
+        "name": "Cabba",
+        "priority": 96600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1007070,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 254,
+        "name": "Super Saiyan \nCabba",
+        "priority": 90000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1007930,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 255,
+        "name": "Super Saiyan 3 \nGotenks",
+        "priority": 87200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1008350,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 256,
+        "name": "Yamhan",
+        "priority": 62400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1007950,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 257,
+        "name": "Champa",
+        "priority": 92200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1007030,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 258,
+        "name": "Frost",
+        "priority": 67900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1007040,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 259,
+        "name": "Frost \n(Assault Form)",
+        "priority": 67800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1008340,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 260,
+        "name": "Karoly",
+        "priority": 97400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1008650,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 261,
+        "name": "Coolieza",
+        "priority": 69800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1008660,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 262,
+        "name": "Pandel",
+        "priority": 71400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1008670,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 263,
+        "name": "Barlot",
+        "priority": 72700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1008680,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 264,
+        "name": "Chiaoman",
+        "priority": 77400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1008690,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 265,
+        "name": "Bulpan",
+        "priority": 69500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1008700,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 266,
+        "name": "Janembu",
+        "priority": 92300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1008100,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 267,
+        "name": "Majin Buu \n(Ultimate Gohan)",
+        "priority": 65100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1008131,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 268,
+        "name": "Majin Buu \n(South Supreme Kai)",
+        "priority": 64300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1005150,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 269,
+        "name": "Turles \n(Giant Ape)",
+        "priority": 78700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1008770,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 270,
+        "name": "Androids \n#17 & #18",
+        "priority": 91500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1007430,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 271,
+        "name": "Gotenks \n(Teen)",
+        "priority": 94000,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1007440,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 272,
+        "name": "Super Saiyan \nGotenks (Teen)",
+        "priority": 87100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1007420,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 273,
+        "name": "Super Paikuhan",
+        "priority": 83300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1007710,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 274,
+        "name": "Baby Janemba",
+        "priority": 92400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1007720,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 275,
+        "name": "Buu \n(Kid) (Babidi)",
+        "priority": 64700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1006410,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 276,
+        "name": "Omega Shenron",
+        "priority": 90500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1008720,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 277,
+        "name": "Syn Shenron",
+        "priority": 99400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1006340,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 278,
+        "name": "Haze Shenron",
+        "priority": 61400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1006350,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 279,
+        "name": "Eis Shenron",
+        "priority": 93100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1006360,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 280,
+        "name": "Nuova Shenron",
+        "priority": 90600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1006370,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 281,
+        "name": "Rage Shenron",
+        "priority": 99200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1006380,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 282,
+        "name": "Oceanus Shenron",
+        "priority": 61300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1006400,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 283,
+        "name": "Naturon Shenron",
+        "priority": 77800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1008760,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 284,
+        "name": "Super Saiyan 3 \nVegeta (GT)",
+        "priority": 83900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1008900,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 285,
+        "name": "Tekka",
+        "priority": 76700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1008910,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 286,
+        "name": "Pinich",
+        "priority": 70400,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1008840,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 287,
+        "name": "Goku Black",
+        "priority": 94700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1008950,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 288,
+        "name": "Arale Norimaki",
+        "priority": 73300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1009050,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 289,
+        "name": "Obotchaman",
+        "priority": 98700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1009030,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 290,
+        "name": "Sourman",
+        "priority": 82600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1009320,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 291,
+        "name": "Super Saiyan God \nSS Vegito",
+        "priority": 89500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1009340,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 292,
+        "name": "Goku Black \n(Super Saiyan Rosé)",
+        "priority": 94500,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1008860,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 293,
+        "name": "Trunks \n(Teen) (Future)",
+        "priority": 74100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1008880,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 294,
+        "name": "Mai \n(Future)",
+        "priority": 65900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1009160,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 295,
+        "name": "Zamasu",
+        "priority": 93300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1009850,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 296,
+        "name": "Master Roshi \n(Santa)",
+        "priority": 97800,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1009600,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 297,
+        "name": "Fusion \nZamasu",
+        "priority": 98300,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1009420,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 298,
+        "name": "Super Saiyan 4 \nGoku",
+        "priority": 88700,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1009820,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 299,
+        "name": "Super Saiyan 4 \nVegeta",
+        "priority": 84200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1008291,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 300,
+        "name": "Super Saiyan 3 Goku \n(GT) (Golden Giant Ape)",
+        "priority": 88100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1006521,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 301,
+        "name": "Super Baby 2 \n(Giant Ape)",
+        "priority": 82900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1006021,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 302,
+        "name": "Super Baby 1",
+        "priority": 83100,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1006270,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 303,
+        "name": "Gohan \nPossessed (GT)",
+        "priority": 79200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1006300,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 304,
+        "name": "SS Gohan \nPossessed (GT)",
+        "priority": 86200,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1006290,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 305,
+        "name": "Trunks \nPossessed (GT)",
+        "priority": 73900,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1006320,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.922976",
+        "id": 306,
+        "name": "SS Trunks \nPossessed (GT)",
+        "priority": 85600,
+        "updated_at": "2024-11-14 09:19:59.922976"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1009631,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 307,
+        "name": "Captain Ginyu \n(Ginyu Force)",
+        "priority": 96900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1010240,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 308,
+        "name": "Super Saiyan 3 \nGoku (Angel)",
+        "priority": 88800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1010280,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 309,
+        "name": "Masked Saiyan",
+        "priority": 97600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1010321,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 310,
+        "name": "Super Saiyan 2 \nBardock",
+        "priority": 85100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1009800,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 311,
+        "name": "Monster Carrot",
+        "priority": 75100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1010550,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 312,
+        "name": "Hell Fighter \n#17",
+        "priority": 66300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1005990,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 313,
+        "name": "Super #17",
+        "priority": 83400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1002790,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 314,
+        "name": "Janemba",
+        "priority": 92500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1010350,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 315,
+        "name": "Goku Jr.",
+        "priority": 80200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1010361,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 316,
+        "name": "Super Saiyan \nGoku Jr.",
+        "priority": 87700,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1007741,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 317,
+        "name": "Super Saiyan 3 \nGotenks (Teen)",
+        "priority": 87000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1008010,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 318,
+        "name": "Bio-Broly",
+        "priority": 72600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1011131,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 319,
+        "name": "Goku Black & \nZamasu",
+        "priority": 94600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1011141,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 320,
+        "name": "Goku Black \n(Super Saiyan Rosé) \n＆ Zamasu",
+        "priority": 94400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1011160,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 321,
+        "name": "Super Saiyan 3 \nBroly",
+        "priority": 84800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1010660,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 322,
+        "name": "Super Saiyan Goku \n(Angel) (Super Kaioken)",
+        "priority": 89200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1010680,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 323,
+        "name": "Perfect Cell \n(Angel)",
+        "priority": 72800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012220,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 324,
+        "name": "Frieza \n(Final Form) (Angel)",
+        "priority": 68800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1010700,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 325,
+        "name": "King Cold \n(Angel)",
+        "priority": 93800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1011750,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 326,
+        "name": "Super Saiyan 2 \nCaulifla",
+        "priority": 90100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1011760,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 327,
+        "name": "Kale \n(Berserk)",
+        "priority": 95100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1011290,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 328,
+        "name": "Super Saiyan 4 \nGogeta",
+        "priority": 90200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1011820,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 329,
+        "name": "Whirus",
+        "priority": 70100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1011830,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 330,
+        "name": "Cellza",
+        "priority": 81500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1011641,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 331,
+        "name": "Trunks (Kid) & \nGoten (Kid)",
+        "priority": 74600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1011220,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 332,
+        "name": "Ranfan",
+        "priority": 61800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1011580,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 333,
+        "name": "Bergamo \n(Giant Form)",
+        "priority": 66400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1011940,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 334,
+        "name": "Majin Buu \n(Shape-Up)",
+        "priority": 64900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1011590,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 335,
+        "name": "Toppo",
+        "priority": 75600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012020,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 336,
+        "name": "Golden Frieza \n(Angel)",
+        "priority": 94900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1011920,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 337,
+        "name": "Yurin",
+        "priority": 62300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012370,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 338,
+        "name": "Goku \n(Ultra Instinct -Sign-)",
+        "priority": 80600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012161,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 339,
+        "name": "Full Power Boujack \n(Galactic Warrior)",
+        "priority": 68300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012230,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 340,
+        "name": "Grand Kai",
+        "priority": 78500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1012290,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 341,
+        "name": "Vegito \n(Candy)",
+        "priority": 66600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1012690,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 342,
+        "name": "Super Saiyan Kefla",
+        "priority": 89700,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012550,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 343,
+        "name": "Darkness Towa",
+        "priority": 99500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012570,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 344,
+        "name": "Super Saiyan 3 \nTrunks (Teen)",
+        "priority": 85400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1008180,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 345,
+        "name": "Super Saiyan 3 \nGohan (Teen)",
+        "priority": 86500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012131,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 346,
+        "name": "Tien & \nChiaotzu",
+        "priority": 76500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1006140,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 347,
+        "name": "Man-Wolf",
+        "priority": 98800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1006150,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 348,
+        "name": "Pamput",
+        "priority": 71100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1012651,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 349,
+        "name": "Super Saiyan 2 \nVegeta & Bulma",
+        "priority": 84400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1011770,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 350,
+        "name": "Super Saiyan 3 \nBardock",
+        "priority": 85000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012410,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 351,
+        "name": "Tapion \n(Hirudegarn)",
+        "priority": 78000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1012860,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 352,
+        "name": "Tapion",
+        "priority": 78100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1012470,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 353,
+        "name": "Hoi",
+        "priority": 66100,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012480,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 354,
+        "name": "Minotia",
+        "priority": 63600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012880,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 355,
+        "name": "Goku & \nVegeta",
+        "priority": 80400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012901,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 356,
+        "name": "Super Saiyan Goku & \nSuper Saiyan Vegeta",
+        "priority": 87900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1012910,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 357,
+        "name": "Goku (Angel) & \nVegeta (Angel)",
+        "priority": 80300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1012931,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 358,
+        "name": "Super Saiyan Goku (Angel) & \nSuper Saiyan Vegeta (Angel)",
+        "priority": 87800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1013101,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 359,
+        "name": "Ginyu \n(Goku) (Ginyu Force)",
+        "priority": 97000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1013470,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 360,
+        "name": "Super Ribrianne",
+        "priority": 82700,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1013431,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 361,
+        "name": "Super Saiyan 2 \nKefla",
+        "priority": 89600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1013630,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 362,
+        "name": "Caulifla",
+        "priority": 97500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1013650,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 363,
+        "name": "Kale",
+        "priority": 95200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1013660,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 364,
+        "name": "Super Saiyan 2 \nKale",
+        "priority": 89800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1013531,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 365,
+        "name": "Super Saiyan 2 \nCabba",
+        "priority": 89900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1013480,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 366,
+        "name": "Jiren",
+        "priority": 92000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1013781,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 367,
+        "name": "Dragon Ball \nHeroines",
+        "priority": 74900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1013771,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 368,
+        "name": "Beerus & \nWhis",
+        "priority": 70200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1013881,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 369,
+        "name": "Toppo \n(God of Destruction Mode)",
+        "priority": 75500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012610,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 370,
+        "name": "Dyspo",
+        "priority": 76900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1013911,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 371,
+        "name": "Dyspo \n(Super Speed Mode)",
+        "priority": 76800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1012300,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 372,
+        "name": "Ribrianne",
+        "priority": 61600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1013951,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 373,
+        "name": "Ribrianne \n(Giant Form)",
+        "priority": 61500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1013400,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 374,
+        "name": "Elder Kai \n(Dozing)",
+        "priority": 60800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1013700,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 375,
+        "name": "Lord Slug",
+        "priority": 82400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1013711,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 376,
+        "name": "Lord Slug \n(Giant Form)",
+        "priority": 82300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1014120,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 377,
+        "name": "Super Full Power \nSaiyan 4 Goku",
+        "priority": 77200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1014320,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 378,
+        "name": "Frieza \n(Final Form) (GT)",
+        "priority": 68900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1014340,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 379,
+        "name": "Cell \n(Perfect Form) (GT)",
+        "priority": 81700,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1005810,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 380,
+        "name": "Android #18 \n(GT)",
+        "priority": 91300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1014471,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 381,
+        "name": "Metal Cooler \nArmy",
+        "priority": 63000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1012090,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 382,
+        "name": "Bulla",
+        "priority": 69700,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1014650,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 383,
+        "name": "Android #21 \n(Transformed)",
+        "priority": 90900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1014630,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 384,
+        "name": "Android #21 \n(Normal)",
+        "priority": 91000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1014641,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 385,
+        "name": "Android #21\n(Transformed, Good)",
+        "priority": 90800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1013360,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 386,
+        "name": "Great Saiyaman \n1 & 2",
+        "priority": 95500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1014941,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 387,
+        "name": "Cell (Perfect Form) & \nCell Jr.",
+        "priority": 81600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1014100,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 388,
+        "name": "Trunks (Kid) & \nGoten (Kid) & Marron",
+        "priority": 74500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1014950,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 389,
+        "name": "Goku & Frieza \n(Final Form) (Angel)",
+        "priority": 80500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1015190,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 390,
+        "name": "West Supreme Kai",
+        "priority": 73600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1015270,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 391,
+        "name": "Super Saiyan \nGotenks & Ghost",
+        "priority": 87300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1015350,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 392,
+        "name": "Pasta",
+        "priority": 72200,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1014200,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 393,
+        "name": "Brianne \nde Chateau",
+        "priority": 69400,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1015591,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 394,
+        "name": "Gohan (Teen) \n& Videl",
+        "priority": 79500,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1015491,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 395,
+        "name": "Super Saiyan 3 \nGoku (Xeno)",
+        "priority": 88000,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1015501,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 396,
+        "name": "Super Saiyan 3 \nVegeta (Xeno)",
+        "priority": 83800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1015511,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 397,
+        "name": "Supreme Kai of \nTime (Power of \nTime Unleashed)",
+        "priority": 75900,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1015521,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 398,
+        "name": "Super Mira",
+        "priority": 82800,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1015531,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 399,
+        "name": "Demigra \n(Makyouka Form)",
+        "priority": 65300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1015541,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 400,
+        "name": "Dark Masked \nKing",
+        "priority": 99600,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1015551,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 401,
+        "name": "Black Masked \nSaiyan",
+        "priority": 95300,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1015800,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 402,
+        "name": "Bota Magetta",
+        "priority": 66010,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1015791,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 403,
+        "name": "Frost \n(Full Power)",
+        "priority": 67690,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1015181,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 404,
+        "name": "Yamcha & Puar",
+        "priority": 62490,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1014081,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 405,
+        "name": "Trunks\n(Teen) (Future)\n& Mai (Future)",
+        "priority": 74050,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1015860,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.930124",
+        "id": 406,
+        "name": "Trunks \n(Kid) & \nMai",
+        "priority": 74450,
+        "updated_at": "2024-11-14 09:19:59.930124"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1015960,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 407,
+        "name": "Super Saiyan \nGogeta",
+        "priority": 90290,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1016051,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 408,
+        "name": "Super Saiyan \nGod Vegeta",
+        "priority": 84100,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1014511,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 409,
+        "name": "Broly (Wrathful)",
+        "priority": 67590,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1016081,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 410,
+        "name": "Paragus & \nBroly",
+        "priority": 71790,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1016290,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 411,
+        "name": "Giru",
+        "priority": 96350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1011330,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 412,
+        "name": "Vegeta Jr.",
+        "priority": 66750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1011341,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 413,
+        "name": "Super Saiyan \nVegeta Jr.",
+        "priority": 83650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1016350,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 414,
+        "name": "Goku (GT) & \nPan (GT) & \nTrunks (GT)",
+        "priority": 80350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016231,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 415,
+        "name": "Goku (Youth) & \nArale Norimaki",
+        "priority": 80330,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016190,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 416,
+        "name": "Duplicate Vegeta",
+        "priority": 69750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016201,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 417,
+        "name": "Duplicate Vegeta \n(Super Saiyan \nGod SS)",
+        "priority": 69740,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1016710,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 418,
+        "name": "Goku \n(Dokkan Butoden)",
+        "priority": 80650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016720,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 419,
+        "name": "Vegeta \n(Dokkan Butoden)",
+        "priority": 67050,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1016920,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 420,
+        "name": "Saonel & Pirina",
+        "priority": 93350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1017030,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 421,
+        "name": "Vados",
+        "priority": 99350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1016790,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 422,
+        "name": "Gohan (Teen) \n& Goten (Kid)",
+        "priority": 79550,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1016801,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 423,
+        "name": "Super Saiyan \nGohan (Teen) & \nSuper Saiyan \nGoten (Kid)",
+        "priority": 86650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016820,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 424,
+        "name": "Caulifla & \nKale",
+        "priority": 97450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016831,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 425,
+        "name": "Super Saiyan \nCaulifla & \nSuper Saiyan Kale",
+        "priority": 90150,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1016841,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 426,
+        "name": "Super Saiyan 2 \nCaulifla & \nSuper Saiyan 2 Kale",
+        "priority": 90050,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1017010,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 427,
+        "name": "Gowasu",
+        "priority": 93750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1017021,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 428,
+        "name": "Gowasu & \nZamasu",
+        "priority": 93740,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017230,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 430,
+        "name": "Gogeta",
+        "priority": 94350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1016960,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 431,
+        "name": "Hacchan",
+        "priority": 72050,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1006080,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 432,
+        "name": "Ox King",
+        "priority": 96450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017250,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 433,
+        "name": "Beat",
+        "priority": 70950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017260,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 434,
+        "name": "Great \nSaiyaman 4",
+        "priority": 95370,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1017360,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 435,
+        "name": "Ahms\n(2nd Form)",
+        "priority": 99860,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1017370,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 436,
+        "name": "Ahms\n(3rd Form)",
+        "priority": 99850,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017290,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 437,
+        "name": "Sealas",
+        "priority": 92960,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1017270,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 438,
+        "name": "Great \nSaiyaman 3",
+        "priority": 95380,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1017390,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 439,
+        "name": "Goku (Xeno)",
+        "priority": 80750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1017400,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 440,
+        "name": "Vegeta (Xeno)",
+        "priority": 67080,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017321,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 441,
+        "name": "Mecha Frieza \n& King Cold",
+        "priority": 63150,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1017381,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 442,
+        "name": "Goku (Youth) & \nBulma (Youth)",
+        "priority": 80320,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017661,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 443,
+        "name": "Super Vegeta/ \nSuper Trunks",
+        "priority": 83690,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1017741,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 444,
+        "name": "Super Saiyan Goku/ \nSuper Saiyan Gohan \n(Youth)",
+        "priority": 87950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1017690,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 445,
+        "name": "Oceanus Shenron \n(Princess Oto)",
+        "priority": 61290,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1018031,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 446,
+        "name": "Androids \n#17 & #18/ \nAndroid #16",
+        "priority": 91450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018210,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 447,
+        "name": "Trunks (Kid) \n(Great Saiyaman)",
+        "priority": 74650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018170,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 448,
+        "name": "Invisible Man",
+        "priority": 82650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1018061,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 449,
+        "name": "Thouser \n(Cooler's \nArmored Squad)",
+        "priority": 93390,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1018530,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 450,
+        "name": "Super Saiyan God \nSS Goku (Kaioken)",
+        "priority": 88450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1018450,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 451,
+        "name": "Cumber",
+        "priority": 97350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1018461,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 452,
+        "name": "Super Saiyan Cumber \n(Giant Ape Cumber)",
+        "priority": 90040,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1018290,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 453,
+        "name": "Golden Cooler",
+        "priority": 95050,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1018310,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 454,
+        "name": "Fu",
+        "priority": 69730,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1018321,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 455,
+        "name": "Super Fu",
+        "priority": 83250,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018380,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 456,
+        "name": "Gotenks (Xeno)",
+        "priority": 93950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1018350,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 457,
+        "name": "Vegeks (Xeno)",
+        "priority": 67350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1018370,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 458,
+        "name": "Gohanks (Xeno)",
+        "priority": 93940,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1018390,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 459,
+        "name": "Evil Saiyan",
+        "priority": 100100,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1018510,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 460,
+        "name": "Androids \n#14 & #15",
+        "priority": 91850,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1018550,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 461,
+        "name": "Goku (Santa)",
+        "priority": 80950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1018581,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 462,
+        "name": "Great Saiyaman \n(SS)",
+        "priority": 95650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018701,
+        "collection_category_id": 8,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 463,
+        "name": "Yamu & \nSpopovich",
+        "priority": 62550,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1018920,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 464,
+        "name": "Broly (Kid)",
+        "priority": 67550,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1019281,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 465,
+        "name": "Super Saiyan \nTrunks (Future) \n& Mai (Future)",
+        "priority": 85750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1019041,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 466,
+        "name": "Bardock & \nGine",
+        "priority": 72950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018951,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 467,
+        "name": "Vegeta (Kid) & \nRaditz (Kid)",
+        "priority": 66950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1019071,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 468,
+        "name": "Zamasu \n(Goku)",
+        "priority": 93250,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1019101,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 469,
+        "name": "Team Bardock",
+        "priority": 72930,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1019001,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 470,
+        "name": "Broly & \nCheelai & \nLemo",
+        "priority": 67520,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1018900,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 471,
+        "name": "Jackie Chun \n(Max Power)",
+        "priority": 92550,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1019401,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 472,
+        "name": "Nappa/ \nVegeta",
+        "priority": 73750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1019591,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 473,
+        "name": "Majin Buu (Good)/ \nMajin Buu \n(Pure Evil)",
+        "priority": 64450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018591,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 474,
+        "name": "Babidi & \nDabura",
+        "priority": 71950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1019730,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 475,
+        "name": "Kefla",
+        "priority": 95090,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1012310,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 476,
+        "name": "Kakunsa",
+        "priority": 98350,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1012320,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 477,
+        "name": "Rozie",
+        "priority": 60750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1019970,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 478,
+        "name": "Super Saiyan God \nSS Goku & \nSuper Saiyan God \nSS Vegeta",
+        "priority": 88475,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1019991,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 479,
+        "name": "Super Saiyan God \nSS Goku (Kaioken) & \nSuper Saiyan God \nSS Evolved Vegeta",
+        "priority": 88430,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1020160,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 480,
+        "name": "Kahseral",
+        "priority": 98700,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1020171,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 481,
+        "name": "Kahseral \n(Pride Troopers)",
+        "priority": 98690,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1014700,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 482,
+        "name": "Jiren \n(Full Power)",
+        "priority": 91990,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1020011,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 483,
+        "name": "Toppo \n(Pride Troopers)",
+        "priority": 75510,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1020440,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 484,
+        "name": "Goku & \nVegeta (Angel)",
+        "priority": 80390,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1019491,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 485,
+        "name": "Great Saiyaman \n2/1",
+        "priority": 95390,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 0,
+        "card_id": 1020771,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 486,
+        "name": "Hercule/ \nMajin Buu \n(Good)",
+        "priority": 63790,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1020131,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 487,
+        "name": "Supreme Kai & \nKibito",
+        "priority": 98590,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1020431,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 488,
+        "name": "Super \nHatchiyack",
+        "priority": 83300,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1020200,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 489,
+        "name": "Vegeta \n(Angel)",
+        "priority": 67070,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1020211,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 490,
+        "name": "Super Saiyan 2 \nVegeta (Angel)",
+        "priority": 84450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1019701,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 491,
+        "name": "Goku & \nGohan (Kid)",
+        "priority": 80550,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1021081,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 492,
+        "name": "Golden Frieza \n& Sorbet",
+        "priority": 94950,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1021101,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 493,
+        "name": "Grandpa Gohan \n& Pan (GT)",
+        "priority": 78990,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1020751,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 494,
+        "name": "Team Turles",
+        "priority": 78650,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1021391,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 495,
+        "name": "Vegeta (GT) \n(Giant Ape)",
+        "priority": 67090,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1020640,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 496,
+        "name": "Super Saiyan 4 \nVegito (Xeno)",
+        "priority": 89550,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1020660,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 497,
+        "name": "Super Saiyan 4 \nBroly",
+        "priority": 84790,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1020680,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 498,
+        "name": "Super Saiyan 4 \nBardock",
+        "priority": 84990,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1020690,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 499,
+        "name": "Super Saiyan 4 \nGohan",
+        "priority": 86490,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1020540,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 500,
+        "name": "Demon Goddess \nTowa",
+        "priority": 65250,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1020900,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 501,
+        "name": "Demon God \nDabura (Xeno)",
+        "priority": 65450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1020880,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 502,
+        "name": "Demon God \nSalsa",
+        "priority": 65470,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1021510,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 503,
+        "name": "Gohan (Kid) \n(Santa)",
+        "priority": 79750,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1020060,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 504,
+        "name": "Annin",
+        "priority": 99450,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1021001,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 505,
+        "name": "Babidi & \nMajin Buu (Good)",
+        "priority": 71940,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1021351,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 506,
+        "name": "Ultimate Gohan \n& Piccolo",
+        "priority": 99680,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1021371,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.937546",
+        "id": 507,
+        "name": "Golden Frieza \n(Angel) & \nUltimate Gohan",
+        "priority": 94890,
+        "updated_at": "2024-11-14 09:19:59.937546"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1020230,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 508,
+        "name": "Goku \n(Ultra Instinct)",
+        "priority": 80610,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1020320,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 509,
+        "name": "Super Saiyan God \nSS Evolved Vegeta",
+        "priority": 84040,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1021630,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 510,
+        "name": "Krillin & \nAndroid #18",
+        "priority": 95850,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1021530,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 511,
+        "name": "Master Roshi \n& Tien",
+        "priority": 97650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1021431,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 512,
+        "name": "Golden \nFrieza (Angel) \n& Android #17",
+        "priority": 94880,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1021481,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 513,
+        "name": "Android #17 \n(Team Universe 7)",
+        "priority": 91610,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1021680,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 514,
+        "name": "Super Saiyan \nTrunks (Kid) & \nSuper Saiyan \nGoten (Kid)",
+        "priority": 86050,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1021851,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 515,
+        "name": "Great Saiyaman \n& Videl",
+        "priority": 95550,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1021950,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 516,
+        "name": "Tapion & \nMinotia",
+        "priority": 77950,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1022041,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 517,
+        "name": "Gohan (GT) & \nGoten (GT)",
+        "priority": 79150,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1022021,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 518,
+        "name": "Trunks (GT) & \nGoten (GT)",
+        "priority": 73880,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1022660,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 519,
+        "name": "Trunks (GT)",
+        "priority": 73890,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1021881,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 520,
+        "name": "Legion of \nShadow Dragons",
+        "priority": 92750,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1022050,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 521,
+        "name": "Garlic Jr.",
+        "priority": 98680,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1022061,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 522,
+        "name": "Super \nGarlic Jr.",
+        "priority": 90350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1022100,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 523,
+        "name": "Goku & \nPiccolo",
+        "priority": 80530,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1021901,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 524,
+        "name": "Frieza \n(Final Form) & \nArmy of the Dead",
+        "priority": 68790,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1022311,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 525,
+        "name": "Piccolo & \nKrillin",
+        "priority": 70850,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1022710,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 526,
+        "name": "Kyawei",
+        "priority": 96650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1022670,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 527,
+        "name": "Marcarita",
+        "priority": 64150,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1023001,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 528,
+        "name": "Zarbon & \nDodoria",
+        "priority": 93650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1022881,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 529,
+        "name": "Krillin/Vegeta",
+        "priority": 95830,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1022920,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 530,
+        "name": "Krillin & \nGohan (Kid)",
+        "priority": 95840,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023041,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 531,
+        "name": "Vegeta/Goku",
+        "priority": 66925,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023130,
+        "collection_category_id": 5,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 532,
+        "name": "Nappa (Teen)",
+        "priority": 73775,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1023070,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 533,
+        "name": "Hit & \nSuper Saiyan God \nGoku",
+        "priority": 70550,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1023150,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 534,
+        "name": "Hacchan \n(Berserk)",
+        "priority": 72040,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1023161,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 535,
+        "name": "Hacchan & \nAndroid #17",
+        "priority": 72030,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1023320,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 536,
+        "name": "Demon Goddess \nPutine",
+        "priority": 64250,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1023230,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 537,
+        "name": "Super Saiyan God \nTrunks (Xeno)",
+        "priority": 85350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023250,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 538,
+        "name": "Pan (Xeno)",
+        "priority": 71450,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023180,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 539,
+        "name": "Dark King \nMechikabura \n(Power of Time \nUnleashed)",
+        "priority": 99650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1023210,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 540,
+        "name": "Supreme Kai \nof Time \n(Brainwashed)",
+        "priority": 75950,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1023200,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 541,
+        "name": "Robelu",
+        "priority": 60725,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1023301,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 542,
+        "name": "Super Saiyan \nGoku (Xeno)",
+        "priority": 89350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023311,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 543,
+        "name": "Super Saiyan \nVegeta (Xeno)",
+        "priority": 84650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1023271,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 544,
+        "name": "Super Saiyan \nVegeks (Xeno)",
+        "priority": 84750,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023291,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 545,
+        "name": "Super Saiyan 3 \nGohanks (Xeno)",
+        "priority": 86940,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023281,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 546,
+        "name": "Super Saiyan 3 \nGotenks (Xeno)",
+        "priority": 86950,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1023350,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 547,
+        "name": "Androids \n#17 (Future) & \n#18 (Future)",
+        "priority": 91475,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023370,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 548,
+        "name": "Dr. Gero & \nAndroid #19",
+        "priority": 75750,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023400,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 549,
+        "name": "Super Saiyan \nGohan (Future) & \nTrunks (Youth) (Future)",
+        "priority": 86350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023421,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 550,
+        "name": "Super Saiyan \nGohan (Future) & \nTrunks (Youth) (Future)/\nSuper Saiyan Gohan (Future)",
+        "priority": 86325,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023821,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 551,
+        "name": "Jackie Chun \nStatue",
+        "priority": 92540,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1022360,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 552,
+        "name": "Super Saiyan God \nGoku & \nSuper Saiyan God \nVegeta",
+        "priority": 88550,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1022400,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 553,
+        "name": "Super Saiyan 4 \nGoku & \nSuper Saiyan 4 \nVegeta",
+        "priority": 88650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1023891,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 554,
+        "name": "Gohan (Teen) & \nGoten (Kid) & \nTrunks (Kid)",
+        "priority": 79525,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023931,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 555,
+        "name": "Goku & Chi-Chi",
+        "priority": 80540,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1023951,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 556,
+        "name": "Vegeta & Bulma",
+        "priority": 66913,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023841,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 557,
+        "name": "Goku Jr. & \nVegeta Jr.",
+        "priority": 80150,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1023861,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 558,
+        "name": "Super Saiyan \nGoku Jr. & \nSuper Saiyan \nVegeta Jr.",
+        "priority": 87650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1023720,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 559,
+        "name": "Jeice & Burter",
+        "priority": 92980,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1023740,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 560,
+        "name": "Recoome & \nGuldo",
+        "priority": 61650,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1024100,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 561,
+        "name": "Para Para \nBrothers",
+        "priority": 71750,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1024200,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 562,
+        "name": "Goten \n(Teen)",
+        "priority": 80050,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1024171,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 563,
+        "name": "Annin \n(Giant Form)",
+        "priority": 99440,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1024141,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 564,
+        "name": "Goku & \nPiccolo/\nPiccolo",
+        "priority": 80520,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1024240,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 565,
+        "name": "Androids \n#16 & #18",
+        "priority": 91750,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1024330,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 566,
+        "name": "Super Saiyan \nGoku & \nSuper Saiyan \nGohan (Youth)",
+        "priority": 87925,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1024441,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 567,
+        "name": "Super Saiyan God \nSS Goku/\nSuper Saiyan God \nSS Vegeta",
+        "priority": 88487,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1024530,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 568,
+        "name": "Super Saiyan God \nSS Vegeta & \nSuper Saiyan \nTrunks (Future)",
+        "priority": 84045,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1025111,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 569,
+        "name": "Gohan (Kid)/\nGoku",
+        "priority": 79730,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1024770,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 570,
+        "name": "Trunks (GT) & \nGiru",
+        "priority": 73890,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1024741,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 571,
+        "name": "Cheelai",
+        "priority": 77150,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1024960,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 572,
+        "name": "Krillin & \nGohan (Youth)",
+        "priority": 95835,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1025500,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 573,
+        "name": "Gamma 1",
+        "priority": 97340,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1025520,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 574,
+        "name": "Gamma 2",
+        "priority": 97330,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1025220,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 575,
+        "name": "Dabura (Angel)",
+        "priority": 79090,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1025651,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 576,
+        "name": "Hatchiyack \n(Giant Form)",
+        "priority": 72090,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1025300,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 577,
+        "name": "Super Full Power \nSaiyan 4 Limit Breaker \nGoku (Xeno)",
+        "priority": 77180,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1025320,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 578,
+        "name": "Super Full Power \nSaiyan 4 Limit Breaker \nVegeta (Xeno)",
+        "priority": 77170,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1025400,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 579,
+        "name": "Super Hearts",
+        "priority": 83350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1025430,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 580,
+        "name": "Golden \nMetal Cooler",
+        "priority": 94850,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1025440,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 581,
+        "name": "Janemba \n(Modified)",
+        "priority": 92450,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1025450,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 582,
+        "name": "Lagss",
+        "priority": 62150,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1026060,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 583,
+        "name": "Trunks (Teen) & \nGoten (Teen)",
+        "priority": 74350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1025570,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 584,
+        "name": "Piccolo \n(Power Awakening)",
+        "priority": 70825,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1025810,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 585,
+        "name": "Super Saiyan 3 \nGotenks & \nPiccolo",
+        "priority": 87150,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1025830,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 586,
+        "name": "Eis Shenron & \nNuova Shenron",
+        "priority": 93050,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1025710,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 587,
+        "name": "Super Saiyan 3 \nGoku & \nSuper Saiyan 2 \nVegeta",
+        "priority": 88850,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1025750,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 588,
+        "name": "Goku (GT) & \nSuper Saiyan 4 \nVegeta",
+        "priority": 80360,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1026190,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 589,
+        "name": "Android #17 & \nHell Fighter #17",
+        "priority": 91425,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1026220,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 590,
+        "name": "Dr. Myuu & \nDr. Gero",
+        "priority": 75730,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1026710,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 591,
+        "name": "Dr. Wheelo",
+        "priority": 75850,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1026760,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 592,
+        "name": "Amond & Rasin",
+        "priority": 99750,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1026780,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 593,
+        "name": "Daiz & Cacao",
+        "priority": 78550,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1026860,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 594,
+        "name": "Baby",
+        "priority": 66550,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1027170,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 595,
+        "name": "Mamba",
+        "priority": 64125,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1027411,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 596,
+        "name": "Super Saiyan \nTrunks (Teen) & \nSuper Saiyan Broly",
+        "priority": 85950,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1028070,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 597,
+        "name": "Beelzebub",
+        "priority": 66350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1027560,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 598,
+        "name": "Pilaf",
+        "priority": 70350,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1027581,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 599,
+        "name": "Pilaf & \nShu & Mai",
+        "priority": 70330,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1027490,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 600,
+        "name": "Zirloin & \nRabanra & \nZarbuto",
+        "priority": 93625,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1027440,
+        "collection_category_id": 9,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 602,
+        "name": "Ribrianne & \nKakunsa & \nRozie",
+        "priority": 61450,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1027930,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 603,
+        "name": "Oolong & Launch",
+        "priority": 98850,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1027700,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 604,
+        "name": "Super Full Power \nSaiyan 4 Limit Breaker \nVegito (Xeno)",
+        "priority": 77165,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1027720,
+        "collection_category_id": 4,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 605,
+        "name": "Super Full Power \nSaiyan 4 \nLimit Breaker Broly",
+        "priority": 77175,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1027740,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 606,
+        "name": "Crimson Masked Saiyan \n(Super Saiyan Rosé 3)",
+        "priority": 100200,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1027770,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 607,
+        "name": "Super Saiyan God \nSS Vegeta \n(Berserk Controlled)",
+        "priority": 84030,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1027890,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.945227",
+        "id": 608,
+        "name": "Dark King Fu",
+        "priority": 99670,
+        "updated_at": "2024-11-14 09:19:59.945227"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1028120,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 609,
+        "name": "Piccolo & \nGohan (Kid)",
+        "priority": 70840,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1028100,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 610,
+        "name": "Vegeta & \nNappa",
+        "priority": 66920,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1027670,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 611,
+        "name": "Android #21 \n(Transformed, Evil)",
+        "priority": 90750,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1027471,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 612,
+        "name": "Cell \n(Perfect Form) (GT) & \nFrieza \n(Final Form) (GT)",
+        "priority": 81550,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1028640,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 613,
+        "name": "Icarus",
+        "priority": 72350,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1028040,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 614,
+        "name": "Super Saiyan Goku & \nSuper Saiyan Vegeta & \nSuper Saiyan Trunks (Teen)",
+        "priority": 87850,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1028150,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 615,
+        "name": "Hirudegarn",
+        "priority": 70050,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1028410,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 616,
+        "name": "Android #18 \n(Linked State)",
+        "priority": 91150,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1028131,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 617,
+        "name": "Piccolo & \nGohan (Kid)/\nGohan (Kid)",
+        "priority": 70830,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1028551,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 618,
+        "name": "Beerus \n(Pajamas)",
+        "priority": 70180,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1028300,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 619,
+        "name": "Gohan (Beast)",
+        "priority": 79100,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1028350,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 620,
+        "name": "Gamma 1 & \nGamma 2",
+        "priority": 97320,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1028371,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 621,
+        "name": "Gamma 1 & \nGamma 2/\nGamma 1",
+        "priority": 97310,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1028620,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 622,
+        "name": "Buyon",
+        "priority": 69720,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1029211,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 623,
+        "name": "Super Hercule Statue",
+        "priority": 83640,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1028750,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 624,
+        "name": "Catopesra",
+        "priority": 98050,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1028921,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 625,
+        "name": "Goku (Youth) & \nKrillin (Youth) & \nBulma (Youth)",
+        "priority": 80310,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1028970,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 626,
+        "name": "Super Saiyan 2 \nTrunks (Future)",
+        "priority": 85775,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1028940,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 627,
+        "name": "Cell Max",
+        "priority": 81350,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1029340,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 628,
+        "name": "Super Saiyan Goku & \nSuper Saiyan Gohan (Youth) & \nSuper Saiyan Trunks (Teen)",
+        "priority": 87915,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1029771,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 629,
+        "name": "Piccolo/\nSuper Saiyan Vegeta",
+        "priority": 70827,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1029170,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 630,
+        "name": "Cocotte",
+        "priority": 94375,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1029190,
+        "collection_category_id": 7,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 631,
+        "name": "Mai",
+        "priority": 65950,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1029701,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 632,
+        "name": "Gohan (Kid)/Piccolo",
+        "priority": 79715,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1030150,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 633,
+        "name": "Female Warrior \nin Black",
+        "priority": 94750,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1030230,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 634,
+        "name": "Goku \n(DAIMA)",
+        "priority": 80740,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1030250,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 635,
+        "name": "Vegeta \n(DAIMA)",
+        "priority": 67078,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1030241,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 636,
+        "name": "Goku \n(Mini) \n(DAIMA)",
+        "priority": 80730,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1030261,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 637,
+        "name": "Vegeta \n(Mini) \n(DAIMA)",
+        "priority": 67076,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1030211,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 638,
+        "name": "Goten (Kid) & \nIcarus Jr.",
+        "priority": 79850,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1029940,
+        "collection_category_id": 3,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 639,
+        "name": "Super Saiyan God \nSS Goku \n(Universe Tree Power)",
+        "priority": 88460,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1029880,
+        "collection_category_id": 6,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 640,
+        "name": "Fu (Youth) \n(Dogidogi Fully Absorbed)",
+        "priority": 69725,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1029900,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 641,
+        "name": "Aeos",
+        "priority": 100300,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1029920,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 642,
+        "name": "Dark King Demigra \n(Power of Time Unleashed)",
+        "priority": 99675,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1030130,
+        "collection_category_id": 2,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 643,
+        "name": "Warrior in Black \n(Super Saiyan) \n(Dark Dragon Ball Boost)",
+        "priority": 94725,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1029740,
+        "collection_category_id": 1,
+        "created_at": "2024-11-14 09:19:59.950433",
+        "id": 644,
+        "name": "Angila & \nMedamatcha",
+        "priority": 99679,
+        "updated_at": "2024-11-14 09:19:59.950433"
+    }
+]

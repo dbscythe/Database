@@ -1,0 +1,240 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 1 Sticker Card.",
+        "id": 100,
+        "name": "Sticker Card Pack Series 1",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 1 or Series 2 Sticker Card.",
+        "id": 200,
+        "name": "Sticker Card Pack Series 1 & 2",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 2 Sticker Card.",
+        "id": 201,
+        "name": "Sticker Card Pack Series 2",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 2 or Series 3 Sticker Card.",
+        "id": 300,
+        "name": "Sticker Card Pack Series 2 & 3",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 3 Sticker Card.",
+        "id": 301,
+        "name": "Sticker Card Pack Series 3",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 3 or Series 4 Sticker Card.",
+        "id": 400,
+        "name": "Sticker Card Pack Series 3 & 4",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 4 Sticker Card.",
+        "id": 401,
+        "name": "Sticker Card Pack Series 4",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 4 or Series 5 Sticker Card.",
+        "id": 500,
+        "name": "Sticker Card Pack Series 4 & 5",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 5 Sticker Card.",
+        "id": 501,
+        "name": "Sticker Card Pack Series 5",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 5 or Series 6 Sticker Card.",
+        "id": 600,
+        "name": "Sticker Card Pack Series 5 & 6",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 6 Sticker Card.",
+        "id": 601,
+        "name": "Sticker Card Pack Series 6",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 6 or Series 7 Sticker Card.",
+        "id": 700,
+        "name": "Sticker Card Pack Series 6 & 7",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 7 Sticker Card.",
+        "id": 701,
+        "name": "Sticker Card Pack Series 7",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 7 or Series 8 Sticker Card.",
+        "id": 800,
+        "name": "Sticker Card Pack Series 7 & 8",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 8 Sticker Card.",
+        "id": 801,
+        "name": "Sticker Card Pack Series 8",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 8 or Series 9 Sticker Card.",
+        "id": 900,
+        "name": "Sticker Card Pack Series 8 & 9",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 9 Sticker Card.",
+        "id": 901,
+        "name": "Sticker Card Pack Series 9",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 9 or Series 10 Sticker Card.",
+        "id": 1000,
+        "name": "Sticker Card Pack Series 9 & 10",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 10 Sticker Card.",
+        "id": 1001,
+        "name": "Sticker Card Pack Series 10",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 10 or Series 11 Sticker Card.",
+        "id": 1100,
+        "name": "Sticker Card Pack Series 10 & 11",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 11 Sticker Card.",
+        "id": 1101,
+        "name": "Sticker Card Pack Series 11",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 11 or Series 12 Sticker Card.",
+        "id": 1200,
+        "name": "Sticker Card Pack Series 11 & 12",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 12 Sticker Card.",
+        "id": 1201,
+        "name": "Sticker Card Pack Series 12",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 12 or Series 13 Sticker Card.",
+        "id": 1300,
+        "name": "Sticker Card Pack Series 12 & 13",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 13 Sticker Card.",
+        "id": 1301,
+        "name": "Sticker Card Pack Series 13",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 13 or Series 14 Sticker Card.",
+        "id": 1400,
+        "name": "Sticker Card Pack Series 13 & 14",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 14 Sticker Card.",
+        "id": 1401,
+        "name": "Sticker Card Pack Series 14",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 14 or Series 15 Sticker Card.",
+        "id": 1500,
+        "name": "Sticker Card Pack Series 14 & 15",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 15 Sticker Card.",
+        "id": 1501,
+        "name": "Sticker Card Pack Series 15",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 15 or Series 16 Sticker Card.",
+        "id": 1600,
+        "name": "Sticker Card Pack Series 15 & 16",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 16 Sticker Card.",
+        "id": 1601,
+        "name": "Sticker Card Pack Series 16",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 16 or Series 17 Sticker Card.",
+        "id": 1700,
+        "name": "Sticker Card Pack Series 16 & 17",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 17 Sticker Card.",
+        "id": 1701,
+        "name": "Sticker Card Pack Series 17",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.562969",
+        "description": "Contains a Series 17 or Series 18 Sticker Card.",
+        "id": 1800,
+        "name": "Sticker Card Pack Series 17 & 18",
+        "updated_at": "2024-11-14 09:18:27.562969"
+    }
+]

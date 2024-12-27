@@ -1,0 +1,194 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}Try tapping a Ki Sphere.{size}{center}",
+        "id": 1000,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Ki Spheres{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_001.png} \n{size: 25}Collecting Ki Spheres increases \na character's {color : #FF9900}Ki and ATK{color}, which results in \nmore damage dealt to the enemy.{size}{center}",
+        "id": 1010,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Ki Spheres{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_002.png} \n{size: 25}You can {color : #FF9900}collect multiple Ki Spheres \nof the same color{color} if they are \nnext to one another.{size}{center}",
+        "id": 1011,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Ki Spheres{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_003.png} \n{size: 25}If the collected Ki Spheres are the \nsame color as the character's Type, \nyou'll receive {color : #FF9900}double the amount of Ki{color}.{size}{center}",
+        "id": 1012,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Super Attacks{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_004.png} \n{size: 25}The character can perform a {color : #FF9900}Super Attack{color} \nif enough Ki has been accumulated.{size}{center}",
+        "id": 1020,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Super Attacks{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_005.png} \n{size: 25}Super Attacks deal {color : #FF9900}great damage{color} \nto enemies. Some can also inflict \n{color : #FF9900}a variety of extra effects{color}.{size}{center}",
+        "id": 1021,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}Goku is a {color : #FF9900}PHY Type{color} character, \nso by collecting the corresponding \n{color : #FF9900}orange Ki Spheres{color}, he will acquire \ndouble the usual amount of Ki.{size}{center}",
+        "id": 1030,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Type Match-Ups{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_009.png} \n{size: 25}If your character's {color : #FF9900}Type is advantageous \nagainst the enemy{color}, the character will \nbe able to {color : #FF9900}guard and reduce damage \ntaken from the enemy attack{color}.{size}{center}",
+        "id": 1100,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Type Match-Ups{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{center:begin}{initialImage: layout/image/tutorial/tutorial_ex_008.png} \n{size: 25}In addition, if your character's Type is \nadvantageous against the enemy, the \n{color : #FF9900}damage dealt to the enemy will increase{color}.{size}{center}",
+        "id": 1101,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Type Match-Ups{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{center:begin}{initialImage: layout/image/tutorial/tutorial_ex_010.png} \n{size: 25}This time the enemy is an {color : #9900FF}INT Type{color} \ncharacter, so {color : #FF9900}PHY Type{color} characters \nare advantageous against him.{size}{center}",
+        "id": 1102,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Attack Order{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{center:begin}{initialImage: layout/image/tutorial/tutorial_ex_006.png} \n{size: 25}The {color : #FF9900}enemy and ally icons at the \nbottom of the screen{color} represent the \norder in which characters will attack. \nAttacks will proceed from {color : #FF9900}left to right{color}.{size}{center}",
+        "id": 1110,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Attack Order{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_007.png}{center}\n{size: 25}For example, this battle will proceed as follows: \n1) Raditz will attack Goku \n2) Goku will attack Raditz \n3) Piccolo will attack Raditz{size}",
+        "id": 1111,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}In order to guard against Raditz's attack, \nswap Goku and Piccolo's positions.{size}{center}",
+        "id": 1120,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Training{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_011.png} \n{size: 25}You can train characters to raise \ntheir level and {color : #FF9900}increase their stats{color}. \nOnce characters have reached max level, \nyou can {color : #CC33FF}Awaken{color} them to \nincrease their strength further.{size}{center}",
+        "id": 2000,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Training Locations{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{size: 25}By using a Training Location, you can \ntrain a character more effectively.{size} \n{initialImage: layout/image/tutorial/tutorial_ex_016.png} \n{size: 25}For example, using \"King Kai's Planet (10G)\" \nwill result in the Training being a {color : #FF9900}Big Success{color}, \nwhich {color : #FF9900}grants an extra 20% EXP{color}.{size}{center}",
+        "id": 2010,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}First up, select a Training Location.{size}{center}",
+        "id": 2020,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}Next, select the Training Partners \nand Training Items.{size}{center}",
+        "id": 2030,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}Training Partners and \nTraining Items{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_017.png} \n{size: 25}Undergoing Training consumes \n{color : #FF9900}Training Partners{color} and {color : #FF9900}Training Items{color}.{size}{center}",
+        "id": 2040,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}Training Partners{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_018.png} \n{size: 25}There is a chance of {color : #FF9900}leveling up \na character's Super Attack{color} if you \nselect a {color : #FF9900}character of the same name{color} \nas a Training Partner.{size}{center}",
+        "id": 2050,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}Training Items{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_019.png} \n{size: 25}Using {color : #FF9900}Training Items of the same Type{color} \nas the character grants {color : #FF9900}an extra 50% EXP{color}.{size}{center}",
+        "id": 2060,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}Let's automatically select the \nTraining Partners and Training Items this time. \n\nTap the \"Auto\" buttons.{size}{center}",
+        "id": 2070,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25} Now, tap \"Begin\" to train.{size} \n\n{size:20}When Training commences, the chosen Training Partners, \nTraining Items and Zeni will be consumed.{size}{center}",
+        "id": 2080,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}This character is now at max level. \n\nLet's try Z-Awakening him.{size}{center}",
+        "id": 2090,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Awakening{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{size: 23}There are three types of Awakening: {color : #FF0000}Z-Awakening{color}, \n{color : #CC33FF}Dokkan Awakening{color} and {color : #FFCC00}Extreme Z-Awakening{color}. \n{initialImage: layout/image/tutorial/tutorial_ex_012.png} \nOnce a character has reached max level, \nyou can awaken the character by \nconsuming {color : #FF9900}Awakening Medals and Zeni{color}.{size}{center}",
+        "id": 2100,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Z-Awakening{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_013.png} \n{size: 25}Z-Awakening characters increases their stats. \n\nIn addition, the {color : #FF9900}rarity will increase{color}, \nas will the {color : #FF9900}maximum level{color}.{size}{center}",
+        "id": 2110,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Z-Awakening{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_013.png} \n{size: 25}Z-Awakening will also add \"Super\" or \n\"Extreme\" to a character's Type. \nThis will further {color : #FF9900}increase the character's \nattack power against the advantageous Type{color} \nas well as {color : #FF9900}increasing the character's resistance \nagainst the disadvantageous Type{color}.{size}{center}",
+        "id": 2111,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size:25}Now then, tap the \"Z-Awaken\" button.{size} \n\n{size:20}{color : #FF9900}The character's level will be raised to max level \nfor the purpose of this tutorial{color}.{size}{center}",
+        "id": 2120,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Dokkan Awakening{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_014.png} \n{size:25}Certain characters can be {color : #CC33FF}Dokkan Awakened{color} \nafter they have been Z-Awakened and \nreached max level. This Awakening \nrequires {color : #FF9900}Awakening Medals and Zeni{color}.{size}{center}",
+        "id": 2200,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Dokkan Awakening{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{initialImage: layout/image/tutorial/tutorial_ex_014.png} \n{size:25}Along with changes to the appearance, \nthe character's {color : #FF9900}stats, Super Attack and \nskills will be powered up{color}.{size}{center}",
+        "id": 2201,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size:25}Tap the \"Dokkan Awaken\" button.{size} \n\n{size:18}Usually a character is reverted to Lv. 1 after Dokkan Awakening. \nHowever, {color : #FF9900}this time the character's level will be raised \nto max level for the purpose of this tutorial{color}.{size}{center}",
+        "id": 2210,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 35}About Active Skills{size} \n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png} \n{size: 25}A number of characters can launch {color : #FF9900}Active Skills{color} \nwhen certain conditions are met.{size} \n{initialImage: layout/image/tutorial/tutorial_ex_015.png} \n{size: 25}Active Skills can be activated in battle, and each \nhas different activation conditions and effects.{size}{center}",
+        "id": 3000,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.959328",
+        "description": "{center:begin}{size: 25}Now that Goku has been Dokkan Awakened, \nhe can use his Active Skill. \n\n{color : #FF9900}Swipe his character icon upwards{color} to use it.{size}{center}",
+        "id": 3010,
+        "updated_at": "2024-11-14 09:19:59.959328"
+    }
+]

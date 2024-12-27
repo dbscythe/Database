@@ -1,0 +1,93 @@
+[
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 1,
+        "increase_rate": 550,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 2,
+        "increase_rate": 750,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 3,
+        "increase_rate": 550,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 4,
+        "increase_rate": 750,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 5,
+        "increase_rate": 500,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 6,
+        "increase_rate": 500,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 7,
+        "increase_rate": 750,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 8,
+        "increase_rate": 500,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 9,
+        "increase_rate": 750,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 10,
+        "increase_rate": 550,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 11,
+        "increase_rate": 750,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 12,
+        "increase_rate": 550,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:51.297592",
+        "id": 13,
+        "increase_rate": 750,
+        "updated_at": "2024-11-14 09:19:51.297592"
+    }
+]

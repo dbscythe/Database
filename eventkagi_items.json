@@ -1,0 +1,102 @@
+[
+    {
+        "area_category_ids": "{\"area_category_ids\":[2,7,8,9]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to challenge stages on \nthe \"Story\" list in the Portal of Memories.",
+        "id": 1,
+        "name": "Story Key",
+        "rarity": 0,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[1,3,4,5,6]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to challenge stages on \nthe \"Growth\" list in the Portal of Memories.",
+        "id": 2,
+        "name": "Growth Key",
+        "rarity": 0,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[10,11,12]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to challenge stages on \nthe \"Challenge\" list in the Portal of Memories.",
+        "id": 3,
+        "name": "Challenge Key",
+        "rarity": 0,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[13]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to attempt the event \n\"Ultimate Leveling Up! Chamber of \nSpirit and Time\" on the \"Limited\" list \nin the Portal of Memories.",
+        "id": 4,
+        "name": "Limited Key 1",
+        "rarity": 0,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[999]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to challenge stages on \nthe \"Z-Battle\" list in the Portal of Memories.",
+        "id": 5,
+        "name": "Z-Battle Key",
+        "rarity": 0,
+        "selling_exchange_point": 10,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[14]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to attempt the event \n\"Stronger Than Ever! Super Training of \nGoku's Family\" on the \"Limited\" list \nin the Portal of Memories.",
+        "id": 101,
+        "name": "Limited Key 2",
+        "rarity": 0,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[15]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to attempt the event \n\"Stronger Than Ever! Super Training of \nGoku's Family\" on the \"Limited\" list \nin the Portal of Memories.",
+        "id": 102,
+        "name": "Limited Key 3",
+        "rarity": 0,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[16]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to attempt the event \n\"Supreme Kais' Grand Guidance\" \non the \"Limited\" list in the Portal of Memories.",
+        "id": 1001,
+        "name": "Guidance Key",
+        "rarity": 0,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[9999]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to attempt the event \n\"In Search of Greater Power! God-Level \nIntensive Training [Special Edition]\" \non the \"Limited\" list in the Portal of Memories. \nValid until 8/31/2023 15:59 PST.",
+        "id": 1002,
+        "name": "All Pumped Up Limited Key",
+        "rarity": 0,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    },
+    {
+        "area_category_ids": "{\"area_category_ids\":[18]}",
+        "created_at": "2024-11-14 09:19:51.253459",
+        "description": "Can be used to attempt the event \n\"In Search of Greater Power! God-Level \nIntensive Training [Special Edition]\" \non the \"Limited\" list in the Portal of Memories. \nValid until 4/30/2024 15:59 PST.",
+        "id": 1003,
+        "name": "All Pumped Up Limited Key 2",
+        "rarity": 0,
+        "selling_exchange_point": 0,
+        "updated_at": "2024-11-14 09:19:51.253459"
+    }
+]

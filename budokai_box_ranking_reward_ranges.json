@@ -1,0 +1,3274 @@
+[
+    {
+        "budokai_box_ranking_id": 1,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 9,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 1,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 10,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 1,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 11,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 1,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 12,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 1,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 13,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 1,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 14,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 2,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 15,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 2,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 16,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 2,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 17,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 2,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 18,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 2,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 19,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 2,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 20,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 170,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 170001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 170,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 170002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 170,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 170003,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 170,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 170004,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 170,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 170005,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 170,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 170006,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 181001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 181002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 181004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 181011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 181021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 181051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 181101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 181151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 181,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 181201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 191001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 191002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 191004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 191011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 191021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 191051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 191101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 191151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 191,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 191201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 201001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 201002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 201004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 201011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 201021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 201051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 201101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 201151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 201,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 201201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 211001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 211002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 211004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 211011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 211021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 211051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 211101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 211151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 211,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 211201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 221001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 221002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 221004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 221011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 221021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 221051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 221101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 221151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 221,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 221201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 231001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 231002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 231004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 231011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 231021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 231051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 231101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 231151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 231201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 231,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 300,
+        "id": 231251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 241001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 241002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 241004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 241011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 241021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 241051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 241101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 241151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 241201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 241,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 300,
+        "id": 241251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 251001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 251002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 251004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 251011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 251021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 251051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 251101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 200,
+        "id": 251151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 250,
+        "id": 251201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 251,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 300,
+        "id": 251251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 1,
+        "id": 261001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 3,
+        "id": 261002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 10,
+        "id": 261004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 20,
+        "id": 261011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 50,
+        "id": 261021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 100,
+        "id": 261051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.529283",
+        "end_value": 150,
+        "id": 261101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.529283"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 261151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 261201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 261,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 261251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 271001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 271002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 271004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 271011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 271021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 271051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 271101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 271151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 271201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 271,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 271251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 281001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 281002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 281004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 281011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 281021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 281051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 281101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 281151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 281201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 281,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 281251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 291001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 291002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 291004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 291011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 291021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 291051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 291101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 291151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 291201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 291,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 291251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 301001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 301002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 301004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 301011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 301021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 301051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 301101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 301151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 301201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 301,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 301251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 311001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 311002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 311004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 311011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 311021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 311051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 311101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 311151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 311201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 311,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 311251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 321001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 321002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 321004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 321011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 321021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 321051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 321101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 321151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 321201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 321251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 331001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 331002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 331004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 331011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 331021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 331051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 331101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 331151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 331201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 331,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 331251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 341001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 341002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 341004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 341011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 341021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 341051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 341101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 341151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 341201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 341,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 341251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 351001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 351002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 351004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 351011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 351021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 351051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 351101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 200,
+        "id": 351151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 250,
+        "id": 351201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 351,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 300,
+        "id": 351251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 1,
+        "id": 361001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 3,
+        "id": 361002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 10,
+        "id": 361004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 20,
+        "id": 361011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 50,
+        "id": 361021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 100,
+        "id": 361051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.534507",
+        "end_value": 150,
+        "id": 361101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.534507"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 361151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 361201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 361,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 361251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 371001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 371002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 371004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 371011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 371021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 371051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 371101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 371151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 371201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 371,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 371251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 401001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 401002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 401004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 401011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 401021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 401051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 401101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 401151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 401201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 401,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 401251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 411001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 411002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 411004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 411011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 411021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 411051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 411101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 411151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 411201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 411,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 411251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 421001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 421002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 421004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 421011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 421021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 421051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 421101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 421151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 421201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 421,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 421251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 431001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 431002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 431004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 431011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 431021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 431051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 431101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 431151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 431201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 431,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 431251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 441001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 441002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 441004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 441011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 441021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 441051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 441101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 441151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 441201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 441,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 441251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 451001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 451002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 451004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 451011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 451021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 451051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 451101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 451151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 451201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 451,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 451251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 461001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 461002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 461004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 461011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 461021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 461051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 461101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 461151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 461201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 461,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 461251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 471001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 471002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 471004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 471011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 471021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 471051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 471101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 200,
+        "id": 471151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 250,
+        "id": 471201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 471,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 300,
+        "id": 471251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 1,
+        "id": 481001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 3,
+        "id": 481002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 10,
+        "id": 481004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 20,
+        "id": 481011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 50,
+        "id": 481021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 100,
+        "id": 481051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.539720",
+        "end_value": 150,
+        "id": 481101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.539720"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 481151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 481201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 481,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 481251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 491001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 491002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 491004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 491011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 491021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 491051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 491101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 491151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 491201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 491,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 491251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 501001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 501002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 501004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 501011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 501021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 501051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 501101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 501151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 501201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 501,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 501251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 511001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 511002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 511004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 511011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 511021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 511051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 511101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 511151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 511201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 511,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 511251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 521001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 521002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 521004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 521011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 521021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 521051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 521101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 521151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 521201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 521,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 521251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 531001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 531002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 531004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 531011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 531021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 531051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 531101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 531151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 531201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 531,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 531251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 541001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 541002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 541004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 541011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 541021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 541051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 541101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 541151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 541201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 541,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 541251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 551001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 551002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 551004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 551011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 551021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 551051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 551101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 551151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 551201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 551,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 300,
+        "id": 551251,
+        "start_value": 251,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 990001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 990002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 990004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 990011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 990021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 990051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 990101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 990151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 99,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 990201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 9211001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 9211002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 9211004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 9211011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 9211021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 9211051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 9211101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 9211151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9211,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 9211201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 1,
+        "id": 9221001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 3,
+        "id": 9221002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 10,
+        "id": 9221004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 20,
+        "id": 9221011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 50,
+        "id": 9221021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 100,
+        "id": 9221051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 150,
+        "id": 9221101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 200,
+        "id": 9221151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9221,
+        "created_at": "2024-11-14 09:19:49.544896",
+        "end_value": 250,
+        "id": 9221201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.544896"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 1,
+        "id": 9231001,
+        "start_value": 1,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 3,
+        "id": 9231002,
+        "start_value": 2,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 10,
+        "id": 9231004,
+        "start_value": 4,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 20,
+        "id": 9231011,
+        "start_value": 11,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 50,
+        "id": 9231021,
+        "start_value": 21,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 100,
+        "id": 9231051,
+        "start_value": 51,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 150,
+        "id": 9231101,
+        "start_value": 101,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 200,
+        "id": 9231151,
+        "start_value": 151,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    },
+    {
+        "budokai_box_ranking_id": 9231,
+        "created_at": "2024-11-14 09:19:49.547952",
+        "end_value": 250,
+        "id": 9231201,
+        "start_value": 201,
+        "updated_at": "2024-11-14 09:19:49.547952"
+    }
+]

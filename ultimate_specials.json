@@ -1,0 +1,686 @@
+[
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +100%",
+        "id": 2,
+        "increase_rate": 650,
+        "name": "For LR Super Saiyan 4 Goku/Vegeta",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Causes ultimate damage",
+        "id": 3,
+        "increase_rate": 650,
+        "name": "For Goku (Youth)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +100%",
+        "id": 4,
+        "increase_rate": 650,
+        "name": "For LR Gohan & Goten",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Causes supreme damage \n(Equivalent to Super Attack Level 15)",
+        "id": 5,
+        "increase_rate": 430,
+        "name": "For Frieza (2nd Form)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +50%",
+        "id": 6,
+        "increase_rate": 600,
+        "name": "For LR Perfect Cell",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Causes ultimate damage to enemy \n(Raises allies' ATK by 30% for 1 turn)",
+        "id": 7,
+        "increase_rate": 520,
+        "name": "For Super Saiyan God SS Goku (Kaioken)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +50%",
+        "id": 8,
+        "increase_rate": 600,
+        "name": "For Super Saiyan God SS Vegito",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +50%",
+        "id": 9,
+        "increase_rate": 600,
+        "name": "For Super Saiyan God SS Gogeta",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "628% Damage",
+        "id": 10,
+        "increase_rate": 628,
+        "name": "For Trunks (Future) & Mai (Future)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +50%",
+        "id": 11,
+        "increase_rate": 600,
+        "name": "For Goku (Ultra Instinct)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 1,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Mega-colossal damage to all enemies",
+        "id": 12,
+        "increase_rate": 440,
+        "name": "For SSGSS Evolved Vegeta",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +100%",
+        "id": 13,
+        "increase_rate": 650,
+        "name": "For Master Roshi",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +50%",
+        "id": 14,
+        "increase_rate": 600,
+        "name": "For Android #17",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +100%",
+        "id": 15,
+        "increase_rate": 650,
+        "name": "For Super Saiyan Goku (GT)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Ultimate Damage +100%",
+        "id": 16,
+        "increase_rate": 650,
+        "name": "For Super Saiyan Vegeta (GT)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Causes ultimate damage",
+        "id": 17,
+        "increase_rate": 550,
+        "name": "For Super #17",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 18,
+        "increase_rate": 650,
+        "name": "[en]桃白白用",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[EN] 究極ダメージを与える",
+        "id": 19,
+        "increase_rate": 550,
+        "name": "[EN] 界王拳",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[EN] 究極ダメージ+30%",
+        "id": 20,
+        "increase_rate": 580,
+        "name": "[EN] 界王拳",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Causes ultimate damage",
+        "id": 21,
+        "increase_rate": 600,
+        "name": "Wドッカン超サイヤ人孫悟空",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "Causes ultimate damage",
+        "id": 22,
+        "increase_rate": 600,
+        "name": "Wドッカンフリーザ(フルパワー)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージを与える",
+        "id": 23,
+        "increase_rate": 550,
+        "name": "[en]フュージョン(7周年Wドッカン)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージを与える",
+        "id": 24,
+        "increase_rate": 550,
+        "name": "[en]ウルトラビッグバンかめはめ波(7周年Wドッカン)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 25,
+        "increase_rate": 600,
+        "name": "[en]芭蕉扇",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 26,
+        "increase_rate": 600,
+        "name": "[en]願いをこめた元気玉",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 1,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "敵全体に超極大ダメージ+50%",
+        "id": 27,
+        "increase_rate": 490,
+        "name": "ファイナルエクスプロージョン(サイヤ)",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 28,
+        "increase_rate": 600,
+        "name": "[en]ラディッツの制裁",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージを与える",
+        "id": 29,
+        "increase_rate": 550,
+        "name": "[en]栽培マンアタック",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 30,
+        "increase_rate": 600,
+        "name": "[en]魔貫光殺砲",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+100%",
+        "id": 31,
+        "increase_rate": 650,
+        "name": "フルパワー親子かめはめ波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 1,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]敵全体に超極大+100%",
+        "id": 32,
+        "increase_rate": 540,
+        "name": "[en]アースブレイカー",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 33,
+        "increase_rate": 650,
+        "name": "[en]親子ギャリック砲",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージを与える",
+        "id": 34,
+        "increase_rate": 550,
+        "name": "[en]さようなら天さん",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 35,
+        "increase_rate": 650,
+        "name": "[en]絶対のいかずち",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+50%",
+        "id": 36,
+        "increase_rate": 600,
+        "name": "とっておきのかめはめ波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+50%",
+        "id": 37,
+        "increase_rate": 600,
+        "name": "スーパーノヴァ",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+50%",
+        "id": 38,
+        "increase_rate": 600,
+        "name": "超サイヤ人怒る！！！",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+50%",
+        "id": 39,
+        "increase_rate": 600,
+        "name": "生命エネルギー吸収",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ",
+        "id": 40,
+        "increase_rate": 550,
+        "name": "不可能を可能にする力",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]800%ダメージ",
+        "id": 41,
+        "increase_rate": 800,
+        "name": "[en]怒りのかめはめ波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージを与える",
+        "id": 42,
+        "increase_rate": 550,
+        "name": "[en]ファイナルスピリッツキャノン",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]610%ダメージ",
+        "id": 43,
+        "increase_rate": 610,
+        "name": "[en]最大出力かめはめ波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ",
+        "id": 44,
+        "increase_rate": 550,
+        "name": "[en]特大繰気弾",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+50%",
+        "id": 45,
+        "increase_rate": 600,
+        "name": "魔貫光殺砲",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 46,
+        "increase_rate": 650,
+        "name": "[en]フルパワー一斉攻撃",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 47,
+        "increase_rate": 650,
+        "name": "[en]元気玉",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 48,
+        "increase_rate": 650,
+        "name": "[en]満月の出来事",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ",
+        "id": 49,
+        "increase_rate": 550,
+        "name": "ゴッドの世界を吸収したサイヤ人",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 50,
+        "increase_rate": 650,
+        "name": "[en]リベンジデスボンバー",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 1,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "敵全体に超極大ダメージ+100%",
+        "id": 51,
+        "increase_rate": 540,
+        "name": "超爆裂魔波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 52,
+        "increase_rate": 650,
+        "name": "[en]プラネットゲイザー",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 53,
+        "increase_rate": 600,
+        "name": "[en]サイヤ人にふさわしい生き方をしろ！",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 54,
+        "increase_rate": 650,
+        "name": "[en]スーパー元気玉",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 55,
+        "increase_rate": 600,
+        "name": "[en]マイナスエネルギーパワーボール",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ",
+        "id": 56,
+        "increase_rate": 550,
+        "name": "[en]ゴッドインパクト",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 57,
+        "increase_rate": 600,
+        "name": "[en]地獄を生き抜いた男",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 58,
+        "increase_rate": 650,
+        "name": "[en]地獄を生き抜いた男",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 59,
+        "increase_rate": 650,
+        "name": "[en]アナザーホープ",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 60,
+        "increase_rate": 600,
+        "name": "[en]ギャラクシーエターナルソード",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+100%",
+        "id": 61,
+        "increase_rate": 650,
+        "name": "アブソリュートリリースボール",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 62,
+        "increase_rate": 650,
+        "name": "[en]元気玉超サイヤ人",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 63,
+        "increase_rate": 600,
+        "name": "[en]ヘルズバスター",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+100%",
+        "id": 64,
+        "increase_rate": 650,
+        "name": "オレにどこまでついてこれるかな？",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ",
+        "id": 65,
+        "increase_rate": 550,
+        "name": "[en]この宇宙で最高のショー",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "究極ダメージ+100%",
+        "id": 66,
+        "increase_rate": 650,
+        "name": "ビッグ・バン・アタック",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 67,
+        "increase_rate": 650,
+        "name": "[en]破壊玉",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 68,
+        "increase_rate": 650,
+        "name": "[en]フルパワーかめはめ波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 69,
+        "increase_rate": 650,
+        "name": "[en]お菓子光線",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ",
+        "id": 70,
+        "increase_rate": 550,
+        "name": "[en]爆裂ラッシュ",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 71,
+        "increase_rate": 650,
+        "name": "[en]スクリームエクスプロージョン",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+50%",
+        "id": 72,
+        "increase_rate": 600,
+        "name": "[en]アクマイト光線",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 73,
+        "increase_rate": 650,
+        "name": "[en]大地を砕く剛腕",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 74,
+        "increase_rate": 650,
+        "name": "[en]汚い花火",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 75,
+        "increase_rate": 650,
+        "name": "[en]超ゲノム光線",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ",
+        "id": 76,
+        "increase_rate": 650,
+        "name": "[en]ダークネスブラスター",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2024-11-14 09:19:25.128044",
+        "description": "[en]究極ダメージ+100%",
+        "id": 77,
+        "increase_rate": 650,
+        "name": "[en]屈強の合体かめはめ波",
+        "updated_at": "2024-11-14 09:19:25.128044"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Virtual Dokkan Ultimate Clash is a new battle mode \navailable to players {color: #FFFF00}ranking 150 and above{color}.",
+        "id": 1,
+        "image_path": null,
+        "rmbattle_help_id": 2,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Neither Continues nor Support Items are allowed in this mode. \nHowever, {color: #FFFF00}challenging this mode does not consume STA.{color}",
+        "id": 2,
+        "image_path": "images/en/help/rmb_help_001_2.png",
+        "rmbattle_help_id": 2,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Characters eligible for use in Virtual Dokkan Ultimate Clash mode \n{color: #FFFF00}must have a rarity of UR or higher. \nUp to 112 characters can be selected{color}.",
+        "id": 3,
+        "image_path": null,
+        "rmbattle_help_id": 3,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "By tapping the \"Auto\" button, \n112 characters will be automatically selected \nin the order of highest total stats. \n\nYou are {color: #FFFF00}allowed to include multiple characters \nof the same name{color}.",
+        "id": 4,
+        "image_path": "images/en/help/rmb_help_002_2.png",
+        "rmbattle_help_id": 3,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Defeat the enemies to clear a stage and receive rewards. \n\nAfter you clear all the stages \nin the vicinity of the question mark, \nyou will gain access to the boss stage. \n\nClear the boss stage to clear the level. \n\nConquer every level to clear the game mode!",
+        "id": 5,
+        "image_path": "images/en/help/rmb_help_003.png",
+        "rmbattle_help_id": 4,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "You can select up to 7 characters to take into battle.",
+        "id": 6,
+        "image_path": null,
+        "rmbattle_help_id": 5,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Of these 7 characters, the first selected becomes the leader, \nwhile the second will become the {color: #FFFF00}sub-leader{color}. \nBoth characters {color: #FFFF00}can activate \ntheir Leader Skills{color} in the battle.",
+        "id": 7,
+        "image_path": "images/en/help/rmb_help_004.png",
+        "rmbattle_help_id": 5,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Identical characters cannot be brought into the same battle. \nHowever, {color: #FFFF00}characters with the same character name \nbut different second names can{color}.",
+        "id": 8,
+        "image_path": "images/en/help/rmb_help_005.png",
+        "rmbattle_help_id": 5,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Unlike regular battles, \nContinues and Support Items are not allowed.",
+        "id": 9,
+        "image_path": null,
+        "rmbattle_help_id": 6,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Characters that have participated in a battle \ncannot be used again as long as you do not get a Game Over. \n\nEven if you lose, the enemy's HP will be carried over \ninto the next battle as long as you do not get a Game Over.\n\nWhen the indicator for the remaining charges in \nthe bottom-right corner of the battle screen reaches 0, \nthe battle will end with a \"Failed\" after the turn concludes.",
+        "id": 10,
+        "image_path": "images/en/help/rmb_help_006.png",
+        "rmbattle_help_id": 6,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Once the number of remaining characters reaches 0, \nit's Game Over. \n\nEven if you win the battle, \nit will still be counted as Game Over \nif you do not have any remaining characters. \n\n*The final boss battle is the sole exception\n—allowing for completion even with 0 characters left.",
+        "id": 11,
+        "image_path": null,
+        "rmbattle_help_id": 7,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Please refer to the bottom of the screen \nor \"Check Progress\" page to check \nthe number of remaining characters.",
+        "id": 12,
+        "image_path": "images/en/help/rmb_help_007.png",
+        "rmbattle_help_id": 7,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Use the \"Retire\" button on the main screen of the mode \nto instantly quit the Ultimate Clash.",
+        "id": 13,
+        "image_path": "images/en/help/rmb_help_008.png",
+        "rmbattle_help_id": 7,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "If you retire, or lose and get a Game Over, \nrewards for the incomplete stage will be forfeited.",
+        "id": 14,
+        "image_path": "images/en/help/rmb_help_009.png",
+        "rmbattle_help_id": 7,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "You can receive \"Mission Rewards\" \nby meeting certain requirements.",
+        "id": 15,
+        "image_path": null,
+        "rmbattle_help_id": 8,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Check details such as mission objectives \nand rewards via the \"Mission\" page on the main screen.",
+        "id": 16,
+        "image_path": "images/en/help/rmb_help_010.png",
+        "rmbattle_help_id": 8,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Conquer the new battle mode \n\"Ultimate Clash\"!{outline}{color}{size}",
+        "id": 17,
+        "image_path": null,
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}What is Virtual Dokkan Ultimate Clash?{outline}{color}{size}\nVirtual Dokkan Ultimate Clash is a new battle mode \nopen exclusively to {color: #FFFF00}UR or higher{color} characters! \nUp to {color: #FFFF00}112{color} fighters can join the fray!",
+        "id": 18,
+        "image_path": "images/en/help/rmb_help_011.png",
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Continues and Support Items are NOT allowed in this mode. \nOn the other hand, {color: #FFFF00}no STA will be consumed{color}! \n\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Battles{outline}{color}{size}\n\nUp to 7 characters can join each battle.",
+        "id": 19,
+        "image_path": null,
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Though friends can't be selected, you are allowed to \ndesignate one of your characters as {color: #FFFF00}sub-leader{color}. \nTogether with the leader, \n{color: #FFFF00}you can activate a total of 2 Leader Skills{color} in battles!",
+        "id": 20,
+        "image_path": "images/en/help/rmb_help_012.png",
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Vanquish the enemy from each stage \nto complete the stages and reap the rewards. \n\nClear all the stages surrounding the question mark \nand the boss stage will reveal itself! \n\nConquer it to clear the level. \n\nThere are many levels awaiting you. \nClear them all to beat the game!",
+        "id": 21,
+        "image_path": null,
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Expect to go up against only the strongest of the strong! \n\nSurvival can hinge on your choice of characters, \nso choose wisely!",
+        "id": 22,
+        "image_path": "images/en/help/rmb_help_003.png",
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "Unleash powerful Leader Skills and scatter your foes!",
+        "id": 23,
+        "image_path": "images/en/help/rmb_help_006.png",
+        "rmbattle_help_id": 1,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.695704",
+        "description": "You can acquire the Treasure Item \"Battlefield Memory\" \nin various ways, including as a reward for clearing \neach stage for the first time. They will remain after \nthe event period ends, allowing you to use them \nin subsequent events! \n\nIf you need a lot of \"Battlefield Memories\" \nto make an exchange, don't use them after \nan Ultimate Clash ends. Instead, try to collect \nthe rest that you need in subsequent Ultimate Clashes!",
+        "id": 24,
+        "image_path": null,
+        "rmbattle_help_id": 9,
+        "updated_at": "2024-11-14 09:18:26.695704"
+    }
+]

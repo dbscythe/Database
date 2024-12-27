@@ -1,0 +1,74 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 1,
+        "level": 2,
+        "link_skill_lv_up_item_id": 1,
+        "quantity": 1,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 2,
+        "level": 3,
+        "link_skill_lv_up_item_id": 1,
+        "quantity": 2,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 3,
+        "level": 4,
+        "link_skill_lv_up_item_id": 1,
+        "quantity": 3,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 4,
+        "level": 5,
+        "link_skill_lv_up_item_id": 1,
+        "quantity": 4,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 5,
+        "level": 6,
+        "link_skill_lv_up_item_id": 2,
+        "quantity": 1,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 6,
+        "level": 7,
+        "link_skill_lv_up_item_id": 2,
+        "quantity": 2,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 7,
+        "level": 8,
+        "link_skill_lv_up_item_id": 2,
+        "quantity": 3,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 8,
+        "level": 9,
+        "link_skill_lv_up_item_id": 3,
+        "quantity": 1,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    },
+    {
+        "created_at": "2024-11-14 09:19:54.015224",
+        "id": 9,
+        "level": 10,
+        "link_skill_lv_up_item_id": 3,
+        "quantity": 2,
+        "updated_at": "2024-11-14 09:19:54.015224"
+    }
+]

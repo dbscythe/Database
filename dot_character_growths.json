@@ -1,0 +1,602 @@
+[
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100001,
+        "image_number": 1,
+        "label_name": "Goku (Youth)",
+        "lv": 1,
+        "point_total": 0,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100002,
+        "image_number": 2,
+        "label_name": "Goku (Youth)",
+        "lv": 2,
+        "point_total": 50,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100003,
+        "image_number": 3,
+        "label_name": "Goku (Youth) (Giant Ape)",
+        "lv": 3,
+        "point_total": 120,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100004,
+        "image_number": 4,
+        "label_name": "Goku (Youth)",
+        "lv": 4,
+        "point_total": 200,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100005,
+        "image_number": 5,
+        "label_name": "Goku (Youth)",
+        "lv": 5,
+        "point_total": 300,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100006,
+        "image_number": 6,
+        "label_name": "Goku (Youth)",
+        "lv": 6,
+        "point_total": 400,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100007,
+        "image_number": 7,
+        "label_name": "Goku (Youth)",
+        "lv": 7,
+        "point_total": 500,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100008,
+        "image_number": 8,
+        "label_name": "Goku (Youth)",
+        "lv": 8,
+        "point_total": 600,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100009,
+        "image_number": 9,
+        "label_name": "Goku",
+        "lv": 9,
+        "point_total": 777,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100010,
+        "image_number": 10,
+        "label_name": "Goku",
+        "lv": 10,
+        "point_total": 900,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100011,
+        "image_number": 11,
+        "label_name": "Goku",
+        "lv": 11,
+        "point_total": 1050,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 1,
+        "id": 100012,
+        "image_number": 12,
+        "label_name": "Goku",
+        "lv": 12,
+        "point_total": 1250,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101001,
+        "image_number": 1,
+        "label_name": "Goku (Youth)",
+        "lv": 1,
+        "point_total": 0,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101002,
+        "image_number": 13,
+        "label_name": "Goku (Youth) & Chi-Chi (Youth)",
+        "lv": 2,
+        "point_total": 50,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101003,
+        "image_number": 3,
+        "label_name": "Goku (Youth) (Giant Ape)",
+        "lv": 3,
+        "point_total": 120,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101004,
+        "image_number": 4,
+        "label_name": "Goku (Youth)",
+        "lv": 4,
+        "point_total": 200,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101005,
+        "image_number": 5,
+        "label_name": "Goku (Youth)",
+        "lv": 5,
+        "point_total": 300,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101006,
+        "image_number": 14,
+        "label_name": "Goku (Youth) & Chi-Chi (Youth)",
+        "lv": 6,
+        "point_total": 400,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101007,
+        "image_number": 7,
+        "label_name": "Goku (Youth)",
+        "lv": 7,
+        "point_total": 500,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101008,
+        "image_number": 8,
+        "label_name": "Goku (Youth)",
+        "lv": 8,
+        "point_total": 600,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101009,
+        "image_number": 9,
+        "label_name": "Goku",
+        "lv": 9,
+        "point_total": 777,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101010,
+        "image_number": 15,
+        "label_name": "Goku & Chi-Chi",
+        "lv": 10,
+        "point_total": 900,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101011,
+        "image_number": 16,
+        "label_name": "Goku & Chi-Chi",
+        "lv": 11,
+        "point_total": 1050,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 2,
+        "id": 101012,
+        "image_number": 17,
+        "label_name": "Goku & Chi-Chi",
+        "lv": 12,
+        "point_total": 1250,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102001,
+        "image_number": 1,
+        "label_name": "Goku & Gohan (Kid)",
+        "lv": 1,
+        "point_total": 0,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102002,
+        "image_number": 2,
+        "label_name": "Goku (Angel)",
+        "lv": 2,
+        "point_total": 50,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102003,
+        "image_number": 3,
+        "label_name": "Goku (Angel) & Bubbles",
+        "lv": 3,
+        "point_total": 120,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102004,
+        "image_number": 4,
+        "label_name": "Goku",
+        "lv": 4,
+        "point_total": 200,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102005,
+        "image_number": 5,
+        "label_name": "Goku (Kaioken)",
+        "lv": 5,
+        "point_total": 300,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102006,
+        "image_number": 6,
+        "label_name": "Goku",
+        "lv": 6,
+        "point_total": 450,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102007,
+        "image_number": 7,
+        "label_name": "Goku",
+        "lv": 7,
+        "point_total": 550,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102008,
+        "image_number": 8,
+        "label_name": "Goku",
+        "lv": 8,
+        "point_total": 650,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102009,
+        "image_number": 9,
+        "label_name": "Goku & Frieza (Final Form)",
+        "lv": 9,
+        "point_total": 750,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102010,
+        "image_number": 10,
+        "label_name": "Goku",
+        "lv": 10,
+        "point_total": 900,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102011,
+        "image_number": 11,
+        "label_name": "Goku",
+        "lv": 11,
+        "point_total": 1000,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 3,
+        "id": 102012,
+        "image_number": 12,
+        "label_name": "Super Saiyan Goku",
+        "lv": 12,
+        "point_total": 1250,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103001,
+        "image_number": 1,
+        "label_name": "Goku & Gohan (Kid)",
+        "lv": 1,
+        "point_total": 0,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103002,
+        "image_number": 2,
+        "label_name": "Gohan (Kid)",
+        "lv": 2,
+        "point_total": 50,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103003,
+        "image_number": 3,
+        "label_name": "Gohan (Kid) & Piccolo",
+        "lv": 3,
+        "point_total": 100,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103004,
+        "image_number": 4,
+        "label_name": "Gohan (Kid) (Giant Ape)",
+        "lv": 4,
+        "point_total": 200,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103005,
+        "image_number": 5,
+        "label_name": "Gohan (Kid) & Piccolo",
+        "lv": 5,
+        "point_total": 300,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103006,
+        "image_number": 6,
+        "label_name": "Gohan (Kid) & Piccolo",
+        "lv": 6,
+        "point_total": 450,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103007,
+        "image_number": 7,
+        "label_name": "Gohan (Kid)",
+        "lv": 7,
+        "point_total": 500,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103008,
+        "image_number": 8,
+        "label_name": "Gohan (Kid) & Krillin",
+        "lv": 8,
+        "point_total": 600,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103009,
+        "image_number": 9,
+        "label_name": "Gohan (Kid) & Krillin & Dende",
+        "lv": 9,
+        "point_total": 720,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103010,
+        "image_number": 10,
+        "label_name": "Gohan (Kid)",
+        "lv": 10,
+        "point_total": 900,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103011,
+        "image_number": 11,
+        "label_name": "Gohan (Kid) & Piccolo",
+        "lv": 11,
+        "point_total": 1050,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 4,
+        "id": 103012,
+        "image_number": 12,
+        "label_name": "Gohan (Kid) & Dende",
+        "lv": 12,
+        "point_total": 1250,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104001,
+        "image_number": 1,
+        "label_name": "Goku",
+        "lv": 1,
+        "point_total": 0,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104002,
+        "image_number": 2,
+        "label_name": "Goku & Super Saiyan Gohan (Youth)",
+        "lv": 2,
+        "point_total": 50,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104003,
+        "image_number": 3,
+        "label_name": "Super Saiyan Goku & Super Saiyan Gohan (Youth)",
+        "lv": 3,
+        "point_total": 120,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104004,
+        "image_number": 4,
+        "label_name": "Super Saiyan Goku",
+        "lv": 4,
+        "point_total": 200,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104005,
+        "image_number": 5,
+        "label_name": "Goku (Angel) & North Kai (Angel) & Bubbles (Angel) & Gregory (Angel)",
+        "lv": 5,
+        "point_total": 300,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104006,
+        "image_number": 6,
+        "label_name": "Super Saiyan Goku (Angel)",
+        "lv": 6,
+        "point_total": 450,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104007,
+        "image_number": 7,
+        "label_name": "Super Saiyan 2 Goku (Angel)",
+        "lv": 7,
+        "point_total": 550,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104008,
+        "image_number": 8,
+        "label_name": "Super Saiyan 3 Goku (Angel)",
+        "lv": 8,
+        "point_total": 650,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104009,
+        "image_number": 9,
+        "label_name": "Goku & Vegeta (Angel)",
+        "lv": 9,
+        "point_total": 750,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104010,
+        "image_number": 10,
+        "label_name": "Super Vegito",
+        "lv": 10,
+        "point_total": 900,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104011,
+        "image_number": 11,
+        "label_name": "Goku",
+        "lv": 11,
+        "point_total": 1000,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    },
+    {
+        "created_at": "2024-11-14 09:20:00.003466",
+        "grow_type": 5,
+        "id": 104012,
+        "image_number": 12,
+        "label_name": "Goku & Uub (Youth)",
+        "lv": 12,
+        "point_total": 1250,
+        "updated_at": "2024-11-14 09:20:00.003466"
+    }
+]

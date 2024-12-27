@@ -1,0 +1,1652 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Goku",
+        "enemy_nickname": "Mystery Super Technique",
+        "enemy_resource_id": 1003210,
+        "id": 1,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-18,\"y\":218,\"scale\":0.78},\"anime_start\":{\"x\":-18,\"y\":218,\"scale\":0.78},\"anime_end\":{\"x\":130,\"y\":132,\"scale\":0.78},\"shadow\":{\"x\":-268,\"y\":978,\"scale\":0.62},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 1
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Legendary Super Saiyan Broly ",
+        "enemy_nickname": "Super Warrior of Destruction",
+        "enemy_resource_id": 1003800,
+        "id": 2,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":24,\"y\":176,\"scale\":0.95},\"anime_start\":{\"x\":24,\"y\":176,\"scale\":0.95},\"anime_end\":{\"x\":174,\"y\":114,\"scale\":0.95},\"shadow\":{\"x\":-150,\"y\":906,\"scale\":0.76},\"start_chara\":{\"x\":-8,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 2
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Planet Namek Saga",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1013460,
+        "id": 3,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":42,\"scale\":0.72},\"anime_start\":{\"x\":0,\"y\":42,\"scale\":0.72},\"anime_end\":{\"x\":0,\"y\":42,\"scale\":0.72},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.76},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 3
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Frieza (Full Power)",
+        "enemy_nickname": "Emperor's Devotion",
+        "enemy_resource_id": 1004251,
+        "id": 4,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":224,\"scale\":0.73},\"anime_start\":{\"x\":-4,\"y\":224,\"scale\":0.73},\"anime_end\":{\"x\":126,\"y\":132,\"scale\":0.75},\"shadow\":{\"x\":-258,\"y\":1008,\"scale\":0.63},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 4
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Family Kamehameha",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1013610,
+        "id": 6,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":2,\"y\":36,\"scale\":0.7},\"anime_start\":{\"x\":2,\"y\":36,\"scale\":0.7},\"anime_end\":{\"x\":2,\"y\":36,\"scale\":0.7},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":1.0},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 5
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Perfect Cell",
+        "enemy_nickname": "Surpassing All",
+        "enemy_resource_id": 1004651,
+        "id": 7,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":76,\"y\":290,\"scale\":0.97},\"anime_start\":{\"x\":76,\"y\":290,\"scale\":0.97},\"anime_end\":{\"x\":190,\"y\":228,\"scale\":0.97},\"shadow\":{\"x\":-42,\"y\":1102,\"scale\":0.6},\"start_chara\":{\"x\":0,\"y\":-8,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 6
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Ultimate Gohan",
+        "enemy_nickname": "Ultimate Power Surge",
+        "enemy_resource_id": 1006701,
+        "id": 8,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":94,\"y\":-14,\"scale\":1.0},\"anime_start\":{\"x\":94,\"y\":-14,\"scale\":1.0},\"anime_end\":{\"x\":194,\"y\":-56,\"scale\":1.0},\"shadow\":{\"x\":24,\"y\":578,\"scale\":0.69},\"start_chara\":{\"x\":-4,\"y\":-4,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 7
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Broly",
+        "enemy_nickname": "Saiyan Outcast",
+        "enemy_resource_id": 1014511,
+        "id": 9,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":118,\"scale\":0.67},\"anime_start\":{\"x\":-4,\"y\":118,\"scale\":0.67},\"anime_end\":{\"x\":124,\"y\":48,\"scale\":0.67},\"shadow\":{\"x\":-176,\"y\":880,\"scale\":0.51},\"start_chara\":{\"x\":0,\"y\":38,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 8
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Piccolo",
+        "enemy_nickname": "Battle as a Namekian",
+        "enemy_resource_id": 1014681,
+        "id": 10,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":54,\"y\":120,\"scale\":1.07},\"anime_start\":{\"x\":54,\"y\":120,\"scale\":1.07},\"anime_end\":{\"x\":162,\"y\":40,\"scale\":1.07},\"shadow\":{\"x\":-102,\"y\":832,\"scale\":0.76},\"start_chara\":{\"x\":0,\"y\":-12,\"scale\":1.17}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 9
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Jiren",
+        "enemy_nickname": "Burning Ultimate Warrior",
+        "enemy_resource_id": 1013961,
+        "id": 12,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-200,\"y\":-18,\"scale\":1.16},\"anime_start\":{\"x\":-200,\"y\":-18,\"scale\":1.16},\"anime_end\":{\"x\":-200,\"y\":-18,\"scale\":1.16},\"shadow\":{\"x\":-1500,\"y\":1500,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-66,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 10
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Buu (Kid)",
+        "enemy_nickname": "Heartless Destruction",
+        "enemy_resource_id": 1003311,
+        "id": 13,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-36,\"y\":-118,\"scale\":1.13},\"anime_start\":{\"x\":-36,\"y\":-118,\"scale\":1.13},\"anime_end\":{\"x\":124,\"y\":-148,\"scale\":1.09},\"shadow\":{\"x\":-278,\"y\":300,\"scale\":0.86},\"start_chara\":{\"x\":0,\"y\":2,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 11
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Beerus",
+        "enemy_nickname": "Devastating Punishment",
+        "enemy_resource_id": 1005301,
+        "id": 14,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":8,\"y\":-222,\"scale\":1.15},\"anime_start\":{\"x\":8,\"y\":-222,\"scale\":1.15},\"anime_end\":{\"x\":124,\"y\":-348,\"scale\":1.38},\"shadow\":{\"x\":-68,\"y\":32,\"scale\":0.97},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 12
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Vegeta",
+        "enemy_nickname": "Warrior's True Value",
+        "enemy_resource_id": 1005731,
+        "id": 15,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":78,\"y\":70,\"scale\":1.15},\"anime_start\":{\"x\":78,\"y\":70,\"scale\":1.15},\"anime_end\":{\"x\":218,\"y\":12,\"scale\":1.3},\"shadow\":{\"x\":134,\"y\":701,\"scale\":0.89},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 13
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Janemba",
+        "enemy_nickname": "Netherworld Demon",
+        "enemy_resource_id": 1005051,
+        "id": 16,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":-10,\"scale\":0.99},\"anime_start\":{\"x\":6,\"y\":-10,\"scale\":0.99},\"anime_end\":{\"x\":192,\"y\":-134,\"scale\":0.99},\"shadow\":{\"x\":-106,\"y\":620,\"scale\":0.63},\"start_chara\":{\"x\":-16,\"y\":-26,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 14
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Broly",
+        "enemy_nickname": "Saiyan Outcast",
+        "enemy_resource_id": 1016131,
+        "id": 17,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":64,\"scale\":0.74},\"anime_start\":{\"x\":-2,\"y\":64,\"scale\":0.74},\"anime_end\":{\"x\":124,\"y\":-2,\"scale\":0.74},\"shadow\":{\"x\":-178,\"y\":782,\"scale\":0.56},\"start_chara\":{\"x\":-6,\"y\":-70,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 15
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Gogeta",
+        "enemy_nickname": "The Supreme Warrior",
+        "enemy_resource_id": 1005281,
+        "id": 18,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":14,\"y\":46,\"scale\":0.99},\"anime_start\":{\"x\":14,\"y\":46,\"scale\":0.99},\"anime_end\":{\"x\":152,\"y\":-52,\"scale\":1.06},\"shadow\":{\"x\":-110,\"y\":698,\"scale\":0.76},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 16
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Goku Jr.",
+        "enemy_nickname": "Courage Awakened",
+        "enemy_resource_id": 1010361,
+        "id": 19,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":112,\"scale\":0.89},\"anime_start\":{\"x\":-6,\"y\":112,\"scale\":0.89},\"anime_end\":{\"x\":134,\"y\":6,\"scale\":0.92},\"shadow\":{\"x\":-180,\"y\":828,\"scale\":0.6},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.2}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 17
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Vegeta Jr.",
+        "enemy_nickname": "Young Saiyan Descendant",
+        "enemy_resource_id": 1011341,
+        "id": 20,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":204,\"scale\":0.8},\"anime_start\":{\"x\":-2,\"y\":204,\"scale\":0.8},\"anime_end\":{\"x\":140,\"y\":112,\"scale\":0.8},\"shadow\":{\"x\":-182,\"y\":1004,\"scale\":0.45},\"start_chara\":{\"x\":-14,\"y\":-30,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 18
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Omega Shenron",
+        "enemy_nickname": "The Omnipotent Shadow Dragon",
+        "enemy_resource_id": 1016471,
+        "id": 21,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":124,\"y\":54,\"scale\":0.95},\"anime_start\":{\"x\":124,\"y\":54,\"scale\":0.95},\"anime_end\":{\"x\":248,\"y\":-38,\"scale\":0.95},\"shadow\":{\"x\":46,\"y\":710,\"scale\":0.62},\"start_chara\":{\"x\":0,\"y\":38,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 19
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Father-Son Galick Gun",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1016700,
+        "id": 22,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":52,\"y\":-20,\"scale\":1.0},\"anime_start\":{\"x\":52,\"y\":-20,\"scale\":1.0},\"anime_end\":{\"x\":52,\"y\":-20,\"scale\":1.0},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":0,\"y\":-26,\"scale\":1.1}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 21
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Gotenks",
+        "enemy_nickname": "Grim Reaper of Justice's Rampage",
+        "enemy_resource_id": 1006211,
+        "id": 23,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":42,\"y\":42,\"scale\":0.79},\"anime_start\":{\"x\":42,\"y\":42,\"scale\":0.79},\"anime_end\":{\"x\":184,\"y\":26,\"scale\":0.79},\"shadow\":{\"x\":-64,\"y\":782,\"scale\":0.52},\"start_chara\":{\"x\":-2,\"y\":-14,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 20
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Golden Frieza",
+        "enemy_nickname": "Fire of Vengeance",
+        "enemy_resource_id": 1007391,
+        "id": 24,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":56,\"y\":238,\"scale\":0.87},\"anime_start\":{\"x\":56,\"y\":238,\"scale\":0.87},\"anime_end\":{\"x\":226,\"y\":142,\"scale\":0.87},\"shadow\":{\"x\":12,\"y\":1050,\"scale\":0.51},\"start_chara\":{\"x\":0,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 22
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku Black",
+        "enemy_nickname": "Dark Menace",
+        "enemy_resource_id": 1008851,
+        "id": 25,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-48,\"y\":-56,\"scale\":1.1},\"anime_start\":{\"x\":-48,\"y\":-56,\"scale\":1.1},\"anime_end\":{\"x\":124,\"y\":-170,\"scale\":1.08},\"shadow\":{\"x\":-352,\"y\":530,\"scale\":0.88},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 23
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Frieza (2nd Form)",
+        "enemy_nickname": "Storm of Terror",
+        "enemy_resource_id": 1017161,
+        "id": 26,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":92,\"y\":-234,\"scale\":1.23},\"anime_start\":{\"x\":92,\"y\":-234,\"scale\":1.23},\"anime_end\":{\"x\":214,\"y\":-304,\"scale\":1.23},\"shadow\":{\"x\":-6,\"y\":328,\"scale\":0.76},\"start_chara\":{\"x\":36,\"y\":26,\"scale\":0.98}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 24
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Majin Buu (Ultimate Gohan)",
+        "enemy_nickname": "Countdown to Despair",
+        "enemy_resource_id": 1008091,
+        "id": 27,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":-352,\"scale\":1.36},\"anime_start\":{\"x\":6,\"y\":-352,\"scale\":1.36},\"anime_end\":{\"x\":140,\"y\":-390,\"scale\":1.36},\"shadow\":{\"x\":-166,\"y\":26,\"scale\":0.91},\"start_chara\":{\"x\":-4,\"y\":-32,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 25
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Legendary Super Saiyan Broly",
+        "enemy_nickname": "Eternal Horror",
+        "enemy_resource_id": 1007461,
+        "id": 28,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":68,\"y\":58,\"scale\":1.14},\"anime_start\":{\"x\":68,\"y\":58,\"scale\":1.14},\"anime_end\":{\"x\":206,\"y\":-36,\"scale\":1.08},\"shadow\":{\"x\":-92,\"y\":768,\"scale\":0.85},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 26
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Fierce Battle Saga",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1017990,
+        "id": 29,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-30,\"y\":154,\"scale\":0.72},\"anime_start\":{\"x\":-30,\"y\":154,\"scale\":0.72},\"anime_end\":{\"x\":-30,\"y\":154,\"scale\":0.72},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-26,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 27
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Perfect Cell",
+        "enemy_nickname": "Welcome to Hell",
+        "enemy_resource_id": 1008821,
+        "id": 30,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":10,\"y\":-264,\"scale\":1.2},\"anime_start\":{\"x\":10,\"y\":-264,\"scale\":1.2},\"anime_end\":{\"x\":162,\"y\":-330,\"scale\":1.2},\"shadow\":{\"x\":-136,\"y\":270,\"scale\":0.76},\"start_chara\":{\"x\":12,\"y\":12,\"scale\":0.93}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 28
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Perfect Cell",
+        "enemy_nickname": "Horrifying Resurrection",
+        "enemy_resource_id": 1018081,
+        "id": 31,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-42,\"y\":-432,\"scale\":1.56},\"anime_start\":{\"x\":-42,\"y\":-432,\"scale\":1.56},\"anime_end\":{\"x\":106,\"y\":-534,\"scale\":1.56},\"shadow\":{\"x\":-208,\"y\":-126,\"scale\":1.06},\"start_chara\":{\"x\":-2,\"y\":-12,\"scale\":1.17}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 29
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan God SS Goku",
+        "enemy_nickname": "Next-Level Strike",
+        "enemy_resource_id": 1008631,
+        "id": 32,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-12,\"y\":128,\"scale\":0.78},\"anime_start\":{\"x\":-12,\"y\":128,\"scale\":0.78},\"anime_end\":{\"x\":68,\"y\":28,\"scale\":0.78},\"shadow\":{\"x\":-274,\"y\":984,\"scale\":0.48},\"start_chara\":{\"x\":-12,\"y\":-30,\"scale\":1.11}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 30
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Omega Shenron",
+        "enemy_nickname": "Hopeless Minus Energy",
+        "enemy_resource_id": 1008711,
+        "id": 33,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":50,\"y\":-190,\"scale\":1.35},\"anime_start\":{\"x\":50,\"y\":-190,\"scale\":1.35},\"anime_end\":{\"x\":158,\"y\":-230,\"scale\":1.35},\"shadow\":{\"x\":-74,\"y\":460,\"scale\":0.75},\"start_chara\":{\"x\":0,\"y\":-14,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 31
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Vegito",
+        "enemy_nickname": "Unparalleled Golden Ki",
+        "enemy_resource_id": 1006791,
+        "id": 35,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-8,\"y\":-178,\"scale\":1.15},\"anime_start\":{\"x\":-8,\"y\":-178,\"scale\":1.15},\"anime_end\":{\"x\":98,\"y\":-240,\"scale\":1.15},\"shadow\":{\"x\":-172,\"y\":498,\"scale\":0.65},\"start_chara\":{\"x\":0,\"y\":-8,\"scale\":1.17}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 32
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Fusion Zamasu",
+        "enemy_nickname": "Wrath of the Absolute God",
+        "enemy_resource_id": 1009791,
+        "id": 36,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-32,\"y\":-6,\"scale\":0.9},\"anime_start\":{\"x\":-32,\"y\":-6,\"scale\":0.9},\"anime_end\":{\"x\":-32,\"y\":-6,\"scale\":0.9},\"shadow\":{\"x\":-1000,\"y\":1000,\"scale\":0.0},\"start_chara\":{\"x\":-30,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Destined Rivals Saga",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1019180,
+        "id": 37,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":78,\"scale\":0.76},\"anime_start\":{\"x\":6,\"y\":78,\"scale\":0.76},\"anime_end\":{\"x\":6,\"y\":78,\"scale\":0.76},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":0,\"y\":14,\"scale\":1.07}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan God SS Vegito",
+        "enemy_nickname": "Azure Omnipotence",
+        "enemy_resource_id": 1009331,
+        "id": 38,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-32,\"y\":70,\"scale\":0.78},\"anime_start\":{\"x\":-32,\"y\":70,\"scale\":0.78},\"anime_end\":{\"x\":102,\"y\":-30,\"scale\":0.78},\"shadow\":{\"x\":-204,\"y\":866,\"scale\":0.39},\"start_chara\":{\"x\":-6,\"y\":-14,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 35
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan God SS Vegeta",
+        "enemy_nickname": "Passion of the Warrior Race",
+        "enemy_resource_id": 1009591,
+        "id": 39,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":42,\"y\":-8,\"scale\":0.96},\"anime_start\":{\"x\":42,\"y\":-8,\"scale\":0.96},\"anime_end\":{\"x\":172,\"y\":-96,\"scale\":0.96},\"shadow\":{\"x\":-70,\"y\":766,\"scale\":0.49},\"start_chara\":{\"x\":-2,\"y\":-16,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 36
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Trunks (Future)",
+        "enemy_nickname": "Blade of Hope and Dreams",
+        "enemy_resource_id": 1009581,
+        "id": 40,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":48,\"y\":-280,\"scale\":1.37},\"anime_start\":{\"x\":48,\"y\":-280,\"scale\":1.37},\"anime_end\":{\"x\":214,\"y\":-258,\"scale\":1.26},\"shadow\":{\"x\":-94,\"y\":196,\"scale\":0.97},\"start_chara\":{\"x\":-2,\"y\":8,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 37
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku Black (Super Saiyan Rosé)",
+        "enemy_nickname": "Rose Stained Super Saiyan",
+        "enemy_resource_id": 1009351,
+        "id": 41,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-16,\"y\":18,\"scale\":0.87},\"anime_start\":{\"x\":-16,\"y\":18,\"scale\":0.87},\"anime_end\":{\"x\":74,\"y\":-74,\"scale\":0.87},\"shadow\":{\"x\":-214,\"y\":858,\"scale\":0.46},\"start_chara\":{\"x\":-6,\"y\":-14,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 38
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Warrioresses of Universe 6 Saga",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1020580,
+        "id": 42,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-110,\"y\":128,\"scale\":0.77},\"anime_start\":{\"x\":-110,\"y\":128,\"scale\":0.77},\"anime_end\":{\"x\":-110,\"y\":128,\"scale\":0.77},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 39
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Broly",
+        "enemy_nickname": "Mythic Evolution",
+        "enemy_resource_id": 1011171,
+        "id": 43,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":60,\"y\":-94,\"scale\":1.29},\"anime_start\":{\"x\":60,\"y\":-94,\"scale\":1.29},\"anime_end\":{\"x\":158,\"y\":-194,\"scale\":1.29},\"shadow\":{\"x\":-66,\"y\":512,\"scale\":0.84},\"start_chara\":{\"x\":-2,\"y\":-20,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 40
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Pride Troopers",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1020720,
+        "id": 44,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":72,\"scale\":0.77},\"anime_start\":{\"x\":0,\"y\":72,\"scale\":0.77},\"anime_end\":{\"x\":0,\"y\":72,\"scale\":0.77},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-22,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 41
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super #17",
+        "enemy_nickname": "The Ultimate Android",
+        "enemy_resource_id": 1007181,
+        "id": 45,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":78,\"scale\":0.81},\"anime_start\":{\"x\":-2,\"y\":78,\"scale\":0.81},\"anime_end\":{\"x\":124,\"y\":-38,\"scale\":0.81},\"shadow\":{\"x\":-152,\"y\":922,\"scale\":0.46},\"start_chara\":{\"x\":-6,\"y\":-16,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 42
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Buu (Kid)",
+        "enemy_nickname": "Transcendent Majin",
+        "enemy_resource_id": 1009641,
+        "id": 46,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-32,\"y\":-92,\"scale\":1.13},\"anime_start\":{\"x\":-32,\"y\":-92,\"scale\":1.13},\"anime_end\":{\"x\":130,\"y\":-126,\"scale\":0.98},\"shadow\":{\"x\":-370,\"y\":502,\"scale\":0.82},\"start_chara\":{\"x\":2,\"y\":8,\"scale\":1.03}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 43
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Masked Saiyan",
+        "enemy_nickname": "Dark Intentions",
+        "enemy_resource_id": 1010291,
+        "id": 47,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":34,\"y\":80,\"scale\":0.93},\"anime_start\":{\"x\":34,\"y\":80,\"scale\":0.93},\"anime_end\":{\"x\":180,\"y\":4,\"scale\":0.93},\"shadow\":{\"x\":-76,\"y\":812,\"scale\":0.55},\"start_chara\":{\"x\":-2,\"y\":-22,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 44
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Gogeta",
+        "enemy_nickname": "Outshining Darkness",
+        "enemy_resource_id": 1010851,
+        "id": 48,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-48,\"y\":226,\"scale\":0.74},\"anime_start\":{\"x\":-48,\"y\":226,\"scale\":0.74},\"anime_end\":{\"x\":64,\"y\":116,\"scale\":0.74},\"shadow\":{\"x\":-202,\"y\":1124,\"scale\":0.41},\"start_chara\":{\"x\":-6,\"y\":-16,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 45
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Janemba",
+        "enemy_nickname": "Evil Incursion",
+        "enemy_resource_id": 1010871,
+        "id": 49,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-10,\"y\":144,\"scale\":1.02},\"anime_start\":{\"x\":-10,\"y\":144,\"scale\":1.02},\"anime_end\":{\"x\":-10,\"y\":144,\"scale\":1.02},\"shadow\":{\"x\":-2500,\"y\":2500,\"scale\":0.0},\"start_chara\":{\"x\":68,\"y\":76,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 46
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Destined Rivals Saga 2",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1021830,
+        "id": 50,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":62,\"y\":66,\"scale\":1.08},\"anime_start\":{\"x\":62,\"y\":66,\"scale\":1.08},\"anime_end\":{\"x\":62,\"y\":66,\"scale\":1.08},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-18,\"y\":8,\"scale\":1.02}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 47
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku (Ultra Instinct -Sign-)",
+        "enemy_nickname": "Transdimensional Instinct",
+        "enemy_resource_id": 1013541,
+        "id": 51,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-56,\"y\":0,\"scale\":1.01},\"anime_start\":{\"x\":-56,\"y\":0,\"scale\":1.01},\"anime_end\":{\"x\":54,\"y\":-114,\"scale\":1.01},\"shadow\":{\"x\":-326,\"y\":796,\"scale\":0.56},\"start_chara\":{\"x\":-8,\"y\":-20,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 48
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku & Frieza (Final Form) (Angel)",
+        "enemy_nickname": "Miraculous Outcome",
+        "enemy_resource_id": 1014971,
+        "id": 54,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":90,\"scale\":0.97},\"anime_start\":{\"x\":-6,\"y\":90,\"scale\":0.97},\"anime_end\":{\"x\":-6,\"y\":90,\"scale\":0.97},\"shadow\":{\"x\":-1000,\"y\":-1000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-24,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 49
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Warriors' Downfall Saga",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1022230,
+        "id": 56,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":14,\"y\":176,\"scale\":0.7},\"anime_start\":{\"x\":14,\"y\":176,\"scale\":0.7},\"anime_end\":{\"x\":14,\"y\":114,\"scale\":0.7},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":18,\"y\":0,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 50
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Gotenks",
+        "enemy_nickname": "Naught but Rampage",
+        "enemy_resource_id": 1011061,
+        "id": 59,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-68,\"y\":92,\"scale\":0.77},\"anime_start\":{\"x\":-68,\"y\":92,\"scale\":0.77},\"anime_end\":{\"x\":106,\"y\":-14,\"scale\":0.77},\"shadow\":{\"x\":-258,\"y\":884,\"scale\":0.41},\"start_chara\":{\"x\":-6,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 51
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Legendary Super Saiyan Broly",
+        "enemy_nickname": "Indestructible Saiyan Evil",
+        "enemy_resource_id": 1010441,
+        "id": 60,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":8,\"y\":-290,\"scale\":1.34},\"anime_start\":{\"x\":8,\"y\":-290,\"scale\":1.34},\"anime_end\":{\"x\":130,\"y\":-394,\"scale\":1.34},\"shadow\":{\"x\":-164,\"y\":374,\"scale\":0.71},\"start_chara\":{\"x\":-2,\"y\":-10,\"scale\":1.17}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 52
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Tapion (Hirudegarn)",
+        "enemy_nickname": "Phantom Majin Sealed Within",
+        "enemy_resource_id": 1012421,
+        "id": 61,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-22,\"y\":102,\"scale\":0.89},\"anime_start\":{\"x\":-22,\"y\":102,\"scale\":0.89},\"anime_end\":{\"x\":100,\"y\":-16,\"scale\":0.89},\"shadow\":{\"x\":-172,\"y\":916,\"scale\":0.52},\"start_chara\":{\"x\":2,\"y\":-16,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 53
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Destined Rivals Saga 3",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1022560,
+        "id": 62,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":28,\"y\":-18,\"scale\":0.96},\"anime_start\":{\"x\":28,\"y\":-18,\"scale\":0.96},\"anime_end\":{\"x\":28,\"y\":-46,\"scale\":0.96},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-16,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 54
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Cooler (Final Form)",
+        "enemy_nickname": "Open the Gates of Hell",
+        "enemy_resource_id": 1009091,
+        "id": 63,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":60,\"y\":-76,\"scale\":1.26},\"anime_start\":{\"x\":60,\"y\":-76,\"scale\":1.26},\"anime_end\":{\"x\":198,\"y\":-184,\"scale\":1.26},\"shadow\":{\"x\":-82,\"y\":596,\"scale\":0.73},\"start_chara\":{\"x\":-6,\"y\":-12,\"scale\":1.17}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 55
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 2 Gohan (Youth)",
+        "enemy_nickname": "Full-Tilt Kamehameha",
+        "enemy_resource_id": 1010071,
+        "id": 64,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":4,\"y\":6,\"scale\":1.12},\"anime_start\":{\"x\":4,\"y\":6,\"scale\":1.12},\"anime_end\":{\"x\":152,\"y\":-100,\"scale\":1.12},\"shadow\":{\"x\":-164,\"y\":752,\"scale\":0.6},\"start_chara\":{\"x\":-4,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 56
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Goku (Angel)",
+        "enemy_nickname": "Astounding Transformation",
+        "enemy_resource_id": 1010261,
+        "id": 65,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-102,\"y\":-6,\"scale\":1.05},\"anime_start\":{\"x\":-102,\"y\":-6,\"scale\":1.05},\"anime_end\":{\"x\":90,\"y\":-142,\"scale\":1.05},\"shadow\":{\"x\":-410,\"y\":694,\"scale\":0.73},\"start_chara\":{\"x\":-4,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 57
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Heroines Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1023340,
+        "id": 70,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":86,\"scale\":0.93},\"anime_start\":{\"x\":-6,\"y\":86,\"scale\":0.93},\"anime_end\":{\"x\":-6,\"y\":30,\"scale\":0.93},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-10,\"y\":-16,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 59
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Majin Vegeta",
+        "enemy_nickname": "Beyond the Ferocious Flash",
+        "enemy_resource_id": 1010161,
+        "id": 73,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-10,\"y\":-70,\"scale\":1.16},\"anime_start\":{\"x\":-10,\"y\":-70,\"scale\":1.16},\"anime_end\":{\"x\":142,\"y\":-184,\"scale\":1.16},\"shadow\":{\"x\":-182,\"y\":592,\"scale\":0.65},\"start_chara\":{\"x\":-4,\"y\":-12,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 60
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Frieza (1st Form)",
+        "enemy_nickname": "Glacial Prestige",
+        "enemy_resource_id": 1014821,
+        "id": 74,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":8,\"y\":-6,\"scale\":1.22},\"anime_start\":{\"x\":8,\"y\":-6,\"scale\":1.22},\"anime_end\":{\"x\":144,\"y\":-100,\"scale\":1.22},\"shadow\":{\"x\":-134,\"y\":668,\"scale\":0.72},\"start_chara\":{\"x\":-6,\"y\":-16,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 58
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Goku",
+        "enemy_nickname": "Boiling Power",
+        "enemy_resource_id": 1014761,
+        "id": 75,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-16,\"y\":-96,\"scale\":1.23},\"anime_start\":{\"x\":-16,\"y\":-96,\"scale\":1.23},\"anime_end\":{\"x\":114,\"y\":-198,\"scale\":1.23},\"shadow\":{\"x\":-190,\"y\":502,\"scale\":0.8},\"start_chara\":{\"x\":-6,\"y\":-18,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 61
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Bardock",
+        "enemy_nickname": "Dazzling Life Force",
+        "enemy_resource_id": 1014021,
+        "id": 77,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-74,\"y\":-40,\"scale\":1.14},\"anime_start\":{\"x\":-74,\"y\":-40,\"scale\":1.14},\"anime_end\":{\"x\":66,\"y\":-150,\"scale\":1.14},\"shadow\":{\"x\":-272,\"y\":676,\"scale\":0.63},\"start_chara\":{\"x\":-4,\"y\":-18,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 62
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Giant Ape Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1023530,
+        "id": 78,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-10,\"y\":148,\"scale\":0.92},\"anime_start\":{\"x\":-10,\"y\":148,\"scale\":0.92},\"anime_end\":{\"x\":-12,\"y\":114,\"scale\":0.92},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-18,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 63
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Hit",
+        "enemy_nickname": "Assassin's Ultimate Technique",
+        "enemy_resource_id": 1015671,
+        "id": 79,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-140,\"y\":62,\"scale\":1.15},\"anime_start\":{\"x\":-140,\"y\":62,\"scale\":1.15},\"anime_end\":{\"x\":-140,\"y\":62,\"scale\":1.15},\"shadow\":{\"x\":-78,\"y\":786,\"scale\":0.66},\"start_chara\":{\"x\":-4,\"y\":-22,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 64
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "DRAGON BALL FighterZ Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1023990,
+        "id": 81,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-46,\"y\":-72,\"scale\":1.03},\"anime_start\":{\"x\":-46,\"y\":-72,\"scale\":1.03},\"anime_end\":{\"x\":-46,\"y\":-72,\"scale\":1.03},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-2,\"y\":-18,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 65
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Dragon Ball Heroes Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1023900,
+        "id": 84,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":4,\"y\":110,\"scale\":0.92},\"anime_start\":{\"x\":4,\"y\":110,\"scale\":0.92},\"anime_end\":{\"x\":4,\"y\":110,\"scale\":0.92},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":54,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 66
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Trunks (Teen)",
+        "enemy_nickname": "Second Super Saiyan",
+        "enemy_resource_id": 1011721,
+        "id": 85,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":-10,\"scale\":0.95},\"anime_start\":{\"x\":0,\"y\":-10,\"scale\":0.95},\"anime_end\":{\"x\":130,\"y\":-116,\"scale\":0.95},\"shadow\":{\"x\":-248,\"y\":678,\"scale\":0.59},\"start_chara\":{\"x\":-8,\"y\":-20,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 67
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Gohan (Future)",
+        "enemy_nickname": "Power to Face Despair",
+        "enemy_resource_id": 1013861,
+        "id": 86,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-60,\"y\":-62,\"scale\":1.07},\"anime_start\":{\"x\":-60,\"y\":-62,\"scale\":1.07},\"anime_end\":{\"x\":64,\"y\":-182,\"scale\":1.07},\"shadow\":{\"x\":-294,\"y\":620,\"scale\":0.71},\"start_chara\":{\"x\":-8,\"y\":-20,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 68
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Dragon Ball Fusions Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1024180,
+        "id": 87,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-24,\"y\":-78,\"scale\":0.93},\"anime_start\":{\"x\":-24,\"y\":-78,\"scale\":0.93},\"anime_end\":{\"x\":-24,\"y\":-78,\"scale\":0.93},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-18,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 69
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Dragon Ball Fusions Edition 2",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1024190,
+        "id": 88,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":2,\"y\":-48,\"scale\":0.93},\"anime_start\":{\"x\":2,\"y\":-48,\"scale\":0.93},\"anime_end\":{\"x\":2,\"y\":-90,\"scale\":0.93},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-14,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 70
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Trunks (Kid) & Goten (Kid)",
+        "enemy_nickname": "Budding Warriors",
+        "enemy_resource_id": 1011641,
+        "id": 89,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":74,\"scale\":0.82},\"anime_start\":{\"x\":-6,\"y\":74,\"scale\":0.82},\"anime_end\":{\"x\":-6,\"y\":74,\"scale\":0.82},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-18,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 71
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Destined Rivals Saga 4",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1024420,
+        "id": 90,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":78,\"y\":-154,\"scale\":1.02},\"anime_start\":{\"x\":78,\"y\":-154,\"scale\":1.02},\"anime_end\":{\"x\":78,\"y\":-194,\"scale\":1.02},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-10,\"y\":-18,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 72
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 4 Gogeta vs. Omega Shenron",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1024480,
+        "id": 91,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-74,\"y\":-18,\"scale\":1.06},\"anime_start\":{\"x\":-74,\"y\":-18,\"scale\":1.06},\"anime_end\":{\"x\":-74,\"y\":-62,\"scale\":1.06},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-18,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 73
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Goku (Angel) & Super Saiyan Vegeta (Angel)",
+        "enemy_nickname": "Fused Fighting Force",
+        "enemy_resource_id": 1024580,
+        "id": 92,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-46,\"y\":-4,\"scale\":0.88},\"anime_start\":{\"x\":-46,\"y\":-4,\"scale\":0.88},\"anime_end\":{\"x\":-46,\"y\":-68,\"scale\":0.88},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-14,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 74
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Goku & Super Saiyan Vegeta",
+        "enemy_nickname": "Fused Super Power",
+        "enemy_resource_id": 1024570,
+        "id": 94,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-16,\"y\":6,\"scale\":0.87},\"anime_start\":{\"x\":-16,\"y\":6,\"scale\":0.87},\"anime_end\":{\"x\":-16,\"y\":-70,\"scale\":0.87},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-10,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 75
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Destined Rivals Saga 5",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1024610,
+        "id": 95,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-40,\"y\":-74,\"scale\":0.93},\"anime_start\":{\"x\":-40,\"y\":-74,\"scale\":0.93},\"anime_end\":{\"x\":-40,\"y\":-128,\"scale\":0.93},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-18,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 76
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan God SS Vegeta",
+        "enemy_nickname": "Observance of Pride",
+        "enemy_resource_id": 1024620,
+        "id": 96,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":204,\"scale\":0.74},\"anime_start\":{\"x\":-6,\"y\":204,\"scale\":0.74},\"anime_end\":{\"x\":122,\"y\":86,\"scale\":0.74},\"shadow\":{\"x\":-172,\"y\":1070,\"scale\":0.46},\"start_chara\":{\"x\":-4,\"y\":-14,\"scale\":1.17}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 77
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Dokkan All-Stars",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1024470,
+        "id": 97,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":36,\"y\":-82,\"scale\":0.92},\"anime_start\":{\"x\":36,\"y\":-82,\"scale\":0.92},\"anime_end\":{\"x\":36,\"y\":-120,\"scale\":0.92},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-14,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Turles",
+        "enemy_nickname": "Explosive Evolution",
+        "enemy_resource_id": 1024760,
+        "id": 98,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":10,\"y\":68,\"scale\":1.0},\"anime_start\":{\"x\":10,\"y\":68,\"scale\":1.0},\"anime_end\":{\"x\":146,\"y\":-60,\"scale\":1.0},\"shadow\":{\"x\":-168,\"y\":732,\"scale\":0.67},\"start_chara\":{\"x\":-8,\"y\":-16,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 79
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Ultimate Gohan",
+        "enemy_nickname": "Hidden Power Unleashed",
+        "enemy_resource_id": 1011801,
+        "id": 99,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":4,\"y\":-156,\"scale\":1.17},\"anime_start\":{\"x\":4,\"y\":-156,\"scale\":1.17},\"anime_end\":{\"x\":166,\"y\":-248,\"scale\":1.17},\"shadow\":{\"x\":-130,\"y\":382,\"scale\":0.81},\"start_chara\":{\"x\":-2,\"y\":-14,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 80
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Cell (Perfect Form) & Cell Jr.",
+        "enemy_nickname": "The Deadly Cell Games",
+        "enemy_resource_id": 1025010,
+        "id": 101,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":36,\"y\":-360,\"scale\":1.46},\"anime_start\":{\"x\":36,\"y\":-360,\"scale\":1.46},\"anime_end\":{\"x\":36,\"y\":-360,\"scale\":1.46},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-14,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 81
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Golden Frieza (Angel)",
+        "enemy_nickname": "Emperor's True Splendor",
+        "enemy_resource_id": 1012031,
+        "id": 102,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":-58,\"scale\":0.98},\"anime_start\":{\"x\":0,\"y\":-58,\"scale\":0.98},\"anime_end\":{\"x\":128,\"y\":-162,\"scale\":0.98},\"shadow\":{\"x\":-116,\"y\":558,\"scale\":0.61},\"start_chara\":{\"x\":-12,\"y\":-28,\"scale\":0.94}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 82
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Blue Fusion and Rose-Colored Super Saiyan",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1025480,
+        "id": 103,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-80,\"y\":90,\"scale\":0.77},\"anime_start\":{\"x\":-80,\"y\":90,\"scale\":0.77},\"anime_end\":{\"x\":-80,\"y\":52,\"scale\":0.77},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":-16,\"scale\":1.15}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 83
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Trunks (Teen) (Future) & Mai (Future)",
+        "enemy_nickname": "Hopes and Promises for the Future",
+        "enemy_resource_id": 1014081,
+        "id": 104,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-36,\"y\":86,\"scale\":0.74},\"anime_start\":{\"x\":-36,\"y\":86,\"scale\":0.74},\"anime_end\":{\"x\":-36,\"y\":52,\"scale\":0.74},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-10,\"y\":-22,\"scale\":0.9}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 84
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku Black (Super Saiyan Rosé) & Zamasu",
+        "enemy_nickname": "Merciless Condemnation",
+        "enemy_resource_id": 1025681,
+        "id": 105,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":12,\"y\":226,\"scale\":0.7},\"anime_start\":{\"x\":12,\"y\":226,\"scale\":0.7},\"anime_end\":{\"x\":12,\"y\":176,\"scale\":0.7},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":6,\"scale\":0.88}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 85
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Full Power Saiyan 4 Goku",
+        "enemy_nickname": "Hope-Filled Strike",
+        "enemy_resource_id": 1014131,
+        "id": 106,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-46,\"y\":150,\"scale\":0.67},\"anime_start\":{\"x\":-46,\"y\":150,\"scale\":0.67},\"anime_end\":{\"x\":80,\"y\":44,\"scale\":0.67},\"shadow\":{\"x\":-244,\"y\":964,\"scale\":0.4},\"start_chara\":{\"x\":-2,\"y\":-10,\"scale\":0.96}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 86
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku (GT) & Pan (GT) & Trunks (GT)",
+        "enemy_nickname": "Endless Adventure",
+        "enemy_resource_id": 1025701,
+        "id": 108,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":154,\"scale\":0.73},\"anime_start\":{\"x\":0,\"y\":154,\"scale\":0.73},\"anime_end\":{\"x\":0,\"y\":112,\"scale\":0.73},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":2,\"y\":-16,\"scale\":0.92}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 87
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Heroines Edition 2",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1025880,
+        "id": 109,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":18,\"y\":2,\"scale\":0.92},\"anime_start\":{\"x\":18,\"y\":2,\"scale\":0.92},\"anime_end\":{\"x\":18,\"y\":-34,\"scale\":0.92},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-16,\"scale\":0.96}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 88
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku",
+        "enemy_nickname": "Pinnacle of Fury",
+        "enemy_resource_id": 1025890,
+        "id": 110,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":22,\"scale\":1.02},\"anime_start\":{\"x\":-2,\"y\":22,\"scale\":1.02},\"anime_end\":{\"x\":162,\"y\":-86,\"scale\":1.02},\"shadow\":{\"x\":-96,\"y\":650,\"scale\":0.77},\"start_chara\":{\"x\":-10,\"y\":-8,\"scale\":1.01}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 89
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Frieza (Full Power)",
+        "enemy_nickname": "Last-Ditch Attack",
+        "enemy_resource_id": 1015571,
+        "id": 111,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":256,\"scale\":0.58},\"anime_start\":{\"x\":-4,\"y\":256,\"scale\":0.58},\"anime_end\":{\"x\":186,\"y\":148,\"scale\":0.58},\"shadow\":{\"x\":-106,\"y\":1120,\"scale\":0.36},\"start_chara\":{\"x\":-8,\"y\":-12,\"scale\":0.89}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 90
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Metal Cooler",
+        "enemy_nickname": "Fusion with the Big Gete Star",
+        "enemy_resource_id": 1015371,
+        "id": 112,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":22,\"y\":-296,\"scale\":1.22},\"anime_start\":{\"x\":22,\"y\":-296,\"scale\":1.22},\"anime_end\":{\"x\":164,\"y\":-378,\"scale\":1.22},\"shadow\":{\"x\":-74,\"y\":96,\"scale\":0.85},\"start_chara\":{\"x\":-6,\"y\":-44,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 91
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Cooler",
+        "enemy_nickname": "Extreme Ultimate Power",
+        "enemy_resource_id": 1026010,
+        "id": 113,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-8,\"y\":-172,\"scale\":1.15},\"anime_start\":{\"x\":-8,\"y\":-172,\"scale\":1.15},\"anime_end\":{\"x\":122,\"y\":-278,\"scale\":1.15},\"shadow\":{\"x\":-156,\"y\":306,\"scale\":0.86},\"start_chara\":{\"x\":-14,\"y\":-14,\"scale\":0.99}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 92
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Goku (Youth)",
+        "enemy_nickname": "All-Or-Nothing Punch",
+        "enemy_resource_id": 1016571,
+        "id": 114,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-66,\"y\":266,\"scale\":0.49},\"anime_start\":{\"x\":-66,\"y\":266,\"scale\":0.49},\"anime_end\":{\"x\":84,\"y\":150,\"scale\":0.49},\"shadow\":{\"x\":-242,\"y\":1108,\"scale\":0.31},\"start_chara\":{\"x\":-6,\"y\":-2,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 93
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan 3 Bardock",
+        "enemy_nickname": "Mark of Saiyan Strength",
+        "enemy_resource_id": 1011781,
+        "id": 94000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-58,\"y\":96,\"scale\":0.73},\"anime_start\":{\"x\":-58,\"y\":96,\"scale\":0.73},\"anime_end\":{\"x\":96,\"y\":-32,\"scale\":0.73},\"shadow\":{\"x\":-332,\"y\":784,\"scale\":0.58},\"start_chara\":{\"x\":-8,\"y\":-38,\"scale\":0.96}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 94
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Dragon Ball Heroes Edition 2",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1026300,
+        "id": 95000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":100,\"scale\":0.89},\"anime_start\":{\"x\":-4,\"y\":100,\"scale\":0.89},\"anime_end\":{\"x\":-4,\"y\":40,\"scale\":0.89},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":52,\"y\":-6,\"scale\":1.22}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 95
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Full Power Boujack (Galactic Warrior)",
+        "enemy_nickname": "Galaxy-Threatening Invasion",
+        "enemy_resource_id": 1012161,
+        "id": 96000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":2,\"y\":-360,\"scale\":1.44},\"anime_start\":{\"x\":2,\"y\":-360,\"scale\":1.44},\"anime_end\":{\"x\":148,\"y\":-450,\"scale\":1.44},\"shadow\":{\"x\":-140,\"y\":40,\"scale\":0.98},\"start_chara\":{\"x\":-8,\"y\":-14,\"scale\":1.08}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 96
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Gogeta",
+        "enemy_nickname": "Transcendent Fusion",
+        "enemy_resource_id": 1026450,
+        "id": 97000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":130,\"scale\":0.87},\"anime_start\":{\"x\":0,\"y\":130,\"scale\":0.87},\"anime_end\":{\"x\":136,\"y\":40,\"scale\":0.87},\"shadow\":{\"x\":-96,\"y\":914,\"scale\":0.61},\"start_chara\":{\"x\":-12,\"y\":0,\"scale\":1.03}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 97
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Broly",
+        "enemy_nickname": "Endless Evolution of the Warrior Race",
+        "enemy_resource_id": 1026460,
+        "id": 98000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":46,\"y\":166,\"scale\":0.89},\"anime_start\":{\"x\":46,\"y\":166,\"scale\":0.89},\"anime_end\":{\"x\":200,\"y\":44,\"scale\":0.89},\"shadow\":{\"x\":-68,\"y\":964,\"scale\":0.74},\"start_chara\":{\"x\":22,\"y\":4,\"scale\":1.12}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 98
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Divine Battle Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1026650,
+        "id": 99000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":-28,\"scale\":0.87},\"anime_start\":{\"x\":-6,\"y\":-28,\"scale\":0.87},\"anime_end\":{\"x\":-6,\"y\":-78,\"scale\":0.87},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-14,\"scale\":0.9}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 99
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.491226",
+        "enemy_name": "Super Saiyan Gohan (Youth)",
+        "enemy_nickname": "Awakened True Power",
+        "enemy_resource_id": 1026660,
+        "id": 100000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-110,\"y\":46,\"scale\":0.93},\"anime_start\":{\"x\":-110,\"y\":46,\"scale\":0.93},\"anime_end\":{\"x\":36,\"y\":-32,\"scale\":0.93},\"shadow\":{\"x\":-388,\"y\":702,\"scale\":0.75},\"start_chara\":{\"x\":-8,\"y\":-12,\"scale\":0.95}}}",
+        "updated_at": "2024-11-14 09:19:27.491226",
+        "z_battle_stage_id": 100
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Cell (Perfect Form)",
+        "enemy_nickname": "The True Value of Perfect Form",
+        "enemy_resource_id": 1026670,
+        "id": 101000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":224,\"y\":-22,\"scale\":1.36},\"anime_start\":{\"x\":224,\"y\":-22,\"scale\":1.36},\"anime_end\":{\"x\":372,\"y\":-124,\"scale\":1.36},\"shadow\":{\"x\":312,\"y\":482,\"scale\":1.02},\"start_chara\":{\"x\":6,\"y\":32,\"scale\":1.06}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 101
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan God Goku",
+        "enemy_nickname": "Legend Reborn",
+        "enemy_resource_id": 1018251,
+        "id": 102000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":-204,\"scale\":1.18},\"anime_start\":{\"x\":0,\"y\":-204,\"scale\":1.18},\"anime_end\":{\"x\":118,\"y\":-298,\"scale\":1.18},\"shadow\":{\"x\":-156,\"y\":174,\"scale\":0.87},\"start_chara\":{\"x\":-6,\"y\":-4,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 102
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Vegito",
+        "enemy_nickname": "Limitless Radiance",
+        "enemy_resource_id": 1012381,
+        "id": 103000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":-14,\"scale\":0.77},\"anime_start\":{\"x\":-2,\"y\":-14,\"scale\":0.77},\"anime_end\":{\"x\":106,\"y\":-124,\"scale\":0.77},\"shadow\":{\"x\":-106,\"y\":662,\"scale\":0.54},\"start_chara\":{\"x\":-8,\"y\":-18,\"scale\":0.87}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 103
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Buu (Super)",
+        "enemy_nickname": "Shocking Absorption Ability",
+        "enemy_resource_id": 1015051,
+        "id": 104000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":-270,\"scale\":1.13},\"anime_start\":{\"x\":0,\"y\":-270,\"scale\":1.13},\"anime_end\":{\"x\":126,\"y\":-364,\"scale\":1.13},\"shadow\":{\"x\":-128,\"y\":118,\"scale\":0.78},\"start_chara\":{\"x\":0,\"y\":-14,\"scale\":0.93}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 104
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan Goku",
+        "enemy_nickname": "Miracle-Making Super Saiyan",
+        "enemy_resource_id": 1018491,
+        "id": 105000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":-120,\"scale\":1.04},\"anime_start\":{\"x\":0,\"y\":-120,\"scale\":1.04},\"anime_end\":{\"x\":132,\"y\":-226,\"scale\":1.04},\"shadow\":{\"x\":-142,\"y\":394,\"scale\":0.73},\"start_chara\":{\"x\":-10,\"y\":0,\"scale\":0.96}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 105
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan God SS Goku (Kaioken)",
+        "enemy_nickname": "Final Super Power",
+        "enemy_resource_id": 1018541,
+        "id": 106000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-82,\"y\":-104,\"scale\":0.99},\"anime_start\":{\"x\":-82,\"y\":-104,\"scale\":0.99},\"anime_end\":{\"x\":58,\"y\":-208,\"scale\":0.99},\"shadow\":{\"x\":-268,\"y\":484,\"scale\":0.67},\"start_chara\":{\"x\":-10,\"y\":-12,\"scale\":0.97}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 106
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Gogeta",
+        "enemy_nickname": "Ultimate and Supreme Fusion",
+        "enemy_resource_id": 1026960,
+        "id": 107000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":-218,\"scale\":1.31},\"anime_start\":{\"x\":-6,\"y\":-218,\"scale\":1.31},\"anime_end\":{\"x\":152,\"y\":-302,\"scale\":1.31},\"shadow\":{\"x\":-138,\"y\":128,\"scale\":1.03},\"start_chara\":{\"x\":-10,\"y\":-12,\"scale\":1.08}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 107
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Vegito",
+        "enemy_nickname": "Ultimate and Invincible Fusion",
+        "enemy_resource_id": 1026970,
+        "id": 108000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":-210,\"scale\":1.24},\"anime_start\":{\"x\":-4,\"y\":-210,\"scale\":1.24},\"anime_end\":{\"x\":140,\"y\":-296,\"scale\":1.24},\"shadow\":{\"x\":-180,\"y\":130,\"scale\":0.99},\"start_chara\":{\"x\":-6,\"y\":-8,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 108
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Beerus & Whis",
+        "enemy_nickname": "Global Harmony Through Destruction",
+        "enemy_resource_id": 1027090,
+        "id": 109000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-22,\"y\":-268,\"scale\":1.2},\"anime_start\":{\"x\":-22,\"y\":-268,\"scale\":1.2},\"anime_end\":{\"x\":-22,\"y\":-296,\"scale\":1.2},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-12,\"y\":-4,\"scale\":0.97}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 109
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Android #17",
+        "enemy_nickname": "Last-Ditch Battle",
+        "enemy_resource_id": 1014911,
+        "id": 110000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":36,\"y\":68,\"scale\":0.71},\"anime_start\":{\"x\":36,\"y\":68,\"scale\":0.71},\"anime_end\":{\"x\":180,\"y\":-36,\"scale\":0.71},\"shadow\":{\"x\":-54,\"y\":824,\"scale\":0.49},\"start_chara\":{\"x\":-6,\"y\":-22,\"scale\":0.84}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 110
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan 2 Caulifla & Super Saiyan 2 Kale",
+        "enemy_nickname": "Two Makes the Strongest of All Universes",
+        "enemy_resource_id": 1016841,
+        "id": 111000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-24,\"y\":104,\"scale\":0.86},\"anime_start\":{\"x\":-24,\"y\":104,\"scale\":0.86},\"anime_end\":{\"x\":-24,\"y\":44,\"scale\":0.86},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-20,\"y\":16,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 111
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Piccolo",
+        "enemy_nickname": "Kami and Demon King United",
+        "enemy_resource_id": 1027260,
+        "id": 112000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":10,\"y\":-242,\"scale\":1.68},\"anime_start\":{\"x\":10,\"y\":-242,\"scale\":1.68},\"anime_end\":{\"x\":144,\"y\":-330,\"scale\":1.68},\"shadow\":{\"x\":-96,\"y\":210,\"scale\":1.24},\"start_chara\":{\"x\":4,\"y\":-4,\"scale\":1.31}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 112
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan Gohan (Teen) & \nSuper Saiyan Goten (Kid)",
+        "enemy_nickname": "Miracle-Calling Clash",
+        "enemy_resource_id": 1027590,
+        "id": 113000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-14,\"y\":-128,\"scale\":0.98},\"anime_start\":{\"x\":-14,\"y\":-128,\"scale\":0.98},\"anime_end\":{\"x\":-14,\"y\":-184,\"scale\":0.98},\"shadow\":{\"x\":5000,\"y\":5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":2,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 113
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Beerus",
+        "enemy_nickname": "Hot-Blooded God of Destruction",
+        "enemy_resource_id": 1019341,
+        "id": 114000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-16,\"y\":-8,\"scale\":0.98},\"anime_start\":{\"x\":-16,\"y\":-8,\"scale\":0.98},\"anime_end\":{\"x\":112,\"y\":-128,\"scale\":0.98},\"shadow\":{\"x\":-208,\"y\":588,\"scale\":0.76},\"start_chara\":{\"x\":-24,\"y\":2,\"scale\":1.03}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 114
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "GT Edition",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1028081,
+        "id": 115000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":12,\"y\":-26,\"scale\":0.93},\"anime_start\":{\"x\":12,\"y\":-26,\"scale\":0.93},\"anime_end\":{\"x\":12,\"y\":-78,\"scale\":0.93},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":6,\"y\":6,\"scale\":0.83}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 115
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan Vegeta",
+        "enemy_nickname": "Limitless Combat Power",
+        "enemy_resource_id": 1016511,
+        "id": 116000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":-24,\"scale\":0.87},\"anime_start\":{\"x\":-4,\"y\":-24,\"scale\":0.87},\"anime_end\":{\"x\":112,\"y\":-124,\"scale\":0.87},\"shadow\":{\"x\":-142,\"y\":620,\"scale\":0.56},\"start_chara\":{\"x\":-6,\"y\":-8,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 116
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Heroines Edition 3",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1028181,
+        "id": 117000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":80,\"y\":-106,\"scale\":0.78},\"anime_start\":{\"x\":80,\"y\":-106,\"scale\":0.78},\"anime_end\":{\"x\":80,\"y\":-138,\"scale\":0.78},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-10,\"y\":-18,\"scale\":0.87}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 117
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Baby 2 (Giant Ape)",
+        "enemy_nickname": "Ultimate Malign Being",
+        "enemy_resource_id": 1016401,
+        "id": 118000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-24,\"y\":-106,\"scale\":0.92},\"anime_start\":{\"x\":-24,\"y\":-106,\"scale\":0.92},\"anime_end\":{\"x\":134,\"y\":-210,\"scale\":0.92},\"shadow\":{\"x\":-196,\"y\":440,\"scale\":0.69},\"start_chara\":{\"x\":-12,\"y\":-18,\"scale\":0.94}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 118
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Trunks (Teen) (Future)",
+        "enemy_nickname": "Resilient Will to Protect the Future",
+        "enemy_resource_id": 1028241,
+        "id": 119000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-184,\"y\":-176,\"scale\":1.16},\"anime_start\":{\"x\":-184,\"y\":-176,\"scale\":1.16},\"anime_end\":{\"x\":-66,\"y\":-256,\"scale\":1.16},\"shadow\":{\"x\":-454,\"y\":386,\"scale\":0.78},\"start_chara\":{\"x\":-92,\"y\":-10,\"scale\":1.03}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 119
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Zamasu",
+        "enemy_nickname": "True Power of a God",
+        "enemy_resource_id": 1028251,
+        "id": 120000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-10,\"y\":-234,\"scale\":1.35},\"anime_start\":{\"x\":-10,\"y\":-234,\"scale\":1.35},\"anime_end\":{\"x\":120,\"y\":-332,\"scale\":1.35},\"shadow\":{\"x\":-150,\"y\":260,\"scale\":0.91},\"start_chara\":{\"x\":-18,\"y\":4,\"scale\":1.04}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 120
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Gohan (Future)",
+        "enemy_nickname": "Heroic Warrior",
+        "enemy_resource_id": 1028261,
+        "id": 121000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":86,\"scale\":0.78},\"anime_start\":{\"x\":6,\"y\":86,\"scale\":0.78},\"anime_end\":{\"x\":140,\"y\":-30,\"scale\":0.78},\"shadow\":{\"x\":-114,\"y\":792,\"scale\":0.54},\"start_chara\":{\"x\":0,\"y\":-18,\"scale\":0.96}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 121
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Future Saga",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1028341,
+        "id": 122000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-40,\"y\":-126,\"scale\":0.93},\"anime_start\":{\"x\":-40,\"y\":-126,\"scale\":0.93},\"anime_end\":{\"x\":-40,\"y\":-146,\"scale\":0.93},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-20,\"scale\":0.89}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 122
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku Black",
+        "enemy_nickname": "Epitome of Sublime Beauty",
+        "enemy_resource_id": 1028441,
+        "id": 123000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-20,\"y\":-134,\"scale\":1.09},\"anime_start\":{\"x\":-20,\"y\":-134,\"scale\":1.09},\"anime_end\":{\"x\":118,\"y\":-230,\"scale\":1.09},\"shadow\":{\"x\":-152,\"y\":314,\"scale\":0.88},\"start_chara\":{\"x\":-6,\"y\":4,\"scale\":0.98}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 123
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku Black (Super Saiyan Rosé)",
+        "enemy_nickname": "Mark of Almighty Power",
+        "enemy_resource_id": 1028451,
+        "id": 124000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":4,\"y\":-288,\"scale\":1.24},\"anime_start\":{\"x\":4,\"y\":-288,\"scale\":1.24},\"anime_end\":{\"x\":134,\"y\":-380,\"scale\":1.24},\"shadow\":{\"x\":-108,\"y\":122,\"scale\":0.88},\"start_chara\":{\"x\":-6,\"y\":-14,\"scale\":0.96}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 124
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Jiren",
+        "enemy_nickname": "Absolute Power",
+        "enemy_resource_id": 1013941,
+        "id": 125000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-14,\"y\":-154,\"scale\":0.94},\"anime_start\":{\"x\":-14,\"y\":-154,\"scale\":0.94},\"anime_end\":{\"x\":136,\"y\":-242,\"scale\":0.94},\"shadow\":{\"x\":-152,\"y\":338,\"scale\":0.65},\"start_chara\":{\"x\":-10,\"y\":-40,\"scale\":0.89}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 125
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Dragon Ball Heroes Edition 3",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1028611,
+        "id": 126000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-16,\"y\":62,\"scale\":0.91},\"anime_start\":{\"x\":-16,\"y\":62,\"scale\":0.91},\"anime_end\":{\"x\":-16,\"y\":6,\"scale\":0.91},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":32,\"y\":54,\"scale\":1.13}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 126
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Nappa/Vegeta",
+        "enemy_nickname": "Rampaging Vicious Saiyans",
+        "enemy_resource_id": 1028661,
+        "id": 127000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":62,\"y\":-88,\"scale\":0.85},\"anime_start\":{\"x\":62,\"y\":-88,\"scale\":0.85},\"anime_end\":{\"x\":62,\"y\":-128,\"scale\":0.85},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-2,\"y\":-6,\"scale\":0.92}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 127
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Androids #17 & #18/Android #16",
+        "enemy_nickname": "The Androids' Journey",
+        "enemy_resource_id": 1028941,
+        "id": 128000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":-194,\"scale\":1.05},\"anime_start\":{\"x\":-2,\"y\":-194,\"scale\":1.05},\"anime_end\":{\"x\":-2,\"y\":-242,\"scale\":1.05},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":4,\"y\":6,\"scale\":0.9}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 128
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Android #13",
+        "enemy_nickname": "Foe Elimination Circuit",
+        "enemy_resource_id": 1028911,
+        "id": 129000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":38,\"y\":-384,\"scale\":1.65},\"anime_start\":{\"x\":38,\"y\":-384,\"scale\":1.65},\"anime_end\":{\"x\":170,\"y\":-470,\"scale\":1.65},\"shadow\":{\"x\":-44,\"y\":-160,\"scale\":1.22},\"start_chara\":{\"x\":14,\"y\":28,\"scale\":1.07}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 129
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan 3 Goku",
+        "enemy_nickname": "Golden Fist",
+        "enemy_resource_id": 1012721,
+        "id": 130000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":116,\"y\":-138,\"scale\":1.16},\"anime_start\":{\"x\":116,\"y\":-138,\"scale\":1.16},\"anime_end\":{\"x\":282,\"y\":-238,\"scale\":1.16},\"shadow\":{\"x\":74,\"y\":340,\"scale\":0.88},\"start_chara\":{\"x\":76,\"y\":8,\"scale\":1.07}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 130
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku (Ultra Instinct -Sign-)",
+        "enemy_nickname": "Sign of a Turnaround",
+        "enemy_resource_id": 1019821,
+        "id": 131000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":-40,\"scale\":0.98},\"anime_start\":{\"x\":-2,\"y\":-40,\"scale\":0.98},\"anime_end\":{\"x\":146,\"y\":-156,\"scale\":0.98},\"shadow\":{\"x\":-136,\"y\":556,\"scale\":0.75},\"start_chara\":{\"x\":-8,\"y\":-24,\"scale\":1.01}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 131
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Kefla",
+        "enemy_nickname": "Transcendent Height",
+        "enemy_resource_id": 1028931,
+        "id": 132000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-102,\"y\":178,\"scale\":0.7},\"anime_start\":{\"x\":-102,\"y\":178,\"scale\":0.7},\"anime_end\":{\"x\":28,\"y\":58,\"scale\":0.7},\"shadow\":{\"x\":-334,\"y\":886,\"scale\":0.51},\"start_chara\":{\"x\":-108,\"y\":-10,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 132
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Broly & Cheelai & Lemo",
+        "enemy_nickname": "A New Life on Vampa",
+        "enemy_resource_id": 1029301,
+        "id": 133000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-42,\"y\":66,\"scale\":0.84},\"anime_start\":{\"x\":-42,\"y\":66,\"scale\":0.84},\"anime_end\":{\"x\":-42,\"y\":2,\"scale\":0.84},\"shadow\":{\"x\":5000,\"y\":5000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":4,\"scale\":1.01}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 133
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku (Ultra Instinct)",
+        "enemy_nickname": "True Ultra Instinct",
+        "enemy_resource_id": 1020311,
+        "id": 134000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-8,\"y\":-92,\"scale\":0.97},\"anime_start\":{\"x\":-8,\"y\":-92,\"scale\":0.97},\"anime_end\":{\"x\":106,\"y\":-200,\"scale\":0.97},\"shadow\":{\"x\":-196,\"y\":404,\"scale\":0.79},\"start_chara\":{\"x\":2,\"y\":-12,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 134
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan God SS Evolved Vegeta",
+        "enemy_nickname": "True Warrior Race",
+        "enemy_resource_id": 1020341,
+        "id": 135000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":14,\"y\":34,\"scale\":0.87},\"anime_start\":{\"x\":14,\"y\":34,\"scale\":0.87},\"anime_end\":{\"x\":170,\"y\":-62,\"scale\":0.87},\"shadow\":{\"x\":-46,\"y\":642,\"scale\":0.67},\"start_chara\":{\"x\":2,\"y\":-8,\"scale\":0.99}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 135
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Vegeta",
+        "enemy_nickname": "Tenacious Secret Plan",
+        "enemy_resource_id": 1022651,
+        "id": 136000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":152,\"scale\":0.75},\"anime_start\":{\"x\":0,\"y\":152,\"scale\":0.75},\"anime_end\":{\"x\":116,\"y\":36,\"scale\":0.75},\"shadow\":{\"x\":-92,\"y\":976,\"scale\":0.52},\"start_chara\":{\"x\":-10,\"y\":6,\"scale\":0.9}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 136
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan God SS Goku (Kaioken) & \nSuper Saiyan God SS Evolved Vegeta",
+        "enemy_nickname": "Beyond Boundless Power",
+        "enemy_resource_id": 1029311,
+        "id": 137000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-10,\"y\":118,\"scale\":0.71},\"anime_start\":{\"x\":-10,\"y\":118,\"scale\":0.71},\"anime_end\":{\"x\":-10,\"y\":38,\"scale\":0.71},\"shadow\":{\"x\":5000,\"y\":5000,\"scale\":0.0},\"start_chara\":{\"x\":-6,\"y\":2,\"scale\":0.9}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 137
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Bardock",
+        "enemy_nickname": "Raging Counterattack",
+        "enemy_resource_id": 1029601,
+        "id": 138000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":92,\"y\":128,\"scale\":0.95},\"anime_start\":{\"x\":92,\"y\":128,\"scale\":0.95},\"anime_end\":{\"x\":254,\"y\":30,\"scale\":0.95},\"shadow\":{\"x\":112,\"y\":836,\"scale\":0.71},\"start_chara\":{\"x\":6,\"y\":40,\"scale\":0.94}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 138
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Gotenks",
+        "enemy_nickname": "Astounding Fusion Power",
+        "enemy_resource_id": 1029521,
+        "id": 139000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":10,\"y\":142,\"scale\":0.76},\"anime_start\":{\"x\":10,\"y\":142,\"scale\":0.76},\"anime_end\":{\"x\":158,\"y\":38,\"scale\":0.76},\"shadow\":{\"x\":-102,\"y\":900,\"scale\":0.44},\"start_chara\":{\"x\":-4,\"y\":-44,\"scale\":0.92}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 139
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku & Vegeta (Angel)",
+        "enemy_nickname": "Fused Hope",
+        "enemy_resource_id": 1029531,
+        "id": 140000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":2,\"y\":-30,\"scale\":0.93},\"anime_start\":{\"x\":2,\"y\":-30,\"scale\":0.93},\"anime_end\":{\"x\":2,\"y\":-86,\"scale\":0.93},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-18,\"y\":16,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 140
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Majin Buu (Gotenks)",
+        "enemy_nickname": "Invincible Absorption",
+        "enemy_resource_id": 1029541,
+        "id": 141000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":50,\"y\":-318,\"scale\":1.36},\"anime_start\":{\"x\":50,\"y\":-318,\"scale\":1.36},\"anime_end\":{\"x\":184,\"y\":-412,\"scale\":1.36},\"shadow\":{\"x\":-116,\"y\":-30,\"scale\":1.03},\"start_chara\":{\"x\":-32,\"y\":-10,\"scale\":0.95}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 141
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Majin Buu (Good)/Majin Buu (Pure Evil)",
+        "enemy_nickname": "Split Into Good and Evil",
+        "enemy_resource_id": 1029801,
+        "id": 142000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-58,\"y\":-48,\"scale\":0.93},\"anime_start\":{\"x\":-58,\"y\":-48,\"scale\":0.93},\"anime_end\":{\"x\":-58,\"y\":-116,\"scale\":0.93},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":14,\"y\":-26,\"scale\":0.99}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 142
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Gohan (Teen)",
+        "enemy_nickname": "Power Beyond the Extremes",
+        "enemy_resource_id": 1029791,
+        "id": 144000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-32,\"y\":102,\"scale\":0.94},\"anime_start\":{\"x\":-32,\"y\":102,\"scale\":0.94},\"anime_end\":{\"x\":126,\"y\":38,\"scale\":0.94},\"shadow\":{\"x\":-338,\"y\":778,\"scale\":0.75},\"start_chara\":{\"x\":16,\"y\":58,\"scale\":1.02}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 144
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Android #17 (Team Universe 7)",
+        "enemy_nickname": "Universe 7's All-Out Offensive",
+        "enemy_resource_id": 1030281,
+        "id": 145000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":18,\"y\":80,\"scale\":0.72},\"anime_start\":{\"x\":18,\"y\":80,\"scale\":0.72},\"anime_end\":{\"x\":8,\"y\":58,\"scale\":0.72},\"shadow\":{\"x\":5000,\"y\":5000,\"scale\":0.0},\"start_chara\":{\"x\":8,\"y\":24,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 145
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Golden Frieza (Angel) & Android #17",
+        "enemy_nickname": "Very Last Possibility",
+        "enemy_resource_id": 1030291,
+        "id": 146000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-8,\"y\":6,\"scale\":0.85},\"anime_start\":{\"x\":-8,\"y\":6,\"scale\":0.85},\"anime_end\":{\"x\":-8,\"y\":-60,\"scale\":0.85},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":8,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 146
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Jiren (Full Power)",
+        "enemy_nickname": "Majesty of the Mighty",
+        "enemy_resource_id": 1019911,
+        "id": 148000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":-268,\"scale\":1.12},\"anime_start\":{\"x\":-2,\"y\":-268,\"scale\":1.12},\"anime_end\":{\"x\":142,\"y\":-372,\"scale\":1.12},\"shadow\":{\"x\":-112,\"y\":-48,\"scale\":0.92},\"start_chara\":{\"x\":-8,\"y\":-20,\"scale\":0.92}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 148
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Videl",
+        "enemy_nickname": "Ally of Love and Friendship",
+        "enemy_resource_id": 1021811,
+        "id": 149000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":0,\"y\":-116,\"scale\":0.97},\"anime_start\":{\"x\":0,\"y\":-116,\"scale\":0.97},\"anime_end\":{\"x\":132,\"y\":-220,\"scale\":0.97},\"shadow\":{\"x\":-102,\"y\":456,\"scale\":0.62},\"start_chara\":{\"x\":-6,\"y\":-18,\"scale\":0.82}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 149
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Heroines Edition 4",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1030271,
+        "id": 150000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-28,\"y\":-154,\"scale\":1.11},\"anime_start\":{\"x\":-28,\"y\":-154,\"scale\":1.11},\"anime_end\":{\"x\":-28,\"y\":-204,\"scale\":1.11},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-28,\"y\":-14,\"scale\":0.93}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 150
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Team Turles",
+        "enemy_nickname": "Destroyers of the Universe",
+        "enemy_resource_id": 1030591,
+        "id": 151000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":90,\"y\":-118,\"scale\":1.12},\"anime_start\":{\"x\":90,\"y\":-118,\"scale\":1.12},\"anime_end\":{\"x\":90,\"y\":-168,\"scale\":1.12},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-88,\"scale\":1.16}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 151
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Legendary Super Saiyan Broly",
+        "enemy_nickname": "Instinctive Destruction",
+        "enemy_resource_id": 1021671,
+        "id": 152000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":66,\"y\":96,\"scale\":0.7},\"anime_start\":{\"x\":66,\"y\":96,\"scale\":0.7},\"anime_end\":{\"x\":214,\"y\":-10,\"scale\":0.7},\"shadow\":{\"x\":32,\"y\":858,\"scale\":0.54},\"start_chara\":{\"x\":-8,\"y\":4,\"scale\":0.88}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 152
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan Broly",
+        "enemy_nickname": "Nightmarish Impact",
+        "enemy_resource_id": 1030581,
+        "id": 153000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":-154,\"scale\":1.22},\"anime_start\":{\"x\":6,\"y\":-154,\"scale\":1.22},\"anime_end\":{\"x\":140,\"y\":-278,\"scale\":1.22},\"shadow\":{\"x\":-136,\"y\":310,\"scale\":0.88},\"start_chara\":{\"x\":0,\"y\":30,\"scale\":1.03}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 153
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan Trunks (Kid) & Super Saiyan Goten (Kid)",
+        "enemy_nickname": "Pint-Sized Super Warriors",
+        "enemy_resource_id": 1030851,
+        "id": 154000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":176,\"scale\":0.68},\"anime_start\":{\"x\":6,\"y\":176,\"scale\":0.68},\"anime_end\":{\"x\":6,\"y\":90,\"scale\":0.68},\"shadow\":{\"x\":5000,\"y\":5000,\"scale\":0.0},\"start_chara\":{\"x\":-8,\"y\":-8,\"scale\":0.88}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 154
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Janemba",
+        "enemy_nickname": "Boiling Evil",
+        "enemy_resource_id": 1030691,
+        "id": 155000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-14,\"y\":-78,\"scale\":1.08},\"anime_start\":{\"x\":-14,\"y\":-78,\"scale\":1.08},\"anime_end\":{\"x\":120,\"y\":-198,\"scale\":1.08},\"shadow\":{\"x\":-136,\"y\":594,\"scale\":0.69},\"start_chara\":{\"x\":-14,\"y\":8,\"scale\":0.89}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 155
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Krillin & Gohan (Kid)",
+        "enemy_nickname": "Dilemma on the Battlefield",
+        "enemy_resource_id": 1030751,
+        "id": 156000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-76,\"y\":108,\"scale\":0.69},\"anime_start\":{\"x\":-76,\"y\":108,\"scale\":0.69},\"anime_end\":{\"x\":-76,\"y\":44,\"scale\":0.69},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":-10,\"y\":6,\"scale\":0.82}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 156
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku (Angel) & Vegeta (Angel)",
+        "enemy_nickname": "Fusion Reborn",
+        "enemy_resource_id": 1030761,
+        "id": 157000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":60,\"y\":80,\"scale\":0.81},\"anime_start\":{\"x\":60,\"y\":80,\"scale\":0.81},\"anime_end\":{\"x\":60,\"y\":24,\"scale\":0.81},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":8,\"y\":-32,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 157
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Vegeta/Goku",
+        "enemy_nickname": "Saiyan Pride",
+        "enemy_resource_id": 1030841,
+        "id": 158000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":64,\"y\":128,\"scale\":0.86},\"anime_start\":{\"x\":64,\"y\":128,\"scale\":0.86},\"anime_end\":{\"x\":64,\"y\":32,\"scale\":0.86},\"shadow\":{\"x\":-5000,\"y\":-5000,\"scale\":0.0},\"start_chara\":{\"x\":0,\"y\":28,\"scale\":0.91}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 158
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Boujack",
+        "enemy_nickname": "Murderous Overlord",
+        "enemy_resource_id": 1030871,
+        "id": 159000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-106,\"y\":-88,\"scale\":1.22},\"anime_start\":{\"x\":-106,\"y\":-88,\"scale\":1.22},\"anime_end\":{\"x\":-106,\"y\":-156,\"scale\":1.22},\"shadow\":{\"x\":5000,\"y\":5000,\"scale\":0.0},\"start_chara\":{\"x\":-32,\"y\":-28,\"scale\":0.92}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 159
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Dragon Ball Heroes Edition 4",
+        "enemy_nickname": "Extreme Z-Battle",
+        "enemy_resource_id": 1030861,
+        "id": 160000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-36,\"y\":138,\"scale\":0.91},\"anime_start\":{\"x\":-36,\"y\":138,\"scale\":0.91},\"anime_end\":{\"x\":-36,\"y\":54,\"scale\":0.91},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":28,\"y\":10,\"scale\":1.04}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 160
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan 3 Goku",
+        "enemy_nickname": "Mystery Super Technique",
+        "enemy_resource_id": 1003210,
+        "id": 701000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-18,\"y\":218,\"scale\":0.78},\"anime_start\":{\"x\":-18,\"y\":218,\"scale\":0.78},\"anime_end\":{\"x\":130,\"y\":132,\"scale\":0.78},\"shadow\":{\"x\":-268,\"y\":978,\"scale\":0.62},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 701
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Super Saiyan 3 Gotenks",
+        "enemy_nickname": "Grim Reaper of Justice's Rampage",
+        "enemy_resource_id": 1006211,
+        "id": 702000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":42,\"y\":42,\"scale\":0.79},\"anime_start\":{\"x\":42,\"y\":42,\"scale\":0.79},\"anime_end\":{\"x\":184,\"y\":26,\"scale\":0.79},\"shadow\":{\"x\":-64,\"y\":782,\"scale\":0.52},\"start_chara\":{\"x\":-2,\"y\":-14,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 702
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Buu (Kid)",
+        "enemy_nickname": "Heartless Destruction",
+        "enemy_resource_id": 1003311,
+        "id": 703000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-36,\"y\":-118,\"scale\":1.13},\"anime_start\":{\"x\":-36,\"y\":-118,\"scale\":1.13},\"anime_end\":{\"x\":124,\"y\":-148,\"scale\":1.09},\"shadow\":{\"x\":-278,\"y\":300,\"scale\":0.86},\"start_chara\":{\"x\":0,\"y\":2,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 703
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Goku Black",
+        "enemy_nickname": "Dark Menace",
+        "enemy_resource_id": 1008851,
+        "id": 704000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-48,\"y\":-56,\"scale\":1.1},\"anime_start\":{\"x\":-48,\"y\":-56,\"scale\":1.1},\"anime_end\":{\"x\":124,\"y\":-170,\"scale\":1.08},\"shadow\":{\"x\":-352,\"y\":530,\"scale\":0.88},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 704
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Legendary Super Saiyan Broly",
+        "enemy_nickname": "Super Warrior of Destruction",
+        "enemy_resource_id": 1003800,
+        "id": 705000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":24,\"y\":176,\"scale\":0.95},\"anime_start\":{\"x\":24,\"y\":176,\"scale\":0.95},\"anime_end\":{\"x\":174,\"y\":114,\"scale\":0.95},\"shadow\":{\"x\":-150,\"y\":906,\"scale\":0.76},\"start_chara\":{\"x\":-8,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 705
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Frieza (Full Power)",
+        "enemy_nickname": "Emperor's Devotion",
+        "enemy_resource_id": 1004251,
+        "id": 706000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-4,\"y\":224,\"scale\":0.73},\"anime_start\":{\"x\":-4,\"y\":224,\"scale\":0.73},\"anime_end\":{\"x\":126,\"y\":132,\"scale\":0.75},\"shadow\":{\"x\":-258,\"y\":1008,\"scale\":0.63},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.0}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 706
+    },
+    {
+        "created_at": "2024-11-14 09:19:27.498326",
+        "enemy_name": "Beerus",
+        "enemy_nickname": "Devastating Punishment",
+        "enemy_resource_id": 1005301,
+        "id": 707000,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":8,\"y\":-222,\"scale\":1.15},\"anime_start\":{\"x\":8,\"y\":-222,\"scale\":1.15},\"anime_end\":{\"x\":124,\"y\":-348,\"scale\":1.38},\"shadow\":{\"x\":-68,\"y\":32,\"scale\":0.97},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.05}}}",
+        "updated_at": "2024-11-14 09:19:27.498326",
+        "z_battle_stage_id": 707
+    }
+]

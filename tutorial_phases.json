@@ -1,0 +1,130 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 1,
+        "number": 1,
+        "parameters": "{\"map_id\":9,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 1000,
+        "number": 2,
+        "parameters": "{\"map_id\":19,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 1010,
+        "number": 3,
+        "parameters": "{\"bgm_id\":149,\"map_id\":19,\"enemies\":[[{\"hp\":1000000,\"exp\":0,\"turn\":0,\"zeni\":0,\"attack\":300,\"ai_type\":99999,\"card_id\":9112700,\"defence\":100,\"first_turn\":0,\"extra_hp_gauges_count\":3}]],\"card_ids\":[9022910,9022900],\"ball_tables\":[[[2,0,4,0,5,0,4,0,1],[0,1,0,3,0,2,0,5,0],[5,0,5,0,6,0,4,0,6],[0,5,0,4,0,1,0,5,0],[5,0,5,0,5,0,5,0,1]],[[1,0,2,0,3,0,1,0,1],[0,5,0,4,0,1,0,2,0],[5,0,4,0,5,0,1,0,2],[0,5,0,1,0,1,0,2,0],[5,0,4,0,2,0,2,0,2]]],\"dummy_card_id\":9000000,\"force_high_speed\":true,\"fixed_next_turn_orders\":[[1,0]]}",
+        "tutorial_scene_url": "internal:Tutorial::BattleSetupScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 1020,
+        "number": 4,
+        "parameters": "{\"map_id\":19,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 2000,
+        "number": 5,
+        "parameters": "{\"map_id\":9,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BeforeGashaScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 2010,
+        "number": 6,
+        "parameters": "{\"map_id\":9,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 3000,
+        "number": 7,
+        "parameters": "{\"map_id\":35,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 4000,
+        "number": 8,
+        "parameters": "{\"items\":[[404,10],[504,10],[604,10],[804,10],[1004,6]],\"card_id\":1022760,\"field_id\":5,\"item_exp\":2550500,\"partners\":[[1000290,1],[1000330,1],[1000310,1],[1000320,1],[1000300,1]],\"partner_exp\":100}",
+        "tutorial_scene_url": "internal:Tutorial::TrainingScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 5000,
+        "number": 9,
+        "parameters": "{\"awaken_card_id\":1022760}",
+        "tutorial_scene_url": "internal:Tutorial::ZAwakenScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 6000,
+        "number": 10,
+        "parameters": "{\"awaken_card_id\":1022761}",
+        "tutorial_scene_url": "internal:Tutorial::DokkanAwakenScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 6010,
+        "number": 11,
+        "parameters": "{\"map_id\":11,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 7000,
+        "number": 12,
+        "parameters": "{\"map_id\":169,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 7010,
+        "number": 13,
+        "parameters": "{\"bgm_id\":148,\"map_id\":26,\"enemies\":[[{\"hp\":1000000,\"exp\":0,\"turn\":2,\"zeni\":0,\"attack\":300,\"card_id\":9019391,\"defence\":100,\"first_turn\":2,\"extra_hp_gauges_count\":3}]],\"card_ids\":[9022771],\"ball_tables\":[[[2,0,3,0,1,0,4,0,1],[0,2,0,4,0,1,0,5,0],[5,0,4,0,1,0,4,0,6],[0,2,0,3,0,1,0,5,0],[2,0,3,0,1,0,5,0,6],[2,0,3,0,1,0,4,0,1],[0,2,0,4,0,1,0,5,0],[5,0,4,0,1,0,4,0,6],[0,2,0,3,0,1,0,5,0],[2,0,3,0,1,0,5,0,6]]],\"dummy_card_id\":9000000,\"force_high_speed\":false}",
+        "tutorial_scene_url": "internal:Tutorial::BattleSetupScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 7020,
+        "number": 14,
+        "parameters": "{\"map_id\":169,\"layer_ids\":[1,2,3],\"bg_scale_x\":0.5,\"bg_scale_y\":1,\"bg_offset_x\":0,\"bg_offset_y\":0}",
+        "tutorial_scene_url": "internal:Tutorial::BackGroundScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 8000,
+        "number": 15,
+        "parameters": "{}",
+        "tutorial_scene_url": "internal:Tutorial::BeforeAssetDownloadScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.098878",
+        "id": 9000,
+        "number": 16,
+        "parameters": "{}",
+        "tutorial_scene_url": "internal:Tutorial::InputUserNameScene",
+        "updated_at": "2024-11-14 09:19:25.098878"
+    }
+]

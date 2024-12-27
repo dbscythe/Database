@@ -1,0 +1,170 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1000]",
+        "dialog_icon_type": "default",
+        "id": 1000,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1010,1011,1012]",
+        "dialog_icon_type": "default",
+        "id": 1010,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1020,1021]",
+        "dialog_icon_type": "default",
+        "id": 1020,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1030]",
+        "dialog_icon_type": "default",
+        "id": 1030,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1100,1101,1102]",
+        "dialog_icon_type": "default",
+        "id": 1100,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1110,1111]",
+        "dialog_icon_type": "default",
+        "id": 1110,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[1120]",
+        "dialog_icon_type": "default",
+        "id": 1120,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2000]",
+        "dialog_icon_type": "default",
+        "id": 2000,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2010]",
+        "dialog_icon_type": "default",
+        "id": 2010,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2020]",
+        "dialog_icon_type": "default",
+        "id": 2020,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2030]",
+        "dialog_icon_type": "default",
+        "id": 2030,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2040]",
+        "dialog_icon_type": "default",
+        "id": 2040,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2050]",
+        "dialog_icon_type": "default",
+        "id": 2050,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2060]",
+        "dialog_icon_type": "default",
+        "id": 2060,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2070]",
+        "dialog_icon_type": "default",
+        "id": 2070,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2080]",
+        "dialog_icon_type": "default",
+        "id": 2080,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2090]",
+        "dialog_icon_type": "default",
+        "id": 2090,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2100]",
+        "dialog_icon_type": "default",
+        "id": 2100,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2110,2111]",
+        "dialog_icon_type": "default",
+        "id": 2110,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2120]",
+        "dialog_icon_type": "default",
+        "id": 2120,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2200,2201]",
+        "dialog_icon_type": "default",
+        "id": 2200,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[2210]",
+        "dialog_icon_type": "default",
+        "id": 2210,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[3000]",
+        "dialog_icon_type": "default",
+        "id": 3000,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.965424",
+        "dialog_body_ids": "[3010]",
+        "dialog_icon_type": "default",
+        "id": 3010,
+        "updated_at": "2024-11-14 09:19:59.965424"
+    }
+]

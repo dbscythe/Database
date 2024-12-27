@@ -1,0 +1,1598 @@
+[
+    {
+        "budokai_id": 1,
+        "description": "It's the preliminary! Here we go!",
+        "id": 1,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 1,
+        "description": "It's the 2nd preliminary! Here we go!",
+        "id": 2,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 1,
+        "description": "It's the 3rd preliminary! Here we go!",
+        "id": 3,
+        "image_path": "images/en/dummy_image/dummy_image.png",
+        "round": 6
+    },
+    {
+        "budokai_id": 1,
+        "description": "It's time for the quarterfinals!",
+        "id": 4,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 1,
+        "description": "It's time for the semifinals!",
+        "id": 5,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 1,
+        "description": "And now it's time for the final battle!",
+        "id": 6,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 5
+    },
+    {
+        "budokai_id": 2,
+        "description": "It's the preliminary! Here we go!",
+        "id": 7,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 2,
+        "description": "It's the 2nd preliminary! Here we go!",
+        "id": 8,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 2,
+        "description": "It's the 3rd preliminary! Here we go!",
+        "id": 9,
+        "image_path": "images/en/dummy_image/dummy_image.png",
+        "round": 6
+    },
+    {
+        "budokai_id": 2,
+        "description": "It's time for the quarterfinals!",
+        "id": 10,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 2,
+        "description": "It's time for the semifinals!",
+        "id": 11,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 2,
+        "description": "And now it's time for the final battle!",
+        "id": 12,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 5
+    },
+    {
+        "budokai_id": 3,
+        "description": "It's the preliminary! Here we go!",
+        "id": 13,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 3,
+        "description": "It's time for the quarterfinals!",
+        "id": 16,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 3,
+        "description": "It's time for the semifinals!",
+        "id": 17,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 3,
+        "description": "And now it's time for the final battle!",
+        "id": 18,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 4,
+        "description": "It's the preliminary! Here we go!",
+        "id": 19,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 4,
+        "description": "It's time for the quarterfinals!",
+        "id": 20,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 4,
+        "description": "It's time for the semifinals!",
+        "id": 21,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 4,
+        "description": "And now it's time for the final battle!",
+        "id": 22,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 5,
+        "description": "It's the preliminary! Here we go!",
+        "id": 23,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 5,
+        "description": "It's time for the quarterfinals!",
+        "id": 24,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 5,
+        "description": "It's time for the semifinals!",
+        "id": 25,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 5,
+        "description": "And now it's time for the final battle!",
+        "id": 26,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 6,
+        "description": "It's the preliminary! Here we go!",
+        "id": 27,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 6,
+        "description": "It's time for the quarterfinals!",
+        "id": 28,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 6,
+        "description": "It's time for the semifinals!",
+        "id": 29,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 6,
+        "description": "And now it's time for the final battle!",
+        "id": 30,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 7,
+        "description": "It's the preliminary! Here we go!",
+        "id": 31,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 7,
+        "description": "It's time for the quarterfinals!",
+        "id": 32,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 7,
+        "description": "It's time for the semifinals!",
+        "id": 33,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 7,
+        "description": "And now it's time for the final battle!",
+        "id": 34,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 8,
+        "description": "It's the preliminary! Here we go!",
+        "id": 35,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 8,
+        "description": "It's time for the quarterfinals!",
+        "id": 36,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 8,
+        "description": "It's time for the semifinals!",
+        "id": 37,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 8,
+        "description": "And now it's time for the final battle!",
+        "id": 38,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 9,
+        "description": "It's the preliminary! Here we go!",
+        "id": 39,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 9,
+        "description": "It's time for the quarterfinals!",
+        "id": 40,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 9,
+        "description": "It's time for the semifinals!",
+        "id": 41,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 9,
+        "description": "And now it's time for the final battle!",
+        "id": 42,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 10,
+        "description": "It's the preliminary! Here we go!",
+        "id": 43,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 10,
+        "description": "It's time for the quarterfinals!",
+        "id": 44,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 10,
+        "description": "It's time for the semifinals!",
+        "id": 45,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 10,
+        "description": "And now it's time for the final battle!",
+        "id": 46,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 11,
+        "description": "It's the preliminary! Here we go!",
+        "id": 47,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 11,
+        "description": "It's time for the quarterfinals!",
+        "id": 48,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 11,
+        "description": "It's time for the semifinals!",
+        "id": 49,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 11,
+        "description": "And now it's time for the final battle!",
+        "id": 50,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 12,
+        "description": "It's the preliminary! Here we go!",
+        "id": 51,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 12,
+        "description": "It's time for the quarterfinals!",
+        "id": 52,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 12,
+        "description": "It's time for the semifinals!",
+        "id": 53,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 12,
+        "description": "And now it's time for the final battle!",
+        "id": 54,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 13,
+        "description": "It's the preliminary! Here we go!",
+        "id": 55,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 13,
+        "description": "It's time for the quarterfinals!",
+        "id": 56,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 13,
+        "description": "It's time for the semifinals!",
+        "id": 57,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 13,
+        "description": "And now it's time for the final battle!",
+        "id": 58,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 14,
+        "description": "It's the preliminary! Here we go!",
+        "id": 59,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 14,
+        "description": "It's time for the quarterfinals!",
+        "id": 60,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 14,
+        "description": "It's time for the semifinals!",
+        "id": 61,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 14,
+        "description": "And now it's time for the final battle!",
+        "id": 62,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 15,
+        "description": "It's the preliminary! Here we go!",
+        "id": 63,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 15,
+        "description": "It's time for the quarterfinals!",
+        "id": 64,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 15,
+        "description": "It's time for the semifinals!",
+        "id": 65,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 15,
+        "description": "And now it's time for the final battle!",
+        "id": 66,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 16,
+        "description": "It's the preliminary! Here we go!",
+        "id": 67,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 16,
+        "description": "It's time for the quarterfinals!",
+        "id": 68,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 16,
+        "description": "It's time for the semifinals!",
+        "id": 69,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 16,
+        "description": "And now it's time for the final battle!",
+        "id": 70,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 17,
+        "description": "It's the preliminary! Here we go!",
+        "id": 171,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 17,
+        "description": "It's time for the quarterfinals!",
+        "id": 172,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 17,
+        "description": "It's time for the semifinals!",
+        "id": 173,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 17,
+        "description": "And now it's time for the final battle!",
+        "id": 174,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 18,
+        "description": "It's the preliminary! Here we go!",
+        "id": 181,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 18,
+        "description": "It's time for the quarterfinals!",
+        "id": 182,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 18,
+        "description": "It's time for the semifinals!",
+        "id": 183,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 18,
+        "description": "And now it's time for the final battle!",
+        "id": 184,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 19,
+        "description": "It's the preliminary! Here we go!",
+        "id": 191,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 19,
+        "description": "It's time for the quarterfinals!",
+        "id": 192,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 19,
+        "description": "It's time for the semifinals!",
+        "id": 193,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 19,
+        "description": "And now it's time for the final battle!",
+        "id": 194,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 20,
+        "description": "It's the preliminary! Here we go!",
+        "id": 201,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 20,
+        "description": "It's time for the quarterfinals!",
+        "id": 202,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 20,
+        "description": "It's time for the semifinals!",
+        "id": 203,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 20,
+        "description": "And now it's time for the final battle!",
+        "id": 204,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 21,
+        "description": "It's the preliminary! Here we go!",
+        "id": 211,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 21,
+        "description": "It's time for the quarterfinals!",
+        "id": 212,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 21,
+        "description": "It's time for the semifinals!",
+        "id": 213,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 21,
+        "description": "And now it's time for the final battle!",
+        "id": 214,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 22,
+        "description": "It's the preliminary! Here we go!",
+        "id": 221,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 22,
+        "description": "It's time for the quarterfinals!",
+        "id": 222,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 22,
+        "description": "It's time for the semifinals!",
+        "id": 223,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 22,
+        "description": "And now it's time for the final battle!",
+        "id": 224,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 23,
+        "description": "It's the preliminary! Here we go!",
+        "id": 231,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 23,
+        "description": "It's time for the quarterfinals!",
+        "id": 232,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 23,
+        "description": "It's time for the semifinals!",
+        "id": 233,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 23,
+        "description": "And now it's time for the final battle!",
+        "id": 234,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 24,
+        "description": "It's the preliminary! Here we go!",
+        "id": 241,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 24,
+        "description": "It's time for the quarterfinals!",
+        "id": 242,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 24,
+        "description": "It's time for the semifinals!",
+        "id": 243,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 24,
+        "description": "And now it's time for the final battle!",
+        "id": 244,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 25,
+        "description": "It's the preliminary! Here we go!",
+        "id": 251,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 25,
+        "description": "It's time for the quarterfinals!",
+        "id": 252,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 25,
+        "description": "It's time for the semifinals!",
+        "id": 253,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 25,
+        "description": "And now it's time for the final battle!",
+        "id": 254,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 26,
+        "description": "It's the preliminary! Here we go!",
+        "id": 261,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 26,
+        "description": "It's time for the quarterfinals!",
+        "id": 262,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 26,
+        "description": "It's time for the semifinals!",
+        "id": 263,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 26,
+        "description": "And now it's time for the final battle!",
+        "id": 264,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 27,
+        "description": "It's the preliminary! Here we go!",
+        "id": 271,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 27,
+        "description": "It's time for the quarterfinals!",
+        "id": 272,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 27,
+        "description": "It's time for the semifinals!",
+        "id": 273,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 27,
+        "description": "And now it's time for the final battle!",
+        "id": 274,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 28,
+        "description": "It's the preliminary! Here we go!",
+        "id": 281,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 28,
+        "description": "It's time for the quarterfinals!",
+        "id": 282,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 28,
+        "description": "It's time for the semifinals!",
+        "id": 283,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 28,
+        "description": "And now it's time for the final battle!",
+        "id": 284,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 29,
+        "description": "It's the preliminary! Here we go!",
+        "id": 291,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 29,
+        "description": "It's time for the quarterfinals!",
+        "id": 292,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 29,
+        "description": "It's time for the semifinals!",
+        "id": 293,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 29,
+        "description": "And now it's time for the final battle!",
+        "id": 294,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 30,
+        "description": "It's the preliminary! Here we go!",
+        "id": 301,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 30,
+        "description": "It's time for the quarterfinals!",
+        "id": 302,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 30,
+        "description": "It's time for the semifinals!",
+        "id": 303,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 30,
+        "description": "And now it's time for the final battle!",
+        "id": 304,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 31,
+        "description": "It's the preliminary! Here we go!",
+        "id": 311,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 31,
+        "description": "It's time for the quarterfinals!",
+        "id": 312,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 31,
+        "description": "It's time for the semifinals!",
+        "id": 313,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 31,
+        "description": "And now it's time for the final battle!",
+        "id": 314,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 32,
+        "description": "It's the preliminary! Here we go!",
+        "id": 321,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 32,
+        "description": "It's time for the quarterfinals!",
+        "id": 322,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 32,
+        "description": "It's time for the semifinals!",
+        "id": 323,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 32,
+        "description": "And now it's time for the final battle!",
+        "id": 324,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 33,
+        "description": "It's the preliminary! Here we go!",
+        "id": 331,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 33,
+        "description": "It's time for the quarterfinals!",
+        "id": 332,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 33,
+        "description": "It's time for the semifinals!",
+        "id": 333,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 33,
+        "description": "And now it's time for the final battle!",
+        "id": 334,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 34,
+        "description": "It's the preliminary! Here we go!",
+        "id": 341,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 34,
+        "description": "It's time for the quarterfinals!",
+        "id": 342,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 34,
+        "description": "It's time for the semifinals!",
+        "id": 343,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 34,
+        "description": "And now it's time for the final battle!",
+        "id": 344,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 35,
+        "description": "It's the preliminary! Here we go!",
+        "id": 351,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 35,
+        "description": "It's time for the quarterfinals!",
+        "id": 352,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 35,
+        "description": "It's time for the semifinals!",
+        "id": 353,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 35,
+        "description": "And now it's time for the final battle!",
+        "id": 354,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 36,
+        "description": "It's the preliminary! Here we go!",
+        "id": 361,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 36,
+        "description": "It's time for the quarterfinals!",
+        "id": 362,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 36,
+        "description": "It's time for the semifinals!",
+        "id": 363,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 36,
+        "description": "And now it's time for the final battle!",
+        "id": 364,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 37,
+        "description": "It's the preliminary! Here we go!",
+        "id": 371,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 37,
+        "description": "It's time for the quarterfinals!",
+        "id": 372,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 37,
+        "description": "It's time for the semifinals!",
+        "id": 373,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 37,
+        "description": "And now it's time for the final battle!",
+        "id": 374,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 40,
+        "description": "It's the preliminary! Here we go!",
+        "id": 401,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 40,
+        "description": "It's time for the quarterfinals!",
+        "id": 402,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 40,
+        "description": "It's time for the semifinals!",
+        "id": 403,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 40,
+        "description": "And now it's time for the final battle!",
+        "id": 404,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 41,
+        "description": "It's the preliminary! Here we go!",
+        "id": 411,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 41,
+        "description": "It's time for the quarterfinals!",
+        "id": 412,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 41,
+        "description": "It's time for the semifinals!",
+        "id": 413,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 41,
+        "description": "And now it's time for the final battle!",
+        "id": 414,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 42,
+        "description": "It's the preliminary! Here we go!",
+        "id": 421,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 42,
+        "description": "It's time for the quarterfinals!",
+        "id": 422,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 42,
+        "description": "It's time for the semifinals!",
+        "id": 423,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 42,
+        "description": "And now it's time for the final battle!",
+        "id": 424,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 43,
+        "description": "It's the preliminary! Here we go!",
+        "id": 431,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 43,
+        "description": "It's time for the quarterfinals!",
+        "id": 432,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 43,
+        "description": "It's time for the semifinals!",
+        "id": 433,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 43,
+        "description": "And now it's time for the final battle!",
+        "id": 434,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 44,
+        "description": "It's the preliminary! Here we go!",
+        "id": 441,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 44,
+        "description": "It's time for the quarterfinals!",
+        "id": 442,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 44,
+        "description": "It's time for the semifinals!",
+        "id": 443,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 44,
+        "description": "And now it's time for the final battle!",
+        "id": 444,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 45,
+        "description": "It's the preliminary! Here we go!",
+        "id": 451,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 45,
+        "description": "It's time for the quarterfinals!",
+        "id": 452,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 45,
+        "description": "It's time for the semifinals!",
+        "id": 453,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 45,
+        "description": "And now it's time for the final battle!",
+        "id": 454,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 46,
+        "description": "It's the preliminary! Here we go!",
+        "id": 461,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 46,
+        "description": "It's time for the quarterfinals!",
+        "id": 462,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 46,
+        "description": "It's time for the semifinals!",
+        "id": 463,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 46,
+        "description": "And now it's time for the final battle!",
+        "id": 464,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 47,
+        "description": "It's the preliminary! Here we go!",
+        "id": 471,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 47,
+        "description": "It's time for the quarterfinals!",
+        "id": 472,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 47,
+        "description": "It's time for the semifinals!",
+        "id": 473,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 47,
+        "description": "And now it's time for the final battle!",
+        "id": 474,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 48,
+        "description": "It's the preliminary! Here we go!",
+        "id": 481,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 48,
+        "description": "It's time for the quarterfinals!",
+        "id": 482,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 48,
+        "description": "It's time for the semifinals!",
+        "id": 483,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 48,
+        "description": "And now it's time for the final battle!",
+        "id": 484,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 49,
+        "description": "It's the preliminary! Here we go!",
+        "id": 491,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 49,
+        "description": "It's time for the quarterfinals!",
+        "id": 492,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 49,
+        "description": "It's time for the semifinals!",
+        "id": 493,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 49,
+        "description": "And now it's time for the final battle!",
+        "id": 494,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 50,
+        "description": "It's the preliminary! Here we go!",
+        "id": 501,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 50,
+        "description": "It's time for the quarterfinals!",
+        "id": 502,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 50,
+        "description": "It's time for the semifinals!",
+        "id": 503,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 50,
+        "description": "And now it's time for the final battle!",
+        "id": 504,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 51,
+        "description": "It's the preliminary! Here we go!",
+        "id": 511,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 51,
+        "description": "It's time for the quarterfinals!",
+        "id": 512,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 51,
+        "description": "It's time for the semifinals!",
+        "id": 513,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 51,
+        "description": "And now it's time for the final battle!",
+        "id": 514,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 52,
+        "description": "It's the preliminary! Here we go!",
+        "id": 521,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 52,
+        "description": "It's time for the quarterfinals!",
+        "id": 522,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 52,
+        "description": "It's time for the semifinals!",
+        "id": 523,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 52,
+        "description": "And now it's time for the final battle!",
+        "id": 524,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 53,
+        "description": "It's the preliminary! Here we go!",
+        "id": 531,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 53,
+        "description": "It's time for the quarterfinals!",
+        "id": 532,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 53,
+        "description": "It's time for the semifinals!",
+        "id": 533,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 53,
+        "description": "And now it's time for the final battle!",
+        "id": 534,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 54,
+        "description": "It's the preliminary! Here we go!",
+        "id": 541,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 54,
+        "description": "It's time for the quarterfinals!",
+        "id": 542,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 54,
+        "description": "It's time for the semifinals!",
+        "id": 543,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 54,
+        "description": "And now it's time for the final battle!",
+        "id": 544,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 55,
+        "description": "It's the preliminary! Here we go!",
+        "id": 551,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 55,
+        "description": "It's time for the quarterfinals!",
+        "id": 552,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 55,
+        "description": "It's time for the semifinals!",
+        "id": 553,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 55,
+        "description": "And now it's time for the final battle!",
+        "id": 554,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 921,
+        "description": "It's the preliminary! Here we go!",
+        "id": 9211,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 921,
+        "description": "It's time for the quarterfinals!",
+        "id": 9212,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 921,
+        "description": "It's time for the semifinals!",
+        "id": 9213,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 921,
+        "description": "And now it's time for the final battle!",
+        "id": 9214,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 922,
+        "description": "It's the preliminary! Here we go!",
+        "id": 9221,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 922,
+        "description": "It's time for the quarterfinals!",
+        "id": 9222,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 922,
+        "description": "It's time for the semifinals!",
+        "id": 9223,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 922,
+        "description": "And now it's time for the final battle!",
+        "id": 9224,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
+        "budokai_id": 923,
+        "description": "It's the preliminary! Here we go!",
+        "id": 9231,
+        "image_path": "images/en/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 923,
+        "description": "It's time for the quarterfinals!",
+        "id": 9232,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 923,
+        "description": "It's time for the semifinals!",
+        "id": 9233,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 923,
+        "description": "And now it's time for the final battle!",
+        "id": 9234,
+        "image_path": "images/en/budokai/budokai_announce_03.png",
+        "round": 4
+    }
+]

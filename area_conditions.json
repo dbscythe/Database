@@ -1,0 +1,119 @@
+[
+    {
+        "area_id": 140,
+        "comment": "月曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:21",
+        "id": 1,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2018-01-18 02:17:38"
+    },
+    {
+        "area_id": 141,
+        "comment": "火曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:21",
+        "id": 2,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2018-01-18 02:17:38"
+    },
+    {
+        "area_id": 142,
+        "comment": "水曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 3,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2018-01-18 02:17:38"
+    },
+    {
+        "area_id": 143,
+        "comment": "木曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 4,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2018-01-18 02:17:38"
+    },
+    {
+        "area_id": 144,
+        "comment": "金曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 5,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2018-01-18 02:17:38"
+    },
+    {
+        "area_id": 146,
+        "comment": "全曜日：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 6,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2018-01-18 02:17:38"
+    },
+    {
+        "area_id": 940,
+        "comment": "月曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:21",
+        "id": 7,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2016-12-28 01:05:21"
+    },
+    {
+        "area_id": 941,
+        "comment": "火曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:21",
+        "id": 8,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2016-12-28 01:05:21"
+    },
+    {
+        "area_id": 942,
+        "comment": "水曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 9,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2016-12-28 01:05:22"
+    },
+    {
+        "area_id": 943,
+        "comment": "木曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 10,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2016-12-28 01:05:22"
+    },
+    {
+        "area_id": 944,
+        "comment": "金曜：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 11,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2016-12-28 01:05:22"
+    },
+    {
+        "area_id": 946,
+        "comment": "全曜日：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2016-12-28 01:05:22",
+        "id": 12,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2016-12-28 01:05:22"
+    },
+    {
+        "area_id": 149,
+        "comment": "全曜日：潜在能力イベ",
+        "conditions": "{\"is_releaseable\":true}",
+        "created_at": "2017-05-01 09:02:51",
+        "id": 13,
+        "type": "AreaCondition::Potential",
+        "updated_at": "2017-05-08 02:15:07"
+    }
+]

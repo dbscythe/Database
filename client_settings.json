@@ -1,0 +1,38 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:59.735819",
+        "key": "act_recover_base",
+        "updated_at": "2024-11-14 09:19:59.735819",
+        "value": "50"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.735819",
+        "key": "bnid_enabled",
+        "updated_at": "2024-11-14 09:19:59.735819",
+        "value": "1"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.735819",
+        "key": "shop_expand_card_capacity_max",
+        "updated_at": "2024-11-14 09:19:59.735819",
+        "value": "1500"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.735819",
+        "key": "shop_expand_card_capacity_use_stone",
+        "updated_at": "2024-11-14 09:19:59.735819",
+        "value": "1"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.735819",
+        "key": "wallpaper_enabled",
+        "updated_at": "2024-11-14 09:19:59.735819",
+        "value": "1"
+    },
+    {
+        "created_at": "2024-11-14 09:19:59.735819",
+        "key": "ko_only_help_ids",
+        "updated_at": "2024-11-14 09:19:59.735819",
+        "value": "[100]"
+    }
+]

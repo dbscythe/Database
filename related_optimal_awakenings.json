@@ -1,0 +1,100 @@
+[
+    {
+        "card_category_id": 7,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 701002,
+        "id": 701000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 7,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 701004,
+        "id": 701001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 33,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 702002,
+        "id": 702000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 33,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 702004,
+        "id": 702001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 17,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 703002,
+        "id": 703000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 17,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 703004,
+        "id": 703001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 30,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 704002,
+        "id": 704000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 30,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 704004,
+        "id": 704001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 5,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 705002,
+        "id": 705000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 5,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 705004,
+        "id": 705001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 14,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 706002,
+        "id": 706000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 14,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 706004,
+        "id": 706001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 8,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 707002,
+        "id": 707000,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    },
+    {
+        "card_category_id": 8,
+        "created_at": "2024-11-14 09:18:26.235618",
+        "enemy_skill_id": 707004,
+        "id": 707001,
+        "updated_at": "2024-11-14 09:18:26.235618"
+    }
+]

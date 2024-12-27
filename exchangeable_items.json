@@ -1,0 +1,107 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 1,
+        "quantity": 3,
+        "treasure_item_id": 7000,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 2,
+        "quantity": 3,
+        "treasure_item_id": 7001,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 3,
+        "quantity": 3,
+        "treasure_item_id": 7002,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 4,
+        "quantity": 3,
+        "treasure_item_id": 7003,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 5,
+        "quantity": 3,
+        "treasure_item_id": 7100,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 6,
+        "quantity": 3,
+        "treasure_item_id": 7101,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 7,
+        "quantity": 3,
+        "treasure_item_id": 9127,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 8,
+        "quantity": 3,
+        "treasure_item_id": 7102,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 9,
+        "quantity": 3,
+        "treasure_item_id": 7103,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 10,
+        "quantity": 3,
+        "treasure_item_id": 7104,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 11,
+        "quantity": 3,
+        "treasure_item_id": 7200,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 12,
+        "quantity": 3,
+        "treasure_item_id": 7300,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 13,
+        "quantity": 3,
+        "treasure_item_id": 7400,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 14,
+        "quantity": 3,
+        "treasure_item_id": 7105,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    },
+    {
+        "created_at": "2024-11-14 09:19:51.259159",
+        "id": 15,
+        "quantity": 3,
+        "treasure_item_id": 7401,
+        "updated_at": "2024-11-14 09:19:51.259159"
+    }
+]

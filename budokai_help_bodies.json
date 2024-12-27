@@ -1,0 +1,458 @@
+[
+    {
+        "budokai_help_id": 1,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "During the event period, you can tap the \"Start\" button located \non the Home Screen then tap on \"World Tournament\" to access \nthe World Tournament main page.",
+        "id": 1,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 1,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can participate in {color: #FFFF00}tournaments{color} during \nthe event period of the World Tournament. \n\nA tournament consists of various rounds (preliminaries, \nsemifinals, etc.), and in each round, players will \ncompete against each other to see who can collect \nthe most {color: #FFFF00}Tournament Points{color}.",
+        "id": 2,
+        "image_path": "images/en/help_ten1/1_1_1c.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 1,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Fight your way through the tournament, earn \nTournament Points and claim the coveted seat of champion! \n\nRack up Tournament Points to enter the rankings \nand win rewards!",
+        "id": 3,
+        "image_path": "images/en/help_ten1/1_1_2.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 1,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "There is no limit to how many times you can \nenter a tournament during the event period, \nso don't give up even if you are defeated!",
+        "id": 4,
+        "image_path": "images/en/help_ten1/8.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 2,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can enter the World Tournament at any time \nwhen the \"{color: #FFFF00}Participate{color}\" button is available \non the World Tournament main page.",
+        "id": 5,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 2,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can pick up from a previous tournament session\nby tapping the \"{color: #FFFF00}Continue{color}\" button.",
+        "id": 6,
+        "image_path": "images/en/help_ten1/1_2_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 2,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The team participating in a tournament can also \nbe selected in Quests and Events. However, please \nnote that the {color: #FFFF00}formation{color} of that team cannot be edited \nuntil the current tournament session is over.",
+        "id": 7,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 2,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "After a round concludes, you will immediately proceed \nto the next one without the team's HP being recovered, \nso keep an eye on your item stock. \n\nA tournament session will end when the following \nsituations occur. \n- Winning in the final. \n- Retiring during the session. \n- Game over resulted from 0 HP. \n- Failing to proceed to the next round. \n- Selecting \"Abandon Quest\" during battles.",
+        "id": 8,
+        "image_path": "images/en/help_ten1/1_2_2_3.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 3,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Your performance in the World Tournament is judged by \nthe number of your {color: #FFFF00}Tournament Points{color}, which can be \nearned through winning rounds (e.g. the preliminary), \nwinning battles or landing on certain tiles. \n\nThe sum of these points will be the {color: #FFFF00}\"Points Earned\"{color}.",
+        "id": 9,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 3,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Your {color: #FFFF00}\"Total Tournament Points\"{color} represent your \noverall performance during the event period. \n\nWhen a round (preliminaries, semifinals, finals, etc.) is over, \nthe Tournament Points you have earned in that round will \nbe added to your Total Tournament Points.",
+        "id": 10,
+        "image_path": "images/en/help_ten1/1_3_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 3,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "If you choose to retire in the middle of a tournament, \nall the points you earned before retiring will be added \nto your Total Tournament Points. However, if you are \ndefeated (GAME OVER) or choose to \"Abandon Quest\" \non the map (battles), the points you earned in that round \nwill be discarded and only the other points earned in that \ntournament will be added to your Total Tournament Points. \n\nTo play it safe or to aim to become champion- \nmake your choices strategically and wisely \nbased on your team's strength. \n\nPlease note that if you win battles after the event period \nof the World Tournament ends, the points collected will \nnot be added to your Total Tournament Points. \n\nYour Total Tournament Points will be reset \nwhen the World Tournament ends.",
+        "id": 11,
+        "image_path": "images/en/help_ten1/9.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 4,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The {color: #FFFF00}rankings{color} are based on your {color: #FFFF00}Total Tournament Points{color}.",
+        "id": 12,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 4,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Your ranking at the end of the World Tournament will \ndecide the rewards you will get. (Players with the same \nTotal Tournament Points will get the same ranking.) \n\nYou can tap the \"Switch\" button to check the number \nof wins or the longest win streak. \n\n* During the event period, rankings are not updated \nin real time. It may take several minutes before the \nlatest information appears.",
+        "id": 13,
+        "image_path": "images/en/help_ten1/1_4_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 5,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Your {color: #FFFF00}\"Tier\"{color} will be raised as you accumulate\n{color: #FFFF00}Total Tournament Points{color}.",
+        "id": 14,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 5,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "All players will start from \"Pilaf Tier\" at the commencement \nof the World Tournament. Try your best to defeat other \ncompetitors and aim to raise your Tier! \n\nThe Tiers are divided into 4 leagues. The higher the league, \nthe better the rewards you will receive.",
+        "id": 15,
+        "image_path": "images/en/help_ten1/1_5_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 16,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "In the World Tournament, you will not be able to enjoy \nthe benefits your {color: #FFFF00}Friend{color} grants you in Quests. \n\n1. The Leader Skill of your Friend will not be activated.",
+        "id": 16,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 16,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "2. You will not receive Friend Points.",
+        "id": 17,
+        "image_path": "images/en/help_ten1/1_6_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 6,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Just like in Quests, in the World Tournament you move\naccording to the number button on which you tap.\n\n* The number buttons are generated randomly. ",
+        "id": 18,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 6,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "In the World Tournament, your opponents will also \nselect numbers to move around on the map. \nAfter everyone has selected a number, the player \nwith the smallest number will move first.",
+        "id": 19,
+        "image_path": "images/en/help_ten1/2_1_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Like normal Quests, there are different kinds of {color: #FFFF00}tiles{color} \non the map in the World Tournament.",
+        "id": 20,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "After a certain number of rounds, \nthe tiles will reappear on the map. \n\nYour opponents can also run into different \nkinds of events when they land on tiles, \nso try to land on tiles you are aiming for \nbefore your opponent does! \n\nIn addition, special tiles that do not appear \nin Quests will appear in the World Tournament. \n\n{color: #FFFF00}Meat Buns{color}",
+        "id": 21,
+        "image_path": "images/en/help_ten1/2_2_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Land on a tile with a Meat Bun icon to recover HP.",
+        "id": 22,
+        "image_path": "images/en/help_ten1/tour_icon_nikuman.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "{color: #FFFF00}Tournament Points{color}",
+        "id": 23,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Land on a tile with a Tournament Point icon \nto get Tournament Points.",
+        "id": 24,
+        "image_path": "images/en/help_ten1/tour_icon_point.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "\n{color: #FFFF00}Characters{color}",
+        "id": 25,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 7,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Land on a tile with a Character icon to recruit a character.",
+        "id": 26,
+        "image_path": "images/en/help_ten1/tour_icon_card.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 8,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The items or characters found on the map will \nbe acquired or recruited after the round ends.",
+        "id": 27,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 8,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "However, if you are defeated or choose to \n\"Abandon Quest\", you will not be able to obtain and \nrecruit the items and characters you have found.",
+        "id": 28,
+        "image_path": "images/en/help_ten1/2_3_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 9,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "In the World Tournament, exploration of the map \nwill end under the following conditions. \n\n- Your HP drops to 0. \n- All other teams are eliminated. \n- The given rounds are up. \n- You choose to \"Abandon Quest\" from \"Menu\", \n   which is located at the bottom-right of the screen.",
+        "id": 29,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 9,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "One round passes when every player has finished moving \naround the map. The given number of rounds varies \naccording to each round (preliminaries, semifinals, etc.).",
+        "id": 30,
+        "image_path": "images/en/help_ten1/2_4_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 10,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Battles in the World Tournament adopt the rule of {color: #FFFF00}7{color} on {color: #FFFF00}7{color}, \nincluding your Friend.",
+        "id": 31,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 10,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "All the opponents have their own HP. Also, \nplease note that your Friend's Leader Skill \nwill not be activated in the World Tournament. \n\nThe icons of opponents that will attack you \nin the round will be marked with a yellow frame \non the upper side of your screen. \n\nJust as in other battles, you can choose your target, \nuse items, launch Super Attacks and enter Dokkan Mode.",
+        "id": 32,
+        "image_path": "images/en/help_ten1/3_1_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 11,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "In battles, {color: #FFFF00}Tournament Points{color} can be obtained \nin the following ways. \n\n1. Collecting Ki Spheres. (You will get more points if the \n    collected Ki Spheres match the character's Type.) \n2. Defeating the opponent by dropping their HP to 0. \n3. Defeating the opponent's team. \n\nIn addition, you will receive extra points if you bring \nan opponent's HP to 0 with a Super Attack or with \na character of an advantageous Type. The extra points \nreceived will also vary according to the opponent's level.",
+        "id": 33,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 12,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Battles end under the following situations. \n\n- Your HP drops to 0. \n- All the characters on the opponent's team are defeated. \n- The given number of charges are up. \n- You choose to \"Abandon Quest\" from \"Menu\", \n   which is located at the bottom-right of the screen.",
+        "id": 34,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 12,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "One charge passes after a character collects Ki Spheres. \nThe number of remaining charges will be shown on the screen.",
+        "id": 35,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 12,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The given number of charges varies according \nto each round (preliminaries, semifinals, etc.).",
+        "id": 36,
+        "image_path": "images/en/help_ten1/3_3_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 13,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can obtain various {color: #FFFF00}rewards{color} in the World Tournament. \n\nThe rewards collected in a round will be acquired after the \nround ends. However, if you are defeated (GAME OVER) or \nselect \"Abandon Quest\", you will not be able to acquire \nthese rewards. \n\nUnlike other battles, you will not gain Friend Points, and you gain \ncharacter EXP after the round ends, not directly after the battle.",
+        "id": 37,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 14,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "After the World Tournament ends, {color: #FFFF00}ranking rewards{color} \nwill be distributed according to your ranking, which \nis decided by your Total Tournament Points. \n\nPlease refer to the \"Reward\" page on the World Tournament \nmain page for more information on ranking rewards.",
+        "id": 38,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 14,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The reward distribution period will vary according to each World \nTournament. Please refer to the announcements for details.",
+        "id": 39,
+        "image_path": "images/en/help_ten1/10.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 15,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Rewards can be obtained by completing missions \nrelated to the World Tournament.",
+        "id": 40,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 15,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Please navigate the following path for more information \non missions and rewards: \"World Tournament main page\" \n--> \"Reward\" --> \"Missions\".",
+        "id": 41,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 15,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "In addition, some missions will be listed under \n\"Daily Missions\" or \"Event Missions\".",
+        "id": 42,
+        "image_path": "images/en/help_ten1/6.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 15,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Please tap the \"Mission\" button located on the Home Screen \nfor more information. \n\nNote that you will not be able to claim Daily Mission rewards \nif they are not claimed before the daily update of the missions. \nPlease check the details of each mission for the deadline.",
+        "id": 43,
+        "image_path": "images/en/help/help_mission_01.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 17,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "In addition to defeating opponents, Tournament Points \ncan also be gained as bonuses in other ways. \n\nThe more rounds (the number of moves left on the map) left \nbefore the round concludes, the more extra points you will get. \n\nMoreover, Bonus Teams will appear randomly.",
+        "id": 44,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 17,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can earn more Tournament Points than usual \nby defeating opponents from Bonus Teams. Information \nregarding bonuses will be displayed on the result page.",
+        "id": 45,
+        "image_path": "images/en/help_ten1/1_7_1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 18,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Local Ranking is a ranking in which a small number of players \ncompete against each other. \n\nThe rankings are determined based on {color: #FFFF00}the number of \nTournament Points players earn while the Local Ranking \nis being held.{color}",
+        "id": 46,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 18,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "\nRewards are given out according to the final rankings \nafter the event period ends. Players who earn the \nsame number of Tournament Points will be given \nthe same ranking. \n\n* During the event period, rankings are not updated \nin real time. It may take several minutes before the \nlatest information appears.",
+        "id": 47,
+        "image_path": "images/en/help_ten1/1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 19,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "Rankings are determined based on the number of Tournament \nPoints you earn while the Local Ranking is being held. Rewards \nare given out according to the final rankings.",
+        "id": 48,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 19,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can check the available rewards by tapping \n\"Reward\" on the World Tournament main page. \n\nOnce the final rankings have been calculated after the event \nperiod of the Local Ranking ends, you can confirm your rewards \non the Home Screen or the World Tournament main page. \n* Rewards can be claimed from the Gift Box.",
+        "id": 49,
+        "image_path": "images/en/help_ten1/7.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 20,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The Win Streak Bonus allows you to receive {color: #FFFF00}extra \nTournament Points{color} when consecutive wins are achieved.",
+        "id": 50,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 20,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "\nThe Win Streak Bonus is an additional bonus added \nto your regular Win Bonus. Your Victory Points are \ntherefore calculated using these two bonuses. \n\nExample: In the case of Victory Points x1.3, \nthe bonus is made up of two parts: \nthe Win Bonus (1) + Win Streak Bonus (0.3).",
+        "id": 51,
+        "image_path": "images/en/help_ten1/2.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 20,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "\nYour Win Streak Bonus grows as you rack up \nmore wins in a row, but it stops increasing after \nyour ninth consecutive win. It will reset if you lose or \nretire during a tournament, but you can start another \nWin Streak Bonus by winning consecutively again. \n\n* The Win Streak Bonus will be reset at the start of \neach World Tournament. It cannot be carried over \nfrom the previous World Tournament.",
+        "id": 52,
+        "image_path": "images/en/help_ten1/3-1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 21,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "You can select your Ambition by tapping the \n\"Participate\" button on the World Tournament main page.",
+        "id": 53,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 21,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "The Ambition you select will determine the strength \nof your opponents in the tournament. Based on your \nchoice, an Ambition Bonus will also be added to your \nVictory Bonus (bonus for winning the preliminaries, \nbonus for winning the tournament etc.). \n\nIn the case of Victory Bonus x10, for example, the bonus \nis made up of two parts: the regular Victory Bonus (1) + \nAmbition Bonus (9).",
+        "id": 54,
+        "image_path": null,
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 21,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": null,
+        "id": 55,
+        "image_path": "images/en/help_ten1/4-2.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 21,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "\nYou cannot change your Ambition after entering a tournament.",
+        "id": 56,
+        "image_path": "images/en/help_ten1/5-1.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    },
+    {
+        "budokai_help_id": 21,
+        "created_at": "2024-11-14 09:19:49.747339",
+        "description": "\nYou can view more details on the Ambition you have \nselected by tapping \"Ambition\" at the upper part of \nthe \"Check Progress\" screen.",
+        "id": 57,
+        "image_path": "images/en/help_ten1/5-2.png",
+        "updated_at": "2024-11-14 09:19:49.747339"
+    }
+]

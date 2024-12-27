@@ -1,0 +1,20 @@
+[
+    {
+        "area_id": 601,
+        "created_at": "2024-11-14 09:19:49.004014",
+        "description": "Experts Only!",
+        "id": 1,
+        "priority": 600,
+        "rank_range_id": 3,
+        "updated_at": "2024-11-14 09:19:49.004014"
+    },
+    {
+        "area_id": 602,
+        "created_at": "2024-11-14 09:19:49.004014",
+        "description": "Experts Only!",
+        "id": 2,
+        "priority": 610,
+        "rank_range_id": 3,
+        "updated_at": "2024-11-14 09:19:49.004014"
+    }
+]

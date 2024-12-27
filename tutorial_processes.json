@@ -1,0 +1,659 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10,
+        "number": 1,
+        "parameters": "{\"file\":\"tutorial_op.usm\",\"skippable\":false}",
+        "process_type": "USM_MOVIE",
+        "step_id": 1,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 20,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 2,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 21,
+        "number": 2,
+        "parameters": "{\"file\":\"0000001.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 2,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10000,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 1000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10001,
+        "number": 2,
+        "parameters": "{\"file\":\"0000002.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 1000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10100,
+        "number": 1,
+        "parameters": "{}",
+        "process_type": "WAIT_INITIALIZE_PUZZLE",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10101,
+        "number": 2,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10102,
+        "number": 3,
+        "parameters": "{\"id\":1000}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10103,
+        "number": 4,
+        "parameters": "{\"id\":1010}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10104,
+        "number": 5,
+        "parameters": "{\"id\":1020}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10105,
+        "number": 6,
+        "parameters": "{\"id\":1030}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10106,
+        "number": 7,
+        "parameters": "{\"index\":2,\"player_attack_damage\":152738}",
+        "process_type": "PUZZLE_SELECT_BALL",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10107,
+        "number": 8,
+        "parameters": "{\"index\":8,\"player_attack_damage\":47113}",
+        "process_type": "PUZZLE_SELECT_BALL",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10108,
+        "number": 9,
+        "parameters": "{\"enemy_attack_damages\":[38619,71043]}",
+        "process_type": "WAIT_NEXT_TURN",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10109,
+        "number": 10,
+        "parameters": "{\"file\":\"0000003.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10110,
+        "number": 11,
+        "parameters": "{\"id\":1100}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10111,
+        "number": 12,
+        "parameters": "{\"id\":1110}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10112,
+        "number": 13,
+        "parameters": "{\"id\":1120}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10113,
+        "number": 14,
+        "parameters": "{\"index\":2}",
+        "process_type": "PUZZLE_CHANGE_ATTACK_ORDER",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10114,
+        "number": 15,
+        "parameters": "{\"time\":0.4}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10115,
+        "number": 16,
+        "parameters": "{\"index\":0,\"player_attack_damage\":88403}",
+        "process_type": "PUZZLE_SELECT_BALL",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10116,
+        "number": 17,
+        "parameters": "{\"index\":8,\"player_attack_damage\":912870}",
+        "process_type": "PUZZLE_SELECT_BALL",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10117,
+        "number": 29,
+        "parameters": "{\"enemy_attack_damages\":[5180,222]}",
+        "process_type": "WAIT_FINISH_BATTLE",
+        "step_id": 1010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 10200,
+        "number": 1,
+        "parameters": "{\"file\":\"0000004.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 1020,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 20000,
+        "number": 1,
+        "parameters": "{\"file\":\"0000005.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 2000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 20001,
+        "number": 2,
+        "parameters": "{\"id\":1000}",
+        "process_type": "GASHA",
+        "step_id": 2000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 20100,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 2010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 20101,
+        "number": 2,
+        "parameters": "{\"file\":\"0000006.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 2010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 30000,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 3000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 30001,
+        "number": 2,
+        "parameters": "{\"file\":\"0000007.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 3000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40000,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40001,
+        "number": 2,
+        "parameters": "{\"id\":2000}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40002,
+        "number": 3,
+        "parameters": "{\"id\":2010}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40003,
+        "number": 4,
+        "parameters": "{\"id\":2020}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40004,
+        "number": 5,
+        "parameters": "{}",
+        "process_type": "TRAINING_DECIDE_FIELD_BUTTON",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40005,
+        "number": 6,
+        "parameters": "{}",
+        "process_type": "TRAINING_SELECT_FIELD",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40006,
+        "number": 7,
+        "parameters": "{\"time\":0.5}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40007,
+        "number": 8,
+        "parameters": "{}",
+        "process_type": "TRAINING_DECIDE_FIELD",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40008,
+        "number": 9,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40009,
+        "number": 10,
+        "parameters": "{\"id\":2030}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40010,
+        "number": 11,
+        "parameters": "{\"id\":2040}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40011,
+        "number": 12,
+        "parameters": "{\"id\":2050}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40012,
+        "number": 13,
+        "parameters": "{\"id\":2060}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40013,
+        "number": 14,
+        "parameters": "{\"id\":2070}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40014,
+        "number": 15,
+        "parameters": "{}",
+        "process_type": "TRAINING_AUTO_SELECT_PARTNER",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40015,
+        "number": 16,
+        "parameters": "{}",
+        "process_type": "TRAINING_AUTO_SELECT_ITEM",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40016,
+        "number": 17,
+        "parameters": "{\"id\":2080}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40017,
+        "number": 18,
+        "parameters": "{}",
+        "process_type": "TRAINING_START",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 40018,
+        "number": 19,
+        "parameters": "{\"id\":2090}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 4000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 50000,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 5000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 50001,
+        "number": 2,
+        "parameters": "{\"id\":2100}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 5000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 50002,
+        "number": 3,
+        "parameters": "{\"id\":2110}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 5000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 50003,
+        "number": 4,
+        "parameters": "{\"id\":2120}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 5000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 50004,
+        "number": 5,
+        "parameters": "{}",
+        "process_type": "AWAKEN_START",
+        "step_id": 5000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 50005,
+        "number": 6,
+        "parameters": "{\"file\":\"0000008.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 5000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 60000,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 6000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 60001,
+        "number": 2,
+        "parameters": "{\"id\":2200}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 6000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 60002,
+        "number": 3,
+        "parameters": "{\"id\":2210}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 6000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 60003,
+        "number": 4,
+        "parameters": "{}",
+        "process_type": "DOKKAN_AWAKEN_START",
+        "step_id": 6000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 60100,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 6010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 60101,
+        "number": 2,
+        "parameters": "{\"file\":\"0000009.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 6010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70000,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 7000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70001,
+        "number": 2,
+        "parameters": "{\"file\":\"0000010.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 7000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70100,
+        "number": 1,
+        "parameters": "{}",
+        "process_type": "WAIT_INITIALIZE_PUZZLE",
+        "step_id": 7010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70101,
+        "number": 2,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 7010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70102,
+        "number": 3,
+        "parameters": "{\"id\":3000}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 7010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70103,
+        "number": 4,
+        "parameters": "{\"id\":3010}",
+        "process_type": "DESCRIPTION_DIALOG",
+        "step_id": 7010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70104,
+        "number": 5,
+        "parameters": "{\"index\":0,\"player_attack_damage\":1273530}",
+        "process_type": "PUZZLE_ACTIVE_SKILL",
+        "step_id": 7010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70105,
+        "number": 6,
+        "parameters": "{\"enemy_attack_damages\":[111,222,333]}",
+        "process_type": "WAIT_FINISH_BATTLE",
+        "step_id": 7010,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70200,
+        "number": 1,
+        "parameters": "{\"time\":1}",
+        "process_type": "WAIT_TIMER",
+        "step_id": 7020,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 70201,
+        "number": 2,
+        "parameters": "{\"file\":\"0000011.kks\"}",
+        "process_type": "CHARAGEKI",
+        "step_id": 7020,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 80000,
+        "number": 1,
+        "parameters": "{}",
+        "process_type": "DOWNLOAD_ASSET",
+        "step_id": 8000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    },
+    {
+        "created_at": "2024-11-14 09:19:25.111097",
+        "id": 90000,
+        "number": 1,
+        "parameters": "{}",
+        "process_type": "WAIT_INPUT_NAME",
+        "step_id": 9000,
+        "updated_at": "2024-11-14 09:19:25.111097"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= What Are Sticker Cards? ={outline}{color}{size} \nYou can obtain Sticker Cards by opening Sticker Card Packs. \nAny new Sticker Cards you get will be registered in \"Collection\". \n\nSticker Cards can be used in battles within Pettan Battle. \n{color : #FFFF00}Once a Sticker Card has been used, it will disappear.{color} \n{color : #FFFF00}* Used Sticker Cards will NOT disappear from Collection.{color} \n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Sticker Card Details ={outline}{color}{size}",
+        "id": 1,
+        "image_path": null,
+        "sd_help_id": 1,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "Power, second name and character name are \ndisplayed on the front of each Sticker Card. \nTo view the Sticker Card details, go to \"Collection\" \nthen tap on any Sticker Card. You can toggle \nbetween its front and back. \n\nThe information available on the rear side is as follows: \nType, power, second name, character name, where to \nrecruit the displayed character in Dokkan Battle and \nSticker Card number. \n\nMany more Sticker Cards will be released in the future.",
+        "id": 2,
+        "image_path": "images/en/help/sdb_help_001.png",
+        "sd_help_id": 1,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "There are three main ways to get a Sticker Card Pack. \n1. By winning battles. \n2. Through daily login bonuses in Pettan Battle. \n3. By completing specific missions.",
+        "id": 3,
+        "image_path": null,
+        "sd_help_id": 2,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "Sticker Card Packs will be opened automatically when \nyou enter Pettan Battle. Please note they cannot be \nopened at any other time. One Sticker Card can be \nobtained at random from a Sticker Card Pack.",
+        "id": 4,
+        "image_path": "images/en/help/sdb_help_002.png",
+        "sd_help_id": 2,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= What Is Collection? ={outline}{color}{size} \nNew Sticker Cards you obtain are registered in your Collection. \nThey are added automatically to Collection when you get them. \n{color : #FFFF00}* Used Sticker Cards will not disappear from Collection.{color}",
+        "id": 5,
+        "image_path": null,
+        "sd_help_id": 3,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "Collection is categorized by series. \nAdditional series will be released in the future. \n\nTap on the icon of a registered Sticker Card to view \nits details. The following information can be viewed: \nType, rarity, power, second name, character name, \nwhere to recruit the displayed character in \nDokkan Battle and Sticker Card number. \n\nThe Sticker Cards you have collected will be \ndisplayed, while the uncollected ones will be \nshown with their corresponding number.",
+        "id": 6,
+        "image_path": "images/en/help/sdb_help_003.png",
+        "sd_help_id": 3,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "You can check \"Progress\" to see your Sticker Card \ncollection status. Once all the available Sticker Cards \nhave been obtained, the corresponding collection will \nbe marked as \"COMPLETE!\".",
+        "id": 7,
+        "image_path": "images/en/help/sdb_help_004.png",
+        "sd_help_id": 3,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= About Battles ={outline}{color}{size} \nTo engage in a battle, deploy any number of \nyour Sticker Cards to confront an enemy \nSticker Card that appears on the battlefield. \n\nYou do not need to defeat the enemy in one go. \nIf a battle ends before you win, the enemy's status \nwill be carried over into your next attempt. \n\nBattles can be continued at a later time as follows: \n- If you retire from a battle you have started. \n- If you lose a battle. \n{color : #FFFF00}* Note that if you return to the map from a battlefield, \nyou will not be able to return to that same battle again. {color} \n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= How to Engage in Battles ={outline}{color}{size} \nUp to 5 Sticker Cards can be deployed in a single stage at \na time. Sticker Cards used in a battle will disappear when \nthe battle ends, regardless of whether you win or lose. \nDuring a battle, Sticker Cards that have finished \ntheir attack will be grayed out.",
+        "id": 8,
+        "image_path": null,
+        "sd_help_id": 4,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "Once the battle timer reaches zero, you can view the result \nby tapping the \"Battle Ended\" button. If you lose, enemies \nwill remain in the state they were in from the last battle. \nYou can view the remaining time of a battle from the \nbattlefield screen or the battle details screen. \n\nThere are four enemy difficulties: \nSUPER, Z-HARD, HARD and NORMAL. \nEnemy strength varies by difficulty, so keep this \nin mind before engaging in a battle. Enemy HP, \nthe sum of each enemy Sticker Card's HP, \nwill be displayed on the bar located at the top. \n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Over Damage ={outline}{color}{size} \nOver Damage occurs when the total power of \nyour deployed Sticker Card characters exceeds \nthe total HP of the enemy Sticker Card(s). \n{color : #FFFF00}Even if you can defeat the enemy with Over Damage alone, \n1 hour's worth of enemy HP will still remain.{color}",
+        "id": 9,
+        "image_path": "images/en/help/sdb_help_005_2.png",
+        "sd_help_id": 4,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "There are two ways to end a battle: \n1. View the battle result after your Sticker Cards \nhave finished attacking. \n2. Tap \"Retire\" on the battle details screen \nto end the ongoing battle.",
+        "id": 10,
+        "image_path": null,
+        "sd_help_id": 5,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "You will earn rewards once you clear a stage. \nRewards cannot be obtained if you retire. \nThere are two types of rewards: \nGuaranteed Items and Random Drop Items. \n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Guaranteed Items ={outline}{color}{size} \nYou will earn all the items displayed under \nGuaranteed Items if you win a battle. \n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Random Drop Items ={outline}{color}{size} \nItems on the list are rewarded at random \nif you win a battle.",
+        "id": 11,
+        "image_path": "images/en/help/sdb_help_006.png",
+        "sd_help_id": 5,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "Each Sticker Card character has a Type. \nThe type compatibility chart is as follows: \n- {color: #FF3333}STR (Red){color}: Effective against {color: #FFCC00}PHY{color}, weak against {color: #66CCCC}AGL{color} \n- {color: #66CCCC}AGL (Blue){color}: Effective against {color: #FF3333}STR{color}, weak against {color: #00CC00}TEQ{color} \n- {color: #00CC00}TEQ (Green){color}: Effective against {color: #66CCCC}AGL{color}, weak against {color: #CC66FF}INT{color} \n- {color: #CC66FF}INT (Purple){color}: Effective against {color: #00CC00}TEQ{color}, weak against {color: #FFCC00}PHY{color} \n- {color: #FFCC00}PHY (Orange){color}: Effective against {color: #CC66FF}INT{color}, weak against {color: #FF3333}STR{color} \nWhen one Type is effective against another, \nthe damage dealt increases, but when it is weak \nagainst another, the damage inflicted decreases. \n\nCharacters with a rarity of Silver or higher will have \n\"Super\" or \"Extreme\" appended to their Type. \nFor these Types, damage still increases when \none Type is effective against another, but will \nNOT decrease when it is weak. \n\n* When a battle takes place between two \"Super\" Types \nor two \"Extreme\" Types, the above chart still applies. \n\n* The damage dealt will increase when a \"Super\" Type \nattacks an \"Extreme\" Type or when an \"Extreme\" Type \nattacks a \"Super\" Type.",
+        "id": 12,
+        "image_path": null,
+        "sd_help_id": 6,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Hidden Conditions ={outline}{color}{size} \nTry to trigger hidden conditions by forming teams \nbased on the Dragon Ball storyline!",
+        "id": 13,
+        "image_path": null,
+        "sd_help_id": 4,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "When the combination of an enemy and an ally meets \na certain condition in battle, a bonus may be rewarded \nupon clearing the stage. A red visual effect will appear \nif such conditions are met.",
+        "id": 14,
+        "image_path": "images/en/help/sdb_100115_1_2.png",
+        "sd_help_id": 4,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    },
+    {
+        "created_at": "2024-11-14 09:18:27.544974",
+        "description": "When the combination of allies meets a certain condition, \nthe allies' power increases. A blue visual effect will appear \nif such conditions are met.",
+        "id": 15,
+        "image_path": "images/en/help/sdb_100115_2_2.png",
+        "sd_help_id": 4,
+        "updated_at": "2024-11-14 09:18:27.544974"
+    }
+]

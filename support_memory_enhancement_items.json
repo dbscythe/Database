@@ -1,0 +1,713 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100011,
+        "name": "Oolong's Wish [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 10001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100012,
+        "name": "Oolong's Wish [Silver]",
+        "rarity": 1,
+        "support_memory_id": 10001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100013,
+        "name": "Oolong's Wish [Gold]",
+        "rarity": 2,
+        "support_memory_id": 10001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100014,
+        "name": "Oolong's Wish [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 10001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100024,
+        "name": "Goku Gets Married! [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 10002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100051,
+        "name": "Meet the Flying Nimbus [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 10005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100052,
+        "name": "Meet the Flying Nimbus [Silver]",
+        "rarity": 1,
+        "support_memory_id": 10005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100053,
+        "name": "Meet the Flying Nimbus [Gold]",
+        "rarity": 2,
+        "support_memory_id": 10005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 100054,
+        "name": "Meet the Flying Nimbus [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 10005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200011,
+        "name": "Frieza's Fury [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 20001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200012,
+        "name": "Frieza's Fury [Silver]",
+        "rarity": 1,
+        "support_memory_id": 20001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200013,
+        "name": "Frieza's Fury [Gold]",
+        "rarity": 2,
+        "support_memory_id": 20001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200014,
+        "name": "Frieza's Fury [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 20001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200021,
+        "name": "Secret Feelings [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 20002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200022,
+        "name": "Secret Feelings [Silver]",
+        "rarity": 1,
+        "support_memory_id": 20002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200023,
+        "name": "Secret Feelings [Gold]",
+        "rarity": 2,
+        "support_memory_id": 20002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200024,
+        "name": "Secret Feelings [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 20002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200041,
+        "name": "Transcend the Super Saiyan! [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 20004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200042,
+        "name": "Transcend the Super Saiyan! [Silver]",
+        "rarity": 1,
+        "support_memory_id": 20004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200043,
+        "name": "Transcend the Super Saiyan! [Gold]",
+        "rarity": 2,
+        "support_memory_id": 20004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200044,
+        "name": "Transcend the Super Saiyan! [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 20004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200081,
+        "name": "Curious Destiny [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 20008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200082,
+        "name": "Curious Destiny [Silver]",
+        "rarity": 1,
+        "support_memory_id": 20008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200083,
+        "name": "Curious Destiny [Gold]",
+        "rarity": 2,
+        "support_memory_id": 20008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200084,
+        "name": "Curious Destiny [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 20008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200111,
+        "name": "Bonds Forged in the Past [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 20011,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200112,
+        "name": "Bonds Forged in the Past [Silver]",
+        "rarity": 1,
+        "support_memory_id": 20011,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200113,
+        "name": "Bonds Forged in the Past [Gold]",
+        "rarity": 2,
+        "support_memory_id": 20011,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 200114,
+        "name": "Bonds Forged in the Past [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 20011,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300011,
+        "name": "Pull Out the Tail! [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 30001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300012,
+        "name": "Pull Out the Tail! [Silver]",
+        "rarity": 1,
+        "support_memory_id": 30001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300013,
+        "name": "Pull Out the Tail! [Gold]",
+        "rarity": 2,
+        "support_memory_id": 30001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300014,
+        "name": "Pull Out the Tail! [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 30001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300051,
+        "name": "Goku Becomes a Kid?! [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 30005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300052,
+        "name": "Goku Becomes a Kid?! [Silver]",
+        "rarity": 1,
+        "support_memory_id": 30005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300053,
+        "name": "Goku Becomes a Kid?! [Gold]",
+        "rarity": 2,
+        "support_memory_id": 30005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 300054,
+        "name": "Goku Becomes a Kid?! [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 30005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400011,
+        "name": "First Taste of Tempura [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 40001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400012,
+        "name": "First Taste of Tempura [Silver]",
+        "rarity": 1,
+        "support_memory_id": 40001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400013,
+        "name": "First Taste of Tempura [Gold]",
+        "rarity": 2,
+        "support_memory_id": 40001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400014,
+        "name": "First Taste of Tempura [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 40001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400021,
+        "name": "Master and Disciple's Goal [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 40002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400022,
+        "name": "Master and Disciple's Goal [Silver]",
+        "rarity": 1,
+        "support_memory_id": 40002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400023,
+        "name": "Master and Disciple's Goal [Gold]",
+        "rarity": 2,
+        "support_memory_id": 40002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400024,
+        "name": "Master and Disciple's Goal [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 40002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400041,
+        "name": "Bond of Sister and Brother [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 40004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400042,
+        "name": "Bond of Sister and Brother [Silver]",
+        "rarity": 1,
+        "support_memory_id": 40004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400043,
+        "name": "Bond of Sister and Brother [Gold]",
+        "rarity": 2,
+        "support_memory_id": 40004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400044,
+        "name": "Bond of Sister and Brother [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 40004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400051,
+        "name": "Trunks and Mai's Reunion [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 40005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400052,
+        "name": "Trunks and Mai's Reunion [Silver]",
+        "rarity": 1,
+        "support_memory_id": 40005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400053,
+        "name": "Trunks and Mai's Reunion [Gold]",
+        "rarity": 2,
+        "support_memory_id": 40005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400054,
+        "name": "Trunks and Mai's Reunion [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 40005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400064,
+        "name": "Bulla Is Born! [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 40006,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400081,
+        "name": "Lamentation of the Absolute God [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 40008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400082,
+        "name": "Lamentation of the Absolute God [Silver]",
+        "rarity": 1,
+        "support_memory_id": 40008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400083,
+        "name": "Lamentation of the Absolute God [Gold]",
+        "rarity": 2,
+        "support_memory_id": 40008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 400084,
+        "name": "Lamentation of the Absolute God [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 40008,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500011,
+        "name": "Fly, Icarus! [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 50001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500012,
+        "name": "Fly, Icarus! [Silver]",
+        "rarity": 1,
+        "support_memory_id": 50001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500013,
+        "name": "Fly, Icarus! [Gold]",
+        "rarity": 2,
+        "support_memory_id": 50001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500014,
+        "name": "Fly, Icarus! [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 50001,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500021,
+        "name": "Krillin Sings His Heart Out [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 50002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500022,
+        "name": "Krillin Sings His Heart Out [Silver]",
+        "rarity": 1,
+        "support_memory_id": 50002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500023,
+        "name": "Krillin Sings His Heart Out [Gold]",
+        "rarity": 2,
+        "support_memory_id": 50002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500024,
+        "name": "Krillin Sings His Heart Out [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 50002,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500034,
+        "name": "Kakarot [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 50003,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500041,
+        "name": "Curiosity About the Realm of Gods [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 50004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500042,
+        "name": "Curiosity About the Realm of Gods [Silver]",
+        "rarity": 1,
+        "support_memory_id": 50004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500043,
+        "name": "Curiosity About the Realm of Gods [Gold]",
+        "rarity": 2,
+        "support_memory_id": 50004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500044,
+        "name": "Curiosity About the Realm of Gods [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 50004,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500051,
+        "name": "Strike from the Otherworld [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 50005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500052,
+        "name": "Strike from the Otherworld [Silver]",
+        "rarity": 1,
+        "support_memory_id": 50005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500053,
+        "name": "Strike from the Otherworld [Gold]",
+        "rarity": 2,
+        "support_memory_id": 50005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500054,
+        "name": "Strike from the Otherworld [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 50005,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500071,
+        "name": "Cruel Provocation [Bronze]",
+        "rarity": 0,
+        "support_memory_id": 50007,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500072,
+        "name": "Cruel Provocation [Silver]",
+        "rarity": 1,
+        "support_memory_id": 50007,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500073,
+        "name": "Cruel Provocation [Gold]",
+        "rarity": 2,
+        "support_memory_id": 50007,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    },
+    {
+        "created_at": "2024-11-14 09:19:33.062328",
+        "description": "A medal required to boost a certain Support Memory.",
+        "id": 500074,
+        "name": "Cruel Provocation [Rainbow]",
+        "rarity": 3,
+        "support_memory_id": 50007,
+        "updated_at": "2024-11-14 09:19:33.062328"
+    }
+]

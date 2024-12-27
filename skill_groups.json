@@ -1,0 +1,338 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 1,
+        "name": "Raise ATK",
+        "priority": 1000,
+        "type": "SkillGroup::AttackUpSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 2,
+        "name": "Raise DEF",
+        "priority": 990,
+        "type": "SkillGroup::DefenseUpSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 3,
+        "name": "Raise HP",
+        "priority": 980,
+        "type": "SkillGroup::HpUpSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 4,
+        "name": "Raise Ki",
+        "priority": 970,
+        "type": "SkillGroup::EnergyUpSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 5,
+        "name": "Lower ATK",
+        "priority": 960,
+        "type": "SkillGroup::AttackDownSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 6,
+        "name": "Lower DEF",
+        "priority": 950,
+        "type": "SkillGroup::DefenseDownSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 7,
+        "name": "Boost All",
+        "priority": 940,
+        "type": "SkillGroup::AllPartyEnhanceSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 8,
+        "name": "Boost Type",
+        "priority": 930,
+        "type": "SkillGroup::ElementEnhanceSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 9,
+        "name": "Boost Category",
+        "priority": 920,
+        "type": "SkillGroup::CategoryEnhanceSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 10,
+        "name": "All-Target Super Attack",
+        "priority": 910,
+        "type": "SkillGroup::AllAttackSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 11,
+        "name": "Seal Super Attack",
+        "priority": 900,
+        "type": "SkillGroup::AstuteSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 12,
+        "name": "Stun",
+        "priority": 890,
+        "type": "SkillGroup::StunSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 13,
+        "name": "Transformation",
+        "priority": 880,
+        "type": "SkillGroup::TransformationSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 14,
+        "name": "Giant Form",
+        "priority": 870,
+        "type": "SkillGroup::MetamorphicSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 15,
+        "name": "Rage",
+        "priority": 860,
+        "type": "SkillGroup::RageSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 16,
+        "name": "Counterattack",
+        "priority": 850,
+        "type": "SkillGroup::CounterSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 17,
+        "name": "Attack Effective to All",
+        "priority": 840,
+        "type": "SkillGroup::AdvantageousAttackSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 18,
+        "name": "Damage Reduction",
+        "priority": 830,
+        "type": "SkillGroup::ResistDamageSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 19,
+        "name": "Guard",
+        "priority": 820,
+        "type": "SkillGroup::AdvantageousDefenseSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 20,
+        "name": "Disable Guard",
+        "priority": 810,
+        "type": "SkillGroup::GuardBreakSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 21,
+        "name": "Foresee Super Attack",
+        "priority": 800,
+        "type": "SkillGroup::PredictionSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 22,
+        "name": "Critical Hit",
+        "priority": 790,
+        "type": "SkillGroup::CriticalAttackSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 23,
+        "name": "Change Ki Spheres",
+        "priority": 780,
+        "type": "SkillGroup::BallChangeSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 24,
+        "name": "Raise ATK (Ki Sphere)",
+        "priority": 770,
+        "type": "SkillGroup::BallAttackSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 25,
+        "name": "Raise DEF (Ki Sphere)",
+        "priority": 760,
+        "type": "SkillGroup::BallDefenseSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 26,
+        "name": "Recovery (Ki Sphere)",
+        "priority": 750,
+        "type": "SkillGroup::BallHealSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 27,
+        "name": "Raise Ki (Ki Sphere)",
+        "priority": 740,
+        "type": "SkillGroup::BallEnergySkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 28,
+        "name": "Additional Attack",
+        "priority": 730,
+        "type": "SkillGroup::ExtraAttackSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 29,
+        "name": "Evasion",
+        "priority": 720,
+        "type": "SkillGroup::DodgeSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 30,
+        "name": "Recovery",
+        "priority": 710,
+        "type": "SkillGroup::HealSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 31,
+        "name": "Immune to Negative Effects",
+        "priority": 700,
+        "type": "SkillGroup::InvalidateBadConditionSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 32,
+        "name": "Survive K.O. Attack",
+        "priority": 690,
+        "type": "SkillGroup::EndureSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 33,
+        "name": "Guaranteed Hit",
+        "priority": 725,
+        "type": "SkillGroup::AlwaysHitSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 34,
+        "name": "Remove Status Effects",
+        "priority": 705,
+        "type": "SkillGroup::HealBadConditionSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 35,
+        "name": "Damage Reduction (Ki Sphere)",
+        "priority": 739,
+        "type": "SkillGroup::BallResistDamageSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 36,
+        "name": "Critical Hit Chance (Ki Sphere)",
+        "priority": 738,
+        "type": "SkillGroup::BallCriticalAttackSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 37,
+        "name": "Evasion Chance (Ki Sphere)",
+        "priority": 737,
+        "type": "SkillGroup::BallDodgeSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 38,
+        "name": "Delay Target",
+        "priority": 885,
+        "type": "SkillGroup::DelaySkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 39,
+        "name": "Revive",
+        "priority": 680,
+        "type": "SkillGroup::RevivalSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 40,
+        "name": "Absorption/Nullification",
+        "priority": 825,
+        "type": "SkillGroup::AbsorbSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 41,
+        "name": "Disable Action",
+        "priority": 888,
+        "type": "SkillGroup::AttackBreakSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    },
+    {
+        "created_at": "2024-11-14 09:19:29.790851",
+        "id": 42,
+        "name": "Attack Attraction",
+        "priority": 795,
+        "type": "SkillGroup::TargetFocusSkillGroup",
+        "updated_at": "2024-11-14 09:19:29.790851"
+    }
+]

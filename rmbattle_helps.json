@@ -1,0 +1,83 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 1,
+        "num": 1,
+        "rmbattle_help_category_id": 999,
+        "title": "Virtual Dokkan Ultimate Clash",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 2,
+        "num": 6,
+        "rmbattle_help_category_id": 1,
+        "title": "Requirements and Restrictions",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 3,
+        "num": 5,
+        "rmbattle_help_category_id": 1,
+        "title": "Usable Characters",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 4,
+        "num": 4,
+        "rmbattle_help_category_id": 1,
+        "title": "Enemy Selection",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 5,
+        "num": 3,
+        "rmbattle_help_category_id": 1,
+        "title": "Sub-Leaders",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 6,
+        "num": 2,
+        "rmbattle_help_category_id": 1,
+        "title": "Battles",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 7,
+        "num": 1,
+        "rmbattle_help_category_id": 1,
+        "title": "Game Overs and Retiring",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 8,
+        "num": 1,
+        "rmbattle_help_category_id": 2,
+        "title": "Mission Rewards",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    },
+    {
+        "created_at": "2024-11-14 09:18:26.704764",
+        "description": "description: helps",
+        "id": 9,
+        "num": 2,
+        "rmbattle_help_category_id": 2,
+        "title": "About Battlefield Memory",
+        "updated_at": "2024-11-14 09:18:26.704764"
+    }
+]

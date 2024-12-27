@@ -1,0 +1,1332 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 1,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "High Compatibility",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 2,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Courage",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF +20%",
+        "id": 3,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Students",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 4,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Innocents",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 5,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Crane School",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 6,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Demonic Ways",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +20%",
+        "id": 7,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Demonic Power",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK & DEF +10%",
+        "id": 8,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Brainiacs",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "All enemies' DEF -5% and Ki +1",
+        "id": 9,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Golden Warrior",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 10,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Money Money Money",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 11,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Evil Autocrats",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1 when HP is 30% or below",
+        "id": 12,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Flee",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "All enemies' DEF -10%",
+        "id": 13,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Telekinesis",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 14,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "More Than Meets the Eye",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF + 20%",
+        "id": 15,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Hero",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 16,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Supreme Warrior",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 17,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Gentleman",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 18,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Brutal Beatdown",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +5%",
+        "id": 19,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Messenger from the Future",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 20,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "World Tournament Reborn",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +20%",
+        "id": 21,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "New",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +5%",
+        "id": 22,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Saiyan Warrior Race",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF +15%",
+        "id": 23,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "All in the Family",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 24,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Telepathy",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 25,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Respect",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 26,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Prodigies",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 27,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "World Tournament Champion",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Recover 5% HP",
+        "id": 28,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Metamorphosis",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 29,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Super Saiyan",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 30,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Experienced Fighters",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 31,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Twin Terrors",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 32,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Coward",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 33,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Attack of the Clones",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 34,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Saiyan Lineage",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF +10%",
+        "id": 35,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Android Assault",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK & DEF +10%",
+        "id": 36,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Turtle School",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10% and all enemies' DEF -15%",
+        "id": 37,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Solid Support",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 38,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Mechanical Menaces",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF +20%",
+        "id": 39,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Cold Judgment",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 40,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Royal Lineage",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK + 25%",
+        "id": 41,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Ginyu Force",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10% and all enemies' DEF -10%",
+        "id": 42,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Infighter",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +20%",
+        "id": 43,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Frieza's Minion",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 44,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Champion's Strength",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 45,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Z Fighters",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10% when performing a Super Attack",
+        "id": 46,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Dodon Ray",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +5% when performing a Super Attack",
+        "id": 47,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Kamehameha",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Recover 5% HP",
+        "id": 48,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Namekians",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +20% when HP is 50% or below",
+        "id": 49,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Berserker",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK & DEF +25% when HP is 80% or below",
+        "id": 50,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Big Bad Bosses",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF +20%",
+        "id": 51,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Frieza's Army",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "DEF +15%",
+        "id": 52,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Tough as Nails",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 53,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Speedy Retribution",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 54,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Tag Team of Terror",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 55,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "RR Army",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 56,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Gaze of Respect",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 57,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Bombardment",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 58,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Over 9000",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 59,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Universe’s Most Malevolent",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 60,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Shocking Speed",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 61,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Family Ties",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 62,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Team Bardock",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 63,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Saiyan Pride",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 64,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Battlefield Diva",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 65,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Revival",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 66,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Dismal Future",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 67,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Organic Upgrade",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 68,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Resurrection 'F'",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 69,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Patrol",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 70,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Warrior Gods",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 71,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Super-God Combat",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK & DEF +20%",
+        "id": 72,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "New Frieza Army",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 73,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Loyalty",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 74,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Unbreakable Bond",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 75,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Galactic Visitor",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 76,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Master of Magic",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 77,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Majin Resurrection Plan",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Recover 5% HP",
+        "id": 79,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Connoisseur",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 80,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Godly Power",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 81,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Energy Absorption",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +10%",
+        "id": 82,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Budding Warrior",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK & DEF +10%",
+        "id": 83,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Majin",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 84,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Strength in Unity",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 85,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Strongest Clan in Space",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +15%",
+        "id": 86,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Thirst for Conquest",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 87,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Hera Clan",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +20%",
+        "id": 88,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Galactic Warriors",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +3",
+        "id": 89,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Over in a Flash",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 90,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Incredible Adventure",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 91,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Cooler's Underling",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +25%",
+        "id": 92,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Cooler's Armored Squad",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +25%",
+        "id": 93,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Hero of Justice",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 94,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Signature Pose",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 95,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "GT",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Recover 3% HP",
+        "id": 96,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Infinite Regeneration",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 97,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Prepared for Battle",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +25%",
+        "id": 98,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Destroyer of the Universe",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +1",
+        "id": 100,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Team Turles",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "Ki +2",
+        "id": 101,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Fortuneteller Baba’s Fighter",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.301456",
+        "description": "ATK +20%",
+        "id": 102,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Guidance of the Dragon Balls",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.301456"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +5% when performing a Super Attack",
+        "id": 103,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Power Bestowed by God",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +1",
+        "id": 104,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Hardened Grudge",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Recover 3% HP",
+        "id": 105,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Auto Regeneration",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 106,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Fusion",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +15%",
+        "id": 107,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Deficit Boost",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 108,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Ultimate Lifeform",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +15%",
+        "id": 109,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Fierce Battle",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 110,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Infinite Energy",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +10%",
+        "id": 111,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Formidable Enemy",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 112,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Fused Fighter",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Recover 3% HP",
+        "id": 113,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Fusion Failure",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 114,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Scientist",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 115,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Hatred of Saiyans",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +5% when performing a Super Attack",
+        "id": 116,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Limit-Breaking Form",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +25%",
+        "id": 117,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The First Awakened",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 118,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Shattering the Limit",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +10%",
+        "id": 119,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Nightmare",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 120,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Fear and Faith",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +20%",
+        "id": 121,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Xenoverse",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +20%",
+        "id": 122,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Super Strike",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 123,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Transform",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +25%",
+        "id": 124,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Saiyan Roar",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +10% when performing a Super Attack",
+        "id": 125,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Legendary Power",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 126,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Warriors of Universe 6 ",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +15%",
+        "id": 127,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Shadow Dragons",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +15%",
+        "id": 128,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Penguin Village Adventure",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK +20%",
+        "id": 129,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Otherworld Warriors",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +3",
+        "id": 130,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Tournament of Power",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Disables enemy's Rampage, and ATK +15%",
+        "id": 1000,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Blazing Battle",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Weakens Regeneration and Ki +1",
+        "id": 1001,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Soul vs Soul",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Ki +2",
+        "id": 1002,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Golden Z-Fighter",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "ATK & DEF +5% and activates Penetration",
+        "id": 1003,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Supreme Power",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    },
+    {
+        "created_at": "2024-11-14 09:18:33.306728",
+        "description": "Foils enemy's \"True Power\" and boosts ATK \nby 15%",
+        "id": 1004,
+        "kana": null,
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "The Wall Standing Tall",
+        "need_link_num": 1,
+        "updated_at": "2024-11-14 09:18:33.306728"
+    }
+]

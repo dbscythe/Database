@@ -1,0 +1,26 @@
+[
+    {
+        "created_at": "2024-11-14 09:19:47.524646",
+        "effect": 1.2,
+        "id": 1,
+        "key": "great_success",
+        "success_prob_percent": 15.5,
+        "updated_at": "2024-11-14 09:19:47.524646"
+    },
+    {
+        "created_at": "2024-11-14 09:19:47.524646",
+        "effect": 1.5,
+        "id": 2,
+        "key": "super_success",
+        "success_prob_percent": 6.3,
+        "updated_at": "2024-11-14 09:19:47.524646"
+    },
+    {
+        "created_at": "2024-11-14 09:19:47.524646",
+        "effect": 2.0,
+        "id": 3,
+        "key": "super_great_success",
+        "success_prob_percent": 3.2,
+        "updated_at": "2024-11-14 09:19:47.524646"
+    }
+]

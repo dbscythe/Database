@@ -1,0 +1,3690 @@
+[
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Performs Potara Fusion \nwhen HP is 50% or less starting from \nthe 6th turn from the start of battle",
+        "id": 8,
+        "skill_id": 2001090,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Performs Potara Fusion \nwhen HP is 50% or less starting from \nthe 6th turn from the start of battle",
+        "id": 9,
+        "skill_id": 2001091,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Fuses when HP is 50% or less \nstarting from the 6th turn \nfrom the start of battle",
+        "id": 10,
+        "skill_id": 2001095,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Fuses when HP is 50% or less \nstarting from the 6th turn \nfrom the start of battle",
+        "id": 11,
+        "skill_id": 2001096,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Awakens when HP is 50% or less",
+        "id": 16,
+        "skill_id": 1001126,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Awakens when HP is 50% or less",
+        "id": 17,
+        "skill_id": 1001127,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "25% chance of activating \n\"Fruit of the Tree of Might Boost\" \nfor 3 turns when HP is 80% or less",
+        "id": 18,
+        "skill_id": 3001133,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "25% chance of activating \n\"Fruit of the Tree of Might Boost\" \nfor 3 turns when HP is 80% or less",
+        "id": 19,
+        "skill_id": 3001134,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "30% chance of evolving starting from \nthe 4th turn from the start of battle",
+        "id": 20,
+        "skill_id": 3001154,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "30% chance of evolving starting from \nthe 4th turn from the start of battle",
+        "id": 21,
+        "skill_id": 3001155,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "30% chance of consuming Cell and transforming \nwhen HP is 50% or more starting from \nthe 4th turn from the start of battle",
+        "id": 22,
+        "skill_id": 3001226,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "30% chance of consuming Cell and transforming \nwhen HP is 50% or more starting from \nthe 4th turn from the start of battle",
+        "id": 23,
+        "skill_id": 3001227,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
+        "id": 24,
+        "skill_id": 3001254,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
+        "id": 25,
+        "skill_id": 3001255,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
+        "id": 26,
+        "skill_id": 3001256,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
+        "id": 27,
+        "skill_id": 3001257,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
+        "id": 28,
+        "skill_id": 3001258,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
+        "id": 29,
+        "skill_id": 3001259,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 30,
+        "skill_id": 2001264,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 31,
+        "skill_id": 2001265,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 32,
+        "skill_id": 2001266,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 33,
+        "skill_id": 2001267,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 34,
+        "skill_id": 2001268,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 35,
+        "skill_id": 2001269,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 36,
+        "skill_id": 2001270,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 37,
+        "skill_id": 2001271,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 38,
+        "skill_id": 2001274,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 39,
+        "skill_id": 2001275,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 40,
+        "skill_id": 2001276,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 41,
+        "skill_id": 2001277,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 42,
+        "skill_id": 2001278,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 43,
+        "skill_id": 2001279,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 44,
+        "skill_id": 2001280,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 45,
+        "skill_id": 2001281,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Ultimate Gohan when HP is \nbetween 80% and 100% starting from \nthe 5th turn from the start of battle",
+        "id": 46,
+        "skill_id": 1001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Super Saiyan 3 Gotenks when \nHP is between 50% and 79% starting from \nthe 5th turn from the start of battle",
+        "id": 47,
+        "skill_id": 2001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Piccolo when HP is 49% or less \nstarting from the 5th turn from the start of battle",
+        "id": 48,
+        "skill_id": 3001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Ultimate Gohan when HP is \nbetween 80% and 100% starting from \nthe 5th turn from the start of battle",
+        "id": 49,
+        "skill_id": 1001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Super Saiyan 3 Gotenks when \nHP is between 50% and 79% starting from \nthe 5th turn from the start of battle",
+        "id": 50,
+        "skill_id": 2001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Piccolo when HP is 49% or less \nstarting from the 5th turn from the start of battle",
+        "id": 51,
+        "skill_id": 3001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when HP is 80% or more starting \nfrom the 6th turn from the start of battle",
+        "id": 52,
+        "skill_id": 2001354,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when HP is 80% or more starting \nfrom the 6th turn from the start of battle",
+        "id": 53,
+        "skill_id": 2001355,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 5th turn \nfrom the start of battle",
+        "id": 54,
+        "skill_id": 3001390,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 5th turn \nfrom the start of battle",
+        "id": 55,
+        "skill_id": 3001391,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms into Full Power state starting \nfrom the 4th turn from the start of battle",
+        "id": 56,
+        "skill_id": 2001398,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms into Full Power state starting \nfrom the 4th turn from the start of battle",
+        "id": 57,
+        "skill_id": 2001399,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Fuses with Mr. Buu when HP is 40% or less",
+        "id": 58,
+        "skill_id": 6001434,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Fuses with Mr. Buu when HP is 40% or less",
+        "id": 59,
+        "skill_id": 6001435,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 60,
+        "skill_id": 2001453,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 61,
+        "skill_id": 2001454,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 62,
+        "skill_id": 2001455,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 63,
+        "skill_id": 2001456,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 64,
+        "skill_id": 2001457,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 65,
+        "skill_id": 2001458,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 66,
+        "skill_id": 2001459,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 67,
+        "skill_id": 2001460,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 68,
+        "skill_id": 3001496,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 69,
+        "skill_id": 3001497,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 70,
+        "skill_id": 1001506,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 71,
+        "skill_id": 1001507,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Performs Potara Fusion starting from \nthe 3rd turn from the start of battle",
+        "id": 72,
+        "skill_id": 3001511,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Performs Potara Fusion starting from \nthe 3rd turn from the start of battle",
+        "id": 73,
+        "skill_id": 3001512,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated upon entering \nnext attacking turn (once only)",
+        "id": 74,
+        "skill_id": 15,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated upon entering \nnext attacking turn (once only)",
+        "id": 75,
+        "skill_id": 16,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated upon entering \nnext attacking turn (once only)",
+        "id": 76,
+        "skill_id": 17,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated upon entering \nnext attacking turn (once only)",
+        "id": 77,
+        "skill_id": 18,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when HP is 70% or less starting \nfrom the 3rd turn from the start of battle",
+        "id": 78,
+        "skill_id": 3001532,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when HP is 70% or less starting \nfrom the 3rd turn from the start of battle",
+        "id": 79,
+        "skill_id": 3001533,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Fuses with Ahms (3rd Form) starting from \nthe 5th turn from the start of battle",
+        "id": 80,
+        "skill_id": 5001547,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Fuses with Ahms (3rd Form) starting from \nthe 5th turn from the start of battle",
+        "id": 81,
+        "skill_id": 5001548,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when HP is 58% or less \nwith \"Android #16\" on the team, or when \nHP is 58% or less with an existing \"Androids\" \nCategory ally or enemy starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 82,
+        "skill_id": 23,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when HP is 58% or less \nwith \"Android #16\" on the team, or when \nHP is 58% or less with an existing \"Androids\" \nCategory ally or enemy starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 83,
+        "skill_id": 24,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Evolves when HP is 30% or less",
+        "id": 84,
+        "skill_id": 16001672,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Evolves when HP is 30% or less",
+        "id": 85,
+        "skill_id": 16001673,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when HP is 70% or more \nwith another \"Namekians\" Category ally \non the team starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 86,
+        "skill_id": 25,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when HP is 70% or more \nwith another \"Namekians\" Category ally \non the team starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 87,
+        "skill_id": 26,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle (once only)",
+        "id": 88,
+        "skill_id": 27,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle (once only)",
+        "id": 89,
+        "skill_id": 28,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle (once only)",
+        "id": 90,
+        "skill_id": 29,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle (once only)",
+        "id": 91,
+        "skill_id": 30,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering attacking turn",
+        "id": 92,
+        "skill_id": 1609,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering attacking turn",
+        "id": 93,
+        "skill_id": 1610,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when HP is 66% or less with \nanother 2 or more \"Androids\" Category allies \non the team, or can be activated at any time \nwhen facing an enemy whose name includes \n\"Cell\" (characters such as Cell Jr. excluded) \n(once only)",
+        "id": 94,
+        "skill_id": 31,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when HP is 66% or less with \nanother 2 or more \"Androids\" Category allies \non the team, or can be activated at any time \nwhen facing an enemy whose name includes \n\"Cell\" (characters such as Cell Jr. excluded) \n(once only)",
+        "id": 95,
+        "skill_id": 32,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when HP is 58% or more \nwith an ally whose name includes \"Trunks\" \n(Kid and GT excluded) on the team starting \nfrom the 4th turn from the start of battle",
+        "id": 96,
+        "skill_id": 4001905,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when HP is 58% or more \nwith an ally whose name includes \"Trunks\" \n(Kid and GT excluded) on the team starting \nfrom the 4th turn from the start of battle",
+        "id": 97,
+        "skill_id": 4001906,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when there is a \"Pure Saiyans\" \nor \"Hybrid Saiyans\" Category enemy starting from \nthe 3rd turn from the start of battle, or when facing \nonly 1 enemy starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 98,
+        "skill_id": 33,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Can be activated when there is a \"Pure Saiyans\" \nor \"Hybrid Saiyans\" Category enemy starting from \nthe 3rd turn from the start of battle, or when facing \nonly 1 enemy starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 99,
+        "skill_id": 34,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Androids #14 and #15's parts and \ntransforms when there are another 2 or more \n\"Androids\" Category allies on the team starting \nfrom the 5th turn from the start of battle",
+        "id": 100,
+        "skill_id": 4001963,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Absorbs Androids #14 and #15's parts and \ntransforms when there are another 2 or more \n\"Androids\" Category allies on the team starting \nfrom the 5th turn from the start of battle",
+        "id": 101,
+        "skill_id": 4001964,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when facing only 1 enemy, \nwhose HP is 80% or more, starting from \nthe 3rd turn from the start of battle",
+        "id": 102,
+        "skill_id": 4001986,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms when facing only 1 enemy, \nwhose HP is 80% or more, starting from \nthe 3rd turn from the start of battle",
+        "id": 103,
+        "skill_id": 4001987,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Receives a boost from Babidi's sorcery when \nfacing only 1 enemy, whose HP is 80% or more, \nstarting from the 3rd turn from the start of battle",
+        "id": 104,
+        "skill_id": 4001990,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Receives a boost from Babidi's sorcery when \nfacing only 1 enemy, whose HP is 80% or more, \nstarting from the 3rd turn from the start of battle",
+        "id": 105,
+        "skill_id": 4001991,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering attacking turn",
+        "id": 106,
+        "skill_id": 1998,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms upon entering attacking turn",
+        "id": 107,
+        "skill_id": 1999,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 108,
+        "skill_id": 4002025,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 109,
+        "skill_id": 4002026,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 110,
+        "skill_id": 4002020,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.338216",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 111,
+        "skill_id": 4002021,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.338216"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle, or can be activated \nat any time when there is a \"Wicked Bloodline\" \nCategory enemy (once only)",
+        "id": 112,
+        "skill_id": 43,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle, or can be activated \nat any time when there is a \"Wicked Bloodline\" \nCategory enemy (once only)",
+        "id": 113,
+        "skill_id": 44,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Restores youth using the power of \nthe Dragon Balls starting from the 7th turn \nfrom the start of battle, or when there is \na \"DB Saga\", \"World Tournament\" or \n\"Dragon Ball Seekers\" Category enemy",
+        "id": 114,
+        "skill_id": 3002076,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Restores youth using the power of \nthe Dragon Balls starting from the 7th turn \nfrom the start of battle, or when there is \na \"DB Saga\", \"World Tournament\" or \n\"Dragon Ball Seekers\" Category enemy",
+        "id": 115,
+        "skill_id": 3002077,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle (once only)",
+        "id": 116,
+        "skill_id": 48,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle (once only)",
+        "id": 117,
+        "skill_id": 49,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Vegeta when \nHP is 50% or less starting from \nthe 4th turn from the start of battle",
+        "id": 118,
+        "skill_id": 10002094,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Vegeta when \nHP is 50% or less starting from \nthe 4th turn from the start of battle",
+        "id": 119,
+        "skill_id": 10002095,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 120,
+        "skill_id": 2002100,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 121,
+        "skill_id": 2002101,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 70% or more starting \nfrom the 4th turn after Transformation (once only)",
+        "id": 122,
+        "skill_id": 52,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 70% or more starting \nfrom the 4th turn after Transformation (once only)",
+        "id": 123,
+        "skill_id": 53,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Pure Evil) \nstarting from the 3rd turn from the start of battle",
+        "id": 124,
+        "skill_id": 3002105,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Pure Evil) \nstarting from the 3rd turn from the start of battle",
+        "id": 125,
+        "skill_id": 3002106,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 70% or more starting \nfrom the 4th turn after Exchange (once only)",
+        "id": 126,
+        "skill_id": 54,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 70% or more starting \nfrom the 4th turn after Exchange (once only)",
+        "id": 127,
+        "skill_id": 55,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 128,
+        "skill_id": 4002126,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 129,
+        "skill_id": 4002127,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms when HP is 60% or more \nstarting from next attacking turn",
+        "id": 130,
+        "skill_id": 4002128,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms when HP is 60% or more \nstarting from next attacking turn",
+        "id": 131,
+        "skill_id": 4002129,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 77% or less \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 132,
+        "skill_id": 64,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 77% or less \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 133,
+        "skill_id": 65,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 50% or more \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 134,
+        "skill_id": 66,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when HP is 50% or more \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 135,
+        "skill_id": 67,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Deactivates transformation when HP is 80% or less \nstarting from the 3rd turn from the start of battle",
+        "id": 136,
+        "skill_id": 2002229,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Deactivates transformation when HP is 80% or less \nstarting from the 3rd turn from the start of battle",
+        "id": 137,
+        "skill_id": 2002230,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Good) upon \nentering next attacking turn after the character \nreceives damage 5 or more times in battle",
+        "id": 138,
+        "skill_id": 4002233,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Good) upon \nentering next attacking turn after the character \nreceives damage 5 or more times in battle",
+        "id": 139,
+        "skill_id": 4002234,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 140,
+        "skill_id": 70,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 141,
+        "skill_id": 71,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated upon entering \nattacking turn (once only)",
+        "id": 142,
+        "skill_id": 72,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated upon entering \nattacking turn (once only)",
+        "id": 143,
+        "skill_id": 73,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when facing only 1 enemy, \nwhose HP is 58% or more, starting from \nthe 3rd turn from the start of battle (once only)",
+        "id": 144,
+        "skill_id": 68,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when facing only 1 enemy, \nwhose HP is 58% or more, starting from \nthe 3rd turn from the start of battle (once only)",
+        "id": 145,
+        "skill_id": 69,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms upon entering attacking turn",
+        "id": 146,
+        "skill_id": 2237,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Transforms upon entering attacking turn",
+        "id": 147,
+        "skill_id": 2238,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Deactivates transformation when HP is 80% or less \nstarting from the 3rd turn from the start of battle",
+        "id": 148,
+        "skill_id": 2002217,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Deactivates transformation when HP is 80% or less \nstarting from the 3rd turn from the start of battle",
+        "id": 149,
+        "skill_id": 2002218,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Good) upon \nentering next attacking turn after the character \nreceives damage 5 or more times in battle",
+        "id": 150,
+        "skill_id": 4002221,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Good) upon \nentering next attacking turn after the character \nreceives damage 5 or more times in battle",
+        "id": 151,
+        "skill_id": 4002222,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Good) upon \nentering next attacking turn after the character \nreceives damage 5 or more times in battle",
+        "id": 152,
+        "skill_id": 4002245,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Exchanges with Majin Buu (Good) upon \nentering next attacking turn after the character \nreceives damage 5 or more times in battle",
+        "id": 153,
+        "skill_id": 4002246,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated upon entering \nattacking turn (once only)",
+        "id": 154,
+        "skill_id": 80,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated upon entering \nattacking turn (once only)",
+        "id": 155,
+        "skill_id": 81,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Absorbs Towa and Tokitoki's egg \nwhen HP is 60% or less starting from \nthe 4th turn from the start of battle",
+        "id": 156,
+        "skill_id": 3002308,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Absorbs Towa and Tokitoki's egg \nwhen HP is 60% or less starting from \nthe 4th turn from the start of battle",
+        "id": 157,
+        "skill_id": 3002309,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when facing only 1 enemy \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 158,
+        "skill_id": 86,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Can be activated when facing only 1 enemy \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 159,
+        "skill_id": 87,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a very rare chance of \nturning into Giant Ape (once only)",
+        "id": 160,
+        "skill_id": 1000531,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a very rare chance of \nturning into Giant Ape (once only)",
+        "id": 161,
+        "skill_id": 1000532,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 162,
+        "skill_id": 1000533,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 163,
+        "skill_id": 1000534,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 164,
+        "skill_id": 1000535,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 165,
+        "skill_id": 1000536,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 166,
+        "skill_id": 1000537,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 167,
+        "skill_id": 1000538,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 168,
+        "skill_id": 1000569,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 169,
+        "skill_id": 1000570,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 170,
+        "skill_id": 1000571,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 171,
+        "skill_id": 1000579,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 172,
+        "skill_id": 1000580,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 173,
+        "skill_id": 1000581,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 174,
+        "skill_id": 1000582,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 175,
+        "skill_id": 1000583,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 176,
+        "skill_id": 1000584,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 177,
+        "skill_id": 1000585,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 178,
+        "skill_id": 1000586,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 179,
+        "skill_id": 1000587,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 180,
+        "skill_id": 1000588,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 181,
+        "skill_id": 1000606,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 182,
+        "skill_id": 1000607,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Form (once only)",
+        "id": 183,
+        "skill_id": 1000608,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Form (once only)",
+        "id": 184,
+        "skill_id": 1000609,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 185,
+        "skill_id": 1000657,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 186,
+        "skill_id": 1000658,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 187,
+        "skill_id": 1000786,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into Giant Ape \nwhen HP is 30% or more (once only)",
+        "id": 188,
+        "skill_id": 1000787,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into Giant Ape \nwhen HP is 30% or more (up to 2 times)",
+        "id": 189,
+        "skill_id": 1000922,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 190,
+        "skill_id": 1000928,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 191,
+        "skill_id": 1000929,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 192,
+        "skill_id": 1000930,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 193,
+        "skill_id": 1000993,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into Giant Form \nwhen HP is 80% or less (once only)",
+        "id": 194,
+        "skill_id": 1000996,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into Giant Form \nwhen HP is 80% or less (once only)",
+        "id": 195,
+        "skill_id": 1000997,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 196,
+        "skill_id": 1001041,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 197,
+        "skill_id": 1001042,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 198,
+        "skill_id": 1001043,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Rages when HP is 30% or less (once only)",
+        "id": 199,
+        "skill_id": 1001044,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 200,
+        "skill_id": 2000923,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Breaks Phantom Majin's seal \nwhen HP is 50% or less (once only)",
+        "id": 201,
+        "skill_id": 2001057,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Breaks Phantom Majin's seal \nwhen HP is 50% or less (once only)",
+        "id": 202,
+        "skill_id": 2001058,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Breaks Phantom Majin's seal \nwhen HP is 50% or less (once only)",
+        "id": 203,
+        "skill_id": 2001059,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Breaks Phantom Majin's seal \nwhen HP is 50% or less (once only)",
+        "id": 204,
+        "skill_id": 2001060,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 205,
+        "skill_id": 2001136,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 206,
+        "skill_id": 2001137,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Form (once only)",
+        "id": 207,
+        "skill_id": 2001140,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning \ninto Giant Form (once only)",
+        "id": 208,
+        "skill_id": 2001141,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into \nGiant Form (up to 2 times)",
+        "id": 209,
+        "skill_id": 2001164,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into \nGiant Form (up to 2 times)",
+        "id": 210,
+        "skill_id": 2001165,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.345188",
+        "description": "Has a chance of turning into \nGiant Form (up to 2 times)",
+        "id": 211,
+        "skill_id": 2001180,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.345188"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning into \nGiant Form (up to 2 times)",
+        "id": 212,
+        "skill_id": 2001181,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 213,
+        "skill_id": 2001236,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 214,
+        "skill_id": 2001237,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Rages when HP is 40% or less (up to 2 times)",
+        "id": 215,
+        "skill_id": 2001333,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a rare chance of turning into Giant Form \nwhen HP is 80% or less (once only)",
+        "id": 216,
+        "skill_id": 2001944,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a rare chance of turning into Giant Form \nwhen HP is 80% or less (once only)",
+        "id": 217,
+        "skill_id": 2001945,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Turns into Giant Ape when \nHP is 50% or less starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 218,
+        "skill_id": 2002277,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Turns into Giant Ape when \nHP is 50% or less starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 219,
+        "skill_id": 2002278,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Core appears when HP is 50% or less (once only)",
+        "id": 220,
+        "skill_id": 3001320,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Core appears when HP is 50% or less (once only)",
+        "id": 221,
+        "skill_id": 3001321,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Ape \nwhen HP is 50% or less (once only)",
+        "id": 222,
+        "skill_id": 3001947,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Ape \nwhen HP is 50% or less (once only)",
+        "id": 223,
+        "skill_id": 3001948,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Form \nwhen HP is 60% or less (once only)",
+        "id": 224,
+        "skill_id": 3002304,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Form \nwhen HP is 60% or less (once only)",
+        "id": 225,
+        "skill_id": 3002305,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 226,
+        "skill_id": 4001238,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 227,
+        "skill_id": 4001239,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 228,
+        "skill_id": 4001240,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 229,
+        "skill_id": 4001241,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 230,
+        "skill_id": 5001242,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 231,
+        "skill_id": 5001243,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 232,
+        "skill_id": 5002269,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 233,
+        "skill_id": 5002270,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 234,
+        "skill_id": 5002273,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 235,
+        "skill_id": 5002274,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 236,
+        "skill_id": 5002297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 237,
+        "skill_id": 5002298,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Ape \nwhen HP is 40% or less (once only)",
+        "id": 238,
+        "skill_id": 6001449,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Ape \nwhen HP is 40% or less (once only)",
+        "id": 239,
+        "skill_id": 6001450,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 50% or less \nstarting from the 5th turn from \nthe start of battle (once only)",
+        "id": 240,
+        "skill_id": 19,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 50% or less \nstarting from the 5th turn from \nthe start of battle (once only)",
+        "id": 241,
+        "skill_id": 20,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 66% or less \nstarting from the 6th turn from \nthe start of battle (once only)",
+        "id": 242,
+        "skill_id": 41,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 66% or less \nstarting from the 6th turn from \nthe start of battle (once only)",
+        "id": 243,
+        "skill_id": 42,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character receives \nan attack 5 or more times in battle (once only)",
+        "id": 244,
+        "skill_id": 89,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character receives \nan attack 5 or more times in battle (once only)",
+        "id": 245,
+        "skill_id": 90,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Awakens when HP is 50% or less",
+        "id": 246,
+        "skill_id": 1002375,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering attacking turn",
+        "id": 247,
+        "skill_id": 2410,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering attacking turn",
+        "id": 248,
+        "skill_id": 2411,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Breaks Phantom Majin's seal \nwhen HP is 50% or less (once only)",
+        "id": 249,
+        "skill_id": 3002416,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 70% or more \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 250,
+        "skill_id": 114,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 70% or more \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 251,
+        "skill_id": 115,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 66% or more \nstarting from the 6th turn from \nthe start of battle (once only)",
+        "id": 252,
+        "skill_id": 116,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 66% or more \nstarting from the 6th turn from \nthe start of battle (once only)",
+        "id": 253,
+        "skill_id": 117,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 254,
+        "skill_id": 4002497,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 255,
+        "skill_id": 4002498,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 256,
+        "skill_id": 4002499,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 257,
+        "skill_id": 4002500,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 258,
+        "skill_id": 4002505,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 259,
+        "skill_id": 4002506,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 260,
+        "skill_id": 4002507,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 261,
+        "skill_id": 4002508,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character evades \n4 or more enemy attacks (including Super Attacks) \nin battle (once only)",
+        "id": 262,
+        "skill_id": 121,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character evades \n4 or more enemy attacks (including Super Attacks) \nin battle (once only)",
+        "id": 263,
+        "skill_id": 122,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a battle suit upon entering \nnext attacking turn after performing \n4 or more Super Attacks in battle",
+        "id": 264,
+        "skill_id": 5002575,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a battle suit upon entering \nnext attacking turn after performing \n4 or more Super Attacks in battle",
+        "id": 265,
+        "skill_id": 5002576,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character evades \n4 or more enemy attacks (including Super Attacks) \nin battle (once only)",
+        "id": 266,
+        "skill_id": 123,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character evades \n4 or more enemy attacks (including Super Attacks) \nin battle (once only)",
+        "id": 267,
+        "skill_id": 124,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "If HP is 29% or less at start of character's \nattacking turn, revives with 70% HP recovered \nby exchanging with Goku when the character or \nan ally attacking in the same turn is KO'd (once only)",
+        "id": 268,
+        "skill_id": 6002580,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "If HP is 29% or less at start of character's \nattacking turn, revives with 70% HP recovered \nby exchanging with Goku when the character or \nan ally attacking in the same turn is KO'd (once only)",
+        "id": 269,
+        "skill_id": 6002581,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 6th turn \nfrom the start of battle (once only)",
+        "id": 270,
+        "skill_id": 127,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 6th turn \nfrom the start of battle (once only)",
+        "id": 271,
+        "skill_id": 128,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 273,
+        "skill_id": 3002600,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 275,
+        "skill_id": 3002603,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 277,
+        "skill_id": 3002606,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after performing \n6 or more attacks in battle (once only)",
+        "id": 278,
+        "skill_id": 132,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after performing \n6 or more attacks in battle (once only)",
+        "id": 279,
+        "skill_id": 135,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "40% chance of consuming Cell and transforming \nwhen HP is 40% or more starting from \nthe 4th turn from the start of battle",
+        "id": 281,
+        "skill_id": 5002631,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 58% or less \nstarting from the 3rd turn from \nthe start of battle (once only)",
+        "id": 282,
+        "skill_id": 137,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 58% or less \nstarting from the 3rd turn from \nthe start of battle (once only)",
+        "id": 283,
+        "skill_id": 138,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 284,
+        "skill_id": 139,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 285,
+        "skill_id": 140,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 286,
+        "skill_id": 141,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 287,
+        "skill_id": 142,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 77% or less \nstarting from the 3rd turn from \nthe start of battle (once only)",
+        "id": 288,
+        "skill_id": 143,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 77% or less \nstarting from the 3rd turn from \nthe start of battle (once only)",
+        "id": 289,
+        "skill_id": 144,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a different battle suit \nstarting from the 4th turn \nfrom the start of battle",
+        "id": 290,
+        "skill_id": 2743,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a different battle suit \nstarting from the 4th turn \nfrom the start of battle",
+        "id": 291,
+        "skill_id": 2744,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 40% or less \n(once only)",
+        "id": 292,
+        "skill_id": 148,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 40% or less \n(once only)",
+        "id": 293,
+        "skill_id": 149,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a different battle suit \nstarting from the 4th turn \nfrom the start of battle",
+        "id": 294,
+        "skill_id": 3002761,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a different battle suit \nstarting from the 4th turn \nfrom the start of battle",
+        "id": 295,
+        "skill_id": 3002762,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Performs Potara Fusion \nwhen HP is 50% or less starting from \nthe 6th turn from the start of battle",
+        "id": 296,
+        "skill_id": 2002765,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Fuses when HP is 50% or less \nstarting from the 6th turn \nfrom the start of battle",
+        "id": 297,
+        "skill_id": 2002767,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 298,
+        "skill_id": 152,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 299,
+        "skill_id": 153,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Changes into a different battle suit \nstarting from the 4th turn \nfrom the start of battle",
+        "id": 300,
+        "skill_id": 3002769,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "40% chance of evolving starting from \nthe 4th turn from the start of battle",
+        "id": 301,
+        "skill_id": 3002802,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Form \nwhen HP is 60% or less (once only)",
+        "id": 302,
+        "skill_id": 2811,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Has a high chance of turning into Giant Form \nwhen HP is 60% or less (once only)",
+        "id": 303,
+        "skill_id": 2812,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character receives \nan attack 7 or more times in battle, or when \nHP is 50% or less starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 304,
+        "skill_id": 158,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after the character receives \nan attack 7 or more times in battle, or when \nHP is 50% or less starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 305,
+        "skill_id": 159,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "30% chance of activating \n\"Fruit of the Tree of Might Boost\" \nfor 3 turns when HP is 80% or less",
+        "id": 306,
+        "skill_id": 5002814,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after performing \n3 or more Super Attacks in battle (once only)",
+        "id": 307,
+        "skill_id": 163,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated after performing \n3 or more Super Attacks in battle (once only)",
+        "id": 308,
+        "skill_id": 164,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 50% or less \nand facing only 1 enemy (once only)",
+        "id": 309,
+        "skill_id": 165,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated when HP is 50% or less \nand facing only 1 enemy (once only)",
+        "id": 310,
+        "skill_id": 166,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Absorbs Android #17 starting from \nthe 3rd turn from the start of battle",
+        "id": 311,
+        "skill_id": 9002844,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Absorbs Android #17 starting from \nthe 3rd turn from the start of battle",
+        "id": 312,
+        "skill_id": 9002845,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Absorbs Android #18 \nupon entering next attacking turn",
+        "id": 313,
+        "skill_id": 8002846,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Absorbs Android #18 \nupon entering next attacking turn",
+        "id": 314,
+        "skill_id": 8002847,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.366628",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 315,
+        "skill_id": 170,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.366628"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 316,
+        "skill_id": 171,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated after the character evades \n6 or more enemy attacks (including Super Attacks) \nin battle, or when HP is 59% or less starting from \nthe 5th turn from the start of battle (once only)",
+        "id": 317,
+        "skill_id": 174,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated after the character evades \n6 or more enemy attacks (including Super Attacks) \nin battle, or when HP is 59% or less starting from \nthe 5th turn from the start of battle (once only)",
+        "id": 318,
+        "skill_id": 175,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Fuses with Mr. Buu when HP is 50% or less",
+        "id": 319,
+        "skill_id": 9002923,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms upon entering attacking turn",
+        "id": 321,
+        "skill_id": 2963,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms when HP is 77% or less starting \nfrom the 3rd turn from the start of battle",
+        "id": 322,
+        "skill_id": 4002948,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Core appears when HP is 50% or less (once only)",
+        "id": 325,
+        "skill_id": 9002965,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Receives a morale boost upon entering \nnext attacking turn after the character \nperforms 3 or more Super Attacks and \nreceives an attack 7 or more times in battle",
+        "id": 326,
+        "skill_id": 8002975,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Receives a morale boost upon entering \nnext attacking turn after the character \nperforms 3 or more Super Attacks and \nreceives an attack 7 or more times in battle",
+        "id": 327,
+        "skill_id": 8002987,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle if all allies are Extreme Class, \nor starting from the 5th turn from the start of battle \nif the character receives an attack \n5 or more times in battle (once only)",
+        "id": 328,
+        "skill_id": 189,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 3rd turn \nfrom the start of battle if all allies are Extreme Class, \nor starting from the 5th turn from the start of battle \nif the character receives an attack \n5 or more times in battle (once only)",
+        "id": 329,
+        "skill_id": 190,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Fuses with Ahms (3rd Form) starting from \nthe 5th turn from the start of battle",
+        "id": 330,
+        "skill_id": 8003052,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Turns into Giant Ape when \nHP is 50% or less (once only)",
+        "id": 331,
+        "skill_id": 6003059,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when there is a \"Pure Saiyans\" \nor \"Hybrid Saiyans\" Category enemy, or when \nHP is 80% or less starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 332,
+        "skill_id": 209,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when there is a \"Pure Saiyans\" \nor \"Hybrid Saiyans\" Category enemy, or when \nHP is 80% or less starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 333,
+        "skill_id": 210,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when all allies attacking in the \nsame turn are \"Super Heroes\" Category characters \nstarting from the 3rd turn from the start of battle, \nor when facing only 1 enemy starting from the \n6th turn from the start of battle (once only)",
+        "id": 334,
+        "skill_id": 211,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when all allies attacking in the \nsame turn are \"Super Heroes\" Category characters \nstarting from the 3rd turn from the start of battle, \nor when facing only 1 enemy starting from the \n6th turn from the start of battle (once only)",
+        "id": 335,
+        "skill_id": 212,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 336,
+        "skill_id": 5003111,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms into Full Power state starting \nfrom the 4th turn from the start of battle",
+        "id": 337,
+        "skill_id": 6003113,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Evolves when HP is 40% or less",
+        "id": 338,
+        "skill_id": 18003117,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 339,
+        "skill_id": 3,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Absorbs Ultimate Gohan when HP is \nbetween 80% and 100% starting from \nthe 5th turn from the start of battle",
+        "id": 340,
+        "skill_id": 5003347,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Absorbs Super Saiyan 3 Gotenks when \nHP is between 50% and 79% starting from \nthe 5th turn from the start of battle",
+        "id": 341,
+        "skill_id": 6003347,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Absorbs Piccolo when HP is 49% or less \nstarting from the 5th turn from the start of battle",
+        "id": 342,
+        "skill_id": 7003347,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 343,
+        "skill_id": 6,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 50% or less, \nor starting from the 4th turn from the \nstart of battle if the character performs \n4 or more attacks in battle (once only)",
+        "id": 345,
+        "skill_id": 9,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 50% or less, \nor starting from the 4th turn from the \nstart of battle if the character performs \n4 or more attacks in battle (once only)",
+        "id": 346,
+        "skill_id": 12,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 50% or less, \nor starting from the 4th turn from the \nstart of battle if the character receives \nan attack 4 or more times in battle (once only)",
+        "id": 347,
+        "skill_id": 14,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 50% or less, \nor starting from the 4th turn from the \nstart of battle if the character receives \nan attack 4 or more times in battle (once only)",
+        "id": 348,
+        "skill_id": 16,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle if the character performs \n4 or more Super Attacks in battle (once only)",
+        "id": 349,
+        "skill_id": 221,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle if the character performs \n4 or more Super Attacks in battle (once only)",
+        "id": 350,
+        "skill_id": 223,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle if the character receives \nan attack 6 or more times in battle (once only)",
+        "id": 351,
+        "skill_id": 224,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle if the character receives \nan attack 6 or more times in battle (once only)",
+        "id": 352,
+        "skill_id": 225,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 353,
+        "skill_id": 6003372,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 354,
+        "skill_id": 6003374,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 5th turn from \nthe start of battle (once only)",
+        "id": 355,
+        "skill_id": 228,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 5th turn from \nthe start of battle (once only)",
+        "id": 356,
+        "skill_id": 229,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Rages when HP is 40% or less (once only)",
+        "id": 357,
+        "skill_id": 8003402,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when there is an ally \nwhose name includes \"Caulifla\" on the team \nstarting from the 4th turn from the start of battle, \nor after the character performs 6 or more \nSuper Attacks in battle (once only)",
+        "id": 358,
+        "skill_id": 230,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when there is an ally \nwhose name includes \"Caulifla\" on the team \nstarting from the 4th turn from the start of battle, \nor after the character performs 6 or more \nSuper Attacks in battle (once only)",
+        "id": 359,
+        "skill_id": 231,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms when HP is 77% or less starting \nfrom the 3rd turn from the start of battle",
+        "id": 360,
+        "skill_id": 4003406,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms when HP is 77% or less starting \nfrom the 3rd turn from the start of battle",
+        "id": 361,
+        "skill_id": 4003407,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Awakens when HP is 50% or less",
+        "id": 362,
+        "skill_id": 1003408,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Awakens when HP is 50% or less",
+        "id": 363,
+        "skill_id": 1003409,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "40% chance of evolving starting from \nthe 4th turn from the start of battle",
+        "id": 364,
+        "skill_id": 3003404,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "40% chance of evolving starting from \nthe 4th turn from the start of battle",
+        "id": 365,
+        "skill_id": 3003405,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 50% or less \nstarting from the 5th turn from \nthe start of battle (once only)",
+        "id": 366,
+        "skill_id": 226,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 50% or less \nstarting from the 5th turn from \nthe start of battle (once only)",
+        "id": 367,
+        "skill_id": 227,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Performs Potara Fusion \nwhen HP is 50% or less starting from \nthe 6th turn from the start of battle",
+        "id": 368,
+        "skill_id": 2003423,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Performs Potara Fusion \nwhen HP is 50% or less starting from \nthe 6th turn from the start of battle",
+        "id": 369,
+        "skill_id": 2003424,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 370,
+        "skill_id": 6003425,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 371,
+        "skill_id": 6003426,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Fuses when HP is 50% or less \nstarting from the 6th turn \nfrom the start of battle",
+        "id": 372,
+        "skill_id": 2003387,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Fuses when HP is 50% or less \nstarting from the 6th turn \nfrom the start of battle",
+        "id": 373,
+        "skill_id": 2003388,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 374,
+        "skill_id": 5003389,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 375,
+        "skill_id": 5003390,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 376,
+        "skill_id": 6003391,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 377,
+        "skill_id": 6003392,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 59% or less \nstarting from the 6th turn from \nthe character's entry turn (once only)",
+        "id": 378,
+        "skill_id": 18,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 59% or less \nstarting from the 6th turn from \nthe character's entry turn (once only)",
+        "id": 379,
+        "skill_id": 20,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Turns into Giant Form \nwhen HP is 60% or less starting from \nthe 4th turn from the start of battle (once only)",
+        "id": 380,
+        "skill_id": 14003449,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Turns into Giant Form \nwhen HP is 60% or less starting from \nthe 4th turn from the start of battle (once only)",
+        "id": 381,
+        "skill_id": 14003450,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or more \nwith another \"Namekians\" Category ally \non the team starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 382,
+        "skill_id": 240,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or more \nwith another \"Namekians\" Category ally \non the team starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 383,
+        "skill_id": 241,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "40% chance of consuming Cell and transforming \nwhen HP is 40% or more starting from \nthe 4th turn from the start of battle",
+        "id": 384,
+        "skill_id": 5003481,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "40% chance of consuming Cell and transforming \nwhen HP is 40% or more starting from \nthe 4th turn from the start of battle",
+        "id": 385,
+        "skill_id": 5003482,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Has a chance of turning \ninto Giant Ape (up to 2 times)",
+        "id": 386,
+        "skill_id": 5003494,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated after the character receives \nan attack 5 or more times in battle (once only)",
+        "id": 387,
+        "skill_id": 23,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated after the character receives \nan attack 5 or more times in battle (once only)",
+        "id": 388,
+        "skill_id": 26,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when charge count \nis 30 or more (once only)",
+        "id": 389,
+        "skill_id": 28,
+        "skill_type": "FinishSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when charge count \nis 30 or more (once only)",
+        "id": 390,
+        "skill_id": 31,
+        "skill_type": "FinishSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 5th turn from the \ncharacter's entry turn, or when there is \nanother \"Future Saga\" Category ally attacking \nin the same turn or a \"Future Saga\" Category \nenemy starting from the 7th turn from \nthe character's entry turn (once only)",
+        "id": 391,
+        "skill_id": 245,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 5th turn from the \ncharacter's entry turn, or when there is \nanother \"Future Saga\" Category ally attacking \nin the same turn or a \"Future Saga\" Category \nenemy starting from the 7th turn from \nthe character's entry turn (once only)",
+        "id": 392,
+        "skill_id": 246,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 5th turn from the \ncharacter's entry turn, or when there is \nanother \"Future Saga\" Category ally attacking \nin the same turn or a \"Future Saga\" Category \nenemy starting from the 7th turn from \nthe character's entry turn (once only)",
+        "id": 393,
+        "skill_id": 249,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 5th turn from the \ncharacter's entry turn, or when there is \nanother \"Future Saga\" Category ally attacking \nin the same turn or a \"Future Saga\" Category \nenemy starting from the 7th turn from \nthe character's entry turn (once only)",
+        "id": 394,
+        "skill_id": 251,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Turns into Giant Ape when \nHP is 50% or less starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 395,
+        "skill_id": 5003535,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Turns into Giant Ape when \nHP is 50% or less starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 396,
+        "skill_id": 5003536,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms at start of next attacking turn if the \ncharacter performs 5 or more attacks in battle, \nor when there is an enemy whose name includes \n\"Cell\" (characters such as Cell Jr. excluded) \nstarting from the 5th turn from the start of battle",
+        "id": 397,
+        "skill_id": 7003546,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms at start of next attacking turn if the \ncharacter performs 5 or more attacks in battle, \nor when there is an enemy whose name includes \n\"Cell\" (characters such as Cell Jr. excluded) \nstarting from the 5th turn from the start of battle",
+        "id": 398,
+        "skill_id": 7003547,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Performs Potara Fusion starting from \nthe 3rd turn from the start of battle",
+        "id": 399,
+        "skill_id": 5003560,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 5th turn \nfrom the character's entry turn (once only)",
+        "id": 400,
+        "skill_id": 29,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 5th turn \nfrom the character's entry turn (once only)",
+        "id": 401,
+        "skill_id": 32,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms when HP is 58% or more \nwith an ally whose name includes \"Trunks\" \n(Kid and GT excluded) on the team starting \nfrom the 4th turn from the start of battle",
+        "id": 402,
+        "skill_id": 7003578,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms when HP is 60% or more \nstarting from the 4th turn from the start of battle",
+        "id": 403,
+        "skill_id": 6003854,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 404,
+        "skill_id": 5003858,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 405,
+        "skill_id": 5003859,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 406,
+        "skill_id": 5003860,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms upon entering next attacking turn",
+        "id": 407,
+        "skill_id": 5003861,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Turns into Giant Ape when \nHP is 40% or less (once only)",
+        "id": 408,
+        "skill_id": 9003863,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 409,
+        "skill_id": 4003556,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms upon entering attacking turn",
+        "id": 410,
+        "skill_id": 3876,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 411,
+        "skill_id": 35,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated starting from the 4th turn \nfrom the start of battle (once only)",
+        "id": 412,
+        "skill_id": 38,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 66% or less \nwith another \"Power of Wishes\" Category ally \nattacking in the same turn, or starting from \nthe 6th turn from the start of battle (once only)",
+        "id": 413,
+        "skill_id": 259,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Can be activated when HP is 66% or less \nwith another \"Power of Wishes\" Category ally \nattacking in the same turn, or starting from \nthe 6th turn from the start of battle (once only)",
+        "id": 414,
+        "skill_id": 258,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Has a chance of turning \ninto Giant Ape (once only)",
+        "id": 415,
+        "skill_id": 6003904,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Has a rare chance of turning \ninto Giant Ape (once only)",
+        "id": 416,
+        "skill_id": 7003905,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Exchanges with Vegeta when \nHP is 50% or less starting from \nthe 4th turn from the start of battle",
+        "id": 417,
+        "skill_id": 13003933,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 5th turn \nfrom the start of battle",
+        "id": 418,
+        "skill_id": 7003922,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.373770",
+        "description": "Transforms starting from the 5th turn \nfrom the start of battle",
+        "id": 419,
+        "skill_id": 7003923,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.373770"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "If HP is 70% or less at start of character's attacking turn, \nor starting from the 7th turn from the start of battle, \nrevives with 70% HP recovered by exchanging \nwith Gohan (Kid) when the character or \nan ally attacking in the same turn is KO'd (once only)",
+        "id": 420,
+        "skill_id": 12003939,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "If HP is 70% or less at start of character's attacking turn, \nor starting from the 7th turn from the start of battle, \nrevives with 70% HP recovered by exchanging \nwith Gohan (Kid) when the character or \nan ally attacking in the same turn is KO'd (once only)",
+        "id": 421,
+        "skill_id": 12003940,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when facing \nonly 1 enemy starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 422,
+        "skill_id": 261,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when facing \nonly 1 enemy starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 423,
+        "skill_id": 262,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Absorbs Androids #14 and #15's parts and \ntransforms when there are another 2 or more \n\"Androids\" Category allies on the team starting \nfrom the 5th turn from the start of battle",
+        "id": 424,
+        "skill_id": 8003965,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Has a chance of turning \ninto Giant Form (once only)",
+        "id": 425,
+        "skill_id": 12003969,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Has a rare chance of turning \ninto Giant Form (once only)",
+        "id": 426,
+        "skill_id": 14003970,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 3rd turn from the start of battle, \nor starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 427,
+        "skill_id": 40,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 3rd turn from the start of battle, \nor starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 428,
+        "skill_id": 42,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 3rd turn from the start of battle, \nor starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 429,
+        "skill_id": 268,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 3rd turn from the start of battle, \nor starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 430,
+        "skill_id": 269,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Absorbs Androids #14 and #15's parts and \ntransforms when there are another 2 or more \n\"Androids\" Category allies on the team starting \nfrom the 5th turn from the start of battle",
+        "id": 431,
+        "skill_id": 8003999,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Absorbs Androids #14 and #15's parts and \ntransforms when there are another 2 or more \n\"Androids\" Category allies on the team starting \nfrom the 5th turn from the start of battle",
+        "id": 432,
+        "skill_id": 8004000,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Evolves when HP is 40% or less",
+        "id": 433,
+        "skill_id": 18004001,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Evolves when HP is 40% or less",
+        "id": 434,
+        "skill_id": 18004002,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 435,
+        "skill_id": 276,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 5th turn \nfrom the start of battle (once only)",
+        "id": 436,
+        "skill_id": 290,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when all allies attacking \nin the same turn are \"Super Bosses\" Category \ncharacters starting from the 4th turn from \nthe start of battle, or starting from the 6th turn \nfrom the start of battle (once only)",
+        "id": 437,
+        "skill_id": 279,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when all allies attacking \nin the same turn are \"Super Bosses\" Category \ncharacters starting from the 4th turn from \nthe start of battle, or starting from the 6th turn \nfrom the start of battle (once only)",
+        "id": 438,
+        "skill_id": 281,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 4th turn \nfrom the character's entry turn (once only)",
+        "id": 439,
+        "skill_id": 272,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 4th turn \nfrom the character's entry turn (once only)",
+        "id": 440,
+        "skill_id": 273,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 5th turn \nfrom the character's entry turn (once only)",
+        "id": 441,
+        "skill_id": 274,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 5th turn \nfrom the character's entry turn (once only)",
+        "id": 442,
+        "skill_id": 284,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 443,
+        "skill_id": 6004052,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from next attacking turn",
+        "id": 444,
+        "skill_id": 7004053,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less, \nor after the character performs \n3 or more attacks in battle (once only)",
+        "id": 445,
+        "skill_id": 45,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less, \nor after the character performs \n3 or more attacks in battle (once only)",
+        "id": 446,
+        "skill_id": 48,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when charge count \nis 1 or more (once only)",
+        "id": 447,
+        "skill_id": 47,
+        "skill_type": "FinishSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when charge count \nis 1 or more (once only)",
+        "id": 448,
+        "skill_id": 52,
+        "skill_type": "FinishSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 449,
+        "skill_id": 6004066,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from next attacking turn",
+        "id": 450,
+        "skill_id": 7004067,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 451,
+        "skill_id": 6004068,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from next attacking turn",
+        "id": 452,
+        "skill_id": 7004069,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 18% or more \nstarting from the 3rd turn from \nthe start of battle (once only)",
+        "id": 453,
+        "skill_id": 293,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 18% or more \nstarting from the 3rd turn from \nthe start of battle (once only)",
+        "id": 454,
+        "skill_id": 295,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when there is another \n\"Special Pose\" or \"Defenders of Justice\" \nCategory ally attacking in the same turn \nstarting from the 4th turn from the \nstart of battle, or starting from the 6th turn \nfrom the start of battle (once only)",
+        "id": 455,
+        "skill_id": 296,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when there is another \n\"Special Pose\" or \"Defenders of Justice\" \nCategory ally attacking in the same turn \nstarting from the 4th turn from the \nstart of battle, or starting from the 6th turn \nfrom the start of battle (once only)",
+        "id": 456,
+        "skill_id": 297,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from the 3rd turn \nfrom the start of battle",
+        "id": 457,
+        "skill_id": 7004109,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Has a rare chance of turning \ninto Giant Form (up to 2 times)",
+        "id": 458,
+        "skill_id": 14004118,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Exchanges with Majin Buu (Pure Evil) \nstarting from the 3rd turn from the start of battle",
+        "id": 459,
+        "skill_id": 7004143,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 50% or more \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 460,
+        "skill_id": 313,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 50% or more \nstarting from the 4th turn from \nthe start of battle (once only)",
+        "id": 461,
+        "skill_id": 314,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 5th turn \nfrom the character's entry turn (once only)",
+        "id": 462,
+        "skill_id": 315,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated starting from the 5th turn \nfrom the character's entry turn (once only)",
+        "id": 463,
+        "skill_id": 316,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 77% or less, \nor starting from the 5th turn from \nthe start of battle (once only)",
+        "id": 468,
+        "skill_id": 57,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 77% or less, \nor starting from the 5th turn from \nthe start of battle (once only)",
+        "id": 469,
+        "skill_id": 60,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated upon entering \nattacking turn (once only)",
+        "id": 472,
+        "skill_id": 322,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated upon entering \nattacking turn (once only)",
+        "id": 473,
+        "skill_id": 323,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 4th turn from the start of battle, \nor starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 474,
+        "skill_id": 330,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 70% or less \nstarting from the 4th turn from the start of battle, \nor starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 475,
+        "skill_id": 331,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Exchanges with Super Saiyan Vegeta \nstarting from the 5th turn \nfrom the start of battle",
+        "id": 476,
+        "skill_id": 12004223,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when there is a \"Pure Saiyans\" \nor \"Hybrid Saiyans\" Category enemy starting from \nthe 3rd turn from the start of battle, or when facing \nonly 1 enemy starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 477,
+        "skill_id": 333,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when there is a \"Pure Saiyans\" \nor \"Hybrid Saiyans\" Category enemy starting from \nthe 3rd turn from the start of battle, or when facing \nonly 1 enemy starting from the 6th turn from \nthe start of battle (once only)",
+        "id": 478,
+        "skill_id": 334,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Exchanges with Super Saiyan Vegeta \nstarting from the 5th turn \nfrom the start of battle",
+        "id": 479,
+        "skill_id": 12004236,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 77% or less, \nor starting from the 3rd turn from \nthe character's entry turn (once only)",
+        "id": 480,
+        "skill_id": 63,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Can be activated when HP is 77% or less, \nor starting from the 3rd turn from \nthe character's entry turn (once only)",
+        "id": 481,
+        "skill_id": 67,
+        "skill_type": "StandbySkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Transforms starting from the 4th turn \nfrom the start of battle",
+        "id": 482,
+        "skill_id": 9004237,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Changes into a battle suit upon entering \nnext attacking turn after performing \n4 or more Super Attacks in battle",
+        "id": 487,
+        "skill_id": 10004279,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "If HP is 50% or less at start of character's \nattacking turn, or starting from the 5th turn from \nthe start of battle, revives with 70% HP recovered \nby exchanging with Goku when the character or \nan ally attacking in the same turn is KO'd (once only)",
+        "id": 488,
+        "skill_id": 10004281,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Restores youth using the power of \nthe Dragon Balls starting from the 7th turn \nfrom the start of battle, or when there is \na \"DB Saga\", \"World Tournament\" or \n\"Dragon Ball Seekers\" Category enemy",
+        "id": 489,
+        "skill_id": 12004273,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    },
+    {
+        "created_at": "2024-11-14 09:18:46.378867",
+        "description": "Rages when HP is 60% or less (up to 2 times)",
+        "id": 490,
+        "skill_id": 14004333,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2024-11-14 09:18:46.378867"
+    }
+]

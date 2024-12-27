@@ -1,0 +1,4978 @@
+[
+    {
+        "conditions": "{\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 1%",
+        "id": 1,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 1%",
+        "id": 2,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 1%",
+        "id": 3,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 1%",
+        "id": 4,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 1%",
+        "id": 5,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 1%",
+        "id": 6,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 1%",
+        "id": 7,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 2%",
+        "id": 8,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 2%",
+        "id": 9,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 2%",
+        "id": 10,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 2%",
+        "id": 11,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 2%",
+        "id": 12,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 2%",
+        "id": 13,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 2%",
+        "id": 14,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 3%",
+        "id": 15,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 3%",
+        "id": 16,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 3%",
+        "id": 17,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 3%",
+        "id": 18,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 3%",
+        "id": 19,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 3%",
+        "id": 20,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 3%",
+        "id": 21,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 4%",
+        "id": 22,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 4%",
+        "id": 23,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 4%",
+        "id": 24,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 4%",
+        "id": 25,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 4%",
+        "id": 26,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 4%",
+        "id": 27,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 4%",
+        "id": 28,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 5%",
+        "id": 29,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 5%",
+        "id": 30,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 5%",
+        "id": 31,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 5%",
+        "id": 32,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 5%",
+        "id": 33,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 5%",
+        "id": 34,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 5%",
+        "id": 35,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 6%",
+        "id": 36,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 6%",
+        "id": 37,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 6%",
+        "id": 38,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 6%",
+        "id": 39,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 6%",
+        "id": 40,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 6%",
+        "id": 41,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 6%",
+        "id": 42,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 7%",
+        "id": 43,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 7%",
+        "id": 44,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 7%",
+        "id": 45,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 7%",
+        "id": 46,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 7%",
+        "id": 47,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 7%",
+        "id": 48,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 7%",
+        "id": 49,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 8%",
+        "id": 50,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 8%",
+        "id": 51,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 8%",
+        "id": 52,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 8%",
+        "id": 53,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 8%",
+        "id": 54,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 8%",
+        "id": 55,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 8%",
+        "id": 56,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 9%",
+        "id": 57,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 9%",
+        "id": 58,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 9%",
+        "id": 59,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 9%",
+        "id": 60,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 9%",
+        "id": 61,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 9%",
+        "id": 62,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 9%",
+        "id": 63,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 10%",
+        "id": 64,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Training Items increase by 10%",
+        "id": 65,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Support Items increase by 10%",
+        "id": 66,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Potential Orbs increase by 10%",
+        "id": 67,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of characters increase by 10%",
+        "id": 68,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Treasure Items increase by 10%",
+        "id": 69,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Drop rates of Awakening Medals increase by 10%",
+        "id": 70,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Trade Points 1% off",
+        "id": 71,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Trade Points 2% off",
+        "id": 72,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Trade Points 3% off",
+        "id": 73,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Trade Points 4% off",
+        "id": 74,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Trade Points 5% off",
+        "id": 75,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":10}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Zeni 1% off",
+        "id": 76,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":20}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Zeni 2% off",
+        "id": 77,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":30}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Zeni 3% off",
+        "id": 78,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":40}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Zeni 4% off",
+        "id": 79,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":50}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Prices in Zeni 5% off",
+        "id": 80,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"shortened_sec\":3}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "STA restoration time shortens by 3 seconds",
+        "id": 81,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 12%",
+        "id": 82,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 14%",
+        "id": 83,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 16%",
+        "id": 84,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 18%",
+        "id": 85,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 20%",
+        "id": 86,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 22%",
+        "id": 87,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 24%",
+        "id": 88,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":260}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 26%",
+        "id": 89,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":280}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 28%",
+        "id": 90,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":300}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 30%",
+        "id": 91,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":320}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 32%",
+        "id": 92,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":340}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 34%",
+        "id": 93,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":360}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 36%",
+        "id": 94,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":380}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 38%",
+        "id": 95,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":400}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 40%",
+        "id": 96,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":420}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 42%",
+        "id": 97,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":440}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 44%",
+        "id": 98,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":460}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 46%",
+        "id": 99,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":480}",
+        "created_at": "2024-11-14 09:18:27.381911",
+        "description": "Amount of Zeni obtained increases by 48%",
+        "id": 100,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.381911"
+    },
+    {
+        "conditions": "{\"benefit_permil\":500}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 50%",
+        "id": 101,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":520}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 52%",
+        "id": 102,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":540}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 54%",
+        "id": 103,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":560}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 56%",
+        "id": 104,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":580}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 58%",
+        "id": 105,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":600}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 60%",
+        "id": 106,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":620}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 62%",
+        "id": 107,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":640}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 64%",
+        "id": 108,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":660}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 66%",
+        "id": 109,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":680}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 68%",
+        "id": 110,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":700}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 70%",
+        "id": 111,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":720}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 72%",
+        "id": 112,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":740}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 74%",
+        "id": 113,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":760}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 76%",
+        "id": 114,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":780}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 78%",
+        "id": 115,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":800}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 80%",
+        "id": 116,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":820}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 82%",
+        "id": 117,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":840}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 84%",
+        "id": 118,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":860}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 86%",
+        "id": 119,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":880}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 88%",
+        "id": 120,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":900}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 90%",
+        "id": 121,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":920}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 92%",
+        "id": 122,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":940}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 94%",
+        "id": 123,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":960}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 96%",
+        "id": 124,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":980}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 98%",
+        "id": 125,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"benefit_permil\":1000}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Amount of Zeni obtained increases by 100%",
+        "id": 126,
+        "kind": 1,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":10}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 10 seconds",
+        "id": 127,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":15}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 15 seconds",
+        "id": 128,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":20}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 20 seconds",
+        "id": 129,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":25}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 25 seconds",
+        "id": 130,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":30}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 30 seconds",
+        "id": 131,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":35}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 35 seconds",
+        "id": 132,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":40}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 40 seconds",
+        "id": 133,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":45}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 45 seconds",
+        "id": 134,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":50}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 50 seconds",
+        "id": 135,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":55}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 55 seconds",
+        "id": 136,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":60}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 60 seconds",
+        "id": 137,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":4}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 4 seconds",
+        "id": 138,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":5}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 5 seconds",
+        "id": 139,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":6}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 6 seconds",
+        "id": 140,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Trade Points 6% off",
+        "id": 141,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Trade Points 7% off",
+        "id": 142,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Trade Points 8% off",
+        "id": 143,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Trade Points 9% off",
+        "id": 144,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Trade Points 10% off",
+        "id": 145,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":60}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Zeni 6% off",
+        "id": 146,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":70}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Zeni 7% off",
+        "id": 147,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":80}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Zeni 8% off",
+        "id": 148,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":90}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Zeni 9% off",
+        "id": 149,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":100}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Prices in Zeni 10% off",
+        "id": 150,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":711,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Give it a Dokkan! Punch Machine!\" increases by 1",
+        "id": 151,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":750,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Epic! Transcendent! Gods of Destruction Assemble\" increases by 1",
+        "id": 152,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":770,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [GT Edition]\" increases by 1",
+        "id": 153,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":771,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [Movie Edition]\" increases by 1",
+        "id": 154,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":772,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [Wicked Bloodline Edition]\" increases by 1",
+        "id": 155,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":773,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [SDBH Edition]\" increases by 1",
+        "id": 156,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":774,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [Red Ribbon Army Edition]\" increases by 1",
+        "id": 157,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"area_id\":775,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [Dismal Future Edition]\" increases by 1",
+        "id": 158,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":70}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 70 seconds",
+        "id": 159,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":80}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 80 seconds",
+        "id": 160,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":90}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 90 seconds",
+        "id": 161,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":100}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 100 seconds",
+        "id": 162,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":110}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 110 seconds",
+        "id": 163,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":120}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Reward Boost restoration time shortens by 120 seconds",
+        "id": 164,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":7}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 7 seconds",
+        "id": 165,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":8}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 8 seconds",
+        "id": 166,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":9}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 9 seconds",
+        "id": 167,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"shortened_sec\":10}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "STA restoration time shortens by 10 seconds",
+        "id": 168,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 11%",
+        "id": 169,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 12%",
+        "id": 170,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 13%",
+        "id": 171,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 14%",
+        "id": 172,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 15%",
+        "id": 173,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 16%",
+        "id": 174,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 17%",
+        "id": 175,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 18%",
+        "id": 176,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 19%",
+        "id": 177,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 20%",
+        "id": 178,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 21%",
+        "id": 179,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 22%",
+        "id": 180,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 23%",
+        "id": 181,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 24%",
+        "id": 182,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 25%",
+        "id": 183,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":260}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 26%",
+        "id": 184,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":270}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 27%",
+        "id": 185,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":280}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 28%",
+        "id": 186,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":290}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 29%",
+        "id": 187,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":300}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 30%",
+        "id": 188,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":310}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 31%",
+        "id": 189,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":320}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 32%",
+        "id": 190,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":330}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 33%",
+        "id": 191,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":340}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 34%",
+        "id": 192,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":350}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 35%",
+        "id": 193,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":360}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 36%",
+        "id": 194,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":370}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 37%",
+        "id": 195,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":380}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 38%",
+        "id": 196,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":390}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 39%",
+        "id": 197,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":400}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 40%",
+        "id": 198,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":410}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 41%",
+        "id": 199,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":420}",
+        "created_at": "2024-11-14 09:18:27.390206",
+        "description": "Drop rates of Training Items increase by 42%",
+        "id": 200,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.390206"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":430}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 43%",
+        "id": 201,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":440}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 44%",
+        "id": 202,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":450}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 45%",
+        "id": 203,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":460}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 46%",
+        "id": 204,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":470}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 47%",
+        "id": 205,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":480}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 48%",
+        "id": 206,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":490}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 49%",
+        "id": 207,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"TrainingItem\",\"benefit_permil\":500}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Training Items increase by 50%",
+        "id": 208,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":130}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 130 seconds",
+        "id": 209,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":135}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 135 seconds",
+        "id": 210,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":140}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 140 seconds",
+        "id": 211,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":145}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 145 seconds",
+        "id": 212,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":150}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 150 seconds",
+        "id": 213,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":155}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 155 seconds",
+        "id": 214,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":160}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 160 seconds",
+        "id": 215,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":165}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 165 seconds",
+        "id": 216,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":170}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 170 seconds",
+        "id": 217,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":180}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 180 seconds",
+        "id": 218,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 11%",
+        "id": 219,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 12%",
+        "id": 220,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 13%",
+        "id": 221,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 14%",
+        "id": 222,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 15%",
+        "id": 223,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 16%",
+        "id": 224,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 17%",
+        "id": 225,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 18%",
+        "id": 226,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 19%",
+        "id": 227,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 20%",
+        "id": 228,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 21%",
+        "id": 229,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 22%",
+        "id": 230,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 23%",
+        "id": 231,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 24%",
+        "id": 232,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 25%",
+        "id": 233,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":260}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 26%",
+        "id": 234,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":270}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 27%",
+        "id": 235,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":280}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 28%",
+        "id": 236,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":290}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 29%",
+        "id": 237,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":300}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 30%",
+        "id": 238,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":310}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 31%",
+        "id": 239,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":320}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 32%",
+        "id": 240,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":330}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 33%",
+        "id": 241,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":340}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 34%",
+        "id": 242,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":350}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 35%",
+        "id": 243,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":360}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 36%",
+        "id": 244,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":370}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 37%",
+        "id": 245,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":380}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 38%",
+        "id": 246,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":390}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 39%",
+        "id": 247,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":400}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 40%",
+        "id": 248,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":410}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 41%",
+        "id": 249,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":420}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 42%",
+        "id": 250,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":430}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 43%",
+        "id": 251,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":440}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 44%",
+        "id": 252,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":450}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 45%",
+        "id": 253,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":460}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 46%",
+        "id": 254,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":470}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 47%",
+        "id": 255,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":480}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 48%",
+        "id": 256,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":490}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 49%",
+        "id": 257,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"SupportItem\",\"benefit_permil\":500}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Support Items increase by 50%",
+        "id": 258,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":190}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 190 seconds",
+        "id": 259,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":195}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 195 seconds",
+        "id": 260,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":200}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 200 seconds",
+        "id": 261,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":205}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 205 seconds",
+        "id": 262,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":215}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 215 seconds",
+        "id": 263,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":220}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 220 seconds",
+        "id": 264,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":225}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 225 seconds",
+        "id": 265,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":230}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 230 seconds",
+        "id": 266,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"shortened_sec\":240}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Reward Boost restoration time shortens by 240 seconds",
+        "id": 267,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"area_id\":223,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Number of available attempts for \n\"Study Hard, Play Hard! Turtle School's Intensive Training\" increases by 1",
+        "id": 268,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"area_id\":135,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Number of available attempts for \n\"Pan's Secret Adventure\" increases by 1",
+        "id": 269,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"area_id\":252,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Number of available attempts for \n\"In Search of Greater Power! God-Level Intensive Training\" increases by 1",
+        "id": 270,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"area_id\":231,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Number of available attempts for \n\"[All Types] Activate Your Hidden Potential\" increases by 1",
+        "id": 271,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 11%",
+        "id": 272,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 12%",
+        "id": 273,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 13%",
+        "id": 274,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 14%",
+        "id": 275,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 15%",
+        "id": 276,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 16%",
+        "id": 277,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 17%",
+        "id": 278,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 18%",
+        "id": 279,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 19%",
+        "id": 280,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 20%",
+        "id": 281,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 21%",
+        "id": 282,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 22%",
+        "id": 283,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 23%",
+        "id": 284,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 24%",
+        "id": 285,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 25%",
+        "id": 286,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":260}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 26%",
+        "id": 287,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":270}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 27%",
+        "id": 288,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":280}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 28%",
+        "id": 289,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":290}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 29%",
+        "id": 290,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":300}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 30%",
+        "id": 291,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":310}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 31%",
+        "id": 292,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":320}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 32%",
+        "id": 293,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":330}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 33%",
+        "id": 294,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":340}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 34%",
+        "id": 295,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":350}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 35%",
+        "id": 296,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":360}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 36%",
+        "id": 297,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":370}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 37%",
+        "id": 298,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":380}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 38%",
+        "id": 299,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":390}",
+        "created_at": "2024-11-14 09:18:27.398272",
+        "description": "Drop rates of Potential Orbs increase by 39%",
+        "id": 300,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.398272"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":400}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 40%",
+        "id": 301,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":410}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 41%",
+        "id": 302,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":420}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 42%",
+        "id": 303,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":430}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 43%",
+        "id": 304,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":440}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 44%",
+        "id": 305,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":450}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 45%",
+        "id": 306,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":460}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 46%",
+        "id": 307,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":470}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 47%",
+        "id": 308,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":480}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 48%",
+        "id": 309,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":490}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 49%",
+        "id": 310,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"PotentialItem\",\"benefit_permil\":500}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Potential Orbs increase by 50%",
+        "id": 311,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":11}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 11 seconds",
+        "id": 312,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":12}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 12 seconds",
+        "id": 313,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":13}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 13 seconds",
+        "id": 314,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":14}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 14 seconds",
+        "id": 315,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":15}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 15 seconds",
+        "id": 316,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":250}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 250 seconds",
+        "id": 317,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":255}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 255 seconds",
+        "id": 318,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":260}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 260 seconds",
+        "id": 319,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":265}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 265 seconds",
+        "id": 320,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":275}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 275 seconds",
+        "id": 321,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":280}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 280 seconds",
+        "id": 322,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":285}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 285 seconds",
+        "id": 323,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":290}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 290 seconds",
+        "id": 324,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":300}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 300 seconds",
+        "id": 325,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":305}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 305 seconds",
+        "id": 326,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":310}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 310 seconds",
+        "id": 327,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":315}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 315 seconds",
+        "id": 328,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":325}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 325 seconds",
+        "id": 329,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":330}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 330 seconds",
+        "id": 330,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":335}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 335 seconds",
+        "id": 331,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":340}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 340 seconds",
+        "id": 332,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":350}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 350 seconds",
+        "id": 333,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":355}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 355 seconds",
+        "id": 334,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":360}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 360 seconds",
+        "id": 335,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":365}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 365 seconds",
+        "id": 336,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":375}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 375 seconds",
+        "id": 337,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":380}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 380 seconds",
+        "id": 338,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":385}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 385 seconds",
+        "id": 339,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":390}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 390 seconds",
+        "id": 340,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":400}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 400 seconds",
+        "id": 341,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":16}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 16 seconds",
+        "id": 342,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":17}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 17 seconds",
+        "id": 343,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":18}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 18 seconds",
+        "id": 344,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":19}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 19 seconds",
+        "id": 345,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":20}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "STA restoration time shortens by 20 seconds",
+        "id": 346,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 11%",
+        "id": 347,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 12%",
+        "id": 348,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 13%",
+        "id": 349,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 14%",
+        "id": 350,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 15%",
+        "id": 351,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 16%",
+        "id": 352,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 17%",
+        "id": 353,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 18%",
+        "id": 354,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 19%",
+        "id": 355,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 20%",
+        "id": 356,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 21%",
+        "id": 357,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 22%",
+        "id": 358,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 23%",
+        "id": 359,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 24%",
+        "id": 360,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"Card\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of characters increase by 25%",
+        "id": 361,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":410}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 410 seconds",
+        "id": 362,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":420}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 420 seconds",
+        "id": 363,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":430}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 430 seconds",
+        "id": 364,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":440}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 440 seconds",
+        "id": 365,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":450}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 450 seconds",
+        "id": 366,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":460}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 460 seconds",
+        "id": 367,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":470}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 470 seconds",
+        "id": 368,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":480}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 480 seconds",
+        "id": 369,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":490}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 490 seconds",
+        "id": 370,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":500}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 500 seconds",
+        "id": 371,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 11%",
+        "id": 372,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 12%",
+        "id": 373,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 13%",
+        "id": 374,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 14%",
+        "id": 375,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 15%",
+        "id": 376,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 16%",
+        "id": 377,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 17%",
+        "id": 378,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 18%",
+        "id": 379,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 19%",
+        "id": 380,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 20%",
+        "id": 381,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 21%",
+        "id": 382,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 22%",
+        "id": 383,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 23%",
+        "id": 384,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 24%",
+        "id": 385,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"TreasureItem\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Treasure Items increase by 25%",
+        "id": 386,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":505}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 505 seconds",
+        "id": 387,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":510}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 510 seconds",
+        "id": 388,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":515}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 515 seconds",
+        "id": 389,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":520}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 520 seconds",
+        "id": 390,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":525}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 525 seconds",
+        "id": 391,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":530}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 530 seconds",
+        "id": 392,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":535}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 535 seconds",
+        "id": 393,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":540}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 540 seconds",
+        "id": 394,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":545}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 545 seconds",
+        "id": 395,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"shortened_sec\":550}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Reward Boost restoration time shortens by 550 seconds",
+        "id": 396,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Awakening Medals increase by 11%",
+        "id": 397,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Awakening Medals increase by 12%",
+        "id": 398,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Awakening Medals increase by 13%",
+        "id": 399,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.406208",
+        "description": "Drop rates of Awakening Medals increase by 14%",
+        "id": 400,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.406208"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 15%",
+        "id": 401,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 16%",
+        "id": 402,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 17%",
+        "id": 403,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 18%",
+        "id": 404,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 19%",
+        "id": 405,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 20%",
+        "id": 406,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 21%",
+        "id": 407,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 22%",
+        "id": 408,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 23%",
+        "id": 409,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 24%",
+        "id": 410,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"item_type\":\"AwakeningItem\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Drop rates of Awakening Medals increase by 25%",
+        "id": 411,
+        "kind": 0,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 11% off",
+        "id": 412,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 12% off",
+        "id": 413,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 13% off",
+        "id": 414,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 14% off",
+        "id": 415,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 15% off",
+        "id": 416,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":21}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 21 seconds",
+        "id": 417,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":22}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 22 seconds",
+        "id": 418,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":23}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 23 seconds",
+        "id": 419,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":24}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 24 seconds",
+        "id": 420,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":25}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 25 seconds",
+        "id": 421,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":555}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 555 seconds",
+        "id": 422,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":560}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 560 seconds",
+        "id": 423,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":565}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 565 seconds",
+        "id": 424,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":570}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 570 seconds",
+        "id": 425,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":575}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 575 seconds",
+        "id": 426,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":580}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 580 seconds",
+        "id": 427,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":585}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 585 seconds",
+        "id": 428,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":590}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 590 seconds",
+        "id": 429,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":595}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 595 seconds",
+        "id": 430,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":600}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 600 seconds",
+        "id": 431,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":110}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Zeni 11% off",
+        "id": 432,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":120}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Zeni 12% off",
+        "id": 433,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":130}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Zeni 13% off",
+        "id": 434,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":140}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Zeni 14% off",
+        "id": 435,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":150}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Zeni 15% off",
+        "id": 436,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":26}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 26 seconds",
+        "id": 437,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":27}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 27 seconds",
+        "id": 438,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":28}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 28 seconds",
+        "id": 439,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":29}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 29 seconds",
+        "id": 440,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":30}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 30 seconds",
+        "id": 441,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":605}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 605 seconds",
+        "id": 442,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":610}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 610 seconds",
+        "id": 443,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":615}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 615 seconds",
+        "id": 444,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":620}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 620 seconds",
+        "id": 445,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":625}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 625 seconds",
+        "id": 446,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":630}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 630 seconds",
+        "id": 447,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":635}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 635 seconds",
+        "id": 448,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":640}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 640 seconds",
+        "id": 449,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":645}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 645 seconds",
+        "id": 450,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":650}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 650 seconds",
+        "id": 451,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 16% off",
+        "id": 452,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 17% off",
+        "id": 453,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 18% off",
+        "id": 454,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 19% off",
+        "id": 455,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 20% off",
+        "id": 456,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 21% off",
+        "id": 457,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 22% off",
+        "id": 458,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 23% off",
+        "id": 459,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 24% off",
+        "id": 460,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ExchangePointShop\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Prices in Trade Points 25% off",
+        "id": 461,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":31}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 31 seconds",
+        "id": 462,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":32}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 32 seconds",
+        "id": 463,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":33}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 33 seconds",
+        "id": 464,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":34}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 34 seconds",
+        "id": 465,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":35}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 35 seconds",
+        "id": 466,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":655}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 655 seconds",
+        "id": 467,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":660}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 660 seconds",
+        "id": 468,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":665}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 665 seconds",
+        "id": 469,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":670}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 670 seconds",
+        "id": 470,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":675}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 675 seconds",
+        "id": 471,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":680}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 680 seconds",
+        "id": 472,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":685}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 685 seconds",
+        "id": 473,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":690}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 690 seconds",
+        "id": 474,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":695}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 695 seconds",
+        "id": 475,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":700}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 700 seconds",
+        "id": 476,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":36}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 36 seconds",
+        "id": 477,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":37}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 37 seconds",
+        "id": 478,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":38}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 38 seconds",
+        "id": 479,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":39}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 39 seconds",
+        "id": 480,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":40}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "STA restoration time shortens by 40 seconds",
+        "id": 481,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":705}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 705 seconds",
+        "id": 482,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":710}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 710 seconds",
+        "id": 483,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":715}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 715 seconds",
+        "id": 484,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":720}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 720 seconds",
+        "id": 485,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":725}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 725 seconds",
+        "id": 486,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":730}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 730 seconds",
+        "id": 487,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":735}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 735 seconds",
+        "id": 488,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":740}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 740 seconds",
+        "id": 489,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":745}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 745 seconds",
+        "id": 490,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":750}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 750 seconds",
+        "id": 491,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":755}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 755 seconds",
+        "id": 492,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":760}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 760 seconds",
+        "id": 493,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":765}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 765 seconds",
+        "id": 494,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":770}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 770 seconds",
+        "id": 495,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":775}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 775 seconds",
+        "id": 496,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":780}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 780 seconds",
+        "id": 497,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":785}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 785 seconds",
+        "id": 498,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":790}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 790 seconds",
+        "id": 499,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":795}",
+        "created_at": "2024-11-14 09:18:27.414155",
+        "description": "Reward Boost restoration time shortens by 795 seconds",
+        "id": 500,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.414155"
+    },
+    {
+        "conditions": "{\"shortened_sec\":800}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 800 seconds",
+        "id": 501,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":160}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 16% off",
+        "id": 502,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":170}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 17% off",
+        "id": 503,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":180}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 18% off",
+        "id": 504,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":190}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 19% off",
+        "id": 505,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":200}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 20% off",
+        "id": 506,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":210}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 21% off",
+        "id": 507,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":220}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 22% off",
+        "id": 508,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":230}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 23% off",
+        "id": 509,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":240}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 24% off",
+        "id": 510,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shop_type\":\"Shop::ZeniShop\",\"benefit_permil\":250}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Prices in Zeni 25% off",
+        "id": 511,
+        "kind": 4,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":41}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 41 seconds",
+        "id": 512,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":42}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 42 seconds",
+        "id": 513,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":43}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 43 seconds",
+        "id": 514,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":44}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 44 seconds",
+        "id": 515,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":45}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 45 seconds",
+        "id": 516,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":805}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 805 seconds",
+        "id": 517,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":810}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 810 seconds",
+        "id": 518,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":815}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 815 seconds",
+        "id": 519,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":820}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 820 seconds",
+        "id": 520,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":825}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 825 seconds",
+        "id": 521,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":830}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 830 seconds",
+        "id": 522,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":835}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 835 seconds",
+        "id": 523,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":840}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 840 seconds",
+        "id": 524,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":845}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 845 seconds",
+        "id": 525,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":850}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 850 seconds",
+        "id": 526,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":855}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 855 seconds",
+        "id": 527,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":860}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 860 seconds",
+        "id": 528,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":865}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 865 seconds",
+        "id": 529,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":870}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 870 seconds",
+        "id": 530,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":875}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 875 seconds",
+        "id": 531,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":880}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 880 seconds",
+        "id": 532,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":885}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 885 seconds",
+        "id": 533,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":890}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 890 seconds",
+        "id": 534,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":895}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 895 seconds",
+        "id": 535,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":900}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 900 seconds",
+        "id": 536,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":46}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 46 seconds",
+        "id": 537,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":47}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 47 seconds",
+        "id": 538,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":48}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 48 seconds",
+        "id": 539,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":49}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 49 seconds",
+        "id": 540,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":50}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 50 seconds",
+        "id": 541,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":905}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 905 seconds",
+        "id": 542,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":910}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 910 seconds",
+        "id": 543,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":915}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 915 seconds",
+        "id": 544,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":920}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 920 seconds",
+        "id": 545,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":925}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 925 seconds",
+        "id": 546,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":930}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 930 seconds",
+        "id": 547,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":935}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 935 seconds",
+        "id": 548,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":940}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 940 seconds",
+        "id": 549,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":945}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 945 seconds",
+        "id": 550,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":950}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 950 seconds",
+        "id": 551,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":955}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 955 seconds",
+        "id": 552,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":960}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 960 seconds",
+        "id": 553,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":965}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 965 seconds",
+        "id": 554,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":970}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 970 seconds",
+        "id": 555,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":975}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 975 seconds",
+        "id": 556,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":980}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 980 seconds",
+        "id": 557,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":985}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 985 seconds",
+        "id": 558,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":990}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 990 seconds",
+        "id": 559,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":995}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 995 seconds",
+        "id": 560,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1000}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1000 seconds",
+        "id": 561,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":51}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 51 seconds",
+        "id": 562,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":52}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 52 seconds",
+        "id": 563,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":53}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 53 seconds",
+        "id": 564,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":54}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 54 seconds",
+        "id": 565,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":55}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 55 seconds",
+        "id": 566,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1005}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1005 seconds",
+        "id": 567,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1010}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1010 seconds",
+        "id": 568,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1015}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1015 seconds",
+        "id": 569,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1020}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1020 seconds",
+        "id": 570,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1025}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1025 seconds",
+        "id": 571,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1030}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1030 seconds",
+        "id": 572,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1035}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1035 seconds",
+        "id": 573,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1040}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1040 seconds",
+        "id": 574,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1045}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1045 seconds",
+        "id": 575,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1050}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1050 seconds",
+        "id": 576,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1055}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1055 seconds",
+        "id": 577,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1060}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1060 seconds",
+        "id": 578,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1065}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1065 seconds",
+        "id": 579,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1070}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1070 seconds",
+        "id": 580,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1075}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1075 seconds",
+        "id": 581,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1080}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1080 seconds",
+        "id": 582,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1085}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1085 seconds",
+        "id": 583,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1090}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1090 seconds",
+        "id": 584,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1095}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1095 seconds",
+        "id": 585,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1100}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1100 seconds",
+        "id": 586,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":56}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 56 seconds",
+        "id": 587,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":57}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 57 seconds",
+        "id": 588,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":58}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 58 seconds",
+        "id": 589,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":59}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 59 seconds",
+        "id": 590,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":60}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "STA restoration time shortens by 60 seconds",
+        "id": 591,
+        "kind": 3,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1105}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1105 seconds",
+        "id": 592,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1110}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1110 seconds",
+        "id": 593,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1115}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1115 seconds",
+        "id": 594,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1120}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1120 seconds",
+        "id": 595,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1125}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1125 seconds",
+        "id": 596,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1130}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1130 seconds",
+        "id": 597,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1135}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1135 seconds",
+        "id": 598,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1140}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1140 seconds",
+        "id": 599,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1145}",
+        "created_at": "2024-11-14 09:18:27.421966",
+        "description": "Reward Boost restoration time shortens by 1145 seconds",
+        "id": 600,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.421966"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1150}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1150 seconds",
+        "id": 601,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1155}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1155 seconds",
+        "id": 602,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1160}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1160 seconds",
+        "id": 603,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1165}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1165 seconds",
+        "id": 604,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1170}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1170 seconds",
+        "id": 605,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1175}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1175 seconds",
+        "id": 606,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1180}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1180 seconds",
+        "id": 607,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1185}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1185 seconds",
+        "id": 608,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1190}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1190 seconds",
+        "id": 609,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1195}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1195 seconds",
+        "id": 610,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"shortened_sec\":1200}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Reward Boost restoration time shortens by 1200 seconds",
+        "id": 611,
+        "kind": 2,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":776,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [Movie Edition 2]\" increases by 1",
+        "id": 612,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":225,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"[AGL] Activate Your Hidden Potential\" increases by 1",
+        "id": 613,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":226,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"[TEQ] Activate Your Hidden Potential\" increases by 1",
+        "id": 614,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":227,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"[INT] Activate Your Hidden Potential\" increases by 1",
+        "id": 615,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":228,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"[STR] Activate Your Hidden Potential\" increases by 1",
+        "id": 616,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":229,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"[PHY] Activate Your Hidden Potential\" increases by 1",
+        "id": 617,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":790,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"Supreme Magnificent Battle [Dragon Ball Super Edition]\" \nincreases by 1",
+        "id": 618,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":787,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"Ultimate Red Zone [Majin Buu Saga]\" increases by 1",
+        "id": 619,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":795,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"Supreme Magnificent Battle [Universe Survival Saga]\" \nincreases by 1",
+        "id": 620,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":267,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"Master It! Special Technique of Hope\" \nincreases by 1",
+        "id": 621,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    },
+    {
+        "conditions": "{\"area_id\":797,\"additional_count\":1}",
+        "created_at": "2024-11-14 09:18:27.433644",
+        "description": "Number of available attempts for \n\"Supreme Magnificent Battle [Movie Edition]\" \nincreases by 1",
+        "id": 622,
+        "kind": 5,
+        "updated_at": "2024-11-14 09:18:27.433644"
+    }
+]

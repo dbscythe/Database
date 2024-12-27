@@ -1,0 +1,191 @@
+[
+    {
+        "battle_param_value": 1,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 1,
+        "name": "Transformation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 2,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 2,
+        "name": "Special Fusion",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 3,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 3,
+        "name": "Fusion",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 4,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 4,
+        "name": "Assimilation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 5,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 5,
+        "name": "Absorption",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 6,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 6,
+        "name": "Possession",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 7,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 7,
+        "name": "Awakening",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 8,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 8,
+        "name": "Boost",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 9,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 9,
+        "name": "Evolution",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 10,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 10,
+        "name": "Mutation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 11,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 11,
+        "name": "Exchange",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 12,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 12,
+        "name": "Rejuvenation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 13,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 13,
+        "name": "Deactivation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 14,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 14,
+        "name": "Giant Ape Transformation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 15,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 15,
+        "name": "Phantom Majin's Seal Is Broken",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 16,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 16,
+        "name": "Giant Form Transformation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 17,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 17,
+        "name": "Core's Appearance",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 18,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 18,
+        "name": "Rage",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 19,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 19,
+        "name": "Revival",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 20,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 20,
+        "name": "Outfit Change",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 21,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 21,
+        "name": "Body Change",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 22,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 22,
+        "name": "Morale Boost",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 23,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 23,
+        "name": "Standby Skill Activation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 24,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 24,
+        "name": "Finish Effect Activation",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 25,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 25,
+        "name": "Omnipresence",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 26,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 26,
+        "name": "the Character Awakes",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    },
+    {
+        "battle_param_value": 27,
+        "created_at": "2024-11-14 09:18:46.385141",
+        "id": 27,
+        "name": "Cloning",
+        "updated_at": "2024-11-14 09:18:46.385141"
+    }
+]
